@@ -527,13 +527,13 @@
 				
 				
 				<field name="category">
-					<xsl:text>biography</xsl:text>
+					<xsl:text>criticism</xsl:text>
 				</field>
 							
 				<!-- subCategory -->
 				
 				<field name="subCategory">
-					<xsl:text>correspondence</xsl:text>
+					<xsl:text>reviews</xsl:text>
 				</field>
 				
 				
@@ -655,11 +655,12 @@
 		<!--whitman_tei-corresp_title-->
 		
 		<xsl:for-each select="tokenize(/TEI/teiHeader/fileDesc/titleStmt/title/@corresp, ' ')">
-			<field name="whitman_tei-corresp_id">
-				
+			<xsl:variable name="title_id" select="."/>
+			<field name="whitman_tei-corresp_id_ss">
+				<xsl:value-of select="$title_id"/>
 			</field>
-			<field name="whitman_tei-corresp_title">
-				
+			<field name="whitman_tei-corresp_title_ss">
+				<xsl:value-of select="document('reviews_name_index.xml')//item[@corresp=$title_id]/title"/>
 			</field>
 		</xsl:for-each>
 		
