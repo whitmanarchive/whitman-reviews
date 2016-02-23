@@ -647,7 +647,23 @@
 					</xsl:for-each>
 				</field>
 				
+				<!-- ==============
+				Whitman Specific 
+				================ -->
+		
+		<!--whitman_tei-corresp_id--> 
+		<!--whitman_tei-corresp_title-->
+		
+		<xsl:for-each select="tokenize(/TEI/teiHeader/fileDesc/titleStmt/title/@corresp, ' ')">
+			<field name="whitman_tei-corresp_id">
 				
+			</field>
+			<field name="whitman_tei-corresp_title">
+				
+			</field>
+		</xsl:for-each>
+		
+		
 				
 			
 		
