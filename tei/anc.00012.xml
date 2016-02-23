@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">'Leaves of Grass'—An Extraordinary Book</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               
+               <persName xml:id="fm">Frank Menius</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00012</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">'Leaves of Grass'—An Extraordinary Book</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Brooklyn Daily Eagle</title>
+                  <imprint>
+                     <biblScope type="volume">15</biblScope>
+                     <date when="1855-08-15">15 September 1855</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-15">Corrected, validated</change>
+         <change who="#cg" when="2005-05-22">Corrected, validated</change>
+         <change who="#fm" when="2004-10-25">HTML to XML conversion</change>
+         <change who="#ts" when="2005-02-15">Minor encoding corrections</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"Leaves of Grass"—An Extraordinary Book.<!--  [Review of Leaves of Grass (1855)] --> </head>
+
+         <p>Here we have a book which fairly staggers us. It sets all the ordinary rules of criticism at defiance. It is one of the strangest compounds of transcendentalism, bombast, philosophy, folly, wisdom, wit and dullness which it ever entered into the heart of man to conceive. Its author is Walter Whitman, and the book is a reproduction of the author. His name is not on the frontispiece, but his portrait, half length, is. The contents of the book form a daguerreotype of his inner being, and the title page bears a representation of its physical tabernacle. It is a poem; but it conforms to none of the rules by which poetry has ever been judged. It is not an epic nor an ode, nor a lyric; nor does its verses move with the measured pace of poetical feet—of Iambic, Trochaic or Anapaestic, nor seek the aid of Amphibrach, of dactyl or Spondee, nor of final or cesural pause, except by accident. But we had better give Walt's own conception of what a poet of the age and country should be. We quote from the preface:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>"Other States indicate themselves in their deputies, but the genius of the United States is not best or most in executives or legislatures, nor in its ambassadors or authors, or colleges, or churches, or parlors, nor even in its newspapers or inventors; but always most in the common people, their manners, speech, dress, friendship—the friendship and candor of their physiognomy—the picturesque looseness of their carriage—their deathless attachment to freedom—their aversion to anything indecorous, or soft or mean, the practical acknowledgment of the citizens of all other States—the fierceness of their roused resentments—their curiosity and welcome of novelty—their self-esteem and wonderful sympathy—their susceptibility of a slight—the air they have of persons who never knew how it felt to stand in the presence of superiors—the fluency of their speech—their delight in music, the sure symptom of manly tenderness and native elegance of soul—their good temper and open handedness—the terrible significance of their elections—the President's taking off his hat to them, not they to him—these too are unrhymed poetry." </p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>But the poetry which the author contemplates must reflect the nation as well as the people themselves.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>"His spirit responds to his country's spirit; he incarnates its geography and natural life, and rivers and lakes. Mississippi with annual freshets and changing chutes, Missouri, and Columbia, and Ohio, and the beautiful masculine Hudson, do not embouchure where they spend themselves more than they embouchure into him. The blue breadth over the inland sea of Virginia and Maryland, and the sea of Massachusetts and Maine, over Manhattan Bay, and over Champlain and Erie, and over Ontario and Huron, and Michigan and Superior, and over the Texan, and Mexican, and Floridian and Cuban seas, and over the seas of California and Oregon, is not tallied by the blue breadth of the waters below more than the breadth of above and below is tallied by him.</p>
+
+                     <p> . . . "To him enter the essence of the real things, and past and present events—of the enormous diversity of temperature, and agriculture, and mines—the tribes of red aborigines—the weather-beaten vessels entering new ports or making landings on rocky coasts—the first settlement North and South—the rapid stature and muscle—the haughty defiance of '76, and the war, and peace, and formation of the constitution —the union surrounded by blatherers, and always impregnable—the perpetual coming of immigrants—the wharf-hemmed cities and superior marine—the unsurveyed interior—the log houses, and clearings, and wild animals, and hunters, and trappers—the free commerce, the fishing, and whaling, and gold digging—the endless gestation of new States—the convening of Congress every December, the members duly coming up from all climates and the uttermost parts—the noble character of the young mechanics, and of all free American workmen and workwomen—the general ardor, and friendliness, and enterprise—the perfect equality of the female with the male—the large amativeness—the fluid movement of the population," &amp;c.**</p>
+
+                     <p>"For such the expression of the American poet is to be transcendent and new."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And the poem seems to accord with the ideas here laid down. No drawing room poet is the author of the "Leaves of Grass;" he prates not of guitar thrumming under ladies' windows, nor deals in the extravagances of sentimentalism; no pretty conceits or polished fancies are tacked together "like orient pearls at random strung;" but we have the free utterance of an untramelled spirit without the slightest regard to established models or fixed standards of taste. His scenery presents no shaven lawns or neatly trimmed arbors; no hot house conservatory, where delicate exotics odorise the air and enchant the eye. If we follow the poet we must scale unknown precipices and climb untrodden mountains; or we boat on nameless lakes, encountering probably rapids and waterfalls, and start wild fowls never classified by Wilson or Audubon;<ref target="n1" xml:id="r1" n="1"/> or we wander among primeval forests, now pressing the yielding surface of velvet moss, and anon caught among thickets and brambles. He believes in the ancient philosophy that there is no more real beauty or merit in one particle of matter than another; he appreciates all; every thing is right that is in its place, and everything is wrong that is not in its place. He is guilty, not only of breaches of conventional decorum but treats with nonchalant defiance what goes by the name of refinement and delicacy of feeling and expression. Whatever is natural he takes to his heart; whatever is artificial (in the frivolous sense) he makes of no account. The following description of himself is more truthful than many self-drawn pictures:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Apart from the pulling and hauling, stands what I <lb/>am,</l>
+                     <l>Stands amused, complacent, compassionating, idle, <lb/>unitary,</l>
+                     <l>Looks down, is erect, bends an arm on an <choice><orig>impalpa-<lb/>ble</orig><reg>impalpable</reg></choice> certain rest,</l>
+                     <l>Looks with its side-curved head curious, what will <lb/>come next,</l>
+                     <l>Both in and out of the game, and watching and <choice><orig>won-<lb/>dering</orig><reg>wondering</reg></choice> at it."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>As a poetic interpretation of nature, we believe the following is not surpassed in the range of poetry:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"A child said, What is grass! fetching it to me with full <lb/>hands;</l>
+                     <l>How could I answer the child! I do not know any <lb/>more than he.</l>
+                     <l>I guess it is the handkerchief of the Lord;</l>
+                     <l>A scented gift and remembrancer, designedly <choice><orig>drop-<lb/>ped</orig><reg>dropped</reg></choice>,</l>
+                     <l>Bearing the owner's name someway on the corners, <lb/>that we may see, and remark, and say, Whose?</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>We are afforded glimpses of half-formed pictures to tease and tantalize with their indistinctness: like a crimson cheek and flashing eye looking on us through the leaves of an arbor—mocking us for a moment, but vanishing before we can reach them. Here is an example:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Twenty-eight young men bathe by the shore;</l>
+                     <l>Twenty-eight young men, and all so friendly.</l>
+                     <l>Twenty-eight years of womanly life and all so <choice><orig>lone-<lb/>some</orig><reg>lonesome</reg></choice>.</l>
+                     <l>She owns the fine house by the rise of the bank;</l>
+                     <l>She hides handsome and richly drest aft the blinds <lb/>of the window.</l>
+                     <l>Which of the young men does she like the best?</l>
+                     <l>Ah, the homeliest of them is beautiful to her.</l>
+                     <l>Dancing and laughing along the beach came the <lb/>twenty-ninth bather;</l>
+                     <l>The rest did not see her, but she saw them, &amp;c."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Well, did the lady fall in love with the twenty-ninth bather, or <hi rend="italic">vice versa</hi>? Our author scorns to gratify such puerile curiosity; the denouement which novel readers would expect is not hinted at.</p>
+
+         <p>In his philosophy justice attains its proper dimensions:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"I play not a march for victors only: I play great <lb/>marches for conquered and slain persons.</l>
+                     <l>Have you heard that it was good to gain the day?</l>
+                     <l>I also say that it is good to fall—battles are lost in <lb/>the same spirit in which they are won.</l>
+                     <l>I sound triumphal drums for the dead—I fling thro' <lb/>my embouchures the loudest and gayest music <lb/>for them.</l>
+                     <l>Vivas to those who have failed and to those whose <lb/>war vessels sank in the sea.</l>
+                     <l>And to those themselves who sank into the sea.</l>
+                     <l>And to all generals that lost engagements, and all <lb/>overcome heroes and the numberless unknown <lb/>heroes equal to the greatest heroes known."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The triumphs of victors had been duly celebrated, but surely a poet was needed to sing the praises of the defeated whose cause was righteous, and the heroes who have been trampled under the hoofs of iniquity's onward march.</p>
+
+         <p>He does not pick and choose sentiments and expressions fit for general circulation—he gives a voice to whatever is, whatever we see, and hear, and think, and feel. He descends to grossness, which debars the poem from being read aloud in any mixed circle. We have said that the work defies criticism; we pronounce no judgment upon it; it is a work that will satisfy few upon a first perusal; it must be read again and again, and then it will be to many unaccountable. All who read it will agree that it is an extraordinary book, full of beauties and blemishes, such as nature is to those who have only a half formed acquaintance with her mysteries.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Alexander Wilson (1766-1813) and John James Audobon (1785-1851) were both acclaimed ornithologists and naturalists.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

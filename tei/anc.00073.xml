@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1871 passage vistas">The Poetry of Democracy: Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1871–72), <hi rend="italic">Passage to India</hi>, and <hi rend="italic">Democratic Vistas</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Edward Dowden</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+               <persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00073</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Dowden, Edward">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Edward Dowden</reg>
+                     </choice>
+                  </author>
+                  <title level="a">The Poetry of Democracy: Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Westminster Review</title>
+                  <imprint>
+                     <date when="1871-07">July 1871</date>
+                     <biblScope type="volume">96</biblScope>
+                     <biblScope type="pages">33-68</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-04">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">T<hi rend="smallcaps">HE</hi> P<hi rend="smallcaps">OETRY OF</hi> D<hi rend="smallcaps">EMOCRACY</hi> : W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>. <!-- [Review of Leaves of Grass (1871), Passage to India, and Democratic Vistas] --></head>
+         <ab>1. <hi rend="italic">Leaves of Grass</hi> Washington, D.C. 1871. </ab>
+         <ab>2. <hi rend="italic">Passage to India Washington</hi>, D.C. 1871.</ab> 
+         <ab>3. <hi rend="italic">Democratic Vistas Washington</hi>, D.C. 1871.</ab>
+
+         <p>T<hi rend="smallcaps">HAT</hi> school of criticism which has attempted in recent years to connect the history of literature and art with the larger history of society and the general movement of civilizations, creeds, forms of national life and feeling, and which may be called emphatically the critical school of the present century, or the naturalist as contradistinguished from the dogmatic school, has not yet essayed the application of its method and principles to the literature and art of America. For a moment one wonderingly inquires after the cause of this seeming neglect. The New World, with its new presentations to the senses, its new ideas and passions, its new social tendencies and habits, must surely, one thinks, have given birth to literary and artistic forms corresponding to itself in strange novelty, unlike in a remarkable degree those sprung from our Old-world, and old-world hearts. A moral soil and a moral climate so different from those of Europe must surely have produced a fauna and flora other than the European, a fauna and flora which the writers of literary natural history cannot but be curious to classify, and the peculiarities of which they must endeavour to account for by the special conditions of existence and of the development of species in the new country. It is as much to be expected that poems and pictures requiring new names should be found there as that new living things of any other kind, the hickory and the hemlock, the mocking bird and the katydid, should be found. So one reasons for a moment, and wonders. The fact is, that while the physical conditions, fostering certain forms of life, and repressing others, operated without let or hindrance, and disclosed themselves in their proper results with the simplicity and sureness of nature, the permanent moral powers were met by others of transitory or local, but, for the time, superior authority, which put a hedge around the literature and art of America, enclosing a little paradise of European culture, refinement, and aristocratic delicatesse from the howling wilderness of Yankee democracy, and insulating it from the vital touch and breath of the land, the winds of free, untrodden places, the splendour and vastness of rivers and seas, the strength and tumult of the people. Until of late indigenous growths of the New World showed in American literature like exotics, shy or insolent. We were aware of this, and expected in an American poet some one who would sing for us gently, in a minor key, the pleasant airs we knew. Longfellow's was a sweet and characteristic note, but, except in a heightened enjoyment of the antique—a ruined Rhine castle, a goblet from which dead knights had drunk, a suit of armour, or anything frankly medieval—except in this, Longfellow is one of ourselves—an European. "Evangeline" is an European idyl of American life, Hermann and Dorothea having emigrated to Acadie. "Hiawatha" might have been dreamed in Kensington by a London man of letters who possessed a graceful idealizing turn of imagination, and who had studied with clear-minded and gracious sympathy the better side of Indian character and manners. Longfellow could amiably quiz, from a point of view of superior and contented refinement, his countrymen who went about blatant and blustering for a national art and literature which should correspond with the large proportions and freedom of the Republic. "We want," cries Mr. Hathaway in "Kavanagh", "a national drama, in which scope enough shall be given to our gigantic ideas, and to the unparalleled activity and progress of our people…. We want a national literature, altogether shaggy and unshorn, that shall shake the earth, like a herd of buffaloes, thundering over the prairies!" And Mr. Churchill explains that what is best in literature is not national but universal, and is the fruit of refinement and culture. Longfellow's fellow-countryman, Irving, might have walked arm-in- arm with Addison, and Addison would have run no risk of being discomposed by a trans-Atlantic twang in his companion's accent. Irving, if he betrays his origin at all, betrays it somewhat in the same way as Longfellow, by his tender, satisfied repose in the venerable, chiefly the venerable in English society and manners, by his quiet delight in the implicit tradition of English civility, the scarcely-felt yet everywhere influential presence of a beautiful and grave Past, and the company of unseen beneficent associations. In Bryant, Europe is more in the background; prairie and immemorial forest occupy the broad spaces of his canvas, but he feels pleasure in these mainly because he is not native to their influences. The mountains are not his sponsors; there are not the unconsciousnesses between him and them which indicate kinship, nor the silences which prove entire communion. Moreover, the life of American men and women is almost absolutely unrepresented in the poetry of Bryant. The idealized red man is made use of as picturesque, an interesting and romantic person; but the Yankee is prosaic as his ledger. The American people had evidently not become an object of imaginative interest to itself in the mind of Bryant.</p>
+
+         <p>That the historical school of criticism should not have occupied itself with American literature is then hardly to be wondered at. A chapter upon that literature until recently must have been not a criticism but a prophecy. It was this very fact, the absence of a national literature, which the historical school was called on to explain. And to explain it evident and sufficient causes were producible, and were produced. The strictly Puritan origin of the Americans, the effort imposed upon them of subduing the physical forces of the country, and of yoking them to the service of man, the occupation of the entire community with an absorbing industry, the proximity of Europe, which made it possible for America to neglect the pursuit of the sciences, literature, and the fine arts without relapsing into barbarism—these causes were enumerated by De Tocqueville as having concurred to fix the minds of the Americans upon purely practical objects. "I consider the people of the United States as that portion of the English people which is commissioned to explore the wilds of the New World; whilst the rest of the nation enjoying more leisure, and less harassed by the drudgery of life, may devote its energies to thought, and enlarge in all directions the empire of the mind." Besides which, before a nation can become poetical to itself, consciously or unconsciously, it must possess a distinctive character, and the growth of national as of individual character is a process of long duration in every case, of longer duration than ordinary when a larger than ordinary variety of the elements of character wait to be assimilated and brought into harmony.</p>
+
+         <p>In Emerson a genuine product of the soil was perhaps for the first time apparent to us. We tasted in him the flavour of strange sap, and knew the ripening of another sun and other winds. He spoke of what is old and universal, but he spoke in the fashion of a modern man, and of his own nation. His Greek head pivoted restlessly on true Yankee shoulders, and when he talked Plato he did so in a dialectical variety of Attic peculiar to Boston.<ref target="n1" n="1" xml:id="r1"/> Lowell, at times altogether feudal and European, has also at times a trans-Atlantic air, in the earnest but somewhat vague spiritualism of his earlier poems, his enthusiasm about certain dear and dim general ideas, and more happily in a conception of the democratic type of manhood which appears in some of the poems of later years, especially in that very noble "Ode recited at the Harvard Commemoration, July 21, 1865." But taken as a whole, the works of Lowell do not mirror the life, the thoughts, and passions of the nation. They are works, as it were, of an English poet who has become a naturalized citizen of the United States, who admires the institutions, and has faith in the ideas of America, but who cannot throw off his allegiance to the old country, and its authorities.</p>
+
+         <p>At last steps forward a man unlike any of his predecessors, and announces himself, and is announced with a flourish of critical trumpets, as Bard of America, and Bard of democracy. What cannot be questioned after an hour's acquaintance with Walt Whitman and his Leaves of Grass is that in him we meet a man not shaped out of old-world clay, not cast in any old-world mould, and hard to name by any old-world name. In his self-assertion there is a manner of powerful nonchalantness which is not assumed; he does not peep timidly from behind his works to glean our suffrages, but seems to say, "Take me or leave me, here I am a solid and not an inconsiderable fact of the universe." He disturbs our classifications. He attracts us; he repels us; he excites our curiosity, wonder, admiration, love; or, our extreme repugnance. He does anything except leave us indifferent. However we feel towards him we cannot despise him. He is "a summons and a challenge." He must be understood and so accepted, or must be got rid of. Passed by he cannot be. To English readers Whitman is already known through Mr. Conway's personal reminiscences, published in the "Fortnightly Review", through the judicious criticism of Mr. Rossetti prefixed to his volume of selections, and through other reviews, favourable and unfavourable. His critics have, for the most part, confined their attention to the personality of the man; they have studied him, for the most part, as a phenomenon isolated from the surrounding society, the environment, the <hi rend="italic">milieu</hi>, which has made such a phenomenon possible. In a general way it has been said that Whitman is the representative in art of American democracy, but the meaning of this has not been investigated in detail. It is purposed here to consider some of the characteristics of democratic art, and to inquire in what manner they manifest themselves in Whitman's work.</p>
+
+         <p>A word of explanation is necessary. The representative man of a nation is not always the nation's favourite. Hebrew spiritualism, the deepest instincts, the highest reaches of the moral attainment of the Jewish race, appear in the cryings and communings of its prophets; yet the prophets sometimes cried in the wilderness, and the people went after strange gods. American democracy is as yet but half-formed. The framework of its institutions exists, but the will, the conscience, the mature desires of the democratic society are still in process of formation. If Whitman's writings are spoken of as the poetry of American democracy, it is not implied that his are the volumes most inquired after in the libraries of New York or Boston. What one means is that these are the poems which naturally arise when a man of imaginative genius stands face to face with a great democratic world, as yet but half-fashioned, such as society is in the United States of the present day. Successive editions of his works prove that Whitman has many readers. But whether he had them now, or waited for them in years to come, it would remain true that he is the first representative democrat in art of the American Continent. At the same time he is before all else a living man, and must not be compelled to appear as mere official representative of anything. He will not be comprehended in a formula. No <hi rend="italic">view</hi> of him can image the substance, the life and movement of his manhood, which contracts and dilates, and is all over sensitive and vital. Such views are, however, valuable in the study of literature, as hypotheses are in the natural sciences, at least for the collocation of facts. They have a tendency to render criticism rigid and doctrinaire; the critic must therefore ever be ready to escape from his own theory of a man, and come in contact with the man himself. Every one doubtless moves in some regular orbit, and all aberrations are only apparent, but what the precise orbit is we must be slow to pronounce. Meanwhile we may legitimately conjecture, as Kepler conjectured, if only we remain ready as Kepler was to vary our conjectures as the exigencies of the observed phenomena require.</p>
+
+         <p>A glance at the art of an aristocratic period will inform us in the way of contrast of much that we may expect to find under a democracy. And before all else we are impressed by the great regard which the artists of an aristocratic period pay to form. The dignity of letters maintains itself, like the dignity of the court, by a regulated propriety of manners. Ideas and feelings cannot be received unless they wear the courtly costume. Precise canons applicable to the drama, the ode, the epic, to painting, sculpture, architecture, music, are agreed upon, and are strictly enforced. They acquire traditional authority, the precedents of a great period of art (such, for example, as that of Louis XIV.) being final and absolute with succeeding generations. "Style is deemed of almost as much importance as thought….The tone of mind is always dignified, seldom very animated, and writers care more to perfect what they produce than to multiply their productions."<ref target="n2" n="2" xml:id="r2"/> The peril to which an aristocratic literature is hereby exposed is of a singular kind; matter or substance may cease to exist, while an empty and elaborately studied form, a variegated surface with nothing below it, may remain. This condition of things was actually realized at different times in the literatures of Italy, of Spain, of France, and of England, when such a variegated surface of literature served for disport and display of the wits of courtiers, of ingenious authors, of noble and gentle persons male and female, and when reflection and imagination had ceased to have any relation with letters.</p>
+
+         <p>Again, the literature of an aristocracy is distinguished by its striving after selectness, by its exclusive spirit, and the number of things it proscribes. This is especially the case with the courtly art which has a great monarchy for its centre of inspiration. There is an ever-present terror of vulgarity. Certain words are ineligible in poetry; they are mean or undignified, and the things denoted by them must be described in an elegant periphrasis. Directness and vividness are sacrificed to propriety. The acquired associations of words are felt to be as important, and claim as much attention as their immediate significance, their spiritual power and personal character. In language as in life there is, so to speak, an aristocracy and a commonalty; words with a heritage of dignity, words which have been ennobled, and a rabble of words which are excluded from positions of honour and of trust. But this striving after selectness in forms of speech is the least important manifestation of the exclusive spirit of aristocratic art. Far the greater number of men and women, classes of society, conditions of life, modes of thought and feeling, are not even conceived as in any way susceptible of representation in art which aspires to be grave and beautiful. The common people do not show themselves <hi rend="italic">en masse</hi> except as they may follow in a patient herd, or oppose in impotent and insolent revolt the leadership of their lords. Individually they are never objects of equal interest with persons of elevated worldly station. Even Shakespeare could hardly find in humble life other virtues than a humorous honesty and an affectionate fidelity. Robin Hood, the popular hero, could not be quite heroic were he not of noble extraction, and reputed Earl of Huntingdon. In the decline of an aristocratic period, dramatic studies of individual character and the life of the peasant or artisan may be made from a <hi rend="italic">superior point of view</hi>. The literature of benevolence and piety stooping down to view the sad bodies and souls of men tends in this direction. And there are poems and novels, and paintings and sculptures, which flatter the feeling of mild benevolence. Pictures like those of Faed, in which some aged cottager, some strong delver of the earth, or searcher of the sea, some hardworked father of children, says appealingly, "By virtue of this love I exhibit towards my offspring, by virtue of the correct sense I have of the condescension of my betters, by virtue of this bit of pathos—indubitably human—in my eye, confess now <hi rend="italic">am</hi> I not a man and a brother?"—pictures like these are produced, and may be purchased by amiable persons of the upper classes who would honour the admirable qualities which exist in humble life. But when the aristocratic period is in its strength, and especially in courtly art and literature, these condescending studies, not without a certain affection and sincerity in them, are unknown. It is as if the world were made up of none but the gently born and bred. At most rustic life is glanced at for the sake of the suggestions of pretty waywardness it may supply to the fancy of great people tired of greatness. To play at pastoral may be for a while the fashion, if the shepherds and shepherdesses are permitted to choose graceful classical names, if the crooks are dainty, and the duties of the penfold not severe, if Phillis may set off a neat ankle with the latest shoe, and Corydon may complain of the cruel fair in the bitterness of roundel or sonnet. The middle classes, however, the <hi rend="italic">bourgeoisie</hi>, figure considerably in one department of poetry—in the comic drama. Moliere indeed, living under a stricter rule of courtliness, suffered disgrace in consequence of the introduction of so low-bred a person as the excellent M. Jourdain. But to the noble mind of our own Caroline period how rich a material of humour, inexhaustibly diverting, if somewhat monotonous in theme, was afforded by the relations of the high-born and the moneyed classes. The <hi rend="italic">bourgeois</hi> aping the courtier, the lord making a fool of the merchant, while he makes love to the merchant's wife and daughter—what unextinguishable laughter have variations upon these elementary themes compelled from the occupants of the boxes in our Restoration theatres! There is an innocence quite touching in their openness to impressions from the same comic effects repeated again and again. Harlequin still at the close of the pantomime belabouring Pantaloon is not more sure of his success with the wide-eyed on-lookers in the front row than was the gallant engaged in seducing the draper's or hosier's pretty wife with gold supplied by her husband, in the playhouses favoured by our mirthful monarch and his companions.</p>
+
+         <p>All that is noblest in an aristocratic age embodies itself not in its comedy, but its serious art, and in the persons of heroic men and women. Very high and admirable types of character are realized in the creation of epic and dramatic poetry. All the virtues which a position of hereditary greatness, dignity, and peril calls forth—energy of character, vigour of will, disregard of life, of limb, and of property in comparison with honour, the virtues of generosity, loyalty, courtesy, magnificence—these are glorified and illustrated in man; and in woman all the virtues of dependence, all the graces insensibly acquired upon the surface of an externally beautiful world, and at times the rarer qualities called forth by occasional exigencies of her position, which demand virtues of the masculine kind. It is characteristic and right that our chief chivalric epic, the <hi rend="italic">Faerie Queene</hi>, should set before itself as the general end of all the book "to fashion a gentleman or noble person in virtuous and gentle discipline." The feudal world with Artegall and Calidore, with Britomart and Una, was not wanting in lofty conceptions of human character, male and female.</p>
+
+         <p>Other characteristics of the art of an aristocratic period may be briefly noted. It is not deeply interested in the future, it gazes forward with no eyes of desire. Why should it? when nothing seems better than that things should remain as they are, or at most that things should be ameliorated, not that a new world should be created. The aristocratic society exists by inheritance, and it hopes from to-morrow chiefly a conserving of the good gifts handed down by yesterday and to-day. Its feeling of the continuity of history is in danger of becoming formal and materialistic; it does not always perceive that the abandonment of old things and the acceptance of new may be a necessary piece of continuity in government, in social life, in art, in religion. At the present the artist of the period of aristocracy looks not very often, and then askance upon certain approved parts of the Present. But he loves to celebrate the glories of the Past. He displays a preference accordingly for antique subjects, chosen out of the history of his own land, or the histories of deceased nations. Shelley with his eyes fixed upon the golden age to come may stand as representative of the democratic tendencies in art; Scott, celebrat-ing the glories of feudalism, its heroism and its refinements, will remain our great aristocratic artist of the period subsequent to the first French Revolution. The relation of the art to the religion of an age of aristocracy is peculiarly simple. The religious dogma which constitutes the foundation and formative principle of the existing society must have been fully established, and of supreme power, before the aristocratic form of social and political life can have acquired vigour and stability; the intellectual and moral habits favoured by the aristocratic polity—loyalty, obedience, veneration for authority, pride in the past, a willingness to accept things as they come to us from our fathers, a distrust of new things, all favour a permanence of belief. The art, therefore, will upon the whole (peculiar circumstances may of course produce remarkable exceptions) be little disturbed by the critical or sceptical spirit, and, untroubled by doubts, that art will either concern itself not at all with religion, or, accepting the religious dogma without dispute, will render it into artistic form in sublime allegory and symbol, and as it is found embodied in the venerable history of the Church. We may finally note from De Tocqueville the shrinking in an aristocratic society from whatever, even in pleasure, is too startling, violent, or acute, and the especial approval of choice gratifications, of refined and delicate enjoyments.</p>
+
+         <p>Now in all these particulars the art of a democratic age exhibits characteristics precisely opposite to those of the art of an aristocracy. Form and style modelled on traditional examples are little valued. No canons of composition are agreed upon or observed without formal agreement. No critical dictator enacts laws which are accepted without dispute, and acquire additional authority during many years. Each new generation, with its new heave of life, its multitudinous energies, ideas, passions, is a law to itself. Except public opinion, there is no authority on earth above the authority of a man's own soul, and public opinion being strongly in favour of individualism, a writer is tempted to depreciate unduly the worth of order, propriety, regularity of the academic kind; he is encouraged to make new literary experiments as others make new experiments in religion; he is permitted to be true to his own instincts, whether they are beautiful instincts or the reverse. The appeal which a work of art makes is to the nation, not to a class, and diversities of style are consequently admissible. Every style can be tolerated except the vapid, everything can be accepted but that which fails to stimulate the intellect or the passions.</p>
+
+         <p>Turning to Whitman, we perceive at once that his work corresponds with this state of things. If he had written in England in the period of Queen Anne, if he had written in France in the period of the <hi rend="italic">grand monarque</hi>, he must have either acknowledged the supremacy of authority in literature and submitted to it, or on the other hand revolted against it. As it is, he is remote from authority, and neither submits nor revolts. Whether we call what he has written verse or prose, we have no hesitation in saying that it is no copy, that it is something uncontrolled by any model or canon, something which takes whatever shape it possesses directly from the soul of its maker. With the Bible, Homer, and Shakespeare familiar to him, Whitman writes in the presence of great models, and some influences from each have doubtless entered into his nature; but that they should possess authority over him any more than that he should possess authority over them, does not occur to him as possible. The relation of democracy to the Past comes out very notably here. Entirely assured of its own right to the Present, it is prepared to acknowledge fully the right of past generations to the Past. It is not hostile to that Past, rather claims kinship with it, but also claims equality, as a full-grown son with a father:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                        <!-- from Starting from Paumanok -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I conn'd old times;</l>
+                        <l>I sat studying at the feet of the great masters:</l>
+                        <l>Now, if eligible, O that the great masters <lb/>might return and study me!</l>
+                        <l>In the name of These States, shall I scorn the <lb/>antique?</l>
+                        <l>Why <choice><sic>These</sic><corr>these</corr></choice> are the children of the antique, to <lb/>justify it.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Dead poets, philosophs, priests,</l>
+                        <l>Martyrs, artists, inventors, governments long <lb/>since,</l>
+                        <l>Language-shapers on other shores,</l>
+                        <l>Nations once powerful, now reduced, <choice><orig>with-
+                           drawn</orig><reg>withdrawn</reg></choice> or desolate,</l>
+                        <l>I dare not proceed till I respectfully credit <lb/>what you have left, wafted hither:</l>
+                        <l>I have perused it, own it is admirable (moving <lb/>awhile among it);</l>
+                        <l>Think nothing can ever be greater,—nothing <lb/>can ever deserve more than it deserves;</l>
+                        <l>Regarding it all intently a long while,—then <lb/>dismissing it,</l>
+                        <l>I stand in my place, with my own day, here."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>It is the same thought which finds expression in the following enumeration of the benefactors of the soul of man in Whitman's prose essay <hi rend="italic">Democratic Vistas</hi>; after which enumeration, they are dismissed, and a summons is sent forth for the appearance of their modern successors:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="essay">
+                     <relations>
+                        <work ref="xxx.00524" cert="absolute"/>
+                        <!-- from Democratic Vistas-->
+                     </relations>
+                     <p>"For us along the great highways of time, those monuments stand—those forms of majesty and beauty. For us those beacons burn through all the nights. Unknown Egyptians, graving hieroglyphs; Hindus with hymn and apothegm and endless epic; Hebrew prophet, with spirituality, as in flashes of lightning, conscience, like red-hot iron, plaintive songs and screams of vengeance for tyrannies and enslavement; Christ, with bent head, brooding love and peace, like a dove; Greek, creating eternal shapes of physical and esthetic proportion; Roman, lord of satire, the sword, and the codex;—of the figures some far-off and veiled, others nearer and visible; Dante, stalking with lean form, nothing but fibre, not a grain of superfluous flesh; Angelo, and the great painters, architects, musicians; rich Shakespeare, luxuriant as the sun, artist and singer of Feudalism in its sunset, with all the gorgeous colours, owner thereof, and using them at will; and so to such as German Kant and Hegel, where they, though near us, leaping over the ages, sit again impassive, imperturbable, like the Egyptian gods. Of these, and the like of these, is it too much, indeed, to return to our favourite figure, and view them as orbs and systems of orbs, moving in free paths in the spaces of that other heaven, the kosmic intellect, the Soul?</p>
+
+                     <p>"Ye powerful and resplendent ones! ye were in your atmospheres, grown not for America, but rather for her foes, the Feudal and the old—while our genius is Democratic and modern. Yet could ye, indeed, but breathe your breath of life into our New World's nostrils—not to enslave us, as now, but for our needs, to breed a spirit like your own—perhaps (dare we to say it?) to dominate, even destroy, what you yourselves have left! On your plane, and no less, but even higher and wider, will I mete and measure for our wants to-day and here. I demand races of orbic bards, with unconditional, uncompromising sway. Come forth, sweet democratic despots of the west!"</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>As in all else, so with regard to the form of what he writes, Walt Whitman can find no authority superior to himself, or rather to the rights of the subject which engages him. There is, as Mr. Rossetti has observed, "a very powerful and majestic rhythmical sense," throughout his writings, prose and verse (if we consent to apply the term <hi rend="italic">verse</hi> to any of them), and this rhythmical sense, as with every great poet, is original and inborn. His works, it may be, exhibit no perfect crystal of artistic form, but each is a menstruum saturated with form in solution. He fears to lose the instinctive in any process of elaboration, the vital in anything which looks like mechanism. He does not write with a full consciousness of the processes of creation, nor does any true poet. Certain combinations of sound are preconceived, and his imagination excited by them works towards them by a kind of reflex action, automatically. His <hi rend="italic">ars poetica</hi> is embodied in the precept that the poet should hold himself passive in presence of the material universe, in presence of society, in presence of his own soul, and become the blind but yet unerringly guided force through which these seek artistic expression. No afterthought, no intrusion of reasoning, no calculating of effects, no stepping back to view his work is tolerated. The artist must create his art with as little hesitation, as little questioning of processes, and as much sureness of result as the beaver builds his house. Very nobly Whitman has spoken on this subject, and let those who, because they do not know him, suppose him insensible to any attractions in art except those of the extravagant, the incoherent, and the lawless, read what follows from the preface to "Leaves of Grass":—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                        <!-- from the Preface to 1855 Leaves of Grass-->
+                     </relations>
+                     <p>"The art of art, the glory of expression, and the sunshine of the light of letters is simplicity. Nothing is better than simplicity—nothing can make up for excess, or for the lack of definiteness. To carry on the heave of impulse, and pierce intellectual depths, and give all subjects their articulations, are powers neither common nor very uncommon. But to speak in literature with the perfect rectitude and insouciance of the movements of animals, and the unimpeachableness of the sentiment of trees in the woods, and grass by the roadside, is the flawless triumph of art. If you have looked on him who has achieved it, you have looked on one of the masters of the artists of all nations and times. You shall not contemplate the flight of the grey-gull over the bay, or the mettlesome action of the blood-horse, or the tall leaning of sunflowers on their stalk, or the appearance of the sun journeying through heaven, or the appearance of the moon afterward, with any more satisfaction than you shall contemplate him. The greatest poet has less a marked style, and is more the channel of thoughts and things without increase or diminution, and is the free channel of himself. He swears to his art…. What I tell I tell for precisely what it is. Let who may exalt, or startle, or fascinate, or soothe, I will have purposes as health, or heat, or snow has, and be as regardless of observation."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Seeing much of deep truth in this, it must be added that, when the poet broods over his half-formed creation, and fashions it with divine ingenuity, and gives it shapeliness and completion of detail, and the lustre of finished workmanship, he does not forsake his instincts, but is obedient to them; he does not remove from nature into a laboratory of art, but is the close companion of nature. The vital spontaneous movement of the faculties, far from ceasing, still goes on like "the flight of the grey-gull over the bay," while the poet seeks after order, proportion, comeliness, melody—in a word beauty; or rather, as Whitman himself is fond of saying, does not seek but is sought—the perfect form preconceived but unattained, drawing the artist toward itself with an invincible attraction. An artist who does not yield to the desire for perfect order and beauty of form, instead of coming closer to nature is really forsaking nature, and doing violence to a genuine artistic instinct. Walt Whitman, however, knows this in all probability well enough, and does not need to be taught the mysteries of his craft. We will not say that his poems, as regards their form, do not, after all, come right, or that for the matter which he handles his manner of treatment may not be the best possible. One feels, as it has been well said, that although no counting of syllables will reveal the mechanism of the music, the music is there, and that "one would not for something change ears with those who cannot hear it." Whitman himself anticipates a new theory of literary composition for imaginative works, and especially for highest poetry, and desires the recognition of new forces in language, and the creation of a new manner of speech which cares less for what it actually realizes in definite form than "for impetus and effects, and for what it plants and invigorates to grow." Nevertheless, when we read not the lyrical portions of Whitman's poetry, but what may be called his poetical statements of thoughts and things, a suspicion arises that if the form be suitable here to the matter, it must be because the matter belongs rather to the chaos than the kosmos of the new-created world of art.</p>
+
+         <p>The principle of equality upon which the democratic form of society is founded, obviously opposes itself to the exclusive spirit of the aristocratical polity. The essential thing which gives one the freedom of the world is not to be born a man of this or that rank, or class, or caste, but simply to be born a man. The literature of an aristocratic period is distinguished by its aim at selectness, and the number of things it proscribes; we should expect the literature of a democracy to be remarkable for its comprehensiveness, its acceptance of the persons of all men, its multiform sympathies. The difference between the President and the Broadway mason or hodman is inconsiderable—an accident of office; what is common to both is the inexpressibly important thing, their inalienable humanity. Rich and poor, high and low, powerful and feeble, healthy and diseased, deformed and beautiful, old and young, man and woman, have this in common, and by possession of this are in the one essential thing equal, and brethren one of another. Even between the virtuous man and the vicious the difference is less than the agreement; they differ by a quality, but agree by the substance of their manhood. The <hi rend="italic">man</hi> in all men, however it may be obscured by cruel shocks and wrenches of life which distort, by long unnatural uses which deform, by ignorance, by the well-meaning stupidity of others, or by one's own stupidity, by foul living, or by clean, hard, worldly living, is surely somewhere discoverable. How can any human creature be rejected, any scorned, any mocked? Such satire and such comedy as appear in aristocratic society are discouraged by the genius of democracy. The spirit of exclusiveness will, it is true, never fail to find material for its support, and baser prizes may replace the calm, conservative, but unaggressive pride of hereditary dignity. Nevertheless it remains no less true that the spectacle of a great democracy present to the imagination, and the temper of the democracy accepted by the understanding heart, favour only such prides as are founded on nature—that is, on the possession, acquired or inherited, of personal qualities, personal powers, and virtues, and attainments.</p>
+
+         <p>If this be a true account of some characteristics of the art which rises when a man of imaginative genius stands face to face with a great democracy, Walt Whitman in these particulars is what he claims to be, a representative democrat in art. No human being is rejected by him, no one slighted, nor would he judge any, except as "the light falling around a helpless thing" judges. No one in his poems comes appealing "Am I not interesting, am I not deserving, am I not a man and a brother?" We have had, he thinks, "ducking and deprecating about enough." The poet studies no one from a superior point of view. He delights in men, and neither approaches deferentially those who are above him, nor condescendingly gazes upon those who are beneath. He is the comrade of every man, high and low. His admiration of a strong, healthy, and beautiful body, or a strong, healthy, and beautiful soul, is great when he sees it in a statesman or a savant; it is precisely as great when he sees it in the ploughman or the smith. Every variety of race and nation, every condition in society, every degree of culture, every season of human life, is accepted by Whitman as admirable and best, each in its own place. Working men of every name—all who engage in fieldwork, all who toil upon the sea, the city artisan, the woodsman and the trapper, fill him with pleasure by their presence; and that they are interesting to him not in a general way of theory or doctrine (a piece of the abstract democratic creed), but in the way of close, vital human sympathy appears from the power he possesses of bringing before us with strange precision, vividness, and nearness in a few decisive strokes the essential characteristics of their respective modes of living. If the strong, full-grown working man wants a lover and comrade, he will think Walt Whitman especially made for him. If the young man wants one, he will think him especially the poet of young men. Yet a rarer and finer spell than that of the lusty vitality of youth, or the trained activity of manhood, is exercised over the poet by the beautiful repose or unsubdued energy of old age. He is "the caresser of life, wherever moving." He does not search antiquity for heroic men and beautiful women; his own abundant vitality makes all the life which surrounds him a source of completest joy; "what is commonest, cheapest, nearest, easiest, is Me….not asking the sky to come down to my good-will; scattering it freely for ever." Let a few passages illustrate Whitman's joyous sympathy with men:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00052" cert="absolute"/>
+                        <!-- from I Sing the Body Electric -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I have perceiv'd that to be with those I like <lb/>is enough,</l>
+                        <l>To stop in company with the rest at evening <lb/>is enough,</l>
+                        <l>To be surrounded by beautiful, curious, <choice><orig>breath-<lb/>ing</orig><reg>breathing</reg></choice>, laughing flesh is enough,</l>
+                        <l>To pass among them, or touch any one, or rest <lb/>my arm ever so lightly round his or her <lb/>neck for a moment—what is this, then?</l>
+                        <l>I do not ask any more delight. I swim in it, <lb/>as in a sea."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p rend="center">———</p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The big doors of the country barn stand open <lb/>and ready;</l>
+                        <l>The dried grass of the harvest-time loads the <lb/>slow-drawn wagon;</l>
+                        <l>The clear light plays on the brown grey and <lb/>green intertinged;</l>
+                        <l>The armfuls are pack'd to the sagging mow.</l>
+                        <l>I am there, I help, I came stretch'd atop of the <lb/>load;</l>
+                        <l>I felt its soft jolts, one leg reclined on the <lb/>other;</l>
+                        <l>I jump from the cross-beams, and seize the <choice><orig>clo-<lb/>ver</orig><reg>clover</reg></choice> and timothy,</l>
+                        <l>And roll head over heels, and tangle my hair <lb/>full of wisps."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p rend="center">———</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The negro holds firmly the reins of his four <lb/>horses, the block swags underneath on its <lb/>tied-over chain;</l>
+                        <l>The negro that drives the dray of the <choice><orig>stone- 
+                           <lb/>
+                           yard</orig><reg>stone-yard</reg></choice>, steady and tall he stands, pois'd on <lb/>one leg on the string-piece;</l>
+                        <l>His blue shirt exposes his ample neck and <lb/>breast, and loosens over his hip-band;</l>
+                        <l>His glance is tall and commanding, he tosses <lb/>the slouch of his hat away from his <choice><orig>fore- 
+                           <lb/>
+                           head;</orig><reg>forehead</reg></choice>
+                        </l>
+                        <l>The sun falls on his crispy hair and moustache, <lb/>falls on the black of his polished and <choice><orig>per-<lb/>fect</orig><reg>perfect</reg></choice> limbs.</l>
+                        <l>I behold the picturesque giant, and love him."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The following loses much by being removed from its place at the end of the poem of "Faces," which it closes with calm melodious chords:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00271" cert="absolute"/>
+                        <!-- from Faces -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The old face of the mother of many children!</l>
+                        <l>Whist! I am fully content.</l>
+                        <l>Lull'd and late is the smoke of the First-day <lb/>morning,</l>
+                        <l>It hangs low over the rows of trees by the <choice><orig>fen-<lb/>ces</orig><reg>fences</reg></choice>,</l>
+                        <l>It hangs thin by the sassafras, the wild-cherry, <lb/>and the cat-brier under them.</l>
+                        <l>I saw the rich ladies in full dress at the soiree,</l>
+                        <l>I heard what the singers were singing so long,</l>
+                        <l>Heard who sprang in crimson youth from the <lb/>white froth and the water-blue.</l>
+                        <l>Behold a woman!</l>
+                        <l>She looks out from her quaker-cap—her face is <lb/>clearer and more beautiful than the sky.</l>
+                        <l>She sits in an arm-chair, under the shaded <lb/>porch of the farmhouse,</l>
+                        <l>The sun just shines on her old white head.</l>
+                        <l>Her ample gown is of cream-hued linen;</l>
+                        <l>Her grandsons raised the flax, and her <choice><orig>grand-<lb/>daughters</orig><reg>granddaughters</reg></choice> spun it with the distaff and the <lb/>wheel.</l>
+                        <l>The melodious character of the earth,</l>
+                        <l>The finish beyond which philosophy cannot go, <lb/>and does not wish to go,</l>
+                        <l>The justified mother of men."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>But it is not those alone who are beautiful and healthy and good who claim the poet's love. To all "the others are down on" Whitman's hand is outstretched to help, and through him come to us the voices—petitions or demands—of the diseased and despairing, of slaves, of prostitutes, of thieves, of deformed persons, of drunkards. Every man is a divine miracle to him, and he sees a <hi rend="italic">redeemer</hi>, whom Christ will not be ashamed to acknowledge a comrade, in every one who performs an act of loving self-sacrifice:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Three scythes at harvest whizzing in a row, <lb/>from three lusty angels with shirts bagged <lb/>out at their waists;</l>
+                        <l>The snag-tooth'd hostler with red hair <choice><orig>redeem-<lb/>ing</orig><reg>redeeming</reg></choice> sins past and to come,</l>
+                        <l>Selling all he possesses, travelling on foot to <lb/>fee lawyers for his brother, and sit by him <lb/>while he is tried for forgery."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Is there no limit to the poet's acceptance of the persons of men? There is one test of his tolerance more severe than can be offered by the vicious or the deformed. Can he tolerate the man of science? Yes, though he were to find him peeping and botanizing upon his mother's grave. Science and democracy appear before Whitman as twin powers which bend over the modern world hand in hand, great and beneficent. Democracy seems to him that form of society which alone is scientifically justifiable; founded upon a recognition of the facts of nature, and a resolute denial of social fables, superstitions, and uninvestigated tradition. Moreover he looks to science for important elements which shall contribute to a new conception of nature and of man, and of their mutual relations, to be itself the ideal basis of a new poetry and art—"after the chemist, geologist, ethnologist, finally shall come the Poet worthy that name; the true Son of God shall come singing his songs." Lastly, Whitman has a peculiar reason of his own for loving science; he is a mystic, and such a mystic as finds positive science not unacceptable. Whitman's mysticism is not of the Swedenborgian type. He beholds no visions of visible things in heaven or hell unseen to other men. He rather sees with extraordinary precision the realities of our earth, but he sees them, in his mystical mood, as symbols of the impalpable and spiritual. They are hieroglyphs most clear-cut, most brilliantly and definitely coloured to his eyes, but still expressive of something unseen. His own personality as far as he can give it expression or is conscious of it—that identity of himself, which is the hardest of all facts, and the only entrance to all facts, is yet no more than the image projected by another ego, the real <hi rend="italic">Me</hi>, which stands "untouched, untold, altogether unreached:"—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00132" cert="absolute"/>
+                        <!-- from As I Ebb'd with the Ocean of Life -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Withdrawn far, mocking me with <choice><orig>mock-con- 
+                           <lb/>
+                           gratulatory</orig><reg>mock-congratulatory</reg></choice> signs and bows,</l>
+                        <l>With peals of ironical laughter at every word <lb/>I have written,</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>∗∗∗∗∗∗</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00132" cert="absolute"/>
+                        <!-- from As I Ebb'd with the Ocean of Life -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Now I perceive I have not understood anything <lb/>—not a single object; and that no man ever <lb/>can.</l>
+                        <l>I perceive Nature, here in sight of the sea, is <lb/>taking advantage of me, to dart upon me, and <lb/>sting me,</l>
+                        <l>Because I have dared to open my mouth to sing <lb/>at all."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>To such mysticism science cannot succeed in opposing itself: it can but provide the mystic with a new leaf of the sacred writing in which spiritual truths are recorded. Note the pregnant parenthesis in the following:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Gentlemen! [men of science] to you the first <lb/>honours always.</l>
+                        <l>Your facts are useful and real, and yet they are <lb/>not my dwelling;</l>
+                        <l>(I but enter by them into an area of my <choice><orig>dwell-<lb/>ing</orig><reg>dwelling</reg></choice>.)"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>If Whitman seems suspicious of any class of men, disposed to be antagonistic to any, it is to those whose lives are spent among books, who are not in contact with external nature, and the stir and movement of human activity, but who receive things already prepared, or, as Whitman expresses it, "distilled." He knows that the distillations are delightful, and would intoxicate himself also, but he will not let them. Rather he chooses to "lean and loafe at his ease, observing a spear of summer grass," to drink the open air (that is, everything natural and unelaborated); he is "enamoured of growing outdoors." At the same time his most ardent aspiration is after a new literature, accordant with scientific conceptions, and the feelings which correspond with democracy. And to the literature of the old world and of feudalism he willingly does justice. "American students may well derive from all former lands…. from witty and warlike France, and markedly, and in many ways, and at many different periods, from the enterprise and soul of the great Spanish race, bearing ourselves always courteous, always deferential, indebted beyond measure to the mother- world, to all its nations dead, as to all its nations living—the offspring, this America of ours, the daughter not by any means of the British Isles exclusively, but of the Continent, and of all continents." True culture and learning Whitman venerates; but he suspects men of refinement and polite letters and dainty information, the will-o'-the-wisps of Goethe's "Mährchen," who "lose themselves in countless masses of adjustments," who end by becoming little better than "supercilious infidels," whose culture, as Carlyle long since observed, is of a "sceptical-destructive" kind.</p>
+
+         <p>Men of every class then are interesting to Whitman. But no individual is pre-eminently interesting to him. His sketches of individual men and women, though wonderfully vivid and precise, are none of them longer than a page; each single figure passes rapidly out of sight, and a stream of other figures of men and women succeeds. Even in "Lincoln's Burial Hymn" he has only a word to say of "the large sweet soul that has gone;" the chords of his nocturn, with their implicated threefold sweetness, odour and sound and light, having passed into his strain, really speak not of Lincoln but of death. George Peabody is celebrated briefly, because through him, a "stintless, lavish giver, tallying the gifts of earth," a multitude of human beings have been blessed, and the true service of riches illustrated. No single person is the subject of Whitman's song, or can be; the individual suggests a group, and the group a multitude, each unit of which is as interesting as every other unit, and possesses equal claims to recognition. Hence the recurring tendency of his poems to become catalogues of persons and things. Selection seems forbidden to him; if he names one race of mankind the names of all other races press into his page; if he mentions one trade or occupation, all other trades and occupations follow. A long procession of living forms passes before him; each several form, keenly inspected for a moment, is then dismissed. Men and women are seen <hi rend="italic">en masse</hi>, and the mass is viewed not from a distance, but close at hand, where it is felt to be a concourse of individuals. Whitman will not have the people appear in his poems by representatives or delegates; the people itself, in its undiminished totality, marches through his poems, making its greatness and variety felt. Writing down the headings of a Trades' Directory is not poetry; but this is what Whitman never does. His catalogues are for the poet always, if not always for the reader, <hi rend="italic">visions</hi>—they are delighted—not perhaps delightful—enumerations; when his desire for the perception of greatness and variety is satisfied, not when a really complete catalogue is made out, Whitman's enumeration ends; we may murmur, but Whitman has been happy; what has failed to interest our imaginations has deeply interested his; and even for us the impression of multitude, of variety, of equality is produced, as perhaps it could be in no other way. Whether Whitman's habit of cataloguing be justified by what has been said, or is in any way justifiable, such at least is its true interpretation and significance.</p>
+
+         <p>One can perceive at a glance that these characteristics of Whitman's work proceed directly from the democratic tendencies of the world of thought and feeling in which he moves. It is curious to find De Tocqueville, before there existed properly any native American literature, describing in the spirit of philosophical prophecy what we find realized in Whitman's "Leaves of Grass":—</p>
+
+
+
+         <q who="Alexis De Tocqueville">
+            <floatingText>
+               <body>
+                  <div1 type="essay">
+                     <relations>
+<!-- from Democratic Vistas, vol 2, ch. 3-->
+<!-- Did not verify this quote -->
+</relations>
+                     <p>"He who inhabits a democratic country sees around him, on every hand, men differing but little from each other; he cannot turn his mind to any one portion of mankind without expanding and dilating his thought till it embraces the whole world….  The poets of democratic ages can never take any man in particular as the subject of a piece, for an object of slender importance, which is distinctly seen on all sides, will never lend itself to an ideal conception….  As all the citizens who compose a democratic community are nearly equal and alike, the poet cannot dwell upon any one of them; but the nation itself invites the exercise of his powers. The general similitude of individuals which renders any one of them, taken separately, an improper subject of poetry, allows poets to include them all in the same imagery, and to take a general survey of the people itself. Democratic nations have a clearer perception than any other of their own aspect; and an aspect so imposing is admirably fitted to the delineation of the ideal."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The democratic poet celebrates no individual hero, nor does he celebrate himself. "I celebrate myself," sings Whitman, and the longest poem in "Leaves of Grass" is named by his own name; but the self-celebration throughout is celebration of himself as a man and an American; it is what he possesses in common with all others that he feels to be glorious and worthy of song, not that which differentiates him from others; manhood, and in particular American manhood, is the real subject of the poem "Walt Whitman;" and although Whitman has a most poignant feeling of personality, which indeed is a note of all he has written, it is to be remembered that in nearly every instance in which he speaks of himself the reference is as much impersonal as personal. In what is common he finds what is most precious. The true hero of the democratic poet is the nation of which he is a member, or the whole race of man to which the nation belongs. The mettlesome, proud, turbulent, brave, self-asserting young Achilles, lover of women and lover of comrades of Whitman's epic, can be no other than the American people; his Ulysses, the prudent, the 'cute, the battler with the forces of nature, the traveller in sea-like prairie, desolate swamp, and dense forest is brother Jonathan. But if the American nation is his hero, let it be observed that it is the American nation as the supposed leader of the human race, as the supposed possessor in ideas, in type of character, and in tendency if not in actual achievement, of all that is most powerful and promising for the progress of mankind.</p>
+
+         <p>To the future Whitman looks to justify his confidence in America and in democracy. The aspect of the present he finds both sad and encouraging. The framework of society exists; the material civilization is rich and fairly organized. Without any transcendentalism or political mysticism about the principle of universal suffrage, not glossing over its "appalling dangers," and for his own part content that until its time were come self-government should wait, and the condition of authoritative tutelage continue, he yet approves the principle as "the only safe and preservative one for coming times," and sees in America its guardian. He dwells with inexhaustible delight upon certain elements in the yet unformed personal character of the average American man and woman. And his experience, and the experience of the nation during the civil war—proving the faithfulness, obedience, docility, courage, fortitude, religious nature, tenderness, sweet affection of countless numbers of the unnamed, unknown rank and file of North and South—practically justifies democracy in Whitman's eyes "beyond the proudest claims and wildest hopes of its enthusiasts." But at the same time no one perceives more clearly, or observes with greater anxiety and alarm, the sore diseases of American society; and leaving us to reconcile his apparently contradictory statements, he does not hesitate to declare that the New World democracy, "however great a success in uplifting the masses out of their sloughs, in materialistic development, products, and in a certain highly de-ceptive superficial popular intellectuality, is so far an almost complete failure in its social aspects, in any superb general personal character, and in really grand religious, moral, literary, and &#x91;sthetic results." A vast and more and more thoroughly appointed body Whitman finds in the American world, and little or no soul. His senses are flattered, his imagination roused and delighted by the vast movement of life which surrounds him, its outward glory and gladness, but when he inquires, What is behind all this? the answer is of the saddest and most shameful kind. The following passage is in every way, in substance and in manner, highly characteristic of Whitman; but the reader must remember that in spite of all that he discerns of evil in democratic America, Whitman remains an American proud of his nationality, and a believer who does not waver in his democratic faith:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="essay">
+                     <relations>
+                        <work ref="xxx.00524" cert="absolute"/>
+                        <!-- from Democratic Vistas-->
+                     </relations>
+                     <p>"After an absence, I am now (September, 1870) again in New York City and Brooklyn, on a few weeks' vacation. The splendour, picturesqueness, and oceanic amplitude and rush of these great cities, the unsurpassed situation, rivers and bay, sparkling sea-tides, costly and lofty new buildings, the facades of marble and iron, of original grandeur and elegance of design, with the masses of gay colour, the preponderance of white and blue, the flags flying, the endless ships, the tumultuous streets, Broadway, the heavy, low, musical roar, hardly ever intermitted even at night; the jobbers' houses, the rich shops, the wharves, the great Central Park, and the Brooklyn Park of Hills (as I wander among them this beautiful fall weather, musing, watching, absorbing)—the assemblages of the citizens in their groups, conversations, trade, evening amusements, or along the by-quarters—these, I say, and the like of these, completely satisfy my senses of power, fulness, motion, &amp;c., and give me, through such senses and appetites, and through my &#x91;sthetic conscience, a continued exaltation and absolute fulfilment. Always, and more and more, as I cross the East and North rivers, the ferries, or with the pilots in their pilothouses, or pass an hour in Wall Street, or the gold exchange, I realize (if we must admit such partialisms) that not Nature alone is great in her fields of freedom, and the open air, in her storms, the shows of night and day, the mountains, forests, seas—but in the artificial, the work of man too is equally great—in this profusion of teeming humanity, in these ingenuities, streets, goods, houses, ships—these seething, hurrying, feverish crowds of men, their complicated business genius (not least among the geniuses), and all this mighty, many-threaded wealth and industry concentrated here.</p>
+
+                     <p>"But sternly discarding, shutting our eyes to the glow and grandeur of the general effect; coming down to what is of the only real importance, Personalities, and examining minutely, we question, we ask, Are there, indeed, <hi rend="italic">Men</hi> here worthy the name? Are there athletes? Are there perfect women, to match the generous material luxuriance? Is there a pervading atmosphere of beautiful manners? Are there crops of fine youths and majestic old persons? Are there arts worthy Freedom, and a rich people? Is there a great moral and religious civilization—the only justification of a great material one?</p>
+
+                     <p>Confess that rather to severe eyes, using the moral microscope upon humanity, a sort of dry and flat Sahara appears, these cities, crowded with petty grotesques, malformations, phantoms, playing meaningless antics. Confess that everywhere in shop, street, church, theatre, bar-room, official chair, are pervading flippancy and vulgarity, low cunning, infidelity—everywhere the youth puny, impudent, foppish, prematurely ripe—everywhere an abnormal libidinousness, unhealthy forms, male, female, painted, padded, dyed, chignoned, muddy complexions, bad blood, the capacity for good motherhood deceasing or deceased, shallow notions of beauty, with a range of manners, or rather lack of manners (considering the advantages enjoyed) probably the meanest to be seen in the world."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Such a picture of the outcome of American democracy is ugly enough to satisfy the author of "Shooting Niagara—and after?" but such a picture only represents the worst side of the life of great cities. Whitman can behold these things, not without grief, not without shame, but without despair. He does not unfairly contrast the early years of confusion and crudity of a vast industrial and democratic era with the last and perfected results of an era of feudalism and aristocracy. He finds much to make him sad; but more to make him hopeful. He takes account of the evil anxiously, accurately; and can still rejoice. Upon the whole his spirit is exulting and prompt in cheerful action; not self-involved, dissatisfied, and fed by indignation. Contrast with the passage given above Whitman's preface to "Leaves of Grass" prefixed to Mr. Rossetti's volume of Selections, with its joyous confidence and pride in American persons and things, or that very noble poem "A Carol of Harvest, for 1867," in which the armies of blue-clad conquering men are seen streaming North, and melt away and disappear, while in the same hour the heroes reappear, toiling in the fields, harvesting the products, glad and secure under the beaming sun, and under the great face of Her, the Mother, the Republic, without whom not a scythe might swing in security, "not a maize-stalk dangle its silken tassels in peace." If all enthusiasm about political principles be of the nature of <hi rend="italic">Schwärmerei</hi>, Whitman's feeling towards the Republic deserves that name; but he would have the principles of democracy sternly tested by results,—results not only present but prospective and logically inevitable, and he has faith in them not because they seem to him to favour freedom any more than because they seem to favour law and self-control, and security, and order. He, as much as Mr. Carlyle, admires "disciplined men," and believes that with every disciplined man "the arena of <hi rend="italic">Anti-</hi>Anarchy, of God-appointed <hi rend="italic">Order</hi> in this world" is widened; but he does not regard military service as the type of highest discipline, nor the drill-sergeant as highest conceivable official person in the land.</p>
+
+         <p>The principle of political and social equality once clearly conceived and taken to heart as true, works outward through one's body of thought and feeling in various directions. If in the polity of the nation every citizen be entitled by virtue of the fact of his humanity to make himself heard, to manifest his will, and in his place to be respected, then in the polity of the individual man, made up of the faculties of soul and body, every natural instinct, every passion, every appetite, every organ, every power, may claim its share in the government of the man. If a human being is to be honoured as such, then every part of a human being is to be honoured. In asserting one's rights as a man, one asserts the rights of everything which goes to make up manhood. It is the democratic temper to accept realities unless it is compelled to reject them; to disregard artificial distinctions, and refer all things to natural standards, consequently to honour things because they are natural and exist. Thus we find our way to the centre of what has been called the "materialism" of Whitman—his vindication of the body as it might be more correctly termed. Materialist, in any proper sense of the word, he is not; on the contrary, as Mr. Rossetti has stated, "he is a most strenuous asserter of the soul," but "with the soul, of the body, as its infallible associate and vehicle in the present frame of things." And as every faculty of the soul seems admirable and sacred to him, so does every organ and function and natural act of the body. But Whitman is a poet; it is not his manner to preach doctrines in an abstract form, by means of a general statement; and the doctrine, which seems to him of vital importance, that a healthy, perfect body—male or female—is altogether worthy of honour, admiration, and desire, is accordingly preached with fulness and plainness of detail. The head of his offending with many who read, and who refuse to read him, lies of course here. That lurking piece of asceticism, not yet cast out of most of us, which hints that there is something peculiarly shameful in the desire of the sexes for one another, of the man for the woman, and of the woman for the man, will certainly find matter enough of offence in one short section of "Leaves of Grass", that entitled "Children of Adam." And one admission must be made to Whitman's disadvantage. If there be any class of subjects which it is more truly natural, more truly human <hi rend="italic">not</hi> to speak of than to speak of (such speech producing self-consciousness, whereas part of our nature, it may be maintained, is healthy only while it lives and moves in holy blindness and unconsciousness of self), if there be any sphere of silence, then Whitman has been guilty of invading that sphere of silence. But he has done this by conviction that it is best to do so, and in a spirit as remote from base curiosity as from insolent licence. He deliberately appropriates a portion of his writings to the subject of the feelings of sex, as he appropriates another, "Calamus," to that of the love of man for man, "adhesiveness," as contrasted with "amativeness," in the nomenclature of Whitman, comradeship apart from all feelings of sex. That article of the poet's creed, which declares that man is very good, that there is nothing about him which is naturally vile or dishonourable, prepares him for absolute familiarity, glad, unabashed familiarity with every part and every act of the body. The ascetic teaching of many Mediæval writers is unfavourable to morality by its essential character: Whitman's may become unfavourable by accident. "As to thy body, thou art viler than muck. Thou wast gotten of so vile matter, and so great filth, that it is shame for to speak, and abomination for to think. Thou shalt be delivered to toads and adders for to eat." "If thou say that thou lovest thy father and thy mother because thou art of their blood and of flesh gotten, so are the worms that come from them day by day. If thou love brethren or sisters or other kindred, because they are of the same flesh of father and mother and of the same blood, by the same reason should thou love a piece of their flesh, if it be shorn away." "All other sins [but wedlock] are nothing but sins, but this is a sin, and besides denaturalizes thee, and dishonours thy body. It soileth thy soul, and maketh it guilty before God, and moreover defileth thy flesh."<ref target="n3" n="3" xml:id="r3"/> These were the views of pious persons of the thirteenth century. Here the body and the soul are kept in remote severance, each one the enemy of the other. Such spirituality, condemned alike by the facts of science and by the healthy natural human instincts, is seen by Whitman to be, even in its modern modifications, profoundly immoral. The lethargy of the soul induces it willingly to take up under some form or another with a theory which directs it heavenwards on the swift wings of devotional aspiration, rather than heavenwards for joy, but also earthwards for laborious duty, to animate, to quicken, to glorify all that apart from it is dull and gross. Both directions of the soul are declared necessary to our complete life by Whitman—the one in solitude, the other in society.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="essay">
+                     <relations>
+                        <work ref="xxx.00524" cert="absolute"/>
+                        <!-- from Democratic Vistas-->
+                     </relations>
+                     <p>"Only in the perfect uncontamination and solitariness of individuality may the spirituality of religion positively come forth at all. Only here, and on such terms, the meditation, the de-vout ecstasy, the soaring flight. Only here, communion with the mysteries, the eternal problems, whence? whither? Alone, and identity, and the mood,—and the soul emerges, and all statements, churches, sermons, melt away like vapours. Alone, and silent thought, and awe, and aspiration,—and then the interior consciousness, like a hitherto unseen inscription, in magic ink, beams out its wondrous lines, to the sense. Bibles may convey, and priests expound, but it is exclusively for the noiseless operation of one's isolated self, to enter the pure ether of veneration, reach the divine levels, and commune with the unutterable."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Then the soul can return to the body, and to the world, and possess them, and infuse its own life into them:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00052" cert="absolute"/>
+                        <!-- from I Sing the Body Electric -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I sing the Body electric;</l>
+                        <l>The armies of those I love engirth me, and I <lb/>engirth them;</l>
+                        <l>They will not let me off till I go with them, <lb/>respond to them,</l>
+                        <l>And discorrupt them, and charge them full <lb/>with the charge of the soul."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Having acknowledged that Whitman at times forgets that the "instinct of silence," as it has been well said, "is a beautiful, imperishable part of nature," and consequently that Whitman in a few passages falls below humanity, falls even below the modesty of brutes, everything has been acknowledged, and it ought not to be forgotten that no one asserts more strenuously than does Whitman the beauty, not indeed of asceticism, but of holiness or healthiness, and the shameful ugliness of unclean thought, desire, and deed. If he does not assert holiness as a duty, it is because he asserts it so strongly as a joy and a desire, and because he loves to see all duties transfigured into the glowing forms of joys and of desires. The healthy repose and continence, and the healthy eagerness and gratification of appetite, are equally sources of satisfaction to him. If in some of his lyrical passages there seems entire self-abandonment to passion, it is because he believes there are, to borrow his own phrase, "native moments," in which the desires receive permission from the supreme authority, conscience, to satisfy themselves completely:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00051" cert="absolute"/>
+                        <!-- from From Pent-up Aching Rivers -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"From the master—the pilot I yield the vessel to;</l>
+                        <l>The general commanding me, commanding all <lb/>—from him permission taking."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- can't track down source for large quote in the following paragraph -->
+
+         <p>Whitman's most naked physical descriptions and enumerations are those of a robust, vigorous, clean man, enamoured of living, unashamed of body as he is unashamed of soul, absolutely free from pruriency of imagination, absolutely inexperienced in the artificial excitements and enhancements of jaded lusts. "I feel deeply persuaded," writes one of Whitman's critics who has received the impression of his mind most completely and faithfully,<ref target="n4" n="4" xml:id="r4"/> "that a perfectly fearless, candid, ennobling treatment of the life of the body (so inextricably intertwined with, so potent in its influence on the life of the soul), will prove of inestimable value to all earnest and aspiring natures, impatient of the folly of the long prevalent belief that it is because of the greatness of the spirit that it has learned to despise the body, and to ignore its influences; knowing well that it is, on the contrary, just because the spirit is not great enough, not healthy and vigorous enough, to transfuse itself into the life of the body, elevating that and making it holy with its own triumphant intensity; knowing too how the body avenges this by dragging the soul down to the level assigned itself. Whereas the spirit must lovingly embrace the body, as the roots of a tree embrace the ground, drawing thence rich nourishment, warmth, impulse. Or rather the body is itself the root of the soul—that whereby it grows and feeds. The great tide of healthful life that carries all before it must surge through the whole man, not beat to and fro in one corner of his brain. 'O the life of my senses and flesh, transcending my senses and flesh.' For the sake of all that is highest, a truthful recognition of this life, and especially of that of it which underlies the fundamental ties of humanity—the love of husband and wife, fatherhood, motherhood—is needed."</p>
+
+         <p>The body then is not given authority over the soul by Whitman. Precisely as in the life of the nation a great material civilization seems admirable to him and worthy of honour, yet of little value in comparison with or apart from a great spiritual civilization, a noble national character, so in the life of the individual all that is external, material, sensuous, is estimated by the worth of what it can give to the soul. No Hebrew ever maintained the rights of the spiritual more absolutely. But towards certain parts of our nature, although in the poet's creed their rights are dogmatically laid down, he is practically unjust. The tendencies of his own nature lead him in his preaching to sink unduly certain articles of his creed. The logical faculty, in particular, is almost an offence to Whitman. The processes of reasoning appear to him to have elaboration for their characteristic, and nothing elaborated or manufactured seems of equal reality with what is natural and has grown. Truth he feels to be, as Wordsworth has said, "a motion or a shape instinct with vital functions;" and were Whitman to seek for formal proof of such truth, he, like Wordsworth, would lose all feeling of conviction, and yield up moral questions in despair. "A slumbering woman and child convince as an university course can never convince:"</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Logic and sermons never convince,</l>
+                        <l>The damp of the night drives deeper into my <lb/>soul."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Whitman becomes lyrical in presence of the imagination attempting for itself an interpretation of the problems of the world; he becomes lyrical in presence of gratified senses and desires; but he remains indifferent in presence of the understanding searching after conclusions. There is something like intolerance or want of comprehensiveness here; one's heart, touched by the injustice, rises to take the part of this patient, serviceable, despised understanding.</p>
+
+         <p>Whitman, as we have seen, accepts the persons of all men, but for a certain make of manhood he manifests a marked preference. The reader can guess pretty correctly from what has gone before what manner of man best satisfies the desires of the poet, and makes him happiest by his presence; and what is the poet's ideal of human character. The man possessed of the largest mass of manhood, manhood of the most natural quality, unelaborated, undistilled, freely displaying itself, is he towards whom Whitman is instinctively attracted. The heroes honoured by the art of an aristocracy are ideal, not naturalistic. Their characters are laboriously formed after a noble model, tempered as steel is tempered, welded together and wrought into permanent shape as their armour is. The qualities which differentiate them from most men are insisted upon. They are as little a growth of nature (in the vulgar sense of the word <hi rend="italic">nature</hi>) as is a statue. Corneille's stoical heroes, for example, are the work of a great <hi rend="italic">art</hi> applied to human character. Our true nature can indeed only be brought to light by such art processes, but there is an art which works with nature, and another art which endeavours to supersede it. Only through culture, only through the strenuous effort to conceive things at their best, not as they are, but as they may and ought to be, only through the persistent effort to constrain them to their ideal (that is their most real) shapes, can human character and human society and the works of man become truly natural. Such art does not supersede nature, but is rather nature obtaining its most perfect expression through the consciousness of man. So declares Polixenes in <hi rend="italic">A Winter's Tale</hi>:—</p>
+
+         <q who="Shakespeare">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+<!-- from A Winter's Tale, IV. 89 -->
+<!-- Did not verify this quote -->
+                     <lg type="linegroup">
+                        <l rend="indented3">"Nature is made better by no mean,</l>
+                        <l>But nature makes that mean; so, over that art,</l>
+                        <l>Which, you say, adds to nature, is an art</l>
+                        <l>That nature makes. You see, sweet maid, we <lb/>marry</l>
+                        <l>A gentler scion to the wildest stock;</l>
+                        <l>And make conceive a bark of baser kind By bud of nobler race: This is an art</l>
+                        <l>Which does mend nature—change it rather: but</l>
+                        <l>The art itself is nature."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Whitman has not failed to perceive this truth, but he fears that it may be abused. Meddling with nature is a dangerous process. Any idea or model, after which we attempt to shape our humanity, must proceed from some <hi rend="italic">view</hi> of human nature, and our <hi rend="italic">views</hi> are too often formal and contracted, manufactures turned out of the workshop of the intellect, of which the ultimate product cannot but be a formal and contracted character. But human nature itself is large and incalculable; and, if allowed to grow unconstrained and unperverted, it will exhibit the superb vitality and the unimpeachable rectitude of the perfect animal or blossoming tree. Using <hi rend="italic">natural</hi>, then, in the vulgar sense, there are some men more than others a part of nature; men not modelled after an idea remote from the instincts of manhood; vigorous children of the earth, of wholesome activity, passionate, gay, defiant, proud, curious, free, hospitable, courageous, friendly, wilful. In such men Whitman sees the stuff of all that is most precious in humanity. "Powerful uneducated persons" are the comrades he loves to consort with:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I am enamour'd of growing outdoors;</l>
+                        <l>Of men that live among cattle, or taste of the <lb/>ocean, or woods;</l>
+                        <l>Of the builders and steerers of ships, and the <lb/>wielders of axes and mauls, and the drivers <lb/>of horses;</l>
+                        <l>I can eat and sleep with them week in and week <lb/>out."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>These are certainly not the persons who engage the imagination in the literature of an aristocracy.</p>
+
+         <!-- Did not attempt to encode the numerous quotes woven throughout the following paragraph -->
+         <p>It must not, however, be supposed that Whitman sets himself against culture. He would, on the contrary, studiously promote culture, but a culture which has another ideal of character than that growth of feudal aristocracies, and which, accepting the old perennial elements of noblest manhood, combines them "into groups, unities appropriate to the modern, the democratic, the West." No conception of manhood can be appropriate unless it be of a kind which is suitable not to the uses of a single class or caste, but to those of the high average of men. The qualities of character which are judged of most value by the democratic standard are not extraordinary, rare, exceptional qualities; the typical personality, which the culture sets before itself as its ideal, is one attainable by the average man. The most precious is ever in the common. Such a culture, Whitman holds, will be that of "the manly and courageous instincts, and loving perceptions, and of self-respect." Central in the character of the ideal man is the simple, unsophisticated Conscience, the primary moral element. "If I were asked to specify in what quarter lie the grounds of darkest dread, respecting the America of our hopes, I should have to point to this particular…. Our triumphant, modern Civilizee, with his all-schooling, and his wondrous appliances, will still show himself but an amputation while this deficiency remains." If Whitman appears to be antagonistic to culture, as we commonly understand or misunderstand the term, to refinement, intellectual acquisition, multiform and delicate sympathies, the critical spirit, it is "not for absolute reasons, but current ones." In our times, he believes, refinement and delicatesse "threaten to eat us up like a cancer…. To prune, gather, trim, conform, and ever cram and stuff, is the pressure of our days…. Never, in the Old World, was thoroughly upholstered Exterior Appearance and show, mental and other, built entirely on the idea of caste, and on the sufficiency of mere outside acquisition—never were glibness, verbal intellect more the test, the emulation—more loftily elevated as head and sample,—than they are on the surface of our Republican States this day." In antagonism to the conception of culture which bears such fruit as this, Whitman desires one which, true child of America, shall bring joy to its mother, "recruiting myriads of men, able, natural, perceptive, tolerant, devout, real men, alive and full." In like manner Whitman's portraits of models of womanly Personality—the young American woman who works for herself and others, who dashes out more and more into real hardy life, who holds her own with unvarying coolness and decorum, who will compare, any day, with superior carpenters, farmers, "and even boatmen and drivers," not losing all the while the charm, the indescribable perfume of genuine womanhood, or that resplendent person down on Long Island, known as the Peacemaker, well toward eighty years old, of happy and sunny temperament, a sight to draw near and look upon with her large figure, her profuse snow-white hair, dark eyes, clear complexion, sweet breath, and peculiar personal magnetism—these portraits, he admits, are frightfully out of line from the imported Feudal models—"the stock feminine characters of the current novelists, or of the foreign court poems (Ophelias, Enids, Princesses, or Ladies of one thing or another), which fill the envying dreams of so many poor girls, and are accepted by our young men, too, as supreme ideals of female excellence to be sought after. But I present mine just for a change."</p>
+
+         <p>In the period of chivalry there existed a beautiful relation between man and man, of which no trace remains in existence as an institution—that of knight and squire. The protecting, encouraging, downward glance of the elder, experienced, and superior man was answered by the admiring and aspiring, upward gaze of the younger and inferior. The relation was founded upon inequality; from the inequality of the parties its essential beauty was derived. Is there any possible relation of no less beauty, corresponding to the new condition of things, and founded upon equality? Yes, there is manly comradeship. Here we catch one of the clearest and most often reiterated notes of Whitman's song. The feelings of equality, individualism, pride, self-maintenance, he would not repress; they are to be as great as the soul is great; but they are to be balanced by the feelings of fraternity, sympathy, self-surrender, comradeship. European Radicals have for the most part been divided into two schools, with the respective watchwords of <hi rend="italic">Equality and Fraternity</hi>. Whitman expresses the sentiments of both schools, while his position as poet rather than theorist or politician, saves him from self-devotion to any such socialistic or communistic schemes, as the premature interpretation of the feeling of fraternity into political institutions has given birth to in untimely abortion. One division of "Leaves of Grass", that entitled "Calamus" (Calamus being the grass with largest and hardiest spears and with fresh pungent <hi rend="italic">bouquet</hi>), is appropriated to the theme of comradeship. And to us it seems impossible to read the poems comprised under this head without finding our interest in the poet Walt Whitman fast changing into hearty love of the man, these poems, through their tender reserves and concealments and betrayals, revealing his heart in its weakness and its strength more than any others. The chord of feeling which he strikes may be old—as old as David and Jonathan—but a fulness and peculiarity of tone are brought out, the like of which have not been heard before. For this love of man for man, as Whitman dreams of it, or rather confidently expects it, is to be no rare, no exceptional emotion, making its possessors illustrious by its singular preciousness, but it is to be widespread, common, unnoticeable.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00090" cert="absolute"/>
+                        <!-- I Hear It was Charged against Me -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I hear it was charged against me that I <lb/>sought to destroy institutions;</l>
+                        <l>But really I am neither for nor against <choice><orig>insti-<lb/>tutions</orig><reg>institutions</reg></choice>:</l>
+                        <l>(What indeed have I in common with them? <lb/>Or what with the destruction of them?)</l>
+                        <l>Only I will establish in the Mannahatta, and <lb/>in every city of These States, inland and <lb/>seaboard,</l>
+                        <l>And in the fields and woods, and above every keel, little or large, that dents the water,</l>
+                        <l>Without edifices, or rules, or trustees, or any <lb/>argument,</l>
+                        <l>The institution of the dear love of comrades."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>In this growth of America, comradeship, which Whitman looks upon as a sure growth from seed already lying in the soil, he believes the most substantial hope and safety of the States will be found. In it he sees a power capable of counterbalancing the materialism, the selfishness, the vulgarity of American democracy—a power capable of spiritualizing the lives of American men. Many, Whitman is aware, will regard this assurance of his as a dream; but such loving comradeship seems to him implied in the very existence of a democracy, "without which it will be incomplete, in vain, and incapable of perpetuating itself." In the following poem the tenderness and ardour of this love of man for man finds expression, but not its glad activity, its joyous fronting the stress and tumultuous agitation of life:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00080" cert="absolute"/>
+                        <!-- from When I heard at the close of the day -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"When I heard at the close of the day how my <lb/>name had been receiv'd with plaudits in <lb/>the capitol, still it was not a happy <lb/>night for me that follow'd;</l>
+                        <l>And else, when I carous'd, or when my plans <lb/>were accomplished, still I was not happy;</l>
+                        <l>But the day when I rose at dawn from the <lb/>bed of perfect health, refresh'd, singing, <lb/>inhaling the ripe breath of autumn,</l>
+                        <l>When I saw the full moon in the west grow <lb/>pale and disappear in the morning light,</l>
+                        <l>When I wander'd alone over the beach, and <lb/>undressing, bathed, laughing with the <lb/>cool waters, and saw the sun rise,</l>
+                        <l>And when I thought how my dear friend, my <lb/>lover, was on his way coming, O then I <lb/>was happy;</l>
+                        <l>O then each breath tasted sweeter—and all <lb/>that day my food nourish'd me more— <lb/>and the beautiful day pass'd well,</l>
+                        <l>And the next came with equal joy—and with <lb/>the next at evening, came my friend;</l>
+                        <l>And that night, while all was still, I heard <lb/>the waters roll slowly continually up the <lb/>shores,</l>
+                        <l>I heard the hissing rustle of the liquid and <lb/>sands, as directed to me, whispering, to <lb/>congratulate me,</l>
+                        <l>For the one I love most lay sleeping by me <lb/>under the same cover in the cool night,</l>
+                        <l>In the stillness, in the autumn moonbeams, <lb/>his face was inclined toward me,</l>
+                        <l>And his arm lay lightly around my breast— <lb/>and that night I was happy."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Various workings in the poems of Whitman of the influence of the principle of equality as realized in the society which surrounds him have now been traced. No portion of the poet's body of thought and emotion escapes its pervading power, and in a direct and indirect manner it has contributed to determine the character of his feeling with respect to external nature. In the way of crude mysticism Whitman takes pleasure in asserting the equality of all natural objects, and forces, and processes, each being as mysterious and wonderful, each as admirable and beautiful as every other; and as the multitude of men and women, so, on occasions, does the multitude of animals, and trees, and flowers press into his poems with the same absence of selection, the same assertion of equal rights, the same unsearchableness, and sanctity, and beauty, apparent or concealed in all. By another working of the same democratic influence (each man finding in the world what he cares to find) Whitman discovers everywhere in nature the same qualities, or types of the same qualities which he admires most in men. For his imagination the powers of the earth do not incarnate themselves in the forms of god and demi-god, faun and satyr, oread, dryad, and nymph of river and sea—meet associates, allies or antagonists of the heroes of an age, when the chiefs and shepherds of the people were themselves almost demi- gods. But the great Mother—the Earth—is one in character with her children of the democracy, who, at last, as the poet holds, have learned to live and work in her great style. She is tolerant, includes diversity, refuses nothing, shuts no one out; she is powerful, full of vitality, generous, proud, perfect in natural rectitude, does not discuss her duty to God, never apologizes, does not argue, is incomprehensible, silent, coarse, productive, charitable, rich in the organs and instincts of sex, and at the same time continent and chaste. The grass Whitman loves as much as did Chaucer himself; but his love has a certain spiritual significance which Chaucer's had not. It is not the "soft, swete, smale grass," embroidered with flowers, a fitting carpet for the feet of glad knights and sportive ladies, for which he cares. In the grass he beholds the democracy of the fields, earthborn, with close and copious companionship of blades, each blade like every other, and equal to every other, spreading in all directions with lusty life, blown upon by the open air, "coarse, sunlit, fresh, nutritious." The peculiar title of his most important volume, "Leaves of Grass", as Mr. Rossetti has finely observed, "seems to express with some aptness the simplicity, universality, and spontaneity of the poems to which it is applied."</p>
+
+         <p>The character of Whitman's feeling with respect to external nature bears witness to the joyous bodily health of the man. His communication with the earth, and sea, and skies, is carried on through senses that are never torpid, and never overwrought beyond the measure of health. He presses close to nature, and will not be satisfied with shy glances or a distant greeting. He enjoys the strong sensations of a vigorous nervous system, and the rest and recuperation which follow. His self-projections into external objects are never morbid; when he employs the "pathetic fallacy" the world shares in his joyousness; he does not hear in the voices of the waters or of the winds echoes of a miserable egotism, the moan of wounded vanity, or the crying of insatiable lust. He is sane and vigorous. But his relation with nature is not one in which the senses and perceptive faculty have a predominant share. He passes through the visible and sensible things, and pursues an invisible somewhat—</p>
+
+         <q who="Wordsworth">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+<!-- TINTERN ABBEY,  -->
+                     <lg type="linegroup">
+<!-- Did not verify accuracy of quote -->
+                        <l>"A motion and a spirit that impels</l>
+                        <l>All thinking things, all objects of all thought,</l>
+                        <l>And rolls through all things;"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>and of this he can never quite possess himself. "There is [in his poems] a singular interchange of actuality and of ideal substratum and suggestion. While he sees men with even abnormal exactness as men, he sees them also 'as trees walking,' and admits us to perceive that the whole show is in a measure spectral and unsubstantial, and the mask of a larger and profounder reality beneath it, of which it is giving perpetual intimations and auguries."<ref target="n5" n="5" xml:id="r5"/>
+         </p>
+
+         <p>In the direction of religion and philosophy there is in the democratic state of society a strong tendency, as De Tocqueville has shown, towards a pantheistic form of belief, and a strong tendency towards the spirit of optimism. The equality existing between citizens, and the habit of mind which refuses to observe the ancient artificial social distinctions, give the general intellect a turn for reducing things to unity, a passion for comprehending under one formula many objects, and reducing to one cause many and various consequences.<ref target="n6" n="6" xml:id="r6"/> Where castes or classes of society exist, one caste or class seems to object singularly little to the perdition of the inferior breeds of the human race—"this people who knoweth not the law are cursed." The Hindú could contemplate the fate of a Mlechha, the Jew, that of a Gentile, the Mahommedan, that of a Giaur, without overwhelming concern. But when the vision of a common life of the whole human race has filled the imagination, when a real feeling of solidarity is established between all the members of the great human community, the mind seems to shrink in horror from the suspicion that the final purposes of God or nature, with respect to man, can be other than beneficent. Society, in the democratic condition, is not fixed and desirous of conservation, but perpetually moving, and men's desires (apart from the results of scientific observation) induce them to hope, to conjecture, to believe that this movement is progressive. Biology and natural history with their doctrine of development and evolution, the science of origins with its surveys of the earliest history of our race seems to confirm the conviction, so flattering to men's desires, that nature and man harmoniously work under laws which tend towards a great and fortunate result. The events of the past are interpreted in the light of this conviction. Faith in the future becomes passionate, exists in the atmosphere, and obtaining nutriment from every wind, appears to sustain itself apart from all evidence—that miracle which belongs to every popular faith. The past progress of the race, the great future of the race to match the greatness of its past, the broad dealings of Providence or of natural law with mankind—when the thoughts of these, and feelings corresponding to such thoughts, have occupied the mind and heart, there appears something not only horrible, but something artificial, inconsequent, non-natural, in the notion of endless and fruitless penal suffering. And it is a noteworthy fact—the more remarkable when we bear in mind the Puritanical basis of American religion—that in the many new forms of religion which America has put forth as a tree puts forth leaves, in the many attempts towards the realization of a new conception of our relation to God and to one another, an almost constant element is the belief in the final happiness of all men.</p>
+
+         <p>The religious faith of Whitman, as far as it has definite form, reminds one of that taught in the Pedagogic Institution of Wilhelm Meister's <hi rend="italic">Wanderjahre</hi>, in which from the Three Reverences inculcated, reverence for what is above us, reverence for what is around us, reverence for what is beneath us, springs the highest reverence, reverence for oneself. And with Whitman as with the Pedagogic company perfect reverence casts out fear. But he is not anxious to give his creed a precise form; he is so little interested in the exclusion of heretics that he does not require very accurate symbols and definitions.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"And I say to mankind, Be not curious about <lb/>God,</l>
+                        <l>For I, who am curious about each, am not <choice><orig>curi-<lb/>ous</orig><reg>curious</reg></choice> about God,</l>
+                        <l>(No array of terms can say how much I am at <lb/>peace about God, and about death)."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Finding the present great and beautiful, contented with the past, but not driven into the past to seek for ideals of human character, and a lost golden age, Whitman has entire confidence in what the future will bring forth. He knows not what the purposes of life are for us, but he knows that they are good. Nowhere in nature can he find announcements of despair, or fixity of evil condition. He is sure that in the end all will be well with the whole family of men, and with every individual of it. The deformed person, the mean man, the infant who died at birth, the "sacred idiot," will certainly be brought up with the advancing company of men from whose ranks they have dropped:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00271" cert="absolute"/>
+                        <!-- from Faces -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The Lord advances, and yet advances;</l>
+                        <l>Always the shadow in front—always the reach'd <lb/>hand, bringing up the laggards."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>At times this optimism leads Whitman to the entire denial of evil; "he contemplates evil as, in some sense, not existing, or, if existing, then as being of as much importance as anything else;" in some transcendental way, he believes, the opposition of God and Satan cannot really exist. Practically, however, he is not led astray by any such transcendental reducing of all things to the Divine. Any tendency of a mystical kind to ignore the distinction between good and evil, is checked by his strong democratic sense of the supreme importance of personal qualities, and the inevitable perception of the superiority of virtuous over vicious personal qualities. By one who feels profoundly that the differences between men are determined, not by rank, or birth, or hereditary name or title, but simply by the different powers belonging to the bodies and souls of men, there is small danger of the meaning of <hi rend="italic">bad</hi> and <hi rend="italic">good</hi> being forgotten. And Whitman never really forgets this. The formation of a noble national character, to be itself the source of all literature, art, statesmanship, is that which above all else he desires. In that character the element of religion must, according to Whitman's ideal, occupy an important place, only inferior to that assigned to moral soundness, to conscience. "We want, for These States, for the general character, a cheerful, religious fervour, imbued with the ever- present modifications of the human emotions, friendship, benevolence, with a fair field for scientific inquiry [to check fanaticism], the right of individual judgment, and always the cooling influences of material Nature." These are not the words of one who moves the landmarks of right and wrong, and obscures their boundaries. For Whitman the worth of any man is simply the worth of his body and soul; each gift of nature, product of industry, and creation of art, is valuable in his eyes exactly in proportion to what it can afford for the benefit of body and soul. Only what belongs to these, and becomes a part of them, properly belongs to us—the rest is mere "material." This mode of estimating values is very revolutionary, but to us it seems essentially just and moral. The rich man is not he who has accumulated unappropriated matter around him, but he who possesses much of what "adheres, and goes forward, and is not dropped by death."</p>
+
+         <p>Personality, character, is that which death cannot affect. Here again Whitman's democratic feeling for personality over-masters his democratic tendency towards pantheism. He clings to his identity and his consciousness of it, and will not be tempted to surrender that consciousness in imagination by the attractions of any form of <hi rend="italic">nirvana</hi>. Death, which is a name to him full of delicious tenderness and mystery not without some element of sensuousness curiously blended with it—("O the beautiful touch of Death, soothing and benumbing a few moments, for reasons"), is but a solemn and immortal birth:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!-- from When Lilacs Last in the Dooryard Bloom'd -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Dark Mother, always gliding near, with soft <lb/>feet,</l>
+                        <l>Have none chanted for thee a chant of fullest <lb/>welcome?</l>
+                        <l>Then I chant it for thee—I glorify thee above <lb/>all;</l>
+                        <l>I bring thee a song that when thou must <choice><orig>in-<lb/>deed</orig><reg>indeed</reg></choice> come, come unfalteringly."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>From such indications as these, and others that have gone before, the reader must gather, as best he can, the nature of Whitman's religious faith. But the chief thing to bear in mind is that Whitman cares far less to establish propositions than to arouse energy and supply a stimulus. His pupil must part from him as soon as possible, and go upon his own way.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I tramp a perpetual journey—(come listen all!)</l>
+                        <l>My signs are a rain-proof coat, good shoes, and <lb/>a staff cut from the woods;</l>
+                        <l>No friend of mine takes his ease in my chair;</l>
+                        <l>I have no chair, no church, no philosophy;</l>
+                        <l>I lead no man to a dinner-table, library, or <choice><orig>ex-<lb/>change</orig><reg>exchange</reg></choice>;</l>
+                        <l>But each man and each woman of you I lead <lb/>upon a knoll,</l>
+                        <l>My left hand hooking you round the waist,</l>
+                        <l>My right hand pointing to landscapes of <choice><orig>conti-<lb/>nents</orig><reg>continents</reg></choice>, and a plain public road."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>That plain public road each man must travel for himself.</p>
+
+         <p>Here we must end. We have not argued the question which many persons are most desirous to put about Walt Whitman—"Is he a poet at all?" It is not easy to argue such a question in a profitable way. One thing only need here be said,—no adequate impression of Whitman's poetical power can be obtained from this article. A single side of his mind and of his work has been studied, but we have written with an abiding remembrance of the truth expressed by Vauvenargues:—"Lorsque nous croyons tenir la vérité&#x82; par un endroit, elle nous échappe par mille autres."<ref target="n7" n="7" xml:id="r7"/>
+         </p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">"A Greek head on right Yankee shoulders."—L<hi rend="smallcaps">OWELL</hi>.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">"Democracy in America," vol. iii. p. 115, ed. 1840.</note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="3">Quotations from the "Mirror of S. Edmund" and "Hali Meidenhead," published by the Early English Text Society.</note>
+
+               <note type="editorial" target="r4" xml:id="n4" n="4">"A Woman's Estimate of Walt Whitman." From late letters by an English Lady to W. M. Rossetti. "The Radical," May, 1870.</note>
+
+               <note type="editorial" target="r5" xml:id="n5" n="5">W. M. Rossetti. Prefatory notice to "Poems by Walt Whitman."</note>
+
+               <note type="editorial" target="r6" xml:id="n6" n="6">See "La Démocratie en Amérique," tome 3, chaps. vii. viii.</note>
+
+               <note type="editorial" target="r7" xml:id="n7" n="7">Since this article was begun another original voice has been heard from America. It would have been interesting to have compared, or rather contrasted (for they are far more unlike than like), the poems of Joaquin Miller with those of Whitman. Miller represents a barbaric age, and barbaric virtues, with an ancient civilization, that of Spain and Mexico, in the background. The Californian digger, the filibuster chief, the woman of the Indian tribes, are represented in the "Songs of the Sierras" as never before in American poetry. But in New York their author saw nothing except "a great place for cheap books, and a big den of small thieves." Whitman seeing this, sees also much beside this. In reading Miller's poems we are haunted by two lines of Whitman, in which his affinities with the South find expression:—
+
+<q>
+                     <floatingText>
+                        <body>
+                           <lg type="poem">
+                              <l>"O magnet South! O glistening, perfumed <lb/>South! my South!</l>
+                              <l>O quick mettle, rich blood, impulse and love! <lb/>good and evil! O all dear to me!"</l>
+                           </lg>
+                        </body>
+                     </floatingText>
+                  </q> 
+
+                  <p>What Whitman names hero in abstractions, Miller represents embodied in the characters of individual men and women.</p>
+               </note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

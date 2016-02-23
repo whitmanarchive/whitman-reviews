@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00245">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poems">Walt Whitman's Poetry</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00245</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman's Poetry</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Leeds Mercury</title>
+                  <imprint>
+                     <date when="1886-10-09">9 October 1886</date>
+                     <biblScope type="pages">6</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#vs" when="2008-02-13">copied and encoded from original</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN'S POETRY. <!-- [Review of Poems of Walt Whitman (1886)] --> </head>
+
+         <p>What a whirl of "new editions" we are in! Perhaps we must not complain—especially in those cases where the new edition is brought, by its price, within the reach of millions, instead of only thousands—if, when we turn them over, we find most disappointing omissions. Here is a new edition of the "Poems of Walt Whitman" (published by Chatto and Windus), selected and edited by William Michael Rossetti. It is of convenient bulk, and excellent in paper and type and binding; and we must be thankful, even though there be nothing added to it from the volumes Walt Whitman has published since 1868. Mr. Rossetti is a most loyal and charitable interpreter of this most unmelodious and unrhythmical of poets; this strong, self-assured man, who "entertains and professes respecting himself the grave conviction that he is the actual and prospective founder of a new poetic literature and a great one—a literature proportioned to the material vastness and the unmeasured destinies of America; he believes that the Columbus of the Continent, or the Washington of the States, was not more truly than himself in the future a founder and upbuilder of this America. Surely a sublime conviction, and expressed more than once in magnificent words—none more so than in the following poem"— "Love of Comrades":—</p>
+
+         <!-- From the poem "Love of Comrades" (later titled "For You O Democracy") --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00074" cert="absolute"/>
+                     </relations>
+                     <l>Come, I will make the continent indissoluble;</l>
+                     <l>I will make the most splendid race the sun ever yet <lb/>shone upon!</l>
+                     <l>I will make divine magnetic lands,</l>
+		                   <l rend="indented3">With the love of comrades,</l>
+			                  <l rend="indented4">With the life-long love of comrades.</l>
+                     <l>I will plant companionship thick as trees along all the <lb/>rivers of America, and along the shores of the great <lb/>lakes, and all over the prairies;</l>
+                     <l>I will make inseparable cities, with their arms about each <lb/>other&#x92;s necks;</l>
+		                   <l rend="indented3">By the love of comrades,</l>
+			                  <l rend="indented4">By the manly love of comrades.</l>
+                     <l>For you these, from me, O Democracy, to serve you <hi rend="italic">ma</hi> 
+                        <lb/>
+                        <hi rend="italic">femme!</hi>
+                     </l>
+                     <l>For you! for you, I am trilling these songs,</l>
+		                   <l rend="indented3">In the love of comrades,</l>
+			                  <l rend="indented4">In the high-towering love of comrades.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Mr. Rossetti believes that this idea of himself "is true, if not absolutely, yet with a most genuine and substantial approximation." He believes that Whitman "is one of the huge, as yet mainly unrecognized, forces of our time; privileged to evoke, in a country hitherto still asking for its poet, a fresh, athletic, and American poetry, and predestined to be traced up to by generation after generation of believing and ardent—let us hope not servile—disciples. 'Poets are the unacknowledged legislators of the world.' Shelley, who knew what he was talking about when poetry was the subject, has said it, and with a profundity of truth. Whitman seems in a peculiar degree marked out for 'legislation' of the kind referred to. His voice will one day be potential or magisterial wherever the English language is spoken—that is to say, in the four corners of the earth; and in his own American hemisphere, the uttermost avatars of democracy will confess him not more their announcer than their inspirer."</p>
+
+         <p>Great is Walt Whitman, therefore, and W. M. Rossetti is his prophet. All the prophet says about his master may be well judged and true. We are glad we have no need to say it is or it is not. What we do say is that much beauty and much strength are in these poems; but the beauty is often very far to seek, and the strength is often provokingly tedious in its self-manifestations, and we heartily echo the hope of Mr. Rossetti that Whitman's "disciples" in the future will not be "servile." The only poem—assuredly a beautiful one—in the whole collection which can be called rhythmical (and there are in it also some rhymes) is the one "For the Death of Lincoln":</p>
+
+         <!-- From the poem "O Captain! my Captain!" --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00218" cert="absolute"/>
+                     </relations>
+                     <l>O Captain! my Captain! our fearful trip is done.</l>
+                     <l>The ship has weathered every wrack, the prize we sought<lb/>is won;</l>
+                     <l>The port is near, the bells I hear, the people all exulting,</l>
+                     <l>While follow eyes the steady keel, the vessel grim and<lb/>daring;</l>
+                     <l rend="indented4">But O heart! heart! heart!</l>
+                     <l rend="indented4">Leave you not the little spot</l>
+                     <l rend="indented4">Where on the deck my Captain lies,</l>
+                     <l rend="indented4">Fallen cold and dead.</l>
+                     <l>O Captain! my Captain! rise up and hear the bells!</l>
+                     <l>Rise up! for you the flag is flung, for you the bugle trills:</l>
+                     <l>For you bouquets and ribboned wreaths, for you the shores<lb/>a-crowding:</l>
+                     <l>For you they call, the swaying mass, their eager faces <lb/>turning.</l>
+                     <l rend="indented4">O Captain! dear father!</l>
+                     <l rend="indented4">This arm I push beneath you.</l>
+                     <l rend="indented4">It is some dream that on the dock</l>
+                     <l rend="indented4">You've fallen cold and dead!</l>
+                     <l>My Captain does not answer, his lips are pale and still:</l>
+                     <l>My father does not feel my arm, he has no pulse nor will.</l>
+                     <l>But the ship, the ship is anchored safe, its voyage closed<lb/>and done:</l>
+                     <l>From fearful trip the victorship comes in with object won!</l>
+                     <l rend="indented4">Exult, O shores, and ring, O bells!</l>
+                     <l rend="indented4">But I, with silent trade,</l>
+                     <l rend="indented4">Walk the spot my Captain lies,</l>
+                     <l rend="indented4">Fallen cold and dead.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+
+         <p>In this and in "President Lincoln's Funeral Hymn" Whitman is really at his best as a poet; and in some of the "Drum Taps," which are the outcome of his brotherly and tender devotion to the wounded soldiers of the North during the great war, the pathos that breathes up through the great jagged lines and sentences is an almost startling revelation of the warmth and depth of his nature. We are not sure that the prose "Preface to Leaves of Grass" is not greater than anything else he has written. It deserves to be read, and it can be read more easily than many of the poems.</p>
+
+
+      </body>
+   </text>
+</TEI>

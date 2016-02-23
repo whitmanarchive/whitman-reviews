@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00208">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Walt Whitman, a Kosmos</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00208</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman, a Kosmos</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Springfield Sunday Republican</title>
+                  <imprint>
+                     <date when="1881-11-13">13 November 1881</date>
+                     <biblScope type="pages">4</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-01">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt Whitman, a Kosmos. <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head>
+
+         <p>To make a mark on the sands of life in this busiest, windiest and most tidal period of the world's history, and to keep that mark fresh and deepening for seven-and-twenty years, is no little achievement for an American author. This Whitman has done, and something more than this. When in 1855 he printed with his own hands his odd and sprawling lines of his "Leaves of Grass" (a few copies, long since out of print, though hardly any one bought them), he announced himself to the world as a poet, and he has never since taken down his sign. He still carries on business at the own stand; still "sounds his barbaric yawp over the roofs of the world." But now instead of six readers he has six thousand, or perhaps six hundred thousand and the back countries have not all been heard from yet. That they understand him we would not guarantee—he does not understand himself always; still less did he understand himself when he began to write. He put to sea on a raft and his only compass was a looking-glass, but he has made as good a voyage on the whole as if he had sailed in the Great Eastern with all the compasses and chronometers and astronomers on board.</p>
+
+         <q who="Pindar" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Were it the will of heaven an osier bough</l>
+                        <l>Were vessel strong enough the seas to plow."<ref target="n1" n="1" xml:id="r1"/>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>So said Pindar, only more shortly,—and Whitman has verified the oracle. Courage and trust are the best outfit for a poet, it seems; they are worth all the colleges and libraries in the world. The world itself is the poet's library, and Whitman has had a card to that collection; he has even attempted a catalogue; but like all library catalogues it grows beyond his power to list and index. </p>
+	
+         <p>There is a lawless saying, fit only for the wise, but full of meaning for poets and great captains,—</p>
+
+         <q who="anonymous" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Oft have I heard, and deem the witness true,</l>
+                        <l>Whom man delights in, God delights in too."<ref target="n2" n="2" xml:id="r2"/>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>But the career of pleasure and admiration which is only possible to power soon finds its limits in human experience, and must be corrected by the sharp lessons of sorrow and mortification,—must be continued, if at all, by the completest self-renunciation and trust in the unseen powers. This discipline Whitman has had, it would seem, and has profited by it. His later poems are not quite in the key of his earlier; they have a more serious and religious tone; and their light is thrown back on the dangerous utterances of his youth. He has not rejected these utterances,—has indeed preserved most of them in this new volume,-but has softened them, changed their connection and brought them into a better accord with a life of service to mankind, such as the poet's must be if he would live beyond his own age. Consequently this book will be received, we fancy, as none of Whitman's former books have been. It will no longer be a work prohibited, but, in spite of many passages which must always keep it from a familiar place on the table, and from the perfect liberty of unformed judgments,—it will find its way into all good libraries and into many homes. For the civil war made Whitman a domestic poet, which he had hardly been before. The clear recognition and pathetic portrayal of the home affection in the Americans, not less than their patriotism and devotion to democracy, gives "Drum Taps" an affectionate place in the hearts of his readers. The philosophy of "Leaves of Grass" was oriental,—grand, but peculiar, and to the multitude either irreligious or suspicious,—but this was changed in the war-poems into a spirit which the multitude could understand, because they shared it,—which, indeed, was born of the multitude and possessed Whitman as one of the many, not as among the few. Another change noticeable in him at that time and since affected his meter and the melody of his verse. The measure of the old chapters in "Leaves of Grass" can hardly be called a meter at all: what rhythm it had was rather like the rhythm of Hebrew poetry, in the antithesis or repetition of ideas, not in the harmonious arrangement of words. But it would seem as if the music of the regiments:—</p>
+
+         <q who="John Milton" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Sonorous metal blowing martial sound,"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>had suggested to Whitman a new movement for his lines.<ref target="n3" n="3" xml:id="r3"/> They soon became measured and choral in their character,—not a set measure, like the <hi rend="italic">tweedle-de-dum</hi>, <hi rend="italic">tweedle-de-dee</hi> of the mediocre poets, but a dithyrambic orchestral movement, responding to chords struck at irregular intervals, and leaving the mind free to catch up the next strain, wherever it might come in. This in part is the secret of the Greek chorus-poetry, to which (though the Greek measures are more balanced and mutually responsive) the war pieces of Whitman, and much of his later poetry, bears a strong resemblance. The book deserves study even as a metrical anomaly, were it not entitled to consideration upon much higher regards.</p>
+	
+         <p>Lofty as any sound estimate of Whitman's book must be, it has faults enough to have long ago destroyed the reputation of any writer who had not something better than singularity to commend him. Concerning these, as well as for a larger consideration of his work and place, we shall take another time to speak. Here we say only that the book is a noble one, and must be so adjudged before any proper discount upon its merits can be made.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">This is from <hi rend="italic">Fragments from Pindar</hi> (1844). Thoreau, Henry David. <hi rend="underline">Translations</hi>. Ed. K.P. Van Anglen. Princeton: Princeton UP, 1986. 129.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">Ralph Waldo Emerson's rendition of a quote he attributed to Pons Capdueil, a medieval French troubadour.</note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="3">Milton, <hi rend="italic">Paradise Lost</hi>, Book I, line 540.</note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

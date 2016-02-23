@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00234">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00234</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Philadelphia Press</title>
+                  <imprint>
+                     <date when="1882-09-11">11 September 1882</date>
+                     <biblScope type="pages">7</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-08-10">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+        
+         
+            <ab>
+               
+                   L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>
+                   
+                  By W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>. 
+                   
+                      One volume.  
+                      12mo.  
+                      (7 5/8 x 5 3/8 in.),  
+                      382 pp., cloth;  
+                      price, $2.  
+                      Philadelphia:  
+                      Rees Welsh &amp; Co.  
+                   
+               
+            </ab>
+         
+
+         <p>"The good gray poet," stands by his colors and indicates his principles. Having been driven from the modern Athens he now appears undimmed and, it is to be hoped, victorious in the neighbor city of his home. The controversy about the morality of his poems need not here be continued. It is a question to which the old motto of the Garter can be well applied—<hi rend="italic">Honi soit qui mal y pense</hi>.<ref target="n1" xml:id="r1" n="1"/> The lewd imagination which would gloat over Whitman's virile lines would find rot to feed on in the best of books. Here, let it be said, however, that Leaves of Grass, as it stands, is not a book for girls or children. It pictures freely or frankly, with-out winking at, the evils in the world—the evils which every man and woman knows exist, and has to face every day. A great part of Whitman's poems is perfectly sound and safe reading for even the tenderest of girlhood. It seems as if it would be worth while to publish for a more indiscriminate public an edition of Leaves of Grass with the sixty or hundred dubious lines omitted. It might injure the perspective of the work from an ideal point of view, but the gain to the young to be able to read the best of Whitman would certainly amply pay for the sacrifice. The Philadelphia issue of Leaves of Grass is identical in make-up to the Osgood edition.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+                  <hi rend="italic">Honi soit qui mal y pense</hi> is a French proverbial expression meaning "shame on him who thinks evil of it."  It is the motto of the Order of the Garter, a distinguished and exclusive English order of knighthood founded by King Edward III in 1348.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

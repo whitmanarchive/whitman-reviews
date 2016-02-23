@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00075">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="rivulets">Walt Whitman's New Book</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Two Rivulets</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Edmund W. Gosse</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00075</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Gosse, Edmund W">Edmund W. Gosse</author>
+                  <title level="a">Walt Whitman's New Book</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Academy</title>
+                  <imprint>
+                     <date when="1876-06-24">24 June 1876</date>
+                     <biblScope type="volume">9</biblScope>
+                     <biblScope type="pages">602-3</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-25">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN'S NEW BOOK. <!-- [Review of Two Rivulets] --></head>
+        
+            <ab>
+               
+                   
+                     <hi rend="italic">Two Rivulets</hi>
+                   
+                  By Walt Whitman. 
+                   
+                      (Camden, 
+                      1876.) 
+                   
+               
+            </ab>
+         
+
+         <p>T<hi rend="smallcaps">HE</hi> new volume by Walt Whitman will not be found to contain any very important illustrations of his theory of poetic composition, or any very original ethical statements, but it throws a good deal of light upon his personal character, and embraces much individual and incidental matter which is of very high interest. In the first place, we fancy that it will be difficult for any sincere critic, desirous of judging without prejudice on either side, to read the "Memoranda during the War" without acknowledging that the author is personally brave and self-sacrificing, and the preface to the whole without admitting that his aims are pure and his belief in his own mission genuine. It has become difficult to speak of Whitman without passion. His opponents expend upon him every term of obloquy, private and public, which their repertory contains; his more extreme admirers claim for him all the respect reserved, long after their deaths, for the founders of successful religions. Between the class that calls Whitman an immoral charlatan bent on the corruption of youth, and the class that accounts him an inspired prophet, sent, among other iconoclastic missions, to abolish the practice of verse, there lies a great gulf. One would like to ask if it be not permitted that one should hold, provisionally, an intermediate position, and consider him a pure man of excellent intentions, to whom certain primitive truths with regard to human life have presented themselves with great vividness, and who has chosen to present them to us in semi-rhythmic, rhetorical language, which rises occasionally, in fervent moments, to a kind of inarticulate poetry, and falls at others into something very inchoate and formless. A wise admirer might even say that the book called Leaves of Grass was intended to give a section, as it were, of the ordinary daily life of a normal man, and therefore properly falls, as every life does, occasionally into shapeless passages of mere commonplace or worse, Poetry proper being always occupied with the rapid and ecstatic moments of life, whether in sorrow or pleasure. The folly of refusing to admit any beauty in Whitman's work seems obvious in the face of a dozen such passages as the famous "Burial Hymn," or the picturesque parts of the rhapsody called "Walt Whitman;" the danger of acknowledging him with too little reserve is best realised if one conceives the dread possibility of the arising of a school of imitators of his tuneless recitative.</p>
+
+         <p>The book before us contains all the small miscellaneous writings of Whitman now collected for the first time. In verse (or recitative) we have the "Passage to India," which appeared in 1872 <note type="project" rend="bracketed">sic</note>, and "As a Strong Bird on Pinions Free," dating from the same year. The prose book called Democratic Vistas was printed in 1871, and all, therefore, which we have to consider here is the opening cluster of rhythmical pieces called "Two Rivulets," the "Centennial Songs," and the prose "Memoranda during the War," all which are now published for the first time. Of the brief but varied contents of the first of these, the most remarkable is a dramatic soliloquy put into the mouth of the dying Columbus, who, sick to death with grief and disappointment, but indomitable still, paces the shores of Jamaica and utters his piteous and majestic lament:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00263" cert="absolute"/>
+                        <!-- from Prayer of Columbus -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I am too full of woe!</l>
+                        <l>Haply<choice><sic></sic><corr>,</corr></choice> I may not live another day;</l> 
+                        <l>I <choice><sic>cannot</sic><corr>can not</corr></choice> rest, O God<choice><sic>,</sic><corr>—</corr></choice>I <choice><sic>cannot</sic><corr>can not</corr></choice> eat</l>
+                        <!-- Line breaks are incorrect in this quotation beginning here -->
+                        <l>Or drink or sleep, till I put forth myself,</l>
+                        <l>My prayer, once more to Thee,</l>
+                        <l>Breathe, bathe myself once more in Thee, commune</l>
+                        <l>With Thee, report myself once more <choice><sic>with </sic><corr>to</corr></choice>Thee."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The division into lines is our own, the sequence of no words being altered, and it will be seen how naturally the slow march falls into scarcely irregular blank verse. This piece, which might take a place among the death-songs of "A Passage to India" may be contrasted with "The Ox-Tamer," a very fine study of life in the West, where</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00254" cert="absolute"/>
+                        <!-- from The Ox-Tamer -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"In a <choice><sic>far-away</sic><corr>faraway</corr></choice> northern county, in the placid, <choice><orig>pas-<lb/>toral</orig><reg>pastoral</reg></choice> region,</l>
+                        <l>Lives my <choice><sic>farmer-friend</sic><corr>farmer friend</corr></choice>, the theme of my recitative, <lb/>a famous Tamer of Oxen<choice><sic>."</sic><corr>:</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>This is a worthy pendent to the description of the bridal of the Trapper, and the similar passages of marvellous picturesque directness to be found in <hi rend="italic">Leaves of Grass</hi>. An address "To a Locomotive in Winter" is certainly the most vivid and imaginative view of an apparently hopeless subject yet achieved. "From that Sea of Time" presents a remarkably beautiful idea of the poet holding to his ear, one after another, the limpid and voiceless shells blown up on the shore of history, and hopelessly striving to gain from their murmurs some tidings of the sea of Time from whence they come, a thought kindred to the famous fancies of Wordsworth and of Landor. There is not much else in the section which possesses special merit, and there is one piece, called "Eidolons," which contains almost every vicious habit of style which Whitman has ever adopted, and which is quite enough, alone, to make the general objection to his writings plausible.</p>
+
+         <p>Of the four "Centennial Songs," one, "The Song of the Redwood Tree," has something primitive or Vedic in the strength of imagination which links in it in one great chorus the vast forces of nature, rain and snow and the wild winds, colossal trees, and huge mountains, and the serene skies above them all. This heroic chant is full of an arrogance appropriate to the occasion, and is far above any perfunctory trickle of complimentary song. The other three rhapsodies are hardly poetic, though vigorous and sympathetic. In the determination "to sing a song no poet yet has chanted," Whitman forces into his page an enumeration, of necessity fragmentary and whimsical, of the mechanical inventions and natural products of America. The result is decidedly grotesque. There is a very advanced Swedish poet of our day who has introduced "petroleum" into his verse, but that was in singing of the French Commune, and even he, and certainly every other bardic person, small or great, would shrink from inditing such a line as:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00117" cert="absolute"/>
+                        <!-- from Song of the Exposition -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Steam-power, the great <choice><sic>express-lines</sic><corr>Express lines</corr></choice>, gas, <choice><orig>petro-<lb/>leum</orig><reg>petroleum</reg></choice>
+                           <choice><sic>."</sic><corr>,</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The catalogue of the limbs of the human body, which has been so much laughed at in <hi rend="italic">Leaves of Grass</hi>, was better than this. To Whitman the world and all it contains is so ceaselessly exciting and delightful that he is willing to let any objects whatever pass before his imagination in a kind of ceaseless phantasmagoria. This, however, is not enough for a poet; he has a constructive and elective work to do. Shelley has described the poet's enjoyment in the mere lazy observation of the current facts of nature, but he has not neglected to observe that this is not in itself poetry, any more than food or even chyle is in itself blood, for he has been careful to add:—</p>
+
+         <q who="Shelley">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+<!-- from The Poet's Dream -->
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic>"Out of</sic><corr>But from</corr></choice> these create he can</l>
+                        <l>Forms more real than living man."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>It would be too much to assert that no poet will ever arise great enough to create nurselings of immortality out of the observation of such matters as express-lines, gas or petroleum, but certainly to recapitulate with emphasis the names of these things is not to produce poetry.</p>
+
+         <p>Space is not left us to characterise fully the "Memoranda during the War." They are notes, fragments, ejaculations of the most unaffected kind, and do more than any other writing to endear Whitman to us. There is something inexpressibly tender and manly in the tone of these notes; and something exceedingly stirring in the description of the alternate excitement and depression of the war-time: the pleasure in the presence around him of so many brave and handsome men, all fired with the same patriotic exaltation; the sadness of watching the deaths of so many of these in the prime of life. In the true spirit of his own passionate "Calamus," he wandered from tent to tent, ministering to the dying, comforting the wounded, bearing everywhere about with him that fragment of fragrant reed, that fascination of personal character, which he values so highly, and which he exercises over many who know him only through his books. From a literary point of view, his prose style may be justly criticised as heavy and disjointed, but the intrinsic interest of the story easily carries the reader above it. In some cases, as in the marvellously powerful description of the scene in the theatre when President Lincoln was shot, he is swept away into real eloquence, as in his recitatives into real poetry, by the fervour of his imagination. The ethical purpose of the book—and it is needless to say that it has one—manifestly is to exemplify in a very tragical passage of real life the possibility of carrying out that principle of sane and self-sacrificing love of comrades for one another which Whitman has so often celebrated in his most elevated and mystical utterances. It is the old story of Achilles and Patroclus transferred from windy Troy to the banks of the Potomac.<ref target="n1" xml:id="r1" n="1"/> It is conceivable that when all Whitman's theories about verse and democracy and religion have been rejected or have become effete, this one influence may be still at work, a permanent bequest of widened emotion to all future generations.</p>
+
+         <closer>
+            <signed rend="right">E<hi rend="smallcaps">DMUND</hi> W. G<hi rend="smallcaps">OSSE</hi>
+            </signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Achilles and Patroclus are two figures from Greek mythology who fought together in the Trojan War. The precise nature of their relationship is disputed; some sources suggest an intimate relationship while others maintain a platonic friendship.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

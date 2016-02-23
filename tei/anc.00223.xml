@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00223">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="boughs">Walt Whitman's Latest Work</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">November Boughs</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00223</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman's Latest Work</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Daily News</title>
+                  <imprint>
+                     <date when="1889-02-09">9 February 1889</date>
+                     <biblScope type="pages">[unknown]</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-08-06">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN'S LATEST WORK<!--  [Review of November Boughs] --></head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+         <head type="sub">"November Boughs" and Estimates of Its Distinguished Author—The Poet's Grounds for "Leaves of Grass"—Books and Authors.</head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>With "November Boughs" the work of Walt Whitman may be considered finished. The age of the poet (he was born in 1819), his infirmity, the suggestive title of the volume, and the character of its contents all indicate that it is the final word, the last farewell, of one who awaits death with the tranquil mind and the clear vision of the prophet.</p>
+	
+         <p>Should the life of the poet be spared yet a few years he may, and doubtless will, add something to what now stands as the definitive expression of his thought—a touch here or there, perhaps; a little added emphasis to some principle, an ultimate assertion of his steadfast faith in the creed which both his poetry and his life so nobly exemplify—but the work itself is accomplished, his mission has been fulfilled, his burden has been delivered.</p>
+	
+         <p>It is impossible to contemplate the life of this man, with a thorough knowledge of his work or even with an imperfect realization of it, without experiencing a feeling of profound and reverential respect. But we are too near him now to get other than an imperfect view of him; his personality is so great that it crowds the narrow field of our vision; to be adequately grasped and appreciated he must be seen in the perspective of at least one hundred years. His figure then will be sharply outlined against the background of history, and the future will see with unshaded eye and in a light softened and tempered by time that of which the present can get but a partial view.</p>
+	
+         <p>It is a matter of no little significance that here has appeared in American literature a man who has had a burden, in the true sense of the word, to deliver. We have and have had poets of very respectable ability, but none of them has had other than an imaginary burden to deliver. They have sung, it is true, and sweetly, too, oftentimes, but they have not sung a new song. In analyzing their work it is easy to find close parallels in preceding literature; in searching for the source of the singer's inspiration it may be found almost always in his literary acquisitions, and the influence of this or that past master of song may be unerringly detected. In short, if their work were swept away we should lose little that is new—nothing that could not be duplicated. But the work of Walt Whitman cannot be duplicated and it can be traced to no external source—it springs directly from himself; it is his own, absolutely. </p>
+	
+         <p>The simplicity of his life as a poet is comparable only to that of Washington as a commander, and his patriotism amounts to a religion. So impressed is he with the present grandeur, so confident is he of the ultimate triumph of democracy as it is organized in America, that he deems all conventional forms utterly inadequate to express the ideas which it suggests, the principles which it involves. Rhyme and rhythm, in the accepted sense, he discards as impracticable; the theme is too great; the mode of expression must be commensurate with the sublimity of the subject, a motive very different, be it remarked, from that which is commonly assigned as the reason for his rejection of established poetical forms—the mere wanton rebelliousness of insufferable egotism.</p>
+	
+         <p>True to his instinct of democracy, which illuminates every page he has written and which is the great life-giving principle of his poetry, Walt Whitman does not celebrate the great or the exceptional man, neither the mediæval prince nor the antique knight, or the hero of the olden time, but the average man of to-day. He celebrates not only his brain but his hands, not only his soul but also his body. He sings the praises of no individual but of the masses typified in this, to him, superb product, the average man. To him his land is a temple, the principles underlying his government are a religion—his great voice fills the temple, but few hear it, for it sometimes occurs that those having ears do not hear.</p>
+
+         <p>Whatever was that old, old saying that prophet is not without honor save in his own country better exemplified than in the case of Walt Whitman. It would be superfluous to attempt to defend him from the ridicule and abuse to which he has been subjected by his countrymen. No defense is necessary, because such ridicule and abuse are the twin offspring of ignorance and stupidity. People who know absolutely nothing of his writing, either prose or verse, who have not read even "O Captain, My Captain," do not hesitate to assail him, to excoriate him, to blackguard him with a vehemence which is pitiful in that it reveals measureless, fathomless depths of ignorance. Others from less unworthy motives have made an outcry on the score of outraged decency, but the one page in all of Walt Whitman's works which may be objected to on this ground is part and parcel of his doctrine—is vital, in fact—and to question the intellectual honesty of the poet on account of it is simply monstrous.</p>
+	
+         <p>It is humiliating but true that the recognition which is denied Walt Whitman at home is cheerfully and enthusiastically accorded him abroad. The fact that he is so recognized abroad in no way influences his enemies at home, for the reason that his detractors are of that class who cherish the absurd delusion that the inhabitants of London, Paris, Berlin, and Rome, and the lands which these cities represent, are a weary, dreary, unlucky lot of people who despise their respective countries and to whom life is desperately empty, vapid, and inept. The idea that America is the only place on the face of the earth that is fit to live in, not only for Americans, but also for a Frenchman, an Englishman, or a German, is one of those ridiculous illusions which, of course, the kindly hand of time will eventually dispel.</p>
+	
+         <p>Naturally the fullest measure of recognition abroad is found in England, where were it not for the stumbling-block of Walt Whitman's departure from established models, Mr. Edmund Gosse<ref target="n1" n="1" xml:id="r1"/> would not have propounded the question "Has America produced a great poet?" Both the prose and verse of Whitman have long excited the liveliest interest in England, especially among critical and literary people. Even such a master of technique as Swinburne extends the hand of fellowship to Walt Whitman. In his "Song to Walt Whitman, in America," beginning—</p>
+
+         <q who="Algernon Charles Swinburne" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">			
+                        <l>"Send but a song over sea to us,</l>
+                        <l>Heart of their hearts who are free"—</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>occurs in this stanza:</p>
+
+         <q who="Algernon Charles Swinburne" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"O strong-winged soul with prophetic</l>
+	                       <l rend="indented1">Lips hot with the blood-beats of song,</l>
+                        <l>With tremor of heart-strings magnetic,</l>
+	                       <l rend="indented1">With thoughts as thunders in throng,</l>
+                        <l>With consonant ardors of chords</l>
+	                       <l rend="indented1">That pierce men's souls as with swords</l>
+                        <l>And hale them hearing along,</l>
+	                       <l rend="indented1">Make us too music—"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Prof. Clifford, Prof. Tyrrell, and other eminent critics have recognized the great significance of his work, while Dante Gabriel Rossetti, in a prefatory notice to a volume of selections from his works, which he has edited, says: "There is in his poems a singular interchange of actuality and of ideal substratum and suggestion. While he sees men with even abnormal exactness as men, he sees them also 'as trees walking,' and admits us to perceive that the whole show is, in a measure, spectral and unsubstantial, and the mask of a larger and profounder reality beneath it, of which it is giving perpetual intimations and auguries." In regard to the title of Walt Whitman's more important volume, Mr. Rossetti observes: "Leaves of Grass" seems to express with some aptness the simplicity, universality, and spontaneity of the poems to which it is applied."<ref target="n2" n="2" xml:id="r2"/>
+         </p> 
+	
+         <p>In his "Studies in Literature" Prof. Dowden devotes a chapter to the poetry of Walt Whitman. In 1876 Robert Buchanan, the Scotch poet, published an appeal "eulogizing and defending the American bard in his old age, illness, and poverty from the swarms of maligners who still continue to assail him." The appeal contains this passage: </p>
+	
+         <q>
+            <p>"He who wanders through the solitudes of far-off Uist or lonely Donegal may often behold the golden eagle sick to death, worn with age or famine, or with both, passing with weary waft of wing from promontory to promontory, from peak to peak, pursued by a crowd of rooks and crows which fall back screaming whenever the noble bird turns his indignant head, and which follow frantically once more, hooting behind him, whenever he wends again upon his way."<ref target="n3" n="3" xml:id="r3"/>
+            </p>
+         </q> 
+	
+         <p>A Danish critic has said in a Copenhagen magazine:</p>
+	
+         <q>
+            <p>"It may be candidly admitted that the American poet has not the elegance, special melody, nor recherche aroma of the accepted poets of Europe or his own country, but his compass and general harmony are infinitely greater. The sweetness and spice, the poetic ennui, the tender longings, the exquisite art finish of these choice poets are mainly unmet and unseen in him—perhaps because he cannot achieve them—more likely because he disdains them. But there is an electric living soul in his poetry far more fermenting and bracing. His wings do not glitter in their movement from rich and varicolored plumage, nor are his notes those of the accustomed song-birds, but his flight is the flight of the eagle."<ref target="n4" n="4" xml:id="r4"/>
+            </p>
+         </q>
+	
+         <p>A writer in the French Revue des Deux Mondes has pronounced his war poems, "the most vivid the most humanly passionate, and the most modern of all the verse of the nineteenth century." While the German poet Freiligrath<ref target="n5" n="5" xml:id="r5"/>, who has translated him into German, hails him as the "founder of a new democratic and modern order of poetry greater than the old."</p>
+	
+         <p>But Walt Whitman is not without his friends in America, and among them is that charming writer, John Burroughs, who says of his poetry:</p>
+	
+         <q>
+            <p>"His lines are pulsations, thrills, waves of force, indefinite dynamics, formless, constantly emanating from the living center, and they carry the quality of the author's personal presence with them in a way that is unprecedented in literature."<ref target="n6" n="6" xml:id="r6"/>
+            </p>
+         </q> 
+	
+         <p>The last volume of the poet's works, "November Boughs" (Philadelphia: David McKay), contains more prose than verse. It opens with an essay entitled "A Backward Glance O'er Traveled Roads," in which the poet reviews his poems "in the light of their own intentions, with certain unfoldings of the thirty years they seek to embody."</p>
+	
+         <p>Nothing could be more admirable than Walt Whitman's prose style; vigorous, luminous, and picturesque as it is, he well deserves the reputation that he has won in England of having written some of the best prose of the century. In these "Backward Glances" he refers frequently to "Leaves of Grass." For grounds for "Leaves of Grass" he says:</p>
+
+         <!-- From "Backward Glances" November Boughs -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="essay">
+                     <relations>
+                        <work ref="xxx.00460" cert="absolute"/>
+                     </relations>
+                     <p>"As a poem, I abandoned the conventional themes which do not appear in it. None of the stock ornamentation, or choice plots of love or war, or high, exceptional personages of old-world song; nothing, as I may say, for beauty's sake—no legend, or myth, or romance, nor euphemism, nor rhyme. But the broadest average of humanity and its identities in the now ripening nineteenth century, and especially in each of their countless examples and practical occupations in the United States to-day. ∗∗∗ Few appreciate the moral revolutions, our age, which have been profounder far than the material or inventive or war-produced ones. The nineteenth century now well toward its close (and ripening into fruit the seeds of the two preceding centuries)—the uprising of national masses and shifting of boundary lines—the historical and other prominent facts of the United States—the war of attempted secession—the stormy rush and haste of nebulous forces—never can future years witness more excitement and din of action—never completer change of army-front along the whole line, the whole civilized world. For all these new and evolutionary facts, meanings, purposes, new poetic messages, new forms and expressions, are inevitable. ∗∗∗ Without yielding an inch the workingman and the working woman were to be in my pages from first to last. The ranges of heroism and loftiness with which Greek and feudal poets endow'd their god-like or lordly born characters—indeed, prouder and better based and with fuller ranges than those—I was to endow the democratic averages of America. I was to show that we, here and to-day, are eligible to the grandest and the best—more eligible now than any times of old were. I will also want my utterances to be in spirit poems of the morning. I will want them to be the poems of women entirely as much as men. I have wished to put the complete union of the states in my songs without any preference or partiality whatever. Henceforth, if they live and are read, it must be just as much south as north, just as much along the Pacific as Atlantic, in the valley of the Mississippi, in Canada, up in Maine, down in Texas, on the shores of Puget sound."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>After these "Backward Glances" comes "Sands at Seventy"—a collection of short fugitive poems. These are followed by an admirable essay on "Our Eminent Visitors—Past, Present, and Future," in which all—Dickens, Thackeray, Froude, Spenser, Wilde, Coleridge, Matthew Arnold, Irving—are welcomed "in the whole land's name," but they are warned that in meeting and surveying "the etiquettical gatherings of our wealthy, distinguish'd, and sure-to-be-put-forward-on-such-occasions citizens" in New York, Boston, Philadelphia, etc., that in passing through one after another, "the full-dress coteries of the Atlantic cities, all grammatical, cultured, and correct with the toned-down manners of the gentlemen, and the kid gloves and luncheons and finger-glasses—let not our eminent visitors, we say, suppose that by means of these experiences they have 'seen America' or captured any distinctive clew or purport thereof. Of the pulse-beats that lie within and vitalize this commonweal of to-day, of the hard-pan purports and idiosyncrasies pursued faithfully and triumphantly, by its bulk of men north and south, generation after generation—those coteries do not furnish the faintest scintilla."</p>
+	
+         <p>Then, after several more short essays, including "The Bible as Poetry," "What Lurks Behind Shakspere's Plays," "Robert Burns as Poet and Person," comes "A Word About Tennyson" And here a word must be said about Walt Whitman's attitude toward the poetry of the past and toward European, particularly English, poetry of to-day. That attitude is by no means revolutionary. Although he has nothing in common with his brother poets so far as matters of form are concerned, he recognizes most generously and appreciates most fully the beauty and the strength of their art products. In the "Backward Glances" he says: "The new world receives with joy the poems of the antique, with European feudalism's rich fund of epics, plays, ballads—seeks not in the least to deaden or displace those voices from our ear and area—holds them, indeed, as indispensable studies, influences, records, comparisons." But, although he calls them the "most precious bequest to current American civilization from all the hitherto ages," he asks:</p>
+
+         <!-- From "Backward Glances" November Boughs -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="essay">
+                     <relations>
+                        <work ref="xxx.00460" cert="absolute"/>
+                     </relations>
+                     <p>"Of the great poems receiv'd from abroad and from the ages and to-day enveloping and penetrating America, is there one that is consistent with these United States or essentially applicable to them as they are and are to be? Is there one whose underlying basis is not a denial and insult to democracy?
+∗∗∗ I have, indeed, put on record elsewhere my reverence and eulogy for those never-to-be-excell'd poetic bequests and their indescribable preciousness as heirlooms for America. Another and separate point must now be candidly stated. If I had not stood before those poems with uncovered head, fully aware of their colossal grandeur and beauty of form and spirit, I could not have written 'Leaves of Grass.' My verdict and conclusions, as illustrated in its pages, are arrived at through the temper and inculcation of the old works as much as through anything else. As America, fully and fairly construed, is the legitimate result and evolutionary outcome of the past, so I would dare to claim for my verse. Without stopping to qualify the averment, the old world has had the poems of myths, fictions, feudalism, conquest, caste, dynastic wars, and splendid exceptional characters and affairs, which have been great; but the new world needs the poems of realities and science and of the democratic average and basic equality, which shall be greater. In the center of all, and object of all, stands the Human Being, toward whose heroic and spiritual evolution poems and everything else directly or indirectly tend, old world or new."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In the light of this comprehensive exposition of the poet's attitude one is prepared to read intelligently the following paragraph in "A Word About Tennyson":</p>
+
+         <!-- From "A Word About Tennyson" November Boughs -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="essay">
+                     <relations>
+                        <work ref="xxx.00460" cert="absolute"/>
+                     </relations>
+                     <p>"Let me assume to pass Verdict, or perhaps momentary judgment, for the United States on this poet—a removed and distant position giving some advantages over a nigh one. What is Tennyson's service to his race, times, and especially to America? First I should say—or at least, nor forget—his personal character. He is not to be mentioned as a rugged, evolutionary, aboriginal force—but (and a great lesson is in it) he has been consistent throughout with the native, healthy, patriotic spinal element and promptings of himself. His moral line is local and conventional, but it is vital and genuine. He reflected the upper-crust of his time, its pale cast of thought, even its ennui. Then the simile of my friend, John Burroughs, is entirely true, 'his glove is a glove of silk, but the hand is a hand of iron.' He shows how one can be a poet laureate, quite elegant and 'aristocratic,' and a little queer and affected, and at the same time perfectly manly and natural. As to his non-democracy, it fits him well and I like him the better for it. I guess we all like to have (I am sure I do) some one who presents those sides of a thought, or possibility, different from our own—different and yet with a sort of home likeness—a tartness and contradiction offsetting the theory as we view it, and construed from tastes and proclivities not at all his own. To me, Tennyson shows more than any poet I know (perhaps has been a warning to me) how much there is in finest verbalism. There is such a latent charm in mere words, cunning collocutions, and in the voice ringing them, which he has caught and brought out, beyond all others—as in the line,</p>
+
+                     <p rend="center">"'And hollow, hollow, hollow, all delight,'</p>
+
+                     <p>in the 'Passing of Arthur,' and evidenced in 'The Lady of Shalott,' and many other pieces. His mannerism is very great, but it is a noble and welcome mannerism. His very best work, to me, is contained in the books of 'The Idyls of the King,' and all that has grown out of them. Though indeed we could spare nothing of Tennyson however small or however peculiar—not 'Break, Break,' nor 'Flower in the Crannied Wall,' nor the old and eternally told passion of 'Edward Gray."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>It is a rising, not a setting, sun that bursts through these "November Boughs"; how, in its intense and all-pervading light, the glowworm-like phases of literary activity-particularly in the way of fiction, the all-absorbing discussion of which is just now the passing "fashionable fad"—pale their ineffectual fires.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">Edmund Gosse (1849–1928) was an English critic and poet.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">This is actually William Michael Rossetti, not Dante Gabriel Rossetti as identified by the reviewer.</note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="3">The quoted passage is from an essay by John Burroughs, reprinted in <hi rend="italic">Birds and Poets</hi> (Hurd and Houghton, 1877).</note>
+
+               <note type="editorial" target="r4" xml:id="n4" n="4">In <hi rend="italic">Birds and Poets</hi>, John Burroughs quotes this passage as being from a piece called "For Ide og Virkelighed" ("For the Idea and the Reality"), appearing in a Copenhagen magazine</note>
+
+               <note type="editorial" target="r5" xml:id="n5" n="5">Ferdinand Freiligrath (1810–1876), Whitman's first German translator, was a revolutionary and poet. A friend of Karl Marx, Freiligrath translated just ten poems of Whitman's. In his frequently reprinted introduction to the poet, Freiligrath stressed Whitman's experiments in form.</note>
+
+               <note type="editorial" target="r6" xml:id="n6" n="6">Burroughs, <hi rend="italic">Birds and Poets</hi>.</note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

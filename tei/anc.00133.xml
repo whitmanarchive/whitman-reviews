@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00133">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="fancy">[Review of <hi rend="italic">Good-bye My Fancy</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00133</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Review of Reviews</title>
+                  <imprint>
+                     <date when="1891-09">September 1891</date>
+                     <biblScope type="volume">4</biblScope>
+                     <biblScope type="pages">227</biblScope>
+
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-10">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+         <head type="sub">QUEEN NATHALIE.—WALT WHITMAN.—THE YOUNG EMPEROR.</head>
+         <!-- <head type="sub">[Review of Good-Bye My Fancy]</title></head> -->
+
+         <p>Several books of considerable interest have been published this month, but there is no one book which towers above the rest far enough to justify special attention being paid to its contents.  There are, however, three or four which may be mentioned among the most interesting of the new publications of the month.</p>
+
+         <p>The first is the thinly veiled story of the grievances of Queen Nathalie, which is published by Ollendorf, of Paris, under the title "Le Roi Stanko et la Reine Xenia."  The wrongs of the unhappy Queen Nathalie are set forth in this volume with sympathizing pen.  The identity of the various personages described in this chronique scandaleuse are easily recognizable.  Queen Nathalie herself has retired into private life, while her own son has paid his first official visit to St. Petersburg.  The contrast between the demonstrations of welcome which have been accorded the child, and the cold indifference with which his royal mother has been received in the country which gave her birth, is one of the unpleasant incidents in the development of the Eastern drama.</p>
+
+         <p>A very different book is the latest collection of the poems of Walt Whitman, entitled "Good-bye, My Fancy," a second annex to "The Leaves of Grass," published by David McKay, of Philadelphia.  The book is published as a memorial of war times.  The volume contains some of the articles which Walt Whitman has contributed to periodical literature of late years.  We extract only one short poem with its characteristic foot-note:</p>
+
+         <div1 type="extract">
+            <head type="main-authorial">FOR QUEEN VICTORIA'S BIRTHDAY</head>
+
+            <p>An American arbutus bunch to be put in a little vase on the royal breakfast-table, May 24, 1890:—</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00557" cert="absolute"/>
+
+                        </relations>
+                        <lg type="linegroup">
+                           <l>Lady, accept a birthday thought—haply an idle gift and <lb/>token</l>
+                           <l>Right from the scented soil's May-utterance here</l>
+                           <l>(Smelling of countless blessings, prayers, and old-time <lb/>thanks)—</l>
+                           <l>A bunch of white and pink arbutus, silent, spicy, shy,</l>
+                           <l>From Hudson's, Delaware's, or Potomac's woody banks.</l> 
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>
+               <hi rend="italic">Note</hi>.—"Very little as we Americans stand this day, with our sixty-five or seventy millions of population, an immense surplus in the treasury, and all that actual power or reserve power (land and sea) so dear to nations, very little, I say do we realize that curious, crawling national shudder when the "Trent Affair" promised to bring upon us a war with Great Britain, followed unquestionably, as that war would have been, the recognition of the Southern Confederacy by all the leading European nations.  It is now certain that all this train of inevitable calamity hung on arrogant and peremptory phrases in the prepared and written missives of the British Minister to America, which the Queen (and Prince Albert latent) positively and promptly cancelled; and that her firm attitude did alone erase and leave out against all the other official prestige and Court of St. James.  On such minor and personal incidents (so to call them) often depend the great growths and turns of civilization.  This moment of a woman and queen surely swung the grandest oscillation of modern history's pendulum.  Many sayings and doings of that period, from foreign potentates and powers, might well be dropped in oblivion by America—but never that if I could have my way."</p>
+
+            <p>Of the English books, that which bears most closely upon current affairs is Harold Frederic's volume on the German Emperor.  Mr. Harold Frederic is a thoroughly competent journalist.  As the London correspondent of the New York Times he has distinguished himself as almost the only competent letter-writer from the Old World to the New.  What Mr. G. W. Smalley was in his prime, some years ago, and more than, that Mr. Harold Frederic is now.  He sometimes has a curious squint which prevents his seeing straight; but for good, all-round work, great industry, and capacity for saying what he has to say in clear, interesting English, Mr. Harold Frederic is the best of English correspondents.  His book on "The Young Emperor" is thoroughly characteristic.  It is clear, bright, well up to date and thoroughly "on the nail."  But it bears also some of his characteristic blemishes.  Mr. Frederic repeats as true the story that the Emperor Frederick had drawn up and signed his abdication, a statement which is stoutly denied by all those who ought to know, and there are other statements relating to the period of the Emperor Frederick's illness which have given considerable pain to those most concerned.</p>
+
+            <p>Still, after all deductions are made, it is a good and readable book, which appears just in the nick of time, and contains material enabling us to form a conception of the character of one of the most remarkable of modern rulers.  It is to be regretted, however, that Mr. Frederic did not complete his book, firstly, by some careful chronological table of the acts and deeds of the young Emperor; secondly, that he did not give us an index; thirdly, that he did not reprint a verbatim translation of the Emperor's speech on education.  Possibly he may do all these things in his second edition.</p> 
+
+         </div1>
+      </body>
+   </text>
+</TEI>

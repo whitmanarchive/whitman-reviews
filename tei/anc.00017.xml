@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00017">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">Studies Among the Leaves</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               <persName xml:id="fm">Frank Menius</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00017</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Studies Among the Leaves</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Crayon</title>
+                  <imprint>
+                     <biblScope type="volume">3</biblScope>
+                     <date when="1856-01">January 1856</date>
+                     <biblScope type="pages">30-2</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2006-06-17">Corrected, validated</change>
+         <change who="#fm" when="2004-07-22">Converted from HTML to XML</change>
+         <change who="#ts" when="2005-02-15">Corrected encoding mainly for ellipses and hyphenation in poems</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">STUDIES AMONG THE LEAVES.<!--  [Review of Leaves of Grass (1855)] --> </head>
+
+         <p>T<hi rend="smallcaps">HE</hi> A<hi rend="smallcaps">SSEMBLY OF</hi> E<hi rend="smallcaps">XTREMES</hi>.—A subtle old proverb says, "extremes meet," and science, Art, and even morality, sometimes testify to the truth of the proverb; and there are some curious problems involved in the demonstration of it. The loftiest attainment of the wisdom and worth of age only reaches to the simplicity and fervor of childhood, from which we all start, and returning to which we are blessed. Art makes the same voyage round its sphere, holding ever westward its way into new and unexplored regions, until it does what Columbus would have done, had his faith and self-denial been greater, reaches the east again. If the individual, Columbus, failed to accomplish the destiny, the class, Columbus, fails never. And so in Art, what no one does, the many accomplish, and finally the cycle is filled.</p>
+
+         <p>We see this most forcibly in the comparison of two late poems, as unlike, at first thought, as two could be, and yet in which the most striking likenesses prevail, "M<hi rend="smallcaps">AUD</hi>,"<ref target="n1" xml:id="r1">∗</ref> and "L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>;"<ref target="n2" xml:id="r2">†</ref> the one as refined in its Art as the most refined, delicate in its structure, and consummate in its subtlety of expression, the other rude and rough, and heedless in its forms—<hi rend="italic">nonchalant</hi> in everything but its essential ideas. The one comes from the last stage of cultivation of the Old World, and shows evidence of morbid, luxurious waste of power, and contempt of mental wealth, from inability longer to appreciate the propriety of subjects on which to expend it; as, to one who has overlived, all values are the same, because nothing, and indifferent; while the other, from among the "roughs," is morbid from overgrowth, and likewise prodigal of its thought-treasure, because it has so much that it can afford to throw it away on everything, and considers all things that are, as equally worth gilding. The subject of M<hi rend="smallcaps">AUD</hi> is nothing—a mere common-place incident, but artistically dealt with—a blanched, decayed sea-shell, around which the amber has gathered; and that of the newer poem is equally nothing, blades of sea-grass amber-cemented. Both are characterized by the extreme of affectation of suggestiveness—piers of thought being given, over which the reader must throw his own arches. Both are bold, defiant of laws which attempt to regulate forms, and of those which <hi rend="italic">should</hi> regulate essences. Maud is irreligious through mental disease, produced by excess of sentimental action—"Leaves of Grass", through irregularly-developed mental action and insufficiency of sentiment. A calmer perception of Nature would have corrected in Tennyson that feeling which looks upon sorrow as the only thing poetic, and serenity and holy trust, as things to which Love has no alliance, while a higher seeing of Nature would have shown Walt Whitman that all things in Nature are not alike beautiful, or to be loved and honored by song.</p>
+
+         <p>Although it is mainly with the Art of the two poems that we have to deal, the form rather than the motive, yet so entirely does the former arise from the latter that the criticism passed on the one must lie upon the other. In the mere versification,for instance, of both, see what indifference to the dignity of verse (while there is still the extorted homage to its forms), arising in both cases, it would seem, from an overweening confidence in the value of what is said, as in the following passages:</p>
+
+
+         <q who="Tennyson" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <l>"Long have I sighed for a calm; God grant I may find it at last!</l>
+                     <l>It will never be broken by Maud, she has neither savor nor salt,</l>
+                     <l>But a cold, clear, cut face, as I found when her carriage past,</l>
+                     <l>Perfectly beautiful: let it be granted her: where is the fault?"</l>
+                  </lg>
+                  <bibl>
+                     <hi rend="italic">Maud,</hi> Sec. ii., St. 1.</bibl>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Do you suspect death? If I were to suspect death, I should die now.</l>
+                     <l>Do you think I could walk pleasantly and well-suited toward <lb/>annihilation?</l>
+                     <l>Pleasantly and well-suited I walk,</l>
+                     <l>Whither I walk I cannot define, but I know it is good.</l>
+                     <l>The whole universe indicates that it is good.</l>
+                     <l>The past and present indicates that it is good."</l>
+                  </lg>
+                  <bibl>
+                     <hi rend="italic">Leaves of Grass,</hi> p. 69.</bibl>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>All Tennyson's exquisite care over his lines produces no other impression than that which Whitman's carelessness arrives at; viz., nonchalance with regard to forms. In either case, it is an imperfection, we are bold to say, since we do not love beauty and perfection of form for nothing, nor can the measure of poetic feeling be full when we do not care for the highest grace and symmetry of construction. It is an impertinence which says to us, "my ideas are so fine that they need no dressing up," even greater than that which says, "mine are so fine that they cannot be dressed as well as they deserve." The childlike instinct demands perfect melody as an essential to perfect poetry, and more than that, the melodious thought will work out its just and adequate form by the essential law of its spiritual organization—when the heart sings, the feet will move to its music. An unjust measure in verse is <hi rend="italic">prima facie</hi> evidence of a jarring note in the soul of the poem, and studied or permitted irregularity of form proves an arrogant self-estimation or irreverence in the poet; and both these poems are irreverent, irreligious, in fact. Maud commences, singularly enough, with the words, "I hate," and the whole sentiment of the poem ignores the nobler and purer feelings of humanity—it is full of hatred and morbid feeling, diseased from pure worldliness. This is well enough for one whom the world calls a laureate, but the true poet seeks a laurel that the world cannot gather, growing on mountains where its feet never tread, he lives with beauty and things holy, or, if evil things come to him, it is that they may be commanded behind him. "Maud" rambles and raves through human love and human hate, and the hero lives his life of selfish desire and selfish enjoyment, and then through the bitterness of selfish regret and despair, without one thought of anything better, nobler than himself—the summit of creation. He worships nothing, even reverences nothing, his love is only passion, and his only thought of God one of fear. In his happiness, he is a cynic, in his unhappiness, a madman.</p>
+
+         <q who="Tennyson">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>For the drift of the Maker is dark, an Isis hid by the <lb/>veil.</l>
+                        <l>Who knows the ways of the world, how God will bring <lb/>them about?</l>
+                        <l>Our planet is one, the suns are many, the world is wide.</l>
+                        <l>Shall I weep if a Poland fail? shall I shriek if a <choice><orig>Hun-<lb/>gary</orig><reg>Hungary</reg></choice> fail?</l>
+                        <l>Or an infant civilization be ruled with rod or with <lb/>knout?</l>
+                        <l>I have not made the world, and He that made it will <lb/>guide.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Be mine a philosopher's life in the quiet woodland <lb/>ways,</l>
+                        <l>Where if I cannot be gay let a passionless peace be my <lb/>lot,</l>
+                        <l>Far off from the clamor of liars belied in the hubbub <lb/>of lies;</l>
+                        <l>From the long-neck'd geese of the world that are ever <lb/>hissing dispraise</l>
+                        <l>Because their natures are little, and, whether he heed <lb/>it or not,</l>
+                        <l>Where each man walks with his head in a cloud of <lb/>poisonous flies.</l>
+                     </lg>
+                  </lg> <lg type="linegroup"><l> . .  . .  . .  . . .</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+        
+
+         <q who="Tennyson">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>Dead, long dead,</l>
+                        <l>Long dead!</l>
+                        <l>And my heart is a handful of dust,</l>
+                        <l>And the wheels go over my head,</l>
+                        <l>And my bones are shaken with pain,</l>
+                        <l>For into a shallow grave they are thrust,</l>
+                        <l>Only a yard beneath the street,</l>
+                        <l>And the hoofs of the horses beat, beat,</l>
+                        <l>The hoofs of the horses beat,</l>
+                        <l>Beat into my scalp and my brain,</l>
+                        <l>With never an end to the stream of passing feet,</l>
+                        <l>Driving, hurrying, marrying, burying,</l>
+                        <l>Clamor and rumble, and ringing and clatter,</l>
+                        <l>And here beneath it is all as bad,</l>
+                        <l>For I thought the dead had peace, but it is not so;</l>
+                        <l>To have no peace in the grave, is that not sad?</l>
+                        <l>But up and down and to and fro,</l>
+                        <l>Ever about me the dead men go;</l>
+                        <l>And then to hear a dead man chatter</l>
+                        <l>Is enough to drive one mad.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Wretchedest age, since Time began,</l>
+                        <l>They cannot even bury a man;</l>
+                        <l>And tho' we paid our tithes in the days that are <lb/>gone,</l>
+                        <l>Not a bell was rung, not a prayer was read;</l>
+                        <l>It is that which makes us loud in the world of the <lb/>dead;</l>
+                        <l>There is none that does his work, not one;</l>
+                        <l>A touch of their office might have sufficed,</l>
+                        <l>But the churchmen fain would kill their church,</l>
+                        <l>As the churches have kill'd their Christ.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>See, there is one of us sobbing,</l>
+                        <l>No limit to his distress;</l>
+                        <l>And another, a lord of all things, praying</l>
+                        <l>To his own great self, as I guess;</l>
+                        <l>And another, a statesman there, betraying</l>
+                        <l>His party-secret, fool, to the press;</l>
+                        <l>And yonder a vile physician, blabbing</l>
+                        <l>The case of his patient—all for what?</l>
+                        <l>To tickle the maggot born in an empty head,</l>
+                        <l>And wheedle a world that loves him not,</l>
+                        <l>For it is but a world of the dead.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>"Leaves of Grass" is irreligious, because it springs from a low recognition of the nature of Deity, not, perhaps, so in intent, but really so in its result. To Whitman, all things are alike good—no thing is better than another, and thence there is no ideal, no aspiration, no progress to things better. It is not enough that all things are good, all things are <hi rend="italic">equally</hi> good, and, therefore, there is no order in creation; no better, no worse—but all is a democratic level from which can come no symmetry, in which there is no head, no subordination, no system, and, of course, no result. With a wonderful vigor of thought and intensity of perception, a power, indeed, not often found, "Leaves of Grass" has no ideality, no concentration, no purpose—it is barbarous, undisciplined, like the poetry of a half-civilized people, and, as a whole, useless, save to those miners of thought who prefer the metal in its unworked state. The preface of the book contains an inestimable wealth of this unworked ore—it is a creed of the material, not denying the ideal, but ignorant of it.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>"The greatest poet hardly knows pettiness or triviality. If he breathes into anything that was before thought small, it dilates with the grandeur and life of the universe. He is a seer…he is individual…he is complete in himself…the others are as good as he, only he sees it and they do not. He is not one of the chorus…he does not stop for any regulation: he is the president of regulation. What the eyesight does to the rest he does to the rest. Who knows the curious mystery of the eyesight? The other senses corroborate themselves, but this is removed from any proof but its own, and foreruns the identities of the spiritual world. A single glance of it mocks all the investigations of man, and all the instruments and books of the earth, and all reasoning. What is marvellous? what is unlikely? what is impossible, or baseless, or vague? after you have once just opened the space of a peachpit, and given audience to far and near, and to the sunset, and had all things enter with electric swiftness, softly and duly, without confusion, or jostling, or jam.</p>
+
+                     <p>"The land and sea, the animals, fishes, and birds, the sky of heaven and the orbs, the forests, mountains, and rivers, are not small themes…but folks expect of the poet to indicate more than the beauty and dignity which always attach to dumb, real objects…they expect him to indicate the path between reality and their souls. Men and women perceive the beauty well enough…probably as well as he. The passionate tenacity of hunters, woodmen, early risers, cultivators of gardens, and orchards, and fields, the love of healthy women for the manly form, sea-faring persons, drivers of horses, the passion for light and the open air, all is an old varied sign of the unfailing perception of beauty, and of a residence of the poetic in out-door people. They can never be assisted by poets to perceive…some may, but they never can. The poetic quality is not marshalled in rhyme, or uniformity, or abstract addresses to things, nor in melancholy complaints or good precepts, but is the life of these and much else, and is in the soul. The profit of rhyme is that it drops seeds of a sweeter and more luxuriant rhyme, and of uniformity, that it conveys itself into its own roots in the ground out of sight. The rhyme and uniformity of perfect poems show the free growth of metrical laws, and bud from them as unerringly and loosely as lilacs or roses on a bush, and take shapes as compact as the shapes of chestnuts, and oranges, and melons, and pears, and shed the perfume impalpable to form. The fluency and ornaments of the finest poems, or music, or orations, or recitations, are not independent, but dependent. All beauty comes from beautiful blood and a beautiful brain. If the greatnesses are in conjunction in a man or woman it is enough…the fact will prevail through the universe…but the gaggery and gilt of a million years will not prevail. Who troubles himself about his ornaments or fluency is lost.</p> <p>*****</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+        
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>"The greatest poet has less a marked style, and is more the channel of thoughts and things without increase or diminution, and is the free channel of himself. He swears to his art, I will not be meddlesome, I will not have in my writing any elegance, or effect, or originality, to hang in the way between me and the rest like curtains. I will have nothing hang in the way, not the richest curtains. What I tell I tell for precisely what it is. Let who may exalt, or startle, or fascinate, or sooth, I will have purposes as health, or heat, or snow, has, and be as regardless of observation. What I experience or portray shall go from my composition without a shred of my composition. You shall stand by my side, and look in the mirror with me."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"I am of old and young, of the foolish as much as the <lb/>wise,</l>
+                     <l>Regardless of others, ever regardful of others,</l>
+                     <l>Maternal as well as paternal, a child as well as a man,</l>
+                     <l>Stuffed with the stuff that is coarse, and stuffed with the <lb/>stuff that is fine,</l>
+                     <l>One of the great nation, the nation of many nations— <lb/>the smallest the same and the largest the same,</l>
+                     <l>A southerner soon as a northerner, a planter nonchalant <lb/>and hospitable,</l>
+                     <l>A Yankee bound my own way…ready for trade <lb/>…my joints the limberest joints on earth and <lb/>the sternest joints on the earth,</l>
+                     <l>A Kentuckian walking the vale of the Elkhorn in my <lb/>deerskin leggings,</l>
+                     <l>A boatman over the lakes or bays or along coasts… <lb/>a Hoosier, a Badger, a Buckeye,</l>
+                     <l>A Louisianian or Georgian, a poke-easy from sandhills <lb/>and pines,</l>
+                     <l>At home on Canadian snow-shoes or up in the bush, or <lb/>with fishermen off Newfoundland,</l>
+                     <l>At home in the fleet of ice-boats, sailing with the rest <lb/>and tacking,</l>
+                     <l>At home on the hills of Vermont or in the woods of <lb/>Maine or the Texan ranch,</l>
+                     <l>Comrade of Californians…comrade of free <choice><orig>north-
+                        <lb/>
+                        westerns</orig><reg>north-westerns</reg></choice>, loving their big proportions,</l>
+                     <l>Comrade of raftsmen and coalmen—comrade of all who <lb/>shake hands and welcome to drink and meat;</l>
+                     <l>A learner with the simplest, a teacher of the <choice><orig>thought-<lb/>fullest</orig><reg>thoughtfullest</reg></choice>,</l>
+                     <l>A novice beginning experient of myriads of seasons,</l>
+                     <l>Of every hue and trade and rank, of every caste and <lb/>religion.</l>
+                     <l>Not merely of the New World but of Africa, Europe or <lb/>Asia…a wandering savage,</l>
+                     <l>A farmer, mechanic, or artist…a gentleman, <lb/>sailor, lover orquaker,</l>
+                     <l>A prisoner, fancy-man, rowdy, lawyer, physician or <lb/>priest.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <relations>
+                           <work ref="xxx.00048" cert="absolute"/>
+                        </relations>
+                        <l>I am he attesting sympathy;</l>
+                        <l>Shall I make my list of things in the house and skip the <lb/>house that supports them?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I am the poet of common sense and of the demonstrable <lb/>and of immortality;</l>
+                        <l>And am not the poet of goodness only…I do not <lb/>decline to be the poet of wickedness also.</l>
+                        <l>Washes and razors for foofoos…for me freckles</l>
+                        <l>and a bristling beard.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>What blurt is it about virtue and about vice?</l>
+                        <l>Evil propels me, and reform of evil propels me… <lb/>I stand indifferent,</l>
+                        <l>My gait is no fault-finder's or rejecter's gait,</l>
+                        <l>I moisten the roots of all that has grown.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In other words, according to Whitman's theory, the greatest poet is he who performs the office of camera to the world, merely reflecting what he sees—art is merely reproduction.</p>
+
+         <p>Yet it cannot be denied that he has felt the beauty of the material in full measure, and sometimes most felicitously.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>A child said, What is the grass? fetching it to me with full <lb/>hands;</l>
+                        <l>How could I answer the child?…I do not know <lb/>what it is any more than he.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I guess it must be the flag of my disposition, out of <lb/>hopeful green stuff woven.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Or I guess it is the handkerchief of the Lord,</l>
+                        <l>A scented gift and remembrancer designedly dropped,</l>
+                        <l>Bearing the owner's name someway in the corners, that <lb/>we may see and remark, and say Whose?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Or I guess the grass itself is a child…the produced <lb/>babe of the vegetation.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Or I guess it is a uniform hieroglyphic,</l>
+                        <l>And it means, Sprouting alike in broad zones and <choice><orig>nar-<lb/>row</orig><reg>narrow</reg></choice> zones,</l>
+                        <l>Growing among black folks as among white,</l>
+                        <l>Kanuck, Tuckahoe, Congressman, Cuff, I give them the <lb/>same, I receive them the same.</l>
+                        <l>And now it seems to me the beautiful uncut hair of graves.</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>The big doors of the country-barn stand open and <lb/>ready,</l>
+                     <l>The dried grass of the harvest-time loads the <choice><orig>slow- 
+                        <lb/>
+                        drawn</orig><reg>slow-drawn</reg></choice> wagon,</l>
+                     <l>The clear light plays on the brown gray and green <choice><orig>in-<lb/>tertinged</orig><reg>intertinged</reg></choice>,</l>
+                     <l>The armfuls are packed to the sagging mow;</l>
+                     <l>I am there…I help…I came stretched top <lb/>of the load,</l>
+                     <l>I felt its soft jolts…one leg reclined on the other,</l>
+                     <l>I jump from the crossbeams, and seize the clover and <lb/>timothy,</l>
+                     <l>And roll head over heels, and tangle my hair full of wisps.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I think I could turn and live awhile with the animals <lb/>…they are so placid and self-contained,</l>
+                        <l>I stand and look at them sometimes half the day long.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>They do not sweat and whine about their condition,</l>
+                        <l>They do not lie awake in the dark and weep for their <lb/>sins,</l>
+                        <l>They do not make me sick discussing their duty to God,</l>
+                        <l>Not one is dissatisfied…not one is demented with <lb/>the mania of owning things,</l>
+                        <l>Not one kneels to another nor to his kind that lived <lb/>thousands of years ago,</l>
+                        <l>Not one is respectable or industrious over the whole <lb/>earth.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>So they show their relations to me and I accept them;</l>
+                        <l>They bring me tokens of myself . . .they evince <lb/>them plainly in their possession.</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>When the dull nights are over, and the dull days also,</l>
+                     <l>When the soreness of lying so much in bed is over,</l>
+                     <l>When the physician, after long putting off, gives the <lb/>silent and terrible look for an answer,</l>
+                     <l>When the children come hurried and weeping, and the <lb/>brothers and sisters have been sent for,</l>
+                     <l>When medicines stand unused on the shelf, and the <lb/>camphor-smell has pervaded the rooms,</l>
+                     <l>When the faithful hand of the living does not desert the <lb/>hand of the dying,</l>
+                     <l>When the twitching lips press lightly on the forehead of <lb/>the dying,</l>
+                     <l>When the breath ceases and the pulse of the heart <lb/>ceases,</l>
+                     <l>Then the corpse-limbs stretch on the bed, and the <choice><orig>liv-<lb/>ing</orig><reg>living</reg></choice> look upon them,</l>
+                     <l>They are palpable as the living are palpable.</l>
+                     <l>The living look upon the corpse with their eyesight,</l>
+                     <l>But without eyesight lingers a different living and looks <lb/>curiously on the corpse.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I knew a man…he was a common farmer… <lb/>he was the father of five sons…and in them  <lb/>were the fathers of sons…and in them were <lb/>the fathers of sons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>This man was of wonderful vigor and calmness and beauty <lb/>of person;</l>
+                        <l>The shape of his head, the richness and breadth of his <lb/>manners, yellow and white of his hair and <lb/>beard, the immeasurable meaning of his black eyes,</l>
+                        <l>These I used to go and visit him to see…He was <lb/>wise also,</l>
+                        <l>He was six feet tall…he was over eighty years <lb/>old…his sons were massive, clean-bearded, <lb/>tanfaced and handsome,</l>
+                        <l>They and his daughters loved him…all who saw <lb/>him loved him…they did not love him by <lb/>allowance…they loved him with  personal <lb/>love;</l>
+                        <l>He drank water only…the blood showed like <lb/>scarlet through the clear brown skin of his face;</l>
+                        <l>He was a frequent gunner and fisher…he sailed <lb/>his boat himself…he had a fine one presented <lb/>to him by a shipjoiner…he had fowling pieces, <lb/>presented to him by men that loved him;</l>
+                        <l>When he went with his five sons and many grandsons <lb/>to hunt or fish you would pick him out as the most <lb/>beautiful and vigorous of the gang,</l>
+                        <l>You would wish long and long to be with him.…you <lb/>would wish to sit by him in the boat that you and <lb/>he might touch each other.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>It is not possible to compare the feverish, dying sentiment of Tennyson, dying from false indulgence, to the rude, vigorous, and grand if chaotic thought of Whitman, imperfect only from want of development—the poems are alike maimed, but one from loss of parts, the other from not yet having attained its parts. But still they are the extremes—truth lies between <hi rend="italic">them</hi> always. What if Columbus had sailed round the world, and made its extremes meet! He would only have been back in Spain again—the true end of his voyage was midway.</p>
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+        
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   "Maud and other Poems," 
+                  by Alfred Tennyson.
+                   
+                      Ticknor &amp; Fields,  
+                      Boston. 
+                   
+               
+            </ab>
+          
+
+        
+           
+            <ab> <hi rend="superscript">†</hi>
+               
+                   "Leaves of Grass." 
+                   
+                      Brooklyn, N.Y. 
+                   
+               
+            </ab>
+          
+
+      </body>
+   </text>
+</TEI>

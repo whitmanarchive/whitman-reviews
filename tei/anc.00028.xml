@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Henry Richard Bagshawe</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00028</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Bagshawe, Henry Richard ">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Henry Richard Bagshawe</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Dublin Review</title>
+                  <imprint>
+                     <biblScope type="volume">41</biblScope>
+                     <date when="1856-09">September 1856</date>
+                     <biblScope type="pages">267-8</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-27">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+<ab>XXI.—
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>
+                   
+                   
+                      Horsell,  
+                      London,  
+                      1856.  
+                   
+               
+            </ab>
+         
+
+         <p>"We have glanced through this book with disgust and astonishment;—astonishment that anyone can be found who would dare to print such a farrago of rubbish,—lucubrations more like the ravings of a drunkard, or one half crazy, than anything which a man in his senses could think it fit to offer to the consideration of his fellow men. Where these bald, confused, disjointed, caricatures of blank verse have any meaning, it is generally indecent; several times execrably profane. We should not have bestowed one line of notice upon such an insult to common sense and common propriety, as this book but that, to our unspeakable surprise, we find bound up with it extracts from various American papers highly laudatory of this marvellous production: and we think it right to call the attention of our American readers to the fact, that any (even of the meanest) of their literary critics, should be mistaken enough to lend a sanction to such trash as this."</p>
+
+      </body>
+   </text>
+</TEI>

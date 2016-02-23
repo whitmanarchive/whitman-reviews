@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00236">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1871">Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1871–72)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="ng">Nicole Gray</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00236</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Once a Week. An Illustrated Miscellany of Literature, Art, Science, &amp; Popular Information</title>
+                  <imprint>
+                     <date when="1872-06-01">1 June 1872</date>
+                     <biblScope type="pages">501-5</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#ng" when="2013-10-15">updated linegroup encoding</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-14">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN.<!-- [Review of Leaves of Grass (1871&#8211;72)] --></head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+
+         <p>T<hi rend="smallcaps">HE</hi> Americans have often been twitted with having no distinctive literature of their own; and the answer to the accusation—which is questionable, after all—is that the Americans, as a nation, are yet young, and that the development of the peculiar intellectual genius of the nation, like that of its boundless natural resources, is only a matter of time.  A man, however, has lately sprung up among them whom his admirers exalt as the greatest poet that ever lived, and his opponents denounce as a literary lunatic, writing, under pretence of verse, neither rhyme, rhythm, nor good sober prose.  As in most fierce discussions, so in this concerning the true place of Walt Whitman, both sides are extravagantly wrong.  Whitman is neither the greatest poet that ever lived, nor is he a raving madman.</p>
+
+         <p>Walt Whitman is peculiarly an American production.  His poems may be said to be essentially filled with an American spirit, to breathe the American air, and to assert the fullest American freedom.</p>
+
+         <p>It is for this reason that many people on this side of the Atlantic will not take the trouble to study him as he deserves to be studied.  His ideas, and his manner of expression, jar at the first reading on our old formal notions of what poetry should be, and how it should be expressed.</p>
+
+         <p>Browning is rugged enough, in all conscience; and he pays a heavy penalty of unpopularity for his peculiar style.  While Tennyson, and others of the smooth, voluptuous, sensuous school, hold temporary sway over the ears of society, the strong singers of more Spartan mould must bide their time.</p>
+
+         <p>Imagine the feelings of any idle reader who, after having just read the Laureate's "Miller's Daughter," or "Oriana,"<ref target="n1" xml:id="r1" n="1"/> carelessly opens Walt Whitman to the following tune, from his "Crossing Brooklyn Ferry":—</p>
+
+
+         <!-- From "Crossing Brooklyn Ferry" Leaves of Grass 1871-72 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00112" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <head type="main-authorial">I.</head>
+                        <l>"Flood-tide below me! I watch you face to face;</l>
+                        <l>Clouds of the west! sun there half an hour high! <lb/>I see you also face to face.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">II.</head>
+                        <l>"Crowds of men and women attired in the usual <lb/>costumes! how curious you are to me!</l>
+                        <l>On the ferry-boats, the hundreds and hundreds <lb/>that cross, returning home, are more curious to <lb/>me than you suppose;</l>
+                        <l>And you that shall from years hence, are <lb/>more to me, and more in my meditations, than <lb/>you might suppose.</l>
+                     </lg> 
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">III.</head>
+                        <l>"The impalpable sustenance of me from all things, <lb/>at all hours of the day;</l>
+                        <l>The simple, compact, well-joined scheme—<choice><orig>my-<lb/>self</orig><reg>myself</reg></choice> disintegrated, every one disintegrated, yet <lb/>part of the scheme;</l>
+                        <l>The similitudes of the past, and those of the <lb/>future;</l>
+                        <l>The glories strung like beads on my smallest <lb/>sights and hearings—on the walk in the street, <lb/>and the passage over the river;</l>
+                        <l>The current rushing so swiftly, and swimming <lb/>with me far away;</l> 
+                        <l>The others that are to follow me, the ties between <lb/>me and them;</l>
+                        <l>The certainty of others—the life, love, sight, <lb/>hearing of others."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>But this is not enough to give an idea of what a shock would happen to the nerves of any ordinary <hi rend="italic">dilletante</hi> reader of poetry, and we candidly confess there would be some excuse for immediate dislike of the new poet.  The contrast is too startling between the smooth, old-fashioned couplets of our orthodox English verse, and this wild, free, reckless voice of the fields, and the rivers, and the backwoods of far Massachusetts.</p>
+
+         <p>Hence, it may safely be said that it is upon these first openings of his works by inquiring lovers or mere pleasant, mellifluous verse that Walt Whitman has been condemned.  The first taste was enough; and it remained for men of broader and more philosophic ideas, who look upon true poetry as something more than fine words, to discover that there really was something, after all, in this wild poet of the prairies.</p>
+
+         <p>The first man of any note to appreciate this <hi rend="italic">novus homo</hi> was Ralph Waldo Emerson.  The account of the affair by an American writer is curious:—</p>
+
+         <p>"It was about ten years ago that literary circles in and around Boston were startled by the tidings that Emerson—whose incredulity concerning American books was known to be as profound as that of Sydney Smith<ref target="n2" xml:id="r2" n="2"/>—had discovered an American poet.  Emerson had been for many years our literary banker: paper that he had inspected, coin that he had rung on his counter, would pass safely anywhere.</p>
+
+         <p>"On his table had been laid one day a queerly shaped book, entitled 'Leaves of Grass. By Walt Whitman.'  There was also in the front the portrait of a middle-aged man, in the garb of a working man.</p>
+
+         <p>"The Concord philosopher's feelings on perusing this book were expressed in a private letter to its author, which i quote from memory:—</p>
+
+         <p>"'At first, I rubbed my eyes, to find if this new sunbeam might not be an illusion. . . . I greet you at the beginning of a great career, which yet must have had a long foreground somewhere for such a start.'"</p>
+
+         <p>Praise such as this from the veteran of American literature is no mean recommendation.  To no one of his own countrymen—and no one before living, except Carlyle—had Emerson previously written so forcibly.  But Emerson's feeling may well be understood by any one who will carefully read—as they assuredly will some day be read—Whitman's poems.  Emerson had long lamented, in his own nervous, vigorous fashon, that the American freeman was becoming "timid, imitative, tame," from listening too long to "the courtly muses of Europe."</p>
+
+         <p>And here, in this new man, unlike any man who had ever before written or sung, whichever you like to call it, he fancied he saw a pioneer, as it were, to the Promised Land of a new and distinctive American song.  "It is," said Emerson of "Leaves of Grass," "the most extraordinary piece of wit and wisdom that America has yet contributed."</p>
+
+         <p>An able critic has written forcibly on the genius of this first important work of Whitman.</p>
+
+         <p>"The plainness of speech in 'Leaves of Grass' is indeed biblical.  From its first sentence—'I celebrate myself'—there starts forth an endless procession of the forms and symbols of life: now funeral, now carnival; or, again, a masquerade of nations, cities, epochs; or the elements, natural and human, fascinating the eye with wonder or dread.  To these terrible eyes Maya surrenders—faces, forms, skeletons are unsheathed.  Here are the autographs of New York, and of the prairies, savannahs, Ohio, Mississippi, and all powers, good and evil.  There is much that is repulsive to the ordinary mind in these things, and in the poems that really express them; but, as huge reptiles help to fashion the pedestal of man—as artists find in griffins and crouching animal forms the fundamental vitality upon which the statue or pillar may repose—one might not unreasonably find in the wild, grotesque forms of Walt Whitman's chants, so instinct with life, the true basis of any shaft, not the duplicate of any raised elsewhere, that American thought is to raise."</p>
+
+         <p>The aim, purpose, and leading principle of Whitman's productions are best explained in a letter of his own to a friend, in which he says:—</p>
+
+         <p>"I assume that poetry in America needs to be entirely recreated.  On examining, with anything like deep analysis, what now prevails in the United States, the whole mass of poetical works, long and short, consist either of the poetry of an elegantly weak sentimentalism, at bottom nothing but maudlin puerilities, or more or less musical verbiage, arising out of a life of depression and enervation, as their result; or else that class of poetry, plays, &amp;c., of which the foundation is feudalism, with its ideas of lords and ladies, its imported standard of gentility, and the manners of European high life below stairs in every line and verse. . . . Instead of mighty and vital breezes, proportionate to our continent, with its powerful races of men, its tremendous historic events, its great oceans, its mountains, and its illimitable prairies, I find a few little silly fans languidly moved by shrunken fingers."  His ambition is, he continues int he same letter, "to give something to our literature which will be our own; with neither foreign spirit, nor imagery, nor form, but adapted to our case, grown out of our associations, boldly portraying the West, strengthening and intensifying the national soul, and finding the entire fountains of its birth and growth in our own country."</p>
+
+         <p>How far he will succeed in his purpose time alone can decide.  But as a sort of encouragement to our readers to make a further acquaintance for themselves with the oracular expressions of this original genius, we will give a few specimens of what he himself, at least, calls his poems.</p>
+
+         <p>As a rule, Whitman eschews the old style of giving set title to poems.  Most of them are merely headed with the opening words of the poems themselves—as, "I was looking a long while," "To get betimes in Boston town," "When lilacs last in the door-yard bloomed," and so on.</p>
+
+         <p>Mr. Rossetti, however, in his English selection of Whitman's poems, has appended titles of his own, which, for the sake of convenience, we will here adopt.</p>
+
+         <p>The following, entitled "The Past—Present," is Walt Whitman in his glory:—</p>
+
+         <!-- From "I was Looking a Long While" Leaves of Grass 1871-72 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00241" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <l>"I was looking a long while for a clue to the history of the <lb/>past for myself, and for these chants—and now <lb/>I have found it.</l>
+                        <l>It is not in those paged fables in the libraries, <lb/>(them I neither accept nor reject);</l>
+                        <l>It is no more in the legends than in all else:</l>
+                        <l>It is in the present—it is this earth to-day;</l>
+                        <l>It is in Democracy—in this America—the Old <lb/>World also;</l>
+                        <l>It is the life of one man or one woman to-day, the <lb/>average man of to-day;</l>
+                        <l>It is in languages, social customs, literatures, arts;</l>
+                        <l>It is in the broad show of artificial things, ships, <choice><orig>ma-<lb/>chinery</orig><reg>machinery</reg></choice>, politics, creeds, modern improvements, <lb/>and the interchange of nations:</l>
+                        <l>All for the average man of to-day."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The following opening of "Years of the Unperformed," if not poetry in the hackneyed sense of the term, is the voice of the true prophet:—</p>
+
+         <!-- From "Years of the Unperformed" (Later: "Years of the Modern") Leaves of Grass 1871-72 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00295" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <l>"Years of the unperformed! Your horizon rises. <lb/>I see it part away for more august dramas:</l>
+                        <l>I see not America only—I see not only liberty&#x92;s <lb/>nation, but other nations embattling.</l>
+                        <l>I see tremendous entrances and exits, I see new <lb/>combinations, I see the solidarity of races;</l>
+                        <l>I see that force advancing with irresistible power, <lb/>on the world&#x92;s stage.</l>
+                        <l>Have the old forces played their parts? Are the <lb/>acts suitable to them closed?"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>"Old Ireland," of which we have not space for more than the first stanza, is, we think, very beautiful:—</p>
+
+         <!-- From "Old Ireland" Leaves of Grass 1871-72 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00227" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <l>"Far hence, amid an isle of wondrous beauty, <lb/>crouching over a grave, an ancient sorrowful <lb/>mother,</l>
+                        <l>Once a queen, now lean and tattered, seated on <lb/>the ground;</l>
+                        <l>Her old white hair drooping dishevelled round <lb/>her shoulders;</l>
+                        <l>At her feet fallen an unused royal harp,</l>
+                        <l>Long silent. She, too, long silent—mourning her <lb/>shrouded hope and heir;</l>
+                        <l>Of all the earth her heart most full of sorrow, <choice><orig>be-<lb/>cause</orig><reg>because</reg></choice> most full of love."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Of the political idea conveyed in this we say nothing; but as a picture, it is intensely human.</p>
+
+         <p>There is little rhyme throughout Whitman's "poems," and perhaps, some people may be inclined to say, little rhythm either; but that this arises more from Walt's disdain for the mechanical resources of other poets than from any want of a good musical ear may be seen from the following dirge for Abraham Lincoln, which is very touching:—</p>
+
+         <!-- From "O Captain My Captain!" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00218" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"O captain—O captain! our fearful trip is done—</l>
+                        <l>The ship has weathered every rack, the prize we <lb/>sought is won;</l>
+                        <l>The port is near, the bells I hear—the people all <lb/>exulting,</l>
+                        <l>While follow eyes the steady keel, the vessel grim <lb/>and daring.</l>
+		                      <l rend="indented4">But heart, heart, heart!</l>
+		                      <l rend="indented4">Leave you not the little spot</l>
+		                      <l rend="indented4">Where on the deck my Captain lies,</l>
+		                      <l rend="indented4">Fallen cold and dead.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>O captain, my captain, rise up and hear the bells;</l>
+                        <l>Rise up, for you the flag is flung, for you the <lb/>bugle trills,</l>
+                        <l>For you bouquets and ribboned wreaths, for you <lb/>the shores a-crowding,</l>
+                        <l>For you they call—the swaying mass, their eager <lb/>faces turning.</l>
+		                      <l rend="indented4">O Captain, dear father!</l>
+		                      <l rend="indented4">This arm I push beneath you.</l>
+		                      <l rend="indented4">It is some dream that on the deck</l>
+		                      <l rend="indented4">You've fallen cold and dead.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>My Captain does not answer, his lips are pale and <lb/>still,</l>
+                        <l>My father does not feel my arm—he has no pulse <lb/>nor will;</l>
+                        <l>But the ship, the ship is anchored safe, its voyage <lb/>closed and done;</l>
+                        <l>From fearful trip the victor ship comes in with <lb/>object won.</l>
+		                      <l rend="indented4">Exult, O shore, and ring O bells!</l>
+		                      <l rend="indented4">But I, with silent tread</l>
+		                      <l rend="indented4">Walk the spot my captain lies</l>
+		                      <l rend="indented4">Fallen cold and dead.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>We have quoted enough, we think, even in these brief extracts, to show that Walt Whitman is more of a poet than his adverse critics will allow.  The only excuse for their opposition is, perhaps, that they have not yet learnt to understand the man.</p>
+
+         <p>We confess to sharing the weakness of many who, in studying the genius and intellect of a teacher of men, are anxious also to know all they can of his personal life.  A preacher may charm an admiring congregation with the most saintlike of sermons; but it does not follow of necessity that he is not as erring a sinner as any among his flock.  The philosopher, like Bacon, may utter the noblest and loftiest sentiments, yet be at the same time the "meanest of mankind."  So the poet may wake the pulses of men with the purest and most God-like of truths, yet be by no means the most admired and respected personally by those who have the privilege of an acquaintance more intimate than the mere knowledge of his genius.  For this reason, after our remarks on the poetry of Walt Whitman, we give a sketch of his <hi rend="italic">personnel</hi> by one of his own countrymen, who, while an enthusiastic admirer of the poet, yet seems to speak from his heart:—</p>
+
+         <p>"For years past," says Dr. Douglas O'Connor, of Massachusetts, in a pamphlet called the "Good Gray Poet," "thousands of people in New York, in Brooklyn, in Boston, in New Orleans, and latterly in Washington, have seen, even as I saw two hours ago, tallying, one might say, with the streets of our American cities, and fit to have for his background and accessories their streaming populations and ample and rich façades, a man of striking masculine beauty—a poet: powerful and venerable in appearance; large, calm, superbly formed; oftenest clad in the careless, rough, and always picturesque costume of the common people; resembling, and generally taken by strangers for, some great mechanic, or stevedore, or seaman, or grand labourer of one kind or another; and passing slowly in this guise, with nonchalant and haughty steps, along the pavement, with the light and shadows falling around him.  The dark sombrero he usually wears was, when I saw him just now—the day being warm—held for the moment in his hands.  Righ light, an artist would have chosen, lay upon his uncovered head—majestic, large, Homeric, and set upon his strong shoulders with the grandeur of ancient sculpture.  I marked the countenance—serence, proud, cheerful, florid, grave; the brow, seamed with noble wrinkles; the features, massive and handsome, with firm blue eyes; the eyebrows and eyelids especially showing that fulness of arch seldom seen save in the antique busts; the flowing hair and fleecy beard, both very gray, and tempering with a look of age the youthful aspect of one who is but forty-five; the simplicity and purity of his dress, cheap and plain, but spotless, from snowy falling collar to burnished boot, and exhaling faint fragrance; the whole form surrounded with manliness as with a nimbus, and breathing, in its perfect health and vigour, the august charm of the strong.  We who have looked upon this figure, or listened to that clear, cheerful, vibrating voice, might smile to think, could we but transcend our age, that we had been thus near to one of the greatest of men."</p>
+
+         <p>This is warm praise; but the Doctor's own tribute of admiration for the stalwart poet was well seconded by one who was, as friends and enemies alike own, himself a man, in the most honourable sense of the term.</p>
+
+         <p>Abraham Lincoln, seeing him for the first time, from the East Room of the White House, as he passed slowly by, and gazing at him long with that deep eye which read men, said in the quaint, sweet tone which those who have spoken with him will remember, and with a significant emphasis which the type can hardly convey—"Well, <hi rend="italic">he</hi> looks like a Man!"</p>
+
+         <p>With a few details of Walt Whitman's life, we will conclude our brief notice of this remarkable man.</p>
+
+         <p>Walt—an abbreviation by himself of Walter, which latter is, we presume, his baptismal name—was born at the farm village of West Hills, Long Island, on the 31st of May, 1819.  By his father's side he is of English descent; but his mother, whose maiden name was Louisa Van Velsor, was of Dutch extraction.</p>
+
+         <p>The father was a farmer, and afterwards a carpenter and builder, and both the father and mother were strict followers of the great Quaker iconoclast, Elias Hicks.<ref target="n3" xml:id="r3" n="3"/>
+         </p>
+
+         <p>Like many other of his countrymen, Whitman has turned his hand, as occasion required, to different trades and occupations.  At the age of thirteen he began life as a printer.  He was next a teacher in a country school, then a miscellaneous writer on the New York press.  Then we find him a newspaper editor in New Orleans; next a printer again; and then, by one of those curious transformations so common to active American life, taking to his father's trade of carpenter and builder. On the breaking out of the civil war, Whitman joined in the dangers of the conflict, but solely with the noble purpose of rendering assistance to the sick and wounded of either side, both in the battle-field and the hospitals.  It is said that by the end of the war he had personally ministered to upwards of 100,000 sick and wounded.</p>
+
+         <p>A man of this sort cannot but be entitled to the love and respect of every humane and right-thinking person, apart from his intellectual merits altogether.</p>
+
+         <p>Mr. Whitman holds, we believe, at the present time, a pretty lucrative post at one of the American consulates.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+"The Miller's Daughter" and "The Ballad of Oriana" are both poems by Alfred Lord Tennyson (1809-1892), who was the Poet Laureate of England from 1850 until his death.
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+Sydney Smith (1771-1845) was a well-regarded English preacher and writer, a proponent of parliamentary reform and Roman Catholic emancipation.  He famously remaked, "In the four quarters of the globe, who reads an American book, or goes to an American play, or looks at an American picture or statue?"
+</note>  
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+An advocate of abolition and a liberal Quaker preacher, Elias Hicks (1748-1830) became the head of one of the two factions of the first major schism within the Religious Society of Friends.
+</note>  
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

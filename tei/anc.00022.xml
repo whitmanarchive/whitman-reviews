@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00022">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">Leaves of Grass</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="bb">Brett Barney</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="cg">Charles Green</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00022</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Leaves of Grass</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Saturday Review</title>
+                  <imprint>
+                     <biblScope type="volume">1</biblScope>
+                     <date when="1856-03-15">15 March 1856</date>
+                     <biblScope type="pages">[unknown]</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#bb" when="2012-04-27">corrected typo</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#cg" when="2005-06-20">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">LEAVES OF GRASS.<ref><hi rend="superscript">∗</hi></ref>
+            <!--  [Review of Leaves of Grass (1855)] --> 
+         </head>
+
+         <p>We have received a volume, bound in green, and bearing the above title, under rather singular circumstances.  Not only does the donor send us the book, but he favours us with hints—pretty broad hints—towards a favourable review of it.  He has pasted in the first page a number of notices extracted with the scissors from American newspapers, and all magnificently eulogistic of Leaves of Grass.  So original a proceeding merits an exceptional course; and therefore we shall confine ourselves to laying before our readers, first, the opinions of the American reviewers, and next giving specimens of the work reviewed.  The relation of the two classes of extracts is curiously illustrative of contemporary American criticism.</p>
+
+         <p>The first panegyrist is not a newspaper writer, but the "Representative Man," Ralph Waldo Emerson:—</p>
+
+         <q who="Ralph Waldo Emerson" type="written">
+            <floatingText type="letter">
+               <body>
+                  <div1 type="letter">
+                     <p>D<hi rend="smallcaps">EAR</hi> S<hi rend="smallcaps">IR</hi>,—I am not blind to the worth of the wonderful gift of <hi rend="italic">Leaves of Grass</hi>.  I find it the most extraordinary piece of wit and wisdom that America has yet contributed.  I am very happy in reading it, as great power makes us happy.  It meets the demand I am always making of what seemed the sterile and stingy nature, as if too much handiwork, or too much lymph in the temperament, were making our Western wits fat and mean.</p>
+
+                     <p>I give you joy of your free and brave thought. I have great joy in it. I find incomparable things said incomparably well, as they must be.  I find the courage of treatment which so delights us, and which large perception only can inspire.</p>
+
+                     <p>I greet you at the beginning of a great career, which yet must have had a long foreground somewhere, for such a start.  I rubbed my eyes a little, to see if this sunbeam were no illusion; but the solid sense of the book is a sober certainty.  It has the best merits, namely, of fortifying and encouraging.</p>
+                     <closer>
+                        <signed>
+                           R. W. E<hi rend="smallcaps">MERSON</hi>.</signed>
+                     </closer>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>From the <hi rend="italic">Brooklyn Daily Times</hi> we take a description of Mr. Walt Whitman,
+the author of <hi rend="italic">Leaves of Grass</hi>:—</p>
+
+         <q who="Brooklyn Daily Times">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <p>He never offers others; what he continually offers is the man whom our Brooklynites know so well.  Of pure American breed, of reckless health, his body perfect, free from taint from top to toe, free for ever from headache and dyspepsia, full-blooded, six feet high, a good feeder, never once using medicine, drinking water only—a swimmer in the river or bay or by the seashore—of straight attitude and slow movement on foot—an indescribable style evincing indifference and disdain—ample limbed, weight a hundred and eighty-five pounds, age thirty-six years [1855]—never dressed in black, always dressed freely and clean in strong clothes, neck open, shirt collar flat and broad, countenance of swarthy transparent red, beard short and well mottled with white, hair like hay after it has been mowed in the field and lies tossed and streaked—face not refined or intellectual, but calm and wholesome—a face of an unaffected animal—a face that absorbs the sunshine and meets savage or gentleman on equal terms.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The <hi rend="italic">American Phrenological Journal</hi> contrasts the poet of <hi rend="italic">Leaves of Grass</hi> with Tennyson:—</p>
+
+         <q who="American Phrenological Journal">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <p>The best of the school of poets at present received in Great Britain and America is Alfred Tennyson.  He is the bard of ennui and of the aristocracy, and their combination into love.  This love is the old stock love of playwrights and romancers, Shakespeare the same as the rest.  It is possessed of the same unnatural and shocking passion for some girl or woman, that wrenches it from its manhood, emasculated and impotent, without strength to hold the rest of the objects and goods of life in their proper positions.  It seeks nature for sickly uses.  It goes screaming and weeping after the facts of the universe, in their calm beauty and equanimity, to note the occurrence of itself, and to sound the news, in connexion with the charms of the neck, hair, or complexion of a particular female…</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Not a borrower from other lands, but a prodigal user of his own land is Walt Whitman.  Not the refined life of the drawing-room—not dancing, and polish, and gentility, but some powerful uneducated person, and some harsh identity of sound, and all wild free forms, are grateful to him.  A thrill of his own likeness strikes him as the spotted hawk wheels noisily near his head at nightfall, and he is fain to say,—</p>
+
+
+         <q who="Walt Whitman" type="written">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>I too am not a bit tamed—I too am untranslatable;</l>
+                     <l>I sound my barbaric yawp over the roofs of the world.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The <hi rend="italic">United States Review</hi> discovers in Mr. Whitman the founder of an indigenous school of American poetry:—</p>
+
+         <q who="United States Review">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <p>Self-reliant, with haughty eyes, assuming to himself all the attributes of his country, steps Walt Whitman into literature, talking like a man unaware that there was ever hitherto such a production as a book, or such a being as a writer.  Every move of him has the free play of the muscle of one who never knew what it was to feel that he stood in the presence of a superior.  Every word that falls from his mouth shows silent disdain and defiance of the old theories and forms.  Every phrase announces new laws; not once do his lips unclose except in conformity with them.  With light and rapid touch he first indicates in prose the principles of the foundation of a race of poets so deeply to spring from the American people, and become ingrained through them, that their Presidents shall not be the common referees so much as that great race of poets shall.  He proceeds himself to exemplify this new school, and set models for their expression and range of subjects.  He makes audacious and native use of his own body and soul.  He must recreate poetry with the elements always at hand.  He must inbue it with himself as he is, disorderly, fleshy, and sensual, a lover of things, yet a lover of men and women above the whole of the other objects of the universe. His work is to be achieved by unusual methods.  Neither classic nor romantic is he, nor a materialist any more than a spiritualist. Not a whisper comes out of him of the old stock talk and rhyme of poetry—not the first recognition of gods or goddesses, or Greece or Rome.  No breath of Europe, or her monarchies or priestly conventions, or her notions of gentlemen and ladies founded on the idea of caste, seems ever to have fanned his face or been inhaled into his lungs.  But in their stead pour vast and fluid the fresh mentality of this mighty age, and the realities of this mighty continent, and the sciences, and inventions, and discoveries of the present world.  Not geology, nor mathematics, nor chemistry, nor navigation, nor astronomy, nor anatomy, nor phrenology,  nor engineering, is more true to itself than Walt Whitman is true to them.  They and the other sciences underlie his whole superstructure.  In the beauty of the work of the poet, he affirms, are the tuft and final applause of science.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Now for the <hi rend="italic">pièces justifcatives</hi>. The exordium of <hi rend="italic">Leaves of Grass</hi> is as follows:—</p>
+
+         <q who="Walt Whitman" type="written">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I celebrate myself,</l>
+                        <l>And what I assume you shall assume,</l>
+                        <l>For every atom belonging to me as good belongs to you.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I loafe and invite my soul,</l>
+                        <l>I lean and loafe at my ease…observing a spear of  summer grass.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Houses and rooms are full of perfumes…the shelves are <lb/>crowded with perfumes,</l>
+                        <l>I breathe the fragrance myself, and know it and like it,</l>
+                        <l>The distillation would intoxicate me also, but I shall  not let it.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>The atmosphere is not a perfume . .  . . it has no taste of <lb/>the distillation…</l>
+                        <l>It is odorless,</l>
+                        <l>It is for my mouth forever…I am in love with it,</l>
+                        <l>I will go to the bank by the wood and become undisguised <lb/>and naked,</l>
+                        <l>I am mad for it to be in contact with me.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>A little further on, the poet describes the subject of his poem, viz., himself:—</p>
+
+         <q who="Walt Whitman" type="written">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Walt Whitman, an American, one of the roughs, a kosmos,</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Disorderly fleshy and sensual…eating drinking and breeding,</l>
+                        <l>No sentimentalist…no stander above men and woman or apart <lb/> from them…no more modest than immodest.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Unscrew the locks from the doors!</l>
+                        <l>Unscrew the doors themselves from their jambs!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Whoever degrades another degrades me…and whatever is <lb/> done or said returns at last to me,</l>
+                        <l>And whatever I do or say I also return.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The title of the poem is explained at page 16:—</p>
+
+         <q who="Walt Whitman" type="written">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>A child said, What is the grass? fetching it to me with <lb/>full hands;</l>
+                        <l>How could I answer the child?…I do not know what it <lb/>is any more than he.</l>
+                        <l>I <hi rend="italic">guess</hi> it must be the flag of my disposition, out of <lb/>hopeeful green stuff woven.</l>
+                        <l>Or I <hi rend="italic">guess</hi> it is the handkerchief of the Lord,</l>
+                        <l>A scented gift and remembrancer designedly dropped,</l>
+                        <l>Bearing the owner's name someway in the corners, that we <lb/>may see and remark, and say Whose?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Or I <hi rend="italic">guess</hi> the grass is itself a child…the produced babe <lb/>of the vegetation.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Or I <hi rend="italic">guess</hi> it is a uniform hieroglyphic,</l>
+                        <l>And it means, sprouting alike in broad zones and narrow zones,</l>
+                        <l>Growing among black folks as among white,</l>
+                        <l>Kanuck, Tuckahoe, Congressman, Cuff, I give them the same, I <lb/>receive them the same.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>And now it seems to me the beautiful uncut hair of graves.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Mr. Whitman speculates on Humanity:—</p>
+
+         <q who="Walt Whitman" type="written">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>What is a man anyhow? What am I? and what are you?</l>
+                        <l>All I mark as my own you shall offset it with your own,</l>
+                        <l>Else it were time lost listening to me.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I do not snivel that snivel the world over,</l>
+                        <l>That months are vacuums, and the ground but wallow and filth,</l>
+                        <l>That life is a suck and a sell, and nothing remains at the end but <choice><orig>thread-<lb/>bare</orig><reg>threadbare</reg></choice> crape and tears.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Whimpering and truckling fold with powders for invalids…conformity <lb/>goes to the fourth-removed,</l>
+                        <l>I cock my hat as I please indoors or out.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Shall I pray?  Shall I venerate and be ceremonious?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I have pried through the strata and analysed to a hair,</l>
+                        <l>And counselled with doctors and calculated close and found no sweeter fat <lb/>than sticks to my own bones.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Shortly afterwards the poet applies his theory of humanity to himself:—</p>
+
+         <q who="Walt Whitman" type="written">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I know I am august,</l>
+                        <l>I do not trouble my spirit to vindicate itself or be understood,</l>
+                        <l>I see that the elementary laws never apologize</l>
+                        <l>I reckon I behave no prouder than the level I plant my house by after all.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I exist as I am, that is enough,</l>
+                        <l>If no other in the world be aware I sit content.</l>
+                        <l>And if each and all be aware I sit content.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Our last extract embodies Mr. Whitman's theological creed:—</p>
+
+         <q who="Walt Whitman" type="written">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>And I call to mankind, Be not curious about God,</l>
+                        <l>For I who am curious about each am not curious about God,</l>
+                        <l>
+                           <hi rend="italic">No array of terms can say how much I am at peace about God and about</hi> 
+                           <lb/>
+                           <hi rend="italic">death</hi>.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I hear and behold God in every object, yet I understand <lb/>God not in the least,</l>
+                        <l>Nor do I understand who there can be more wonderful than <lb/>myself.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Why should I wish to see God better than this day?</l>
+                        <l>I see something of God each hour of the twenty-four, and each moment <lb/>then,</l>
+                        <l>In the faces of men and women I see God, and in my own face in the glass;</l>
+                        <l>I find letters from God dropped in the street, and every one is signed by <lb/>God's name,</l>
+                        <l>And I leave them where they are, for I know that others will punctually <lb/>come for ever and ever.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>After poetry like this, and criticism like this, it seems strange that we cannot recommend the book to our readers' perusal.  But the truth is, that after every five or six pages of matter such as we have quoted, Mr. Whitman suddenly becomes exceedingly intelligible, but exceedingly obscene.  If the <hi rend="italic">Leaves of Grass</hi> should come into anybody's possession, our advice is to throw them instantly behind the fire.</p>
+
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+           
+            <ab> <hi rend="superscript">∗</hi>
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>
+                   
+                   
+                      New York:  
+                      Brooklyn.  
+                      London:  
+                      Horsell.  
+                      1855. 
+                   
+               
+            </ab>
+          
+
+      </body>
+   </text>
+</TEI>

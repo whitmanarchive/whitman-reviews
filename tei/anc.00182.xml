@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00182">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="reminiscence">Walt Whitman's Yawp</title>
+            <title level="m" type="sub">[Review of "A Child's Reminiscence"]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+          <author>
+                <choice>
+                   <orig>Umos</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00182</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice>
+                        <orig>Umos</orig>
+                        <reg>unknown</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Walt Whitman's Yawp</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Saturday Press</title>
+                  <imprint>
+                     <date when="1860-01-14">14 January 1860</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#vs" when="2007-07-19">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt Whitman's Yawp.<!-- [Review of A Child's Reminiscence] --></head>
+
+         <p>The review by the Cincinnati <hi rend="italic">Commercial</hi> of Walt Whitman's last yawp, which (the review) you were frank enough to print in your last issue, emboldens me to speak my sentiments. When I opened the P<hi rend="smallcaps">RESS</hi> containing that extraordinary concentration of words, I said to myself, here's something nice for Mrs. U. to listen to, this night, after the little U's have curled themselves up in bed. Accordingly, the desired hour having arrived, I opened the P<hi rend="smallcaps">RESS</hi>, and enquired of Mrs. U. what she knew of Walt Whitman, and I am happy to say,—happy, after reading what the Cincinnati paper says about his "Leaves of Grass,"—that she instantly disclaimed the remotest acquaintance with any one of that name. "Then," I proceeded to remark, "he must be a poetic luminary of the first magnitude—a sort of Fresnel light—who has been, like Alexander Smith<ref target="n1" n="1" xml:id="r1"/>, hiding his brilliancy under dry goods boxes or flour-barrels, and now blazes forth to amaze the readers of the S<hi rend="smallcaps">ATURDAY</hi> P<hi rend="smallcaps">RESS</hi>, and the rest of mankind. Listen; it's good, or it wouldn't be here."</p>
+
+         <p>I began. . . . </p>
+	
+         <p>Last Winter I got on skates, my first appearance before an icy audience for fifteen years.</p>
+
+         <p>Happily for me, I selected the night and a retired spot. Unhappily, that the—infernal, I was going to say, hyperborean is better—hyperborean idea ever entered my wretched head; and for its weakness that head paid a fearful penalty.</p>
+
+         <p>I cherish a vivid remembrance, that on that fearful night there was an <hi rend="italic">irrepressible conflict</hi> between my several members. No two of them would go the same way, and when they did, it was not the way I wanted them to go. The only consentaneous movement which they seemed at all disposed to execute, was a spasmodic, unsolicited, and uncontrollable flight ad astra, in which my head foolishly refused to participate, and for its contumacy was left behind, the stars being so obliging as to come down in dazzling throngs to gaze upon my helplessness. I remembered the story of Miller at Lundy's Lane, of Bruce (was it?) and the historical Spider, who tried twenty times before he hauled himself up, and I didn't give it up so, O Editor! but "tried, tried again," until I believe the closed-up sutures in my cranium were opened as widely as if the brains were out, and a pint of white beans were in with the whole <hi rend="italic">caput-al</hi> arrangement-soaking in the Anatomist's basin. Such a wild, heterogeneous insane Saint Vitus-like, poly-maniacal orgie, as my shapely and generally well-behaved branches went into that night, will never be forgotten.<ref target="n2" n="2" xml:id="r2"/>
+         </p>
+
+         <p>I said I began to read Walt Whitman's Yawp.</p>
+
+         <p>Pardon my digression—I have been trying to say that I felt as I was reading, that Walt—whatever that stands for—was on his <hi rend="italic">musical</hi>
+            <ref target="n3" n="3" xml:id="r3"/> skates for the first time.</p>
+
+         <p>O Shakespeare, O Milton, O Longfellow, O Henry Clapp junior, Editor of the nicest paper in the country—I couldn't see it!</p>
+
+         <p>I told Mrs. U. so—I asked her what you, O Editor meant by publishing such wretched trumpery! She had not been favored with your confidence, and said she didn't know. But she didn't think it trumpery—she thought there was something in it.</p>
+
+         <p>As Mrs. U. is the poet of my concern, her suggestion to that effect was a strong point in favor of Mr. Whitman's barbaric Yawp.</p>
+
+         <p>Furthermore, as Mrs. U.'s fondness for poetry doesn't at all interfere with the clearness of my café noir, the lightness of my muffins, or the integrity of my shirt-buttons, I respect her poetical opinions to every extent consistent with my lordly prerogative.</p>
+
+         <p>So I attempted the Yawp again.</p>
+
+         <p>Like as Mr. Webster said to the dandy who asked him if he never danced, "I never had intellect enough to learn," so I say—and I say it with grateful humility—"I haven't poetry enough to understand Walt's Yawp." More than that, I don't want to.</p>
+
+         <p>My private opinion expressed to you confidentially is, that Whitman found a lot of dictionary-<hi rend="italic">pi</hi> going off at auction, bought it for a song, employed a Chinese type-setter from the Bible House to set if up in lines of unequal length, and then sold it to you as an original Poem.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">In 1822 French physicist Augustin Fresnel invented a light with a concentrated and powerful beam  that became common on the seacoasts of North America and Europe. Alexander Smith (1830–1867) was a Scottish poet of the so-called spasmodic school. </note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">In the Revolutionary War, Col. James Miller at Lundy's Lane said, "We can try" when asked if his regiment could capture a British battery.  Robert the Bruce I (1274–1329), King of Scotland, escaped to a cave after defeat in battle. Legend has it that while waiting in the cave he watched a spider attempt to build a web in the cave's entrance. Despite falling down many times, the spider continued until the web was completed. Bruce determined to renew his fight and reportedly told his men, "If at first you don't succeed, try try and try again." See <ref target="http://www.showcaves.com/english/explain/History/Bruce.html">http://www.showcaves.com/english/explain/History/Bruce.html</ref>. Saint Vitus is the patron saint of young people, dogs, and dancers. A disease is named after him, Sydenham's Chorea, which can sometimes cause dancing mania.</note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="3">In his next column a week or two later, Umos complains that his punning "muse-cal" was misprinted as "musical." </note>  
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

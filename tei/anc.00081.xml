@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00081">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Walt Whitman's Poems</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00081</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman's Poems</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Literary World</title>
+                  <imprint>
+                     <date when="1881-11-19">19 November 1881</date>
+                     <biblScope type="volume">12</biblScope>
+                     <biblScope type="pages">411-12</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-12">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN'S POEMS.<hi rend="superscript"><ref>*</ref></hi> 
+            <!--  [Review of Leaves of Grass (1881&#8211;82)] -->
+         </head>
+
+         <p>T<hi rend="smallcaps">HIS</hi> is the collected and revised poetry of Walt Whitman, who, some will have it, is by preeminence of art and nature our representative American poet. It will be noticed that at last he has found a publisher other than himself. What this nation may become it might not be wise to prophesy; but we may at the start humbly entertain the hope, at least, that at this present writing our nationality, in root and fiber, is something else than what Mr. Whitman sings. His book is one of courage, most downright in its dogmatics, and says its say apparently without the slightest consideration for the fact that much it says must cross and shock the deepest ethical instincts of a great multitude—we should certainly hope the vast majority of those American men and women who by any misfortune are led to read him. For these poems are of that breed that they force the honest critic into a corner where he must either speak plain words, or step down and out from his judgment-seat. This is a book which makes not only war upon nearly all traditional theories of true poetry, but in many places a very brutal assault upon our fixed ideas of human decency and purity. For instance, it has long been held that poetry is not merely the prose of any philosophy, history, geography, anthropology, or, we might add, anatomy or sexual physiology; but must have some sort of inherent rhythm and melody—the heartbeats and spiritual pulsations of the poet. This, for want of a better term, we call the <hi rend="italic">form</hi> of poetry. Tennyson, for example, is a master of poetic form. The poems under review, as to form, run to a chaos of monotonies. It is not the chaotic diversity of the wild woods, or the sea waves, or the autumn leaves, or the sand grains in a gravel-pit, in all which there is the articulated beauty and inbred virtue of nature obedient to the Great Craftsman. The chaos of Mr. Whitman's verse, to compare great with small, reminds us of the gray clay bluffs of Truro Beach. Would it were as clean! In form he reminds us of Martin Farquhar Tupper.<ref target="n2" xml:id="r2" n="1"/>
+         </p> 
+
+         <p>There is vastly more to be said as to his substance. First of all, and gladly, this: that he has, in his nigh four hundred pages, spurts and flashes of some things which say: "This could and should have been a noble creature." He has a quick, sharp sight for the surfaces of natural scenery, as when he speaks of the "heart-shaped" leaf of the lilac; but somehow he seems incapable of grasping the inner spiritual lessons of field and flood, or a spiritual analogy. The best instance of the opposite we have found on a careful search is this:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+<!-- Not sure how to tag reviewer's page number notation below without including it within the l tag or as a separate paragraph; neither option seems correct -->
+                        <l>I believe a leaf of grass is no less than the <choice><sic>journey work</sic><corr>journey-work</corr></choice> of <lb/>the stars (p. 53).</l>  
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>His grasp of the detail of an event, but not of its ethical quality, is shown in his description of a sea-fight [pp. 62-63]. Somehow <hi rend="italic">he never shows us the soul</hi> of anything. We may ask even, "Does he believe there is any such thing as a soul?" American he is, of the ruder and more barbaric type, a prairie cow boy in a buffalo robe, with a voice of the east wind, shouting prophecies and incantations about what he thinks he sees and knows. But from civilized speech or melody he seems strangely remote. Egotism, if a virtue, is certainly an unfragrant one, and Walt Whitman's egotism, grotesque as it is, is perhaps less grotesque than gigantic. He describes himself well enough in the lines,</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I <choice><sic></sic><corr>too </corr></choice>am not a bit tamed, I too am untranslatable<choice><sic>—</sic><corr>,</corr></choice>
+                        </l>
+                        <l>I sound my barbaric yawp over the roofs of the world.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Mr. Whitman's religion is no doubt to him a serious matter, and it is a somewhat serious matter to discover what in the world it is. He often discourses eloquently of God, as when (p. 76) he says:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I find letters from God dropt in the street<choice><sic></sic><corr>,</corr></choice> and every one is <lb/>
+                           <choice><sic>signed</sic><corr>sign'd</corr></choice> by God's name,</l>
+                        <l>And I leave them where they are for I know that <choice><orig>whereso-<lb/>ever</orig><reg>wheresoever</reg></choice> I go</l>
+                        <l>Others will punctually come forever and ever.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Yet the prevalent tone of his verses is curiously Asiatic, as though he were an incarnation of Brahma, and a pantheist. He says (p. 31):</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Clear and sweet is my soul, and clear and sweet is all that <lb/>is not my soul.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>(A cess-pool, for instance).</p>
+
+         <p>In fact, he declares himself to be all that the universe is, even to being at the same moment each of two exactly opposite things, as though a man at any given instant were and were not. Indeed, it is this rapt but noisy mysticism which makes it rather hard to finger Mr. Whitman and touch his quality. Not that true poetry does not allow mysticism, or that mystics are not often poets. Indeed, high poetry is often a blessed hint, and only a hint, of a vaster world within the veil of the unreachable and the non- measurable.</p>
+
+         <p>Uhland's ballad, "The Two Locks of Hair," for instance, hints at the draped and veiled world of sorrow, whose mysteries are only revealed to the mourners after here. Mr. Whitman's mysticism is a fog-bank that cloaks all, even the possible hint itself. Add to this his all-pervading oracularity of speech, and he is certainly a man hard to be "understanded" of common folk. And yet there are gleams in his book, not only of great things, but of possibly magnificent ones. His tribute to Abraham Lincoln (p. 262), beginning "O Captain! my Captain!" is a weird and rare performance. "The Singer in the Prison" (p. 292) beginning</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00233" cert="absolute"/>
+                        <!-- epigraph to The Singer in the Prison -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>O sight of pity, shame and dole<choice><sic></sic><corr>!</corr></choice>
+                        </l>
+                        <l>O fearful thought—a convict soul,</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>is full of tenderness and pathos.</p>
+
+         <p>The ethical quality of Mr. Whitman's poems remains to be examined. Here, in all honesty, it is hard to know what to say or what to leave unsaid. Gray hairs have their rights, and ought to be a shield against taunt and bitterness; but woman's purity and human society have their rights also, and there are little children growing up into the arena of the world's toil and trial who have their rights as well. We go now upon the assumption that there are certain elements of decency which pervade all human society, heathen and otherwise, and that the world is not too old to blush. We say that there are passages in this book that never ought to have been written, much less published; passages which sound like a lecture on the obstetrics of lust and (may we say it with all deference to our well-bred readers) the apotheosis of the Phallus. It is hard to overstate this matter. When a man with such physical imagery of shame sum- mons the very wind (p. 49) to be assistant in a poetical concubinage as realistic as a French invisible card, and the salt sea also (p. 46), it is certainly time for us common mortals who have still some respect for the seventh commandment to stay in doors from the elements, or, if at sea, to make all speed for the shore. The offense in this wise is not all-pervading, but it is very acute and deep.</p>
+
+         <p>His apologists will say of him that he is only another Adam in the Garden, naked and not ashamed. We say of him, and of all who have assisted in the making of his book, that they are guilty of an act of indecent exposure. For the rest, what Mr. Whitman might have been in poetry we have tried to fairly state. We can only add that if in these <hi rend="italic">Leaves of Grass</hi> he has shown himself to be a poet, then the great and shining ones whom the English-speaking race have been wont to honor with this high title, are not.</p>
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+         
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>
+                   
+                   
+                      James R. Osgood &amp; Co.  
+                   
+               
+            </ab>
+          
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n2" target="r2" n="1">
+The English poet Martin Farquhar Tupper (1810-1889) wrote <hi rend="italic">Proverbial Philosophy</hi>, didactic moral and religious verse published in the mid 1800s.
+</note>  
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

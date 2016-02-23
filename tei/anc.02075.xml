@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02075">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Leaves of Grass</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>unknown</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="ng">Nicole Gray</persName>
+               <persName xml:id="mc">Matt Cohen</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02075</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Leaves of Grass</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The American Bookseller</title>
+                  <imprint>
+                     <date when="1882-08-01">1 August 1882</date>
+                     <!--<biblScope type="volume">No. 15</biblScope>-->
+                     <biblScope type="pages">384</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#ng" when="2014-11-26">Checked, corrected, added ID</change>
+         <change who="#mc" when="2014-11-25">Transcribed, encoded.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main-authorial">
+            <hi rend="italic">Leaves of Grass</hi>.<!-- [Review of Leaves of Grass (1881&#8211;81)] --></head>
+            <p>Further publication of Walt Whitman's collected poems having been interdicted in Boston, the plates were transferred to Messrs. Rees Welsh &amp; Co., of Philadelphia, whose advance orders exceeded their first edition, a copy of which is before us. This volume was prepared by J. R. Osgood &amp; Co., with the personal supervision of the "good, gray poet," and is the only complete and satisfactory edition of his verse. The question of Whitman's place in literature is too involved and difficult for discussion here; it has been argued by able writers in prominent journals, but with no great decisiveness, and it may be doubted whether critics and critical readers will ever be less at variance in their estimates than now. Whitman has passages and stray poems of such obvious strength and beauty as to compel admiration, but their amount is small compared with the mass of matter written in barbaric scorn of all accepted forms, conventionalities, and proprieties. It is difficult to defend many things in <hi rend="italic">Leaves of Grass</hi>, even on the author's ground of their necessity to the completion of his "artistic purpose," because to the average mind they are purposeless and brutal.</p>
+            <p>The portrait given in this volume is not very satisfactory, though doubtless a good copy of the Walt Whitman of years ago. It should at least have been accompanied by one of the present date, like that which appeared last year in <hi rend="italic">Scribner's Monthly</hi>, for instance—a head of venerable dignity, in striking contrast to the longshoreman-like figure presented here.</p>
+
+      </body>
+   </text>
+</TEI>

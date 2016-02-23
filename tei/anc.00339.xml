@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00339">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poems">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00339</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">National Anti-Slavery Standard</title>
+                  <imprint>
+                     <date when="1868-05-16">16 May 1868</date>
+                     <biblScope type="pages">[2]</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#vs" when="2010-01-11">transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>Of the republication of Walt Whitman's poems in England, Mr. Smalley<ref target="n1" n="1" xml:id="r1"/> writes to the <hi rend="italic">Tribune</hi>:</p>
+
+         <p>"The writings of Walt Whitman, which, on the title page of the English reprint, are described as poems, are reviewed this week in <hi rend="italic">The Athenæum</hi>, with more respect than the English press has generally accorded to them. Mr. Dixon's paper thinks some entire pieces embody the vital constituents of poetry, viz., emotion and imagination; though of the greater number of pages it would be difficult to maintain that they are poetry in any sense of that word which has yet been accepted. The poem of the book is considered to be "A Word out of the Sea," which "conclusively testifies that Whitman can write noble poetry." This, however, is a verdict, not upon the whole writings of Mr. Whitman, but upon so many of them as his editor, Mr. W. M. Rossetti, has thought it prudent to put into English print. No publisher could be found—not even Mr. Swinburne's—willing to affront both the law and public sense of decency by an unexpurgated issue of writings which owe their toleration in America to their obscurity. In private, Mr. Whitman has been more or less a topic of discussion. I have never yet heard, from any competent source, a favorable opinion on his claims. I have heard but one such opinion from any English source whatever, and that was from a poet whose critical judgment may have yielded to his sympathy with the worst eccentricities of Whitman's muse. But there is plenty of stern criticism from men who are usually tolerant, and of contemptuous criticism from men who are usually merciful. Mr. Carlyle likens him to a buffalo, useful in fertilizing the soil, but mistaken in supposing that his contributions of that sort are matters which the world desires to contemplate closely."</p>
+
+      </body>
+      <back>
+         <note type="editorial" xml:id="n1" target="r1" n="1">Unidentified.</note>
+      </back>
+   </text>
+</TEI>

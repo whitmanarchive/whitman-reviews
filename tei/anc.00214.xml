@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00214">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">New Poetry of the Rossettis and Others</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00214</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">New Poetry of the Rossettis and Others</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Atlantic Monthly</title>
+                  <imprint>
+                     <date when="1882-01">January 1882</date>
+                     <biblScope type="pages">119-26</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-06">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">NEW POETRY OF THE ROSSETTIS AND OTHERS.<ref target="n1" n="1" xml:id="r1"/> 
+            <!--  [Review of Leaves of Grass (1881&#8211;82)] -->
+         </head>
+
+         <p>The appearance of Walt Whitman's Leaves of Grass in a new edition<ref target="n3" xml:id="r3">∗</ref> has revived a discussion always imminent when the name of this writer is brought forward, and always more or less acrimonious. Some persons even imagine it obligatory upon them to deny him all merit of poetic endowment, so violent is their revolt against the offensiveness which Mr. Whitman has chosen to make a central and integral point of his literary method. Such critics stultify themselves by the coarseness of view (and sometimes of expression) with which they meet the grossness they condemn. If they can see nothing in this book except indecency and bombastic truisms, the inference must be that their sensibilities are not delicate enough to recognize the fresh, strong, healthy presentation of common things in a way that revivifies them, the generous aspiration, the fine sympathy with man and nature, the buoyant belief in immortality, which are no less characteristic of the author than his mistaken boldness in displaying the carnal side of existence, and his particularity in describing disease or loathsome decay. It would be a waste of time to discuss the question whether or not Mr. Whitman is a poet: abundant authority, both creative and critical, has recorded itself on the affirmative side. Nor is it worth while to debate upon the form he has adopted, which—as Mr. Stedman in his temperate and admirable essay<ref target="n2" n="2" xml:id="r2"/> has shown—is not the startling novelty which many, including the poet himself, have assumed it to be.</p>
+
+         <p>The only profitable point of view from which Leaves of Grass can be regarded is one that, while giving distinctness to the serious error of unclean exposure and to the frequent feebleness of form and style which reduce large portions of the work to tedious and helpless prose, leaves our vision clear for the occasional glimpses of beauty that the book discloses. We must also take into account the imagination often informing some one of these rhapsodies as a whole, even when its parts are found to be weak, repetitious, and blemished by inanity or affectation. The absurdities, the crudities, in which Whitman indulges are almost unlimited and all but omnipresent. For illustration, he gives utterance to phrases like this: "I effuse my flesh in eddies and drift it in lacy jags." Following a vague impulse, without depth of reflection, to find new modes of expression, he cries: "<hi rend="italic">Eclaircise</hi> the myths of Asia!" "I <hi rend="italic">exposé</hi>!" is another of these exceedingly pointless inventions; and we cannot see that the ends of freedom in art, or grandeur of any kind, are served by adopting as the symbol for a writer the term "literat." To call him an "inkrat" would be much more forcible and original. On the other hand, these pages bring to light a mass of vivid and well-chosen though sometimes uncouth epithets. The swimmer is graphically described as swimming "through the transparent <hi rend="italic">green-shine</hi>." The "blab of the pave" conveys its meaning accurately and with novelty. What delicate and refreshing aptness there is, too, in this sentence: "The carpenter dresses his plank, the tongue of his foreplane <hi rend="italic">whistles</hi> its <hi rend="italic">wild ascending lisp!</hi>" Nothing could be better. In the long pieces where much is trite and tame—malformed prose essays they are, rather than poems—there still exists a relation, an order which often brings some very simple and common thought into a light of unexpected significance. But it is sheer fatuousness in the poet, and would be in us, to assume that these two lines, headed To You, constitute a poem, or anything but worthless print:</p>
+
+         <!-- From "To You (Stranger, if you)" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00023" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Stranger, if you passing meet me and desire to <lb/>speak to me, why should you not speak to <lb/>me?</l>
+                        <l>And why should I not speak to you?"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Then, to learn the better side, read Pioneers, O Pioneers, with its steady, splendid, masculine swing, as of a people marching, and its inspiriting sense of comradeship and New World progress; the terse and imaginative lines to the Man-of-War-Bird; or the wonderful sea-shore elegy that begins, "Out of the cradle endlessly rocking." These are full of strength, pure emotion. The same may be said of that night-poem on the death of Lincoln, which contains an impressive chant to Death, the "dark mother always gliding near with soft feet." What could be fresher, fuller of our native coloring, than the picture of spring in this poem?</p>
+
+         <!-- From "When Lilacs Last in the Dooryard Bloom'd" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup"> 
+                        <l>"With the Fourth-month eve at sundown, and the <lb/>gray smoke lucid and bright,</l>
+                        <l>With floods of the yellow gold of the gorgeous, <lb/>indolent, sinking sun, burning, expanding <lb/>the air,</l>
+                        <l>With the fresh, sweet herbage under foot, and the <lb/>pale green leaves of the trees prolific,</l>
+                        <l>In the distance the flowing glaze, the breast of the <lb/>river, with a wind-dapple here and there."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The lines To a Locomotive in Winter, wherein the author hails it as the</p> 
+
+         <!-- From "To a Locomotive in Winter" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup"> 
+                        <l>"Type of the modern—emblem of motion and <lb/>power—pulse of the continent,"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>offer the finest embodiment of the grandeur of applied mechanics which American poetry has yet produced. And, throughout, the sentiment of democracy, of manliness, of hope for humanity, is something to be valued in Whitman's work. He sings, "Muscle and pluck forever!" "We have had," he declares, "ducking and deprecating about enough." He aims to increase virility in manners, thought, and writing; and from this effort, whatever the mistakes or limitations of its method, American life and literature are not likely to suffer harm.</p>
+
+         <p>But when we consider Whitman's laudation of the flesh, the case is different. It is fitting to recall here the cardinal points of his creed in this regard. He himself says, "Nor will my poems do good only, they will do just as much harm, perhaps more." He claims to be the poet of the body and the soul, and says that the soul is not more than the body,—in this showing an identity of thought with Rossetti; yet he looks forward (in The Mystic Trumpeter) to "a reborn race . . . women and men in wisdom, innocence and health—all joy." In his final manifesto occur these words: "I announce the great individual, fluid as Nature, <hi rend="italic">chaste</hi>, affectionate, compassionate, fully armed . . . a life that shall be copious, vehement, <hi rend="italic">spiritual</hi>, bold." All this shows clearly enough that his ultimate aim is good, and that he does not set out to revel in indecency. But the plan he pursues results just as badly as if this had been his purpose; for he makes public and permanent all that which nature has guarded, in both the savage and the civilized, with mystery, holiness, and the delicate, inexorable laws of modesty. Oddly enough this elaborately natural poet breaks one of the deepest and finest of natural laws; and instead of making the body sacred, he despoils it of the sacredness which mankind now generally accords to it. He degrades body and soul by a brutish wallowing in animal matter <hi rend="italic">as</hi> animal matter, deprived of its spiritual attributes.</p>
+
+         <p>Mr. Whitman prides himself on his healthiness. What <hi rend="italic">is</hi> health? Nothing else than the buoyant, normal exercise of physical faculties, in easy unconsciousness of their mode of acting. The moment there is friction, the moment we become <hi rend="italic">conscious</hi> of these functions—in heart, stomach, or brain, for example—which ought to be carried on without sensation, health is broken, and sickness supervenes. In like manner, when Mr. Whitman begins to finger over and brood upon the secret processes of certain functions which should work unobserved, he becomes unhealthy. Corrupt he may not be, but he is undeniably morbid. It is his ambition to be "inclusive," to express extremes of good and evil; to fly from one pole to another, in everything. In the sphere of the body he accomplishes this manœuvre perfectly; for his presentation of man's physical being is as often diseased as the reverse. He does not seem to be aware of his "inclusiveness" in this direction. If made so, he might reply with these peremptory words from his Song of Myself:—</p>
+
+         <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Do I contradict myself?</l>
+                        <l>Very well, then, I contradict myself,</l>
+                        <l>(I am large, I contain multitudes)."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>But multitudinousness cannot make the spectacle of his morbidness any more acceptable. It cannot palliate the gross impropriety of which he is guilty, in publishing what is unfit for repetition; an impropriety doubled by the retention of this disgusting stuff in a new edition issued after many years, during which the author has had ample opportunity to free himself from his youthful crudities. Every one imbued with the "primal sanities" must be revolted by this offense, and protest against it. Fortunately, however, the chief damage done will be to the author himself, who thus dishonors his own physical nature; for imperfect though the race is, it still remains so much purer than the stained and distorted reflection of its animalism in Leaves of Grass, that the book cannot attain to any very wide influence.</p>
+
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+
+         
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>
+                   
+                   
+                      Boston:  
+                      James R. Osgood &amp; Co.  
+                      1881–82.  
+                   
+               
+            </ab>
+         
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">The review contains discussions of recent books by D. G. Rossetti, Christina Rossetti, George Fleming, Oscar Wilde, John Trowbridge, George Houghton, before ending with this discussion of Whitman.</note>
+
+
+               <note type="editorial" target="r3" xml:id="n3" n="2">Edmund Clarence Stedman, "Walt Whitman," <hi rend="italic">Scribner's Monthly</hi> 21 (1880): 47-65.</note>
+
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

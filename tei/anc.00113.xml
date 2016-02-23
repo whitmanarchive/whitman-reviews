@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00113">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="boughs">Walt Whitman Again</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">November Boughs</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>George Rogers</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00113</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Rogers, George">George Rogers</author>
+                  <title level="a">Walt Whitman Again</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The North American</title>
+                  <imprint>
+                     <date when="1888-10-25">25 October 1888</date>
+                     <biblScope type="pages">1</biblScope>
+
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-08">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN AGAIN.<!--  [Review of November Boughs] --></head>
+         <head type="sub">Another Volume By the Good Gray Poet, and Some Thoughts On His Writings Suggested By Its Appearance.</head>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>Though it should do nothing else, the appearance of a new volume by Walt Whitman may be trusted to stir into renewed activity that interminable discussion as to the merit and meaning and value of his writings which is the most striking and trustworthy testimony to their originality and power. There must be something or even a great deal in an author who is able, if not to command the acceptance of his theories and ideas, at least to make them the subject of a controversy, which, after going on for more than thirty years, seems to be still as far as ever from reaching a settlement. "Leaves of Grass," the book which first made Whitman a public character, was published in 1855, and after the thirty-three years which have elapsed since then its status as a literary production remains undetermined. There are those—and they include men of cultivated taste, enlightened judgment and unimpeachable integrity—who declare that, all things considered, Whitman is perhaps the greatest, the most original, the most characteristic poet that America has yet produced, and singularly enough the most eminent of the critics who hold to this opinion are Englishmen between whose high culture and the unpolished ruggedness of Whitman one would not expect to find any bond of sympathy. What, for example, within the compass of literary production could be further removed than the mellifluous strains of "The Princess"<ref target="n1" xml:id="r1" n="1"/> or The Idylls of the King, and the defiant rudeness of Whitman's writings, and yet it is said that Alfred Tennyson, influenced perhaps by a feeling akin to that which impels the curled darlings of civilization to seek in the primitive wilderness a respite from an excess of cultivation and refinement, is one of the "good grey poet's" most enthusiastic admirers.</p>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>On the other hand, there are those, and they also comprise men of honesty and discernment, to whom Whitman's so-called poetry is nothing but "a barbaric yawp," and the best of his lines little better than a senseless jargon. How can one account for opinions so widely dissimilar? Which of the two is right, and if neither, in what happy medium does the truth lie hid? Is Whitman a great poet, one of the inspired writers who once in a while appear among men to open up new hemispheres of thought, or is he a kind of monomaniac possessed and dominated by ideas which he is powerless to formulate, haunted by the vision of the great projects which he lacks the ability to execute; a man who, having just fallen short of being a genius, still has in his composition that strain of madness to which genius is said to be allied? Is he inspired or is he crazy, or what shall we say of him? It seems to me from what I have read of his writings, and of the commentaries and explanations by which he has, not unintelligently, thought well to supplement them, that Whitman is a man intoxicated with a single idea, that of the incomparable importance of the bare, the naked fact. He is essentially if not exclusively a realist, and by a realist as descriptive of Whitman I mean a man who is mistrustful of all things save those that can be seen and felt and handled; who is so enamored of the truth, the whole truth and nothing but the truth, that to him the graces of style are a snare and the adornments of fancy a delusion—a man whose impulse it is to get so close to nature that he is never satisfied to be any distance away from the great primary passions and the instincts of humanity.</p>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>Now this ardent devotion to the True, this noble abhorrence of anything that might savor of insincerity, is admirable and excellent, and so far as Whitman's poetry has made the impression it was intended to produce and has won the favor of readers it has done so by virtue of this very quality. There is so much insincerity in literature, and especially in the mass of what passes for a time as poetry; writers, and particularly second rate poets, are so prone to put forward as their own, thoughts and feelings and ideas that they have taken at second-hand from some one else; custom and convention play so large a part in the making of modern books that to turn to Whitman, whose work, whatever may be its faults and limitations, is wholly his own, and free from the smallest taint of imitation or conventionality, is like passing from a crowded and heated theatre into the open air. The bare fact unquestionably has an interest and power which are unsurpassed and unsurpassable, and no set of facts is more interesting to men and women than those facts which reveal the workings of the human mind and heart. The "study of mankind is man," and there is no study more fascinating—none that has to be carried on under greater difficulties. Men and women are so reluctant, or rather, perhaps, so unable to furnish one another with the necessary facilities for investigation. The great masters of the human heart must arrive at their conclusions and amass their knowledge by a process of intuition, for it is the truth in another sense from that intended by the Apostle, that every man lives to himself and every man dies to himself. The spiritual isolation of each is ordinarily complete.</p>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>Such being the case a book which, like "Leaves of Grass," is an unmistakably sincere expression of human feeling, a simple and unaffected revelation of the human soul, is sure to have a welcome and make some kind of mark. It is in this way, it seems to me, that such success as "Leaves of Grass" and the other of Mr. Whitman's books have had must be accounted for. They are made impressive by a devotion to fact so uncompromising that it rejects all the ornaments of rhetoric lest they obscure and distort or in the smallest degree modify the author's meaning. Whitman is mistrustful of rhyme and rhythm because he fears that if he uses them they will betray him into saying or suggesting something different from what he intended, a fear for which there is abundant reason. However gracefully the burden may be borne, however skilfully the chain may be concealed, the exigencies of verse, and especially of rhyme, are a burden and a chain none the less and it is their natural, their unavoidable tendency to restrict or hamper the free expression of a writer's ideas, and even to give a bias to his choice of language, which may sometimes lead him to present his thoughts with something less than perfect truthfulness and accuracy. I can understand, therefore, how a man like Walt Whitman, determined above all things to set forth his ideas with unswerving sincerity and absolute originality, should eschew the limitations of verse and prefer, even if he had to invent it, a literary vehicle which he could use with perfect freedom.</p>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>Yet assuming this to be the case, assuming that Whitman felt that he could not trust himself to write with force and faithfulness under the forms of verse, does it not follow that whatever other faculties he may possess, the true poetical inspiration has been denied him? He may be a great writer, a profound philosopher, a pregnant essayist, but surely if he does not employ a poetical method of expression he cannot be a poet, great or small. This, however, opens up a field of discussion upon which, however inviting the prospect, I do not at this time propose to enter. Let us assume for the present that Whitman is just as much of a poet as his most ardent admirers would have us believe, and having made that admission, pro forma, proceed to consider why his books have not attained—I will not say to a greater popularity, for popularity is far from being a criterion of merit—but to a more general and cordial acceptance at the hands of educated and intelligent people. I suspect that the most active reason is to be found in the circumstance that Whitman expects too much of his readers. He insists that they shall be partakers in his travail; that they shall both witness and have a share in the throes of his intellectual parturition. He uses language less to express than to suggest ideas, and to follow out the suggestions he makes involves a degree of mental toil to which few readers are willing to subject themselves. He does not arrange his words so that they shall the most clearly, the most happily, the most forcefully, convey his meaning, while at the same time drawing as little as possible upon the mental resources of the reader. Indeed he does not arrange his words at all. He piles them up: he throws them together; he scatters them broadcast. His poetry may not be void, but unquestionably it is without form. It is too often as though an artist should throw his paint brush at the canvas, and require the onlooker by the exercise of his imagination to evolve a picture out of the splash. So it is with these poems of Whitman. They contain the raw material out of which poems might be made; but the reader is obliged for the most part to do his own poetizing as best he can. Now the modern reader is accustomed to having things made easy for him. He will do no more private thinking of his own than is absolutely necessary, and when it comes to toiling in Walt Whitman's rough sketches of potential poems he respectfully declines the job.</p>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>As for Whitman's latest volume, while it contains nothing essentially new, it does contain a great deal that is interesting, notably the article "A Backward Glance O'er Travel'd Roads," in which the author expounds the methods and theories and purposes animating and underlying his literary work. Poetry, however, properly so-called, is not consciously written according to any method, or with any purpose, or upon any theory. It may be true, as Whitman insists, that this great Republic, in which men and women live out their lives under conditions different from and better than any heretofore existing since the world began, must produce such poetry as has never yet been known, although as poetry is the expression of human feeling, and human nature remains the same in a republic as in an empire, the point is at least debatable. But the great American poem when it comes will certainly not be written with deliberate intent. It will not be the work of anyone who shall say to himself: "Now upon this theory or that I will write an epic."</p> 
+
+         <closer>
+            <signed rend="right">G<hi rend="smallcaps">EORGE</hi> R<hi rend="smallcaps">OGERS</hi>.</signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Alfred Tennyson (1809-1892) published <hi rend="italic">The Princess</hi>,  his first long poem, in 1847; his <hi rend="italic">Idylls of the King</hi> followed in 1859.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

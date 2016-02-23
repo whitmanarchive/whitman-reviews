@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00177">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="reminiscence">Walt. Whitman's New Poem</title>
+            <title level="m" type="sub">[Review of "A Child's Reminiscence"]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Henry Clapp</reg>
+               </choice>
+            </author>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Walt Whitman</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00177</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Clapp, Henry">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Henry Clapp</reg>
+                     </choice>
+                  </author>
+                  <author key="Whitman, Walt">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Walt Whitman</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Walt. Whitman's New Poem</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Cincinnati Daily Commercial</title>
+                  <imprint>
+                     <date when="1859-12-28">28 December 1859</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt. Whitman's New Poem.<!-- [Review of A Child's Reminiscence]--></head>
+
+         <p>The author of Leaves of Grass has perpetrated another "poem." The N. Y. Saturday Press, in whose columns, we regret to say, it appears, calls it "a curious warble." Curious, it may be; but warble it is not, in any sense of that mellifluous word. It is a shade less heavy and vulgar than the Leaves of Grass, whose unmitigated badness seemed to cap the climax of poetic nuisances. But the present performance has all the emptiness, without half the grossness, of the author's former efforts. </p>
+
+         <p>How in the name of all the Muses this so-called "poem" ever got into the columns of the Saturday Press, passes our poor comprehension. We had come to look upon that journal as the prince of literary weeklies, the <hi rend="italic">arbiter elegantiarum</hi> of dramatic and poetic taste, into whose well filled columns nothing stupid or inferior could intrude. The numerous delicious poems; the sparkling <hi rend="italic">bons mots</hi>; the puns, juicy and classical, which almost redeemed that vicious practice, and raised it to the rank of a fine art; the crisp criticisms, and delicate dramatic humors of <hi rend="italic">Personne</hi>, and the charming piquancies of the <hi rend="italic">spirituelle</hi> Ada Clare<ref target="n1" xml:id="r1" n="1"/> - all united to make up a paper of rare excellence. And it is into this gentle garden of the Muses that that unclean cub of the wilderness, W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>, has been suffered to intrude, trampling with his vulgar and profane hoofs among the delicate flowers which bloom there, and soiling the spotless white of its fair columns with lines of stupid and meaningless twaddle.</p>
+
+         <p>Perhaps our readers are blissfully ignorant of the history and achievements of Mr. Walt Whitman. Be it known, then, that he is a native and resident of Brooklyn, Long Island, born and bred in an obscurity from which it were well that he never had emerged. A person of coarse nature, and strong, rude passions, he has passed his life in cultivating, not the amenities, but the rudeness of character; and instead of tempering his native ferocity with the delicate influences of art and refined literature, he has studied to exaggerate his deformities, and to thrust into his composition all the brute force he could muster from a capacity not naturally sterile in the elements of strength. He has undertaken to be an artist, without learning the first principle of art, and has presumed to put forth "poems," without possessing a spark of the poetic faculty. He affects swagger and independence, and blurts out his vulgar impertinence under a full assurance of "originality."</p>
+
+         <p>In his very first performance, this truculent tone was manifested. He exaggerated every sentiment, and piled up with endless repetition every epithet, till the reader grew weary, even to nausea, of his unmeaning rant. He announced himself to the world as a new and striking thinker, who had something to reveal. His Leaves of Grass were a revelation from the Kingdom of Nature. Thus he screams to a gaping universe:</p>
+
+         <!-- The following is not a direct quote from "Song of Myself," but a jumbled collection of key phrases, written not in the form of lines but as a single paragraph --> 
+
+         <p>"I, Walt Whitman, an American, one of the roughs, a Cosmos; I shout my voice high and clear over the waves; I send my barbaric yawp over the roofs of the world." </p>
+
+         <p>Such was the style of his performance, only it was disfigured by far worse sins of morality than of taste. Never, since the days of R<hi rend="smallcaps">ABELAIS</hi>
+            <ref target="n2" xml:id="r2" n="2"/> was there such literature of uncleanness as some portions of this volume exhibited. All that is beautiful and sacred in love was dragged down to the brutal plane of animal passion, and the writer appeared to revel in language fit only for the lips of the P<hi rend="smallcaps">RIAPUS</hi> of the old mythology.</p>
+
+         <p>We had hoped that the small reception accorded to his first performance had deterred Mr. W<hi rend="smallcaps">HITMAN</hi> from fresh trespasses in the realms of literature. Several years had passed away, his worse than worthless book had been forgotten, and we hoped that this Apollo of the Brooklyn marshes had returned to his native mud. But we grieve to say he revived last week, and although somewhat changed, changed very little for the better. We do not find so much that is offensive, but we do find a vast amount of irreclaimable drivel and inexplicable nonsense.</p>
+
+         <p>We have searched this "poem" through with a serious and deliberate endeavor to find out the reason of its being written; to discover some clue to the mystery of so vast an expenditure of words. But we honestly confess our utter inability to solve the problem. It is destitute of all the elements which are commonly desiderated in poetical composition; it has neither rhythm nor melody, rhyme nor reason, metre nor sense. We do solemnly assert, that there is not to be discovered, throughout the whole performance, so much as the glimmering ghost of an idea. Here is the poem, which the author, out of his characteristic perversity, insists upon calling the <hi rend="italic">pre-verse</hi>:</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00131" cert="absolute"/>
+                        <!-- from A Child's Reminiscence -->
+                     </relations>
+                     <lg type="linegroup">    
+                        <l>"Out of the rocked cradle.</l>
+                        <l>Out of the mocking bird's throat, the musical shuttle,</l>
+                        <l>Out of the boy's mother's womb, and from the nipples<lb/>of her breasts,</l>
+                        <l>Out of the Ninth-Month midnight,</l>
+                        <l>Over the sterile sea-sands, and the field beyond,where  <lb/>the child, leaving his bed, wandered alone, bare-  <lb/>headed, barefoot,</l>
+                        <l>Down from the showered halo and the moonbeams,</l>
+                        <l>Up from the mystic play of shadows twining and twist-  <lb/>ing as if they were alive,</l>
+                        <l>Out from the patches of briars and blackberries,</l>
+                        <l>From the memories of the bird that chanted to me,</l>
+                        <l>From your memories, sad brother - from the fitful ris-  <lb/>ings and fallings I heard,</l>
+                        <l>From that night, infantile, under the yellow half-moon,  <lb/>late risen, and swollen as if with tears,</l>
+                        <l>From those beginning notes of sickness and love, there  <lb/>in the mist,</l>
+                        <l>From the thousand responses in my heart, never to  <lb/>cease,</l>
+                        <l>From the myriad thence-aroused words,</l>
+                        <l>From the word stronger and more delicious than any,</l>
+                        <l>From such, as now they start, the scene revisiting,</l>
+                        <l>As a flock, twittering, rising, or overhead passing,</l>
+                        <l>Borne hither - ere all eludes me, hurriedly,</l>
+                        <l>A man - yet by these tears a little boy again,</l>
+                        <l>Throwing myself on the sand, I,</l>
+                        <l>Confronting the waves, sing."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>This is like nothing we ever heard of in literature, unless it be the following lucid and entertaining composition:</p>
+
+         <p>"Once there was an old woman went into the garden to get some cabbage to make an apple pie. Just then a great she-bear comes up and pops his head into the shop. 'What, no soap!' So he died, and she married the barber; and there was present at the wedding the Jicaninies and the Picaninies, and the Grand Panjandrum himself, with a little round button at the top; and they all fell to playing the game of catch as catch can, till the gun powder ran out of the heels of their boots."<ref target="n3" xml:id="r3" n="3"/>
+         </p>
+
+         <p>The "poem" goes on, after the same maudlin manner, for a hundred lines or more, in which the interjection "O" is employed above five-and-thirty times, until we reach the following gem:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00131" cert="absolute"/>
+                        <!-- from A Child's Reminiscence -->
+                     </relations>
+                     <lg type="linegroup">    
+                        <l>"Never again leave me to be the peaceful child I was be-  <lb/>fore; what there, in the night, </l>
+                        <l>By the sea, under the yellow and sagging moon. </l>
+                        <l>The dusky demon aroused, the fire, the sweet hell with-  <lb/>in </l>
+                        <l>The unknown want, the destiny of me." </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Oh, but this is bitter bad!</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00131" cert="absolute"/>
+                        <!-- from A Child's Reminiscence -->
+                     </relations>
+                     <lg type="linegroup">    
+                        <l>"O give me some clue! </l>
+                        <l>O if I am to have so much, let me have more! </l>
+                        <l>O a word! O what is my destination? </l>
+                        <l>O I fear it is henceforth chaos!" </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>There is not a doubt of it, we do assure you! And what is more, it never was anything else. Now, what earthly object can there be in writing and printing such unmixed and hopeless drivel as that? If there were any relief to the unmeaning monotony, some glimpse of fine fancy, some oasis of sense, some spark of "the vision and the faculty divine," we would not say a word. But we do protest, in the name of the sanity of the human intellect, against being invited to read such stuff as this, by its publication in the columns of a highly respectable literary journal. What is the comment of the Saturday Press itself on the "poem"? It says: </p>
+
+         <q>
+            <p>"Like the Leaves of Grass, the purport of this wild and plaintive song, well enveloped, and eluding definition, is positive and unquestionable, like the effect of music. The piece will bear reading many times - perhaps, indeed, only comes forth, as from recesses, by many repetitions."</p>
+         </q>
+
+         <p>Well, Heaven help us, then, for as we are a living man, we would not read that poem "many times" for all the poetry that was ever perpetrated since the morning stars sang together. "Well enveloped, and eluding definition." Indeed! We should think so. For our part, we hope it will remain "well enveloped" till doomsday; and as for "definition," all we can do in that direction is to declare that either that "poem" is nonsense, or we are a lunatic.</p>
+
+         <p>If any of the tuneful Nine have ever descended upon Mr. Walt Whitman, it must have been long before that gentleman reached the present sphere of existence. His amorphous productions clearly belong to that school which it [is] said that neither gods nor men can endure. There is no meaning discoverable in his writings, and if there were, it would most certainly not be worth the finding out. He is the laureate of the empty deep of the incomprehensible; over that immortal limbo described by Milton, he has stretched the drag-net of his genius; and as he has no precedent and no rival, so we venture to hope that he will never have an imitator.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Ada Clare (1836?-1874) was an American writer and actress who contributed a lively column for the <hi rend="italic">Saturday Press</hi> from 1859-1864. 
+</note> 
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+The comedic works of François Rabelais (c. 1490-1553) were known for their risqué quality.
+</note>
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+"Once there was an old woman . . ." An intentionally poorly written composition attributed to playwright Samuel Foote in 1755 in a mocking tribute to actor Charles Macklin.
+</note>  
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

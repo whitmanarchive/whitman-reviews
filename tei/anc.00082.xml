@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00082">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Walt Whitman and the Poetry of the Future</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>E. P. M.</orig>
+                  <reg>Edward P. Mitchell</reg>
+               </choice>
+            </author>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00082</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Mitchell, Edward P.">
+                     <choice>
+                     <orig>E. P. M.</orig>
+                     <reg>Edward P. Mitchell</reg>
+                  </choice>
+                  </author>
+                  <title level="a">Walt Whitman and the Poetry of the Future</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Sun</title>
+                  <imprint>
+                     <date when="1881-11-19">19 November 1881</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-12">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt Whitman and the Poetry of the Future. <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head>
+
+         <p>The publication of the <hi rend="italic">Leaves of Grass</hi> by a reputable bookmaking house, as a business enterprise, and without expurgation, marks very distinctly an epoch in W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>'s career. It was inevitable that the force of his genius should carry, sooner or later, the inner citadel of respectable literature; but the event has been delayed for a quarter of a century. During that time he has been his own printer and bookseller. Containing passages which under a strict construction of certain statutes of the United States could not be permitted to pass through the mails, the privately printed volumes have found a constantly increasing number of purchasers and readers. The accessions have not been from the ranks of the depraved and prurient. Walt Whitman's audience has grown, not by reason of, but in spite of, his frank disregard of some of the proprieties of utterance. Of this side of the matter it is enough to say that if the new edition is a triumph for the poet, it has been achieved without any concession on his part. He has modified nothing. He has cancelled no objectionable line or offensive phrase. He has confessed no sin against good taste or decency. In pushing his way into his present company he has not for an instant hauled in his elbows.</p>
+
+         <p>In another respect the appearance of the new edition of "Leaves of Grass" is an interesting event. For the first time, the poet can be judged by his poetic scheme in its entirety. The additional verses are not so important in themselves as in the relation of parts to a completed whole. Walt Whitman's admirers have always insisted that criticism before the final development of the plan was premature. The poet has compared his work to one of those ambitious old architectural edifices, built part by part at long intervals, and showing the designer's idea only when the last stone was in place. The gaps have now all been filled. The revision of the several poems, and their rearrangement with reference to the sub-titles and to each other, leave them, we are told, as they were designed to be.</p>
+
+         <p>While Walt Whitman has kept steadily on his way, unshaken in belief in his mission and uncompromising as to his methods, he has provoked a difference of public opinion more marked, perhaps, than in the case of any author now alive. His aggressiveness seems to leave no middle ground. He is either a genius of colossal proportions or an immense windbag; either to be hailed and worshipped or to be punctured. A considerable part of his contemporaries hold him to be beneath criticism; a small circle of ardent admirers exalt him above it. The poet himself, it is to be feared, is prone to encourage the latter view. Every page that he has written discloses an egotism that reaches the verge of sublimity. He is impatient even of discriminating eulogy. He is said to hold as no better than a vender of scurrilities a friend of his, himself a poet, who not long ago published a magazine article in which the laudation of "Leaves of Grass" was measured instead of being unreserved. With Walt it is: Take me or leave me; but if you take me, take me as the Consummate Man. In estimating a singer and seer this indomitable self-confidence is a quality that ought not to be overlooked. To refuse to admit it as corroborative proof of genius would be to reject one of the lessons of biography. Walt's vigorous personality and the purity and na&#x8b;ve simplicity of his private life have drawn about him a circle of devoted friends. They cannot understand why his genius should be denied or overlooked any more than they can see how the existence of the sun can be denied or overlooked when it is shining in a clear sky at noonday. They are exasperated because the great public is so slow to accept the poet at their valuation and his own. On the other hand, those to whom Whitman is a noisy madman, or a disturber of the poetic peace, or a bawler of platitudes, are reluctant to give the poet's adherents credit for any better motive than the affectation of eccentricity. The "good gray poet" business disgusts them. They are puzzled by the admiration with which Whitman's achievements are regarded by Emerson and Tennyson and other bards who are as unlike the Bard of Paumanok as so many gentlemen in evening dress are unlike a gentleman in a diving suit. And all the while the belief is growing in cultivated minds that in Walt Whitman we have one of the most remarkable and original individualities in literature.</p>
+
+         <p>Let us look first at his method. It is from the superficial and non-essential characteristics of "Leaves of Grass" that the popular conception of the poet is derived. The oddities, the whim-whams, the grotesque contrasts lie on the surface, lending themselves readily to burlesque, and affording plenty of material for ridicule.</p>
+
+         <p>Whitman's versification proceeds in the loosest possible fashion, discarding rhyme altogether, except in rare instances. A vague effect of rhythm is preserved, the cæsura recurring at irregular and often widely unequal intervals. It is an informal but roughly harmonious flow of words, sustaining the same relation to finished verse as the recitative to the aria. It is regarded by many as a startling innovation, but is really nothing more than a return to the earliest and most nearly spontaneous form of poetic expression. For purpose of comparison, as regards external form only, we place a passage from "The Return of the Heroes" side by side with passages from the Sixty-fifth and One Hundred, and Fourth Psalms in the English version:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- Autumn Rivulets (larger encompassing work) -->
+                        <work ref="xxx.00223" cert="absolute"/>
+                        <!-- The Return of the Heroes, 7, in full -->
+                        <work ref="xxx.00225" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Loud O my throat, and clear O soul!</l>
+                        <l>The season of thanks and the voice of full yielding,</l>
+                        <l>The chant of joy and power for boundless fertility.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>All tilled and untilled lands expand before me,</l>
+                        <l>I see the true arenas of my race, or first or last,</l>
+                        <l>Man's innocent and strong arenas.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I see the heroes of other toils,</l>
+                        <l>I see well wielded in their hands the better weapons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I see where the Mother of All.</l>
+                        <l>With full-spanning eye gazes forth, dwells long.</l>
+                        <l>And counts the varied gathering of the products.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Busy the far, the sunlit panorama,</l>
+                        <l>Prairie,orchard, and yellow grain of the North,</l>
+                        <l>Cotton and rice of the South, and Louisiana cane,</l>
+                        <l>Open unseeded follows, rich fields of clover and timothy,</l>
+                        <l>Kine and horses feeding, and droves of sheep and swine,</l>
+                        <l>And many a stately river flowing and many a jocund <lb/>brook,</l>
+                        <l>And healthy uplands with herby-perfumed breezes,</l>
+                        <l>And the good, green grass, that delicate miracle the <choice><orig>ever- 
+                           <lb/>
+                           recurring</orig><reg>ever-recurring</reg></choice> grass.</l>
+                     </lg>
+                  </lg> <lg type="linegroup"><l>———</l></lg>
+
+               </body>
+            </floatingText>
+         </q>
+
+        
+         <q>
+<!-- reviewer says taken from the 65th and 104th Psalms -->
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l rend="indented1">Praise waiteth for thee, O God, in Zion;</l>
+                        <l rend="indented1">O thou that hearest prayer, unto thee shall all flesh</l>
+                        <l>come.</l>
+                        <l rend="indented1">Thou crownest the year with thy goodness.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented1">Thy paths drop fatness, they drop upon the pastures of</l>
+                        <l>the wilderness;</l>
+                        <l rend="indented1">And the little hills rejoice on every side.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented1">The pastures are clothed with flocks.</l>
+                        <l rend="indented1">The valleys also are covered over with corn.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented1">Bless the Lord,O my soul!</l>
+                        <l rend="indented1">O Lord, my God, thou art very great;</l>
+                        <l rend="indented1">Thou art clothed with honor and majesty.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented1">He watereth the hills from his chambers;</l>
+                        <l rend="indented1">The earth is satisfied with the fruit of thy works.</l>
+                        <l rend="indented1">He sendeth the springs into the valleys;</l>
+                        <l rend="indented1">By them shall the fowls of the heavens have their <choice><orig>hab-
+                        <lb/>
+                           itation</orig><reg>habitation</reg></choice>.</l>
+                        <l rend="indented1">They give drink to every beast of the field; the wild</l>
+                        <l>asses quench their thirst.</l>
+                        <l rend="indented1">He causeth the grass to grow for the cattle, and the</l>
+                        <l>herb for the service of man.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Again, we present the "Address to the Sun," of Ossian-Macpherson,<ref target="n1" xml:id="r1" n="1"/> in passages alternate with those of Walt Whitman's invocation of the same orb. In neither case is assistance given to the rhythm by artificial division of the verses. The interest of the comparison will be found to extend beyond the matter of form:</p>
+
+         <q who="Ossian">
+<!-- from "Carthon," The Poems of Ossian, James Macpherson translation -->
+            <floatingText>
+
+               <body>
+                  <head type="main-authorial">OSSIAN.</head>
+                  <p>O thou that rollest above, round as the shield of my fathers. Whence are thy beams, O Sun! thy everlasting light? Thou comest forth in thy awful beauty; the stars hide themselves in the sky; the moon, cold and pale, sinks in the western way; but thou thyself movest alone.</p>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="printed">
+                     <relations>
+<!-- from From Noon to Starry Night (larger encompassing work) -->
+                        <work ref="xxx.00269" cert="absolute"/>
+                        <!-- from Thou Orb Aloft Full-Dazzling -->
+                        <work ref="xxx.00270" cert="absolute"/>
+                     </relations>
+                     <!-- Reviewer presents this passage without its linebreaks -->
+                     <head type="main-authorial">WALT WHITMAN.</head>
+                     <p>Thou orb aloft full-dazzling, thou hot October noon! Flooding with sheeny light the gray beach sand, the sibilant near sea with vistas far, and foam, and tawny streaks and shades and spreading blue; O sun of noon refulgent! my special word to thee.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Ossian">
+<!-- from "Carthon," The Poems of Ossian, James Macpherson translation -->
+            <floatingText>
+               <body>
+                  <head type="main-authorial">OSSIAN.</head>
+                  <p>Who can be a companion of thy course! The oaks of the mountains fall; the mountains themselves decay with years: the ocean shrinks and grows again; the moon itself is lost in heaven; but thou art forever the same, rejoicing in the brightness of thy course.</p>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="printed">
+                     <relations>
+<!-- from From Noon to Starry Night (larger encompassing work) -->
+                        <work ref="xxx.00269" cert="absolute"/>
+                        <!-- from Thou Orb Aloft Full-Dazzling -->
+                        <work ref="xxx.00270" cert="absolute"/>
+                     </relations>
+                     <!-- Reviewer presents this passage without its linebreaks -->
+                     <head type="main-authorial">WALT WHITMAN.</head>
+                     <p>Hear me illustrious! Thy lover me, for always have I loved thee, even as basking babe, then happy boy alone by some wood-edge, thy touching-distant beams enough, or man matured, or young or old, as now to thee I launch my invocation.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Ossian">
+<!-- from "Carthon," The Poems of Ossian, James Macpherson translation -->
+            <floatingText>
+               <body>
+                  <head type="main-authorial">OSSIAN.</head>
+                  <p>When the world is dark with tempests, when thunder rolls and lightning flies, thou lookest in thy beauty from the clouds, and laughest at the storm. But to Ossian thou lookest in vain, for he beholds thy beams no more: whether thy yellow hair flows on the eastern clouds, or thou tremblest at the gates of the west.</p>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="printed">
+                     <relations>
+<!-- from From Noon to Starry Night (larger encompassing work) -->
+                        <work ref="xxx.00269" cert="absolute"/>
+                        <!-- from Thou Orb Aloft Full-Dazzling -->
+                        <work ref="xxx.00270" cert="absolute"/>
+                     </relations>
+                     <!-- Reviewer presents this passage without its linebreaks -->
+                     <head type="main-authorial">WALT WHITMAN.</head>
+                     <p>Thou that with fructifying heat and light, o'er myriad farms, o'er land and waters North and South, o'er Mississippi's endless course, o'er Texas' grassy plains, Kanada's woods, o'er all the globe that turns its face to thee shining inspace; thou that impartially infoldest all, not only continents, seas: thou that to grapes and weeds and little wild flowers givest so liberally, shed, shed thyself on mine and me, with but a fleeting ray out of the million millions. Strike through these chants.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Ossian">
+<!-- from "Carthon," The Poems of Ossian, James Macpherson translation -->
+            <floatingText>
+               <body>
+                  <head type="main-authorial">OSSIAN.</head>
+                  <p>But thou art, perhaps, like me, for a season: thy years will have an end. Thou shalt sleep in thy clouds, careless of the voice of the morning. Exalt, then, O Sun, in the strength of thy youth! Age is dark and unlovely: it is like the glimmering light of the moon when it shines through broken clouds, and the mist is on the hills; the blast of the North is on the plain, the traveller shrinks in the midst of his journey.</p>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="printed">
+                     <relations>
+<!-- from From Noon to Starry Night (larger encompassing work) -->
+                        <work ref="xxx.00269" cert="absolute"/>
+                        <!-- from Thou Orb Aloft Full-Dazzling -->
+                        <work ref="xxx.00270" cert="absolute"/>
+                     </relations>
+                     <!-- Reviewer presents this passage without its linebreaks -->
+                     <head type="main-authorial">WALT WHITMAN.</head>
+                     <p>Nor only launch thy subtle dazzle and thy strength for these; prepare the later afternoon of me myself—prepare my lengthening shadows, prepare my starry nights.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>This reversion to a primitive mode of poetic expression is particularly interesting, occurring as it does at a time when a certain school of English- speaking poets are paying so much heed to the merely mechanical and musical qualities of verse. Whitman wastes no strength in the elaboration of metres, of rhyme, of assonance, of refrain. He does not stop to think of melody. There is no doubt that his method is that of the least friction—the least amount of idea rubbed off in the process of conformation. Nor is there any doubt that it is the method best suited to his genius; it seems to be the natural language of his genius. His sturdy egotism, his sympathy with living Nature and with Man in action, are poured forth in a torrent of words unhampered by the laws of prosody. Fancy the untamable, untranslatable Walt pottering over rondeaux, or elaborating canzonets, or measuring off fourteen lines to the idea! In the three or four poems which have rhyme and the stanza, the rhymes are of the crudest and the stanzas are fetters:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00218" cert="absolute"/>
+                        <!-- from O Captain! My Captain! -->
+                     </relations>
+                     <lg type="linegroup">  
+                        <l>O Captain! my Captain! our fearful trip is done.</l>
+                        <l>The ship has weathered every rack, the prize we sought <lb/>is won;</l>
+                        <l>The port is near, the bells I hear, the people all <lb/>exulting,</l>
+                        <l>While follow eyes the steady keel, the vessel grim and <lb/>daring;</l>
+                        <l rend="indented4">But O heart! heart! heart!</l>
+                        <l rend="indented4">O,the bleeding drops of red,</l>
+                        <l rend="indented4">Where on the deck my Captain lies,</l>
+                        <l rend="indented4">Fallen cold and dead.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>A strange thing about Whitman's rugged recitative is that it never becomes monotonous. Within apparently narrow limits of possible variation, he manages to secure a wonderful variety. His longest cumulative passages, his catalogues of natural objects, catalogues of occupations, geographical and physiological lists, are something more than catalogues and lists. The art may be unconscious, but the result shows him a perfect master of the poetic accent. Walt Whitman would have made the catalogue of ships in the "Iliad" a poem in itself. Where his voice sounds in the minor key the music is often so dainty that we fail to notice the absence of the conventional lyric forms. Some lines in "Sea Drift" sound like a snatch of one of Shakespeare's songs:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00130" cert="absolute"/>
+                        <!-- from Sea-Drift -->
+                     </relations>
+                     <lg type="linegroup">      
+                        <l rend="indented4">
+                           <hi rend="italic">Two together!</hi>
+                        </l>
+                        <l rend="indented4">
+                           <hi rend="italic">Winds blow south, or winds blow north,</hi>
+                        </l>
+                        <l rend="indented4">
+                           <hi rend="italic">Day come white, or white come black,</hi>
+                        </l>
+                        <l rend="indented4">
+                           <hi rend="italic">Home, or rivers and mountains from home,</hi>
+                        </l>
+                        <l rend="indented4">
+                           <hi rend="italic">Singing all time, minding no time,</hi>
+                        </l>
+                        <l rend="indented4">
+                           <hi rend="italic">While we two keep together.</hi>
+                        </l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>
+                           <hi rend="italic">Low hangs the moon, it rose late,</hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">It is lagging—O I think it is heavy with love, with love—</hi>
+                        </l>    
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>We have been speaking of some of the surface characteristics of Walt Whitman's poetry. If all poets were in the habit of using this recitative rhythm as a vehicle for their thoughts, what qualities would still distinguish him from the rest?</p>
+
+         <p>It seems to us that Walt Whitman is the truest representative of the reactionary movement against romanticism—the movement in which Emile Zola is a noisy and mercenary incidental. What he has undertaken to do is to exhibit with absolute unreserve the mind of a modern man in its relations to nature and to modern society. See me, says Walt, the average man of the nineteenth century, just as I am, with all the conventions and lies and shame stripped off, leaving my intellectual and emotional processes absolutely naked to view. See me as I am, bodily, too, if you care for the spectacle—every rag stripped off. And thus unclad, morally and physically, he proceeds to execute all the gymnastic antics that suggest themselves to the imagination of the child of nature when he is freed from the restraint of clothing and set out in the sunlight.</p>
+
+         <p>It is not from any lack of conscientious intention that the poet fails in part of his purpose, and instead of achieving a portrait of the real Walt gives us an approximate Walt, a partly real, partly ideal Walt. No man that ever lived has succeeded in making a complete exposure of himself. In the most intimate confidences there are still nooks and corners over which vanity does and always will insist on drawing the veil. Still, Whitman goes at his work lustily, and with many advantages. The individuality which he exhibits is interesting. His courage is dauntless. His sympathy with the external world is genuine; his heart beats in true accord with the heart of nature. He is a born poet, with imagination of a high order—the imagination which creates new material instead of moulding old stuff into new forms. As compared with Tennyson, for instance, who justly admires him, he is an architect who has conceived a plan and built an edifice, not merely an artist engaged in beautifying with exquisite skill the walls of a structure centuries old. Walt Whitman has found poetry in the so-called commonplace objects of Nineteenth century life. He views at night the "far-sprinkled systems," but he views them through a Nineteenth century scuttle, constructed by a carpenter of today. The scuttle is as poetic an orifice as the oriel or the mullioned window of the bartizan tower; but,being an essentially modern conception, it does not enjoy the prestige which they have in conventional verse. Whitman exults in showing side by side the sublime or the beautiful that has always been acknowledged as such, and the sublime or the beautiful unacknowledged and unrecognized by everybody but himself. He goes forth at night and sings:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">      
+                        <l>I am he that walks with the tender and growing night,</l>
+                        <l>I call to the earth and sea half-held by night.</l>
+                        <l>Press close, bare-bosomed night; press close magnetic, <lb/>nourishing night!</l>
+                        <l>Night of south winds—night of the large few stars!</l>
+                        <l>Still nodding night—mad naked summer night!</l>
+                     </lg>
+
+                     <lg type="linegroup"> 
+                        <l>Smile O voluptuous cool breath'd earth!</l>
+                        <l>Earth of the slumbering and liquid trees!</l>
+                        <l>Earth of departed sunset—earth of the mountains misty- <lb/>topt!</l>
+                        <l>Earth or the vitreous pour of the full moon just tinged <lb/>with blue!</l>
+                        <l>Earth of shine and dark mottling the tide of the river!</l>
+                        <l>Earth of the limpid gray of clouds brighter and clearer <lb/>for my sake!</l>
+                        <l>Far swooping elbow'd earth—rich apple blossom'd earth!</l>
+                        <l>Smile, for your lover comes.</l>
+
+                        <l>Prodigal, you have given me love—therefore I to you <lb/>give love!</l>
+                        <l>O unspeakable passionate love.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And with equal joy he contemplates the gigantic black driver of a dray:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l rend="indented1">The negro holds firmly the reins of his four horses, the</l>
+                        <l>block swags underneath it on its tied-over chain,</l>
+                        <l rend="indented1">The negro that drives the long dray of the stone yard,</l>
+                        <l>steady and tall he stands pois'd on one leg on the <choice><orig>string-
+                          <lb/>
+                           piece.</orig><reg>stringpiece</reg></choice>
+                        </l>
+                        <l rend="indented1">His blue shirt exposes his ample neck and breast and</l>
+                        <l>loosens over his hip band,</l>
+                        <l rend="indented1">His glance is calm and commanding, he tosses the</l>
+                        <l>slouch of his hat away from his forehead.</l>
+                        <l rend="indented1">The sun falls on his crispy hair and mustache, falls on</l>
+                        <l>the black of his polished and perfect limbs.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>His idea of supreme beauty is man, at his best, in contact with nature—the naked body of the swimmer battling with the waves, the locomotive driving through the snowdrift, the woodsman swinging his broadaxe, the lusty farmer swinging his scythe, outdoor life, the ship at sea, muscle and pluck forever! No poet has ever echoed more accurately the whirr and roar of the restless, every-day life of the world, the infinitely complex movement of human activity, the rush of the planet through space, the resultant sound of all mingled sounds. This booms like the distant voice of the ocean in some of Goethe's lines, but Goethe never came nearer the laboratory of the universe than Whitman in "Eidόlons":</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00030" cert="absolute"/>
+                        <!-- from Eidolons -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l rend="indented4">Ever the dim beginning,</l>
+                        <l>Ever the growth, the rounding of the circle,</l>
+                        <l>Ever the summit and the merge at last (to surely start <lb/>again),</l>
+                        <l rend="indented4">Eidόlons! Eidόlons!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">Ever the mutable,</l>
+                        <l>Ever materials changing, crumbling, re-cohering,</l>
+                        <l>Ever the ateliers, the factories divine,</l>
+                        <l rend="indented4">Issuing Eidόlons!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>The misfortune is that Walt Whitman, not content with his discovery of the value of the spirit of the Nineteenth century and the Modern Man as poetic material, seeks to elevate it into a democratic philosophy, or new religion of humanity. That he regards himself as the prophet of new ideas which loom awfully, but somewhat vaguely, behind the framework of his verses, is shown by abundant evidence. It would perhaps puzzle him to write out in cold prose the cardinal points of his social and religious philosophy, or, having done so, to demonstrate that they contain anything more than the ancient commonplaces. The abstract idea of universal brotherhood, of which the kiss between man and man is his not agreeable poetic type, the equality of man with man and of man with God, some taking truisms afforded by an imperfect acquaintance with the literature of metaphysical thought, a constant insistence on the doctrines of stirpiculture, a firm conviction in the majesty of the People—is not this the sum of the new creed of which he declares himself over and over again the embodiment, and which leads him to the final audacity of a comparison of his own mission with that of Christ?</p>
+
+         <closer>
+            <signed rend="right">E. P. M.</signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+                  <hi rend="italic">The Works of Ossian</hi> is an influential cycle of poems translated and published by James Macpherson in 1765.  Macpherson's claim that the poetry was of ancient Scots Gaelic origin resulted in a long running controversy over its authenticity.
+</note>  
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

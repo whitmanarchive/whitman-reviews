@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00023</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Literary Examiner</title>
+                  <imprint>
+                     <biblScope type="volume">2512</biblScope>
+                     <date when="1856-03-22">22 March 1856</date>
+                     <biblScope type="pages">180-1</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-20">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+            <ab>
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>
+                   
+                   
+                      Brooklyn, New York.  
+                   
+               
+            </ab>
+         
+
+         <p>We have too long overlooked in this country the great poet who has recently arisen in America, of whom some of his countrymen speak in connection with Bacon and Shakespeare, whom others compare with Tennyson,—much to the disadvantage of our excellent laureate,—and to whom Mr Emerson writes that he finds in his book "incomparable things, said incomparably well." The book he pronounces <q who="Ralph Waldo Emerson" type="printed">"the most extraordinary piece of wit and wisdom that America has yet contributed;"</q> at which, indeed, says Mr Emerson in the printed letter sent to us,—"I rubbed my eyes a little, to see if this sunbeam were no illusion."</p>
+
+         <p>No illusion truly is Walt Whitman, the new American prodigy, who, as he is himself candid enough to intimate, sounds his barbaric yawp over the roofs of the world. He is described by one of his own local papers as "a tenderly affectionate, rowdyish, contemplative, sensual, moral, susceptible, and imperious person," who aspires to cast some of his own grit, whatever that may be, into literature. We have ourselves been disposed to think there is in literature grit enough, according to the ordinary sense, but decidedly Walt Whitman tosses in some more. The author describes himself as "one of the roughs, a kosmos;" indeed, he seems to be very much impressed with the fact that he is a kosmos, and repeats it frequently. A kosmos we may define, from the portrait of it on the front of the book, as a gentleman in his shirt-sleeves, with one hand in a pocket of his pantaloons, and his wide-awake cocked with a dammee-sir air over his forehead.</p>
+
+         <p>On the other hand, according to an American review that flatters Mr Whitman, this kosmos is "a compound of the New England transcendentalist and New York rowdy."</p>
+
+         <p>But as such terms of compliment may not be quite clear to English readers, we must be content, in simpler fashion, to describe to them this Brooklyn boy as a wild Tupper<ref target="n1" xml:id="r1" n="1"/> of the West. We can describe him perfectly by a few suppositions. Suppose that Mr Tupper had been brought up to the business of an auctioneer, then banished to the backwoods, compelled to live for a long time as a backwoodsman, and thus contracting a passion for the reading of Emerson and Carlyle? Suppose him maddened by this course of reading, and fancying himself not only an Emerson but a Carlyle and an American Shakespeare to boot when the fits come on, and putting forth his notion of that combination in his own self-satisfied way, and in his own wonderful cadences? In that state he would write a book exactly like Walt Whitman's <hi rend="italic">Leaves of Grass</hi>.</p>
+
+
+         <!-- From "Walt Whitman" (Later: "Song of Myself") Leaves of Grass 1855 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Earth! you seem to look for something at my hands,</l>
+                        <l>Say old topknot; what do you want?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Man or woman! I might tell how I like you, but cannot,</l>
+                        <l>And might tell what it is in me, and what it is in you, but cannot,</l>
+                        <l>And might tell the pinings I have . . . .  the pulse of my nights and days.</l> 
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Behold I do not give lectures or a little charity,</l>
+                        <l>What I give I give out of myself.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>You there, impotent, loose in the knees, open your scarfed chops till I blow grit <lb/>within you,</l>
+                        <l>Spread your palms, and lift the flaps of your pockets,</l>
+                        <l>I am not to be denied . . . .  I compel . . . .  I have stores plenty and to spare,</l>
+                        <l>And any thing I have I bestow.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And again:—</p>
+
+         <!-- From "Walt Whitman" (Later: "Song of Myself") Leaves of Grass 1855 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Do you guess I have some intricate purpose?</l>
+                        <l>Well, I have . . . . for the April rain has, and the mica on the side of a rock has.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Do you take it I would astonish?</l>
+                        <l>Does the daylight astonish? or the early redstart, twittering through the woods?</l>
+                        <l>Do I astonish more than they?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>This hour I tell things in confidence,</l>
+                        <l>I might not tell everybody but I will tell you.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Who goes there! hankering, gross, mystical, nude?</l>
+                        <l>How is it I extract strength from the beef I eat?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>What is a man anyhow? What am I? and what are you?</l>
+                        <l>All I mark as my own, you shall offset it with your own,</l>
+                        <l>Else it were time lost listening to me.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I do not snivel that snivel the world over,</l>
+                        <l>That months are vacuums, and the ground but wallow and filth,</l>
+                        <l>That life is a suck and a sell, and nothing remains at the end but threadbare crape <lb/>and tears.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>But who am I?</p>
+
+         <!-- From "Walt Whitman" (Later: "Song of Myself") Leaves of Grass 1855 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Walt Whitman, an American, one of the roughs, a kosmos,</l>
+                        <l>Disorderly fleshy and sensual . . . . eating drinking and breeding,</l>
+                        <l>No sentimentalist . . . .  no stander above men and women or apart from them <lb/>. . . .  no more modest than immodest.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Unscrew the locks from the doors!</l>
+                        <l>Unscrew the doors themselves from their jambs!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Whoever degrades another degrades me . . . .  and whatever is done or said <choice><orig>re-<lb/>turns</orig><reg>returns</reg></choice> at last to me,</l>
+                        <l>And whatever I do or say I also return.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Through me the afflatus surging and surging . . . .  through me the current and <lb/>index.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Could the metamorphosed Mr Tupper produce anything finer in his way than this:</p>
+
+         <!-- From "Walt Whitman" (Later: "Song of Myself") Leaves of Grass 1855 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I dote on myself . . . .  there is that lot of me, and all so luscious,</l> 
+                        <l>Each moment, and whatever happens, thrills me with joy.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I cannot tell how my ankles bend . . . .  nor whence the cause of my faintest <lb/>wish,</l>
+                        <l>Nor the cause of the friendship I emit . . . .  nor the cause of the friendship I <lb/>take again.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>To walk up my stoop is unaccountable . . . .  I pause to consider if it really be.</l>
+                        <l>That I eat and drink is spectacle enough for the great authors and schools,</l>
+                        <l>A morning-glory at my window satisfies me more than the metaphysics of books.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>To behold the daybreak!</l>
+                        <l>The little light fades the immense and diaphanous shadows,</l>
+                        <l>The air tastes good to my palate.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Hefts of the moving world at innocent gambols, silently rising, freshly exuding,</l>
+                        <l>Scooting obliquely high and low.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Something I cannot see puts upward libidinous prongs,</l>
+                        <l>Seas of bright juice suffuse heaven.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>The earth by the sky staid with . . . .  the daily close of their junction,</l> 
+                        <l>The heaved challenge from the east that moment over my head,</l>
+                        <l>The mocking taunt, See then whether you shall be master!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Dazzling and tremendous how quick the sunrise would kill me,</l>
+                        <l>If I could not now and always send sunrise out of me.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>We also ascend dazzling and tremendous as the sun,</l>
+                        <l>We found our own my soul in the calm and cool of the daybreak.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>My voice goes after what my eyes cannot reach,</l>
+                        <l>With the twirl of my tongue I encompass worlds and volumes of worlds.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Speech is the twin of my vision . . . .  it is unequal to measure itself.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>It provokes me forever,</l>
+                        <l>It says sarcastically, Walt, you understand enough . . . .  why don't you let it out <lb/>then?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Come now I will not be tantalized . . . .  you conceive too much of articulation.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>There is a speciality of personal reference in the succeeding passage new we think to literature:</p>
+
+         <!-- From "Walt Whitman" (Later: "Song of Myself") Leaves of Grass 1855 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Is it wonderful that I should be immortal! as every one is immortal,</l>
+                        <l>I know it is wonderful . . . .  but my eyesight is equally wonderful . . . .  and <lb/>how I was conceived in my mother's womb is equally wonderful,</l>
+                        <l>And how I was not palpable once, but am now . . . .  and was born on the last day <lb/>of May 1819 . . . .  and passed from a babe in the creeping trance of three <lb/>summers and three winters to articulate and walk . . . .  are all equally <lb/>wonderful.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>And that I grew six feet high . . . .  and that I have become a man thirty-six <lb/>years old in 1855 . . . .  and that I am here anyhow—are all equally <choice><orig>won-<lb/>derful</orig><reg>wonderful</reg></choice>;</l>
+                        <l>And that my soul embraces you this hour, and we affect each other without ever <lb/>seeing each other, and never perhaps to see each other, is every bit as <lb/>wonderful;</l>
+                        <l>And that I can think such thoughts as these is just as wonderful.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>We must be just to Mr Whitman in allowing that he has one positive merit. His verse has a purpose. He desires to assert the pleasure that a man has in himself, his body and its sympathies, his mind (in a lesser degree, however) and its sympathies. He asserts man's right to express his delight in animal enjoyment, and the harmony in which he should stand, body and soul, with fellow men and the whole universe. To express this, and to declare that the poet is the highest manifestation of this, generally also to suppress shams, is the purport of these <hi rend="italic">Leaves of Grass</hi>. Perhaps it might have been done as well, however, without being always so purposely obscene, and intentionally foul-mouthed, as Mr Whitman is.</p>
+
+         <!-- From "Walt Whitman" (Later: "Song of Myself") Leaves of Grass 1855 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I think I could turn and live awhile with the animals . . . .  they are so placid <lb/>and self-contained,</l>
+                        <l>I stand and look at them sometimes half the day long.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>They do not sweat and whine about their condition,</l>
+                        <l>They do not lie awake in the dark and weep for their sins,</l>
+                        <l>They do not make me sick discussing their duty to God,</l>
+                        <l>No one is dissatisfied . . . .  not one is demented with the mania of owning <lb/>things,</l>
+                        <l>Not one kneels to another nor to his kind that lived thousands of years ago,</l>
+                        <l>Not one is respectable or industrious over the whole earth.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>So they show their relations to me and I accept them;</l>
+                        <l>They bring me tokens of myself . . . .  they evince them plainly in their <choice><orig>posses-<lb/>sion</orig><reg>possession</reg></choice>.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The fit being very strong indeed upon him, our Wild Tupper of the West thus puts into words his pleasure at the hearing of an overture:</p>
+
+         <!-- From "Walt Whitman" (Later: "Song of Myself") Leaves of Grass 1855 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>The orchestra whirls me wider than Uranus flies,</l>
+                        <l>It wrenches unnamable ardors from my breast,</l>
+                        <l>It throbs me to gulps of the farthest down horror,</l>
+                        <l>It sails me . . . . I dab with bare feet . . . . they are licked by the indolent <lb/>waves,</l>
+                        <l>I am exposed . . . . cut by bitter and poisoned hail,</l>
+                        <l>Steeped amid honeyed morphine . . . . my windpipe squeezed in the fakes of <lb/>death,</l>
+                        <l>Let up again to feel the puzzle of puzzles,</l>
+                        <l>And that we call Being.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>To be in any form, what is that?</l>
+                        <l>If nothing lay more developed the quahaug and its callous shell were enough.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Mine is no callous shell,</l>
+                        <l>I have instant conductors all over me whether I pass or stop,</l>
+                        <l>They seize every object and lead it harmlessly through me.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I merely stir, press, feel with my fingers, and am happy,</l>
+                        <l>To touch my person to some one else's is about as much as I can stand.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>In the construction of our artificial Whitman, we began with the requirement that a certain philosopher should have been bred to the business of an auctioneer. We must add now, to complete the imitation of Walt Whitman, that the wild philosopher and poet, as conceived by us, should be perpetually haunted by the delusion that he has a catalogue to make. Three-fourths of Walt Whitman's book is poetry as catalogues of auctioneers are poems. Whenever any general term is used, off the mind wanders on this fatal track, and an attempt is made to specify all lots included under it. Does Mr Whitman speak of a town, he is at once ready with pages of town lots. Does he mention the American country, he feels bound thereupon to draw up a list of barns, waggons, wilds, mountains, animals, trees, people, "a Hoosier, a Badger, a Backeye, a Lousianian, or Georgian, a poke-easy from sandhills and pines," etc., etc. We will give an illustration of this form of lunacy. The subject from which the patient starts off is equivalent to things in general, and we can spare room only for half the catalogue. It will be enough, however, to show how there arises catalogue within catalogue, and how sorely the paroxysm is aggravated by the incidental mention of any one particular that is itself again capable of subdivision into lots.</p>
+
+         <!-- From "A Song for Occupations" Leaves of Grass 1855 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00119" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>The usual routine . . . . the workshop, factory, yard, office, store, or desk;</l>
+                        <l>The jaunt of hunting or fishing, or the life of hunting or fishing,</l>
+                        <l>Pasturelife, foddering, milking and herding, and all the personnel and usages;</l>
+                        <l>The plum-orchard and apple-orchard . . . . gardening . . seedlings, cuttings, <lb/>flowers and vines,</l>
+                        <l>Grains and manures . . marl, clay, loam . . the subsoil plough . . the shovel and <lb/>pick and rake and hoe . . irrigation and draining;</l>
+                        <l>The currycomb . . the horse-cloth . . the halter and bridle and bits . . the very <lb/>wisps of straw,</l>
+                        <l>The barn and barn-yard . . the bins and mangers . . the mows and racks:</l>
+                        <l>Manufactures . . commerce . . engineering . . the building of cities, and every <lb/>trade carried on there . . and the implements of every trade,</l>
+                        <l>The anvil and tongs and hammer . . the axe and wedge . .  the square and mitre <lb/>and jointer and smoothingplane;</l>
+                        <l>The plumbob and trowel and level . . the wall-scaffold, and the work of walls and <lb/>ceilings . . or any mason-work:</l>
+                        <l>The ship's compass . . the sailor's tarpaulin . . the stays and lanyards, and the <lb/>ground-tackle for anchoring or mooring,</l>
+                        <l>The sloop's tiller . . the pilot's wheel and bell . . the yacht or fish-smack . . <lb/>the great gay-pennanted three-hundred-foot steamboat under full <choice><orig>head-<lb/>way</orig><reg>headway</reg></choice>, with her proud fat breasts and her delicate swift-flashing paddles;</l>
+                        <l>The trail and line and hooks and sinkers . . the seine, and hauling the seine;</l>
+                        <l>Smallarms and rifles . . . . the powder and shot and caps and wadding . . . . the <lb/>ordnance for war . . . . the carriages:</l>
+                        <l>Everyday objects . . . . the housechairs, the carpet, the bed and the counterpane <lb/>of the bed, and him or her sleeping at night, and the wind blowing, and <lb/>the indefinite noises:</l>
+                        <l>The snowstorm or rainstorm . . . . the tow-trowsers . . . . the lodge-hut in the <lb/>woods, and the still-hunt:</l>
+                        <l>City and country . . fireplace and candle . . gaslight and heater and aqueduct;</l>
+                        <l>The message of the governor, mayor, or chief of police . . . . the dishes of <choice><orig>break-<lb/>fast</orig><reg>breakfast</reg></choice> or dinner or supper;</l>
+                        <l>The bunkroom, the fire-engine, the string-team, and the car or truck behind;</l>
+                        <l>The paper I write on or you write on . . and every word we write . . and every <lb/>cross and twirl of the pen . . and the curious way we write what we <lb/>think . . . . yet very faintly;</l>
+                        <l>The directory, the detector, the ledger . . . . the books in ranks or the <choice><orig>book-<lb/>shelves</orig><reg>bookshelves</reg></choice>. . . . the clock attached to the wall,</l>
+                        <l>The ring on your finger . . the lady's wristlet . . the hammers of stonebreakers or <lb/>coppersmiths . . the druggist's vials and jars;</l>
+                        <l>The etui of surgical instruments, and the etui of oculist's or aurist's instruments, <lb/>or dentist's instruments;</l>
+                        <l>Glassblowing, grinding of wheat and corn . . casting, and what is cast . . <choice><orig>tin-<lb/>roofing</orig><reg>tinroofing</reg></choice>, shingledressing,</l>
+                        <l>Shipcarpentering, flagging of sidewalks by flaggers . .  dockbuilding, fishcuring, <lb/>ferrying;</l>
+                        <l>The pump, the piledriver, the great derrick . . the coalkiln and brickkiln,</l>
+                        <l>Ironworks or whiteleadworks . . the sugarhouse . .  steam-saws, and the great <lb/>mills and factories;</l>
+                        <l>The cottonbale . . the stevedore's hook . . the saw and buck of the sawyer . . <lb/>the screen of the coalscreener . .  the mould of the moulder . . the <choice><orig>work-<lb/>ingknife</orig><reg>workingknife</reg></choice> of the butcher;</l>
+                        <l>The cylinder press . . the handpress . . the frisket and tympan . . the <choice><orig>composi-<lb/>tor</orig><reg>compositor</reg></choice>'s stick and rule,</l>
+                        <l>The implements for daguerreotyping . . . . the tools of the rigger or grappler or <lb/>sailmaker or blockmaker,</l>
+                        <l>Goods of guttapercha or papiermache . . . . colors and brushes . . . . glaziers' <lb/>implements.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>Now let us compare with this a real auctioneer's catalogue. We will take that of Goldsmith's<ref target="n2" xml:id="r2" n="2"/> chambers, by way of departing as little as we can from the poetical. For, as Mr Whitman would say (and here we quote quite literally, prefixing only a verse of our own, from "A Catalogue of the Household Furniture with the select collection of scarce, curious, and valuable books of Dr Goldsmith, deceased, which, by order of the admr, will be sold by auction, &amp;c., &amp;c.)—</p>
+
+         <!-- From "The Examiner"'s burlesque of Whitman -->
+
+         <q who="anonymous" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>Surely the house of a poet is a poem, and behold a poet in the auctioneer who tells <lb/>you the whole lot of it,—</l>
+                        <l>The bath stone, compass front, open border, fender, shovel, tongs, and poker,</l>
+                        <l>The blue moreen festoon window-curtain . . . the mahogany dining-table on the <lb/>floor,</l>
+                        <l>The six ditto hollow seat chairs covered with blue moreen,</l>
+                        <l>Covered with blue moreen and finished with a double row of brass nails and check <lb/>cases,</l>
+                        <l>The Wilton carpet . . . sun shade, line and pulleys . . . the deal sideboard <lb/>stained,</l>
+                        <l>     *              *               *               * </l>
+                        <l>The teapot, five coffee cups, sugar basin and cover . . . four saucers and six cups,</l>
+                        <l>Two quart decanters and stoppers . . . one plain ditto . . . eleven glasses, one <lb/>wine and water glass,</l>
+                        <l>A pair of bellows and a brush . . . a footman, copper tea-kettle and coalscuttle.</l>
+                        <l>Two pairs of plated candlesticks.</l>
+                        <l>A mahogany teaboard, a pet bordered ditto . . . a large round japanned ditto and <lb/>two waiters.</l>
+                        <l>The Tragic Muse in a gold frame.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>After all, we are not sure whether the poetry of that excellent Mr Good, the auctioneer who, at his Great Room, No. 121 Fleet street, sold the household furniture of Oliver Goldsmith in the summer of 1774, does not transcend in wisdom and in wit "the most extraordinary piece of wit and wisdom that" (according to Mr Emerson) "America has yet contributed."</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Martin Farquhar Tupper (1810-1889) wrote <hi rend="italic">Proverbial Philosophy</hi>, a book of didactic moral and religious verse.
+</note> 
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+Oliver Goldsmith (1730-1774) was an Ango-Irish writer known for his work in various genres including his series of essays <hi rend="italic">The Citizen of the World, or, Letters from a Chinese Philosopher</hi> (1762), the poem <hi rend="italic">The Deserted Village</hi> (1770), the novel <hi rend="italic">The Vicar of Wakefield</hi> (1766), and the play <hi rend="italic">She Stoops to Conquer</hi> (1773).
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00109">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="days">[Review of <hi rend="italic">Specimen Days and Collect</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Wathen Mark Wilks Call</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="br">Beverley Rilett</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00109</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Call, Wathen Mark Wilks">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Wathen Mark Wilks Call</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Westminster Review</title>
+                  <imprint>
+                     <date when="1883-07">July 1883</date>
+                     <biblScope type="volume">64</biblScope>
+                     <biblScope type="pages">287-91</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#br" when="2012-02-10">changed author name "Anonymous" to "Call, Wathen Mark Wilks" (found in Wellesley Index to Victorian Periodicals)</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-08">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>"Specimen Days and Collect,"<ref target="n1" n="1" xml:id="r1"/> by Walt Whitman, is in some sort the prose counterpart of his celebrated "Leaves of Grass." The volume opens with an account of the parentage and ancestry of the author.</p>
+
+         <!-- From Specimen Days and Collect -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>"The later years of the last century," he tells us, "found the Van Velsor family, my mother's side, living on their own farm at Cold Spring, Long Island, New York State, near the edge of Queen's County, about a mile from the harbour. My father's side—probably the fifth generation from the first English arrivals in New England—were at the same time farmers on their own land (and a fine domain it was, 500 acres, all good soil, gently sloping east and south, about one-tenth woods, plenty of grand old trees), two or three miles off, at West Hills, Suffolk County."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Next we have some reminiscences of Whitman's early life on Long Island, and afterwards at Brooklyn, where he attended the public schools, and began life in a lawyer's office. Two years later he went to work in a weekly newspaper and printing office to learn the trade. Of his amusements and tastes during this period we have many interesting details. His first subscription to a circulating library, when the "Arabian Nights," and Sir Walter Scott's novels, and after that his poems, laid the foundation of a taste for the reading of romances and poetry which he retains to this day. The theatre, too, he delighted in, and saw all the great actors and singers, American or European, in their most celebrated rôles. We hear, too, of his passion for ferries. In his youthful years at New York and Brooklyn, his life was, he says,</p>
+
+         <!-- From Specimen Days and Collect -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>"curiously identified with Fulton ferry, already becoming the greatest of its sort in the world for general importance, volume, variety, rapidity, and picturesqueness. Almost daily, later ('50 to '60) I crossed on the boats, often up in the pilot houses, where I could get a full sweep, absorbing shows, accompaniments, surroundings. What oceanic currents, eddies, underneath the great tide of humanity also, with ever-shifting movements! Indeed, I have always had a passion for ferries; to me they afford inimitable, streaming, never-failing poems."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The Broadway sights, too, impressed him vividly. "Here I saw during these times Andrew Jackson, Webster, Clay, Seward, Martin Van Buren, fillibuster Walker, Kossuth, Fitz-Greene Halleck, Bryant, the Prince of Wales, Charles Dickens, the first Japanese ambassadors, and lots of other celebrities of the time." In 1848-9 he was editor of a Brooklyn newspaper, <hi rend="italic">The Daily Eagle</hi>. In 1855 he sent to press Leaves of Grass, being then in his thirty-sixth year. In 1862 [sic] the Secession War broke out. Walt Whitman immediately abandoned his editorial and other avocations, and devoted himself during the whole continuance of the struggle to ministering to the sick and wounded in the military hospitals, living for the most part at Washington, and making occasional visits to the front. The scenes which came under his notice at this period are most vividly described in the present volume, and seem, as was but natural, to have left a profound and overwhelming impression on him, stirring his nature to the very depths, and exalting and intensifying his patriotic and democratic sentiments. He even sees in the steadiness in action of American soldiers, and their heroic fortitude under wounds and sickness, a triumphant argument in favour of democracy; forgetting or ignoring that these same military virtues have been displayed by European troops in various ages, and under every form of government. Two facts concerning the Secession War deserve notice, as being in direct contradiction of the usually received opinion on the matter in England. First, we have it, on Mr. Whitman's testimony as an eye-witness, that an immense majority, quite nine out of ten, of the combatants on the side of the North were native Americans. Second, there were in the Northern army men from every State in the Union, without exception. Not one of the revolted States but had its contingent fighting under the Union flag. In a speech in the House of Representatives, April 15, 1879, Mr. Garfield said, "Do gentlemen know that (leaving out all the border States) there were fifty regiments and seven companies of white men in our army fighting for the Union, from the States that went into rebellion?" After the close of the war our author remained for some years in Washington, employed in the attorney-general's department.</p>
+
+         <!-- From Specimen Days and Collect -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>"In February, 1873," he tells us, "I was stricken down by paralysis, gave up my desk, and emigrated to Camden, New Jersey, where I lived during 1874 and 1875, quite unwell, but after that began to grow better; commenced going for weeks at a time, even for months, down in the country, to a charmingly recluse and rural spot along Timber Creek, twelve or thirteen miles from where it enters the Delaware river. Domiciled in the farm-house of my friends, the Staffords, near by, I lived half the time along the creek and its adjacent fields and lanes. And it is to my life here that I, perhaps, owe partial recovery (a sort of second wind, or semi-renewal of the lease of life) from the prostration of 1874 and 1875."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>We may add, that it was not alone to the influences thus alluded to that this partial recovery was due, but in no small degree to the poet's own energy, good sense, and cheerful patience. Gallantly he has fought for his life, disputing the ground inch by inch, never yielding to impatience or discouragement, delighting in the joys still left him, and, as the homely proverb has it, "cutting his coat according to his cloth." Amid the notes on external Nature, on the songs and habits of birds, on the trees, the skies, the stars, of which a great part of the volume is composed, so rare and slight is the mention of his infirmities that we might forget that the idyll was composed by a half-paralyzed man, were it not for such an entry as the following:—</p>
+
+         <!-- From Specimen Days and Collect -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>"September 5, 1877.—I write this, 11 a.m., sheltered under a dense oak by the bank, where I have taken refuge from a sudden rain. I came down here (we had sulky drizzles all the morning, but an hour ago a lull) for the before-mentioned daily and simple exercise I am fond of to pull on that young hickory sapling out there—to sway and yield to its tough-limber upright stem—haply to get into my old sinews some of its elastic fibre and clear sap. I stand on the turf and take these health-pulls moderately, and at intervals, for nearly an hour, inhaling great draughts of fresh air. Wandering by the creek, I have three or four naturally favourable spots where I rest besides a chair I lug with me and use for more deliberate occasions. At other spots I have selected, besides the hickory just named, long and limber boughs of beech or holly, in easy-reaching distance, for my natural gymnasia for arms, chest, trunk-muscles. I can feel the sap and sinew rising through me, like mercury to heat. I hold on boughs or slender trees caressingly there, in the sun and shade; wrestle with their innocent stalwartness, and know the virtue thereof passes from them into me—or maybe we interchange; maybe the trees are more aware of it all than I ever thought."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>There is much in Specimen Days which we should like to quote, if our space permitted but little, comparatively, which calls for comment. The thought is often highly poetic, and always wholesome and unconventional. The form in which it is expressed is more open to criticism. At page 268 he says:—"Nothing is better than simplicity; nothing can make up for excess, or lack of definiteness." Now the want of definiteness is often painfully felt in his own style, while there is much of excess and redundancy. His sentences often read like lists of substantives; and both simplicity and definiteness are too often sacrificed to this heaping up of words, apparently with the view of more fully expressing something which after all remains obscure and intangible. Under the head of "Democratic Vistas" (p. 257), he gives us his idea of the literary style of the future:—</p>
+
+         <!-- From Democrativ Vistas -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00524" cert="absolute"/>
+                     </relations>
+                     <p>"Not merely the pedagogue forms—correct, regular, familiar with precedent, made for matters of outside propriety, fine words, thoughts definitely told out—but a language formed by the breath of Nature, which leaps overhead, cares mostly for impetus and effects, and for what it plants and invigorates to grow—tallies life and character, and seldomer tells a thing than suggests or necessitates it."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>We conclude that Specimen Days are also a specimen of this new and especially democratic style. If so, we are not ripe for it, for it is, to us, the one great drawback to the book. Many of Whitman's criticisms on contemporary literature, society, and morals, in America, are very striking and original, showing great insight and considerable power of generalization; but their philosophical value is greatly lessened by his allowing his democratic enthusiasm to overspread the whole field of thought. For him it seems as though everything fell under one of two categories—democratic or feudal. Democracy, too, seems to him to exist nowhere but in America. Another very noticeable feature in his philosophizing is, that so much—nearly everything good or desirable—is in the future. He is perpetually violating the wise injunction of his countryman Artemus Ward:<ref target="n2" xml:id="r2" n="1"/> "Never prophesy, unless you know." Thus he paints the present state of American morality, political, commercial, and social, with quite as black a brush as did the author of "Democracy." "If I were asked," he says (p. 233), "to specify in what quarter lie the grounds of darkest dread, respecting the America of our hopes, I should point to this particular"—that is, the absence of "the primary moral element." But this is to be remedied in the future, <hi rend="italic">bien entendu</hi>, by an "all-penetrating religiousness." But it is to be a democratic religion, apparently, without churches or religious machinery, for he elsewhere prophesies that before another century is past there will be no more priests. Will not the religious world be somewhat like an army without officers? In the future, too, and likely to be so for an indefinite period, is the American annexation of Canada, which the great prophet of democracy no less confidently predicts. But in a future more remote and dim than all the rest, is the "race of orbic bards, sweet democratic despots of the West," so eloquently apostrophized at page 241, and more fully described at page 253:—</p>
+
+         <!-- From Specimen Days and Collect -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>"In the future of these States must arise Poets immenser far, and make great poems of death. The poems of life are great; but there must be the poems of the purpose of life, not only in itself, but beyond itself. I have eulogized Homer, the sacred bards of Jewry, Æschylus, Juvenal, Shakespeare, &amp;c., and acknowledged their inestimable value. But (with perhaps the exception in some, not in all respects, of the second mentioned) I say there must, for future and democratic purposes, appear poets (dare I say so?) of higher class even than any of those—poets, not only possessed of the religious fire and <hi rend="italic">abandon</hi> of Isaiah, luxuriant in the epic talent of Homer, or for proud characters as in Shakespeare, but consistent with the Hegelian formulas, and consistent with modern science."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The appearance of such poets as these, especially a class of such poets, can hardly be confidently expected; yet on this apparently remote contingency, the continued existence and greatness of the United States (we are elsewhere told) depends. Walt Whitman's critical remarks on the writings of Edgar Poë are well worth reading, as are also his criticisms on Carlyle and on Tennyson, but they are too long to quote. His remarks on British literature generally are not so happy; there is too much affectation of treating it as something foreign and alien. Here, as elsewhere, his <hi rend="italic">idée fixe</hi>, democracy, warps his judgment; his patriotism runs away with him. He claims for America as close kinship with the literatures of Italy, France, Spain, &amp;c., as with that of England, yet naïvely avows their foreignness by wishing there existed better English translations of them. There is much truth in his strictures (page 231) on modern culture:—</p>
+
+         <!-- From Specimen Days and Collect -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>"As now taught, accepted, and carried out, are not the processes of culture rapidly creating a class of supercilious infidels who believe in nothing? Shall a man lose himself in countless masses of adjustments; and be so shaped in reference to this, and that, and the other, that the simply good and healthy and brave parts of him are reduced and clipped away, like the bordering of box in a garden? You can cultivate corn and roses and orchards—but who shall cultivate the mountain peaks, the ocean, or the tumbling gorgeousness of the clouds?"</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>His judgment of Darwin's "Theory of Evolution" is insufficient and unsatisfactory. Probably the new idea reached him too late in life, when his mind had already taken too decided a bent to be fully penetrated and imbued by a new theory of the universe. He evidently regrets the old legends of man's descent from gods or demigods, and falls into the common error of supposing that Darwin makes man the descendant of apes and baboons. For his own part (p. 326), Whitman thinks—</p>
+
+         <!-- From Specimen Days and Collect -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>"the problem of origins, human and other, is not the least whit nearer its solution. In due time the evolution theory will have to abate its vehemence, cannot be allowed to dominate everything else, and will have to take its place as a segment of the circle, the cluster—as but one of many theories, many thoughts, of profoundest value—and readjusting and differentiating much, yet leaving the divine secrets just as inexplicable and unreachable as before—maybe more so."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Evidently he has not taken in that the theory of evolution is not an ingenious word-system, like the metaphysical speculations of Kant or Hegel, but the discovery of a great natural law, like that of gravitation, dominating every form of life just as inevitably as gravitation reigns over matter. He does not see that man himself is but a small and fleeting phase of evolution, and his systems, religious and political, but the phases of a phase. One more quotation must close this notice, which our sense of the importance of the work under consideration has led us to extend to an undue length. In speaking of Protection (p. 332), Whitman asks the pertinent question: "Who gets the plunder?" "It would," he says, "be some excuse and satisfaction if even a fair proportion of it went to the masses of labouring men, resulting in homesteads to such men, women and children—myriads of actual homes in fee simple in every State . .  . . . But the Act is nothing of the kind. <choice><sic>Theprofits</sic><corr>The profits</corr></choice> of 'protection' go altogether to a few score select persons, who, by favours of Congress, State legislatures, the banks, and other special advantages, are forming a vulgar aristocracy, full as bad as anything in the British or European castes of blood, or the dynasties of the past."</p>
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+         <ab>"Specimen Days and Collect." By Walt Whitman.</ab> 
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n2" target="r2" n="1">
+The popular American humorist Artemus Ward (1834-1867) (pseudonym of Charles Farrar Browne) influenced the lecture techniques of Mark Twain among others.  While editor for the Cleveland <hi rend="italic">Plain Dealer</hi>, Browne created the character of Artemus Ward who commented on a variety of subjects first in letters to periodicals and later on the lecture circuit. 
+</note> 
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

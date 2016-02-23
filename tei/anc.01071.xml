@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.01071">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" corresp="poems">The Poems of Walt Whitman</title>
+                <title level="m" type="sub">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+                <title level="a" type="sub">a machine readable transcription</title>
+                <author>
+                    <choice>
+                        <orig>W. H.</orig>
+                        <reg>William Howitt</reg>
+                    </choice>
+                </author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kb">Kyle Barton</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="al">Ashley Lawson</persName>
+                    <persName xml:id="kp">Ken Price</persName>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of
+                    Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>anc.01071</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+                <availability>
+                    <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author key="Howitt, William">
+                            <choice>
+                                <orig>W. H.</orig>
+                                <reg>William Howitt</reg>
+                            </choice>
+                        </author>
+                        <title level="a">The Poems of Walt Whitman</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">The Spiritual Magazine</title>
+                        <imprint>
+                            <biblScope type="volume">5</biblScope>
+                            <date xml:id="dat1" cert="high" when="1870-09">September 1870</date>
+                            <biblScope type="pages">34-40</biblScope>
+                        </imprint>
+                    </monogr>
+</biblStruct>
+            </sourceDesc>
+
+        </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+        <revisionDesc>
+            <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+            <change when="2012-10-31" who="#jc">fixed typos and other minor encoding issues</change>
+            <change when="2012-10-30" who="#kp">blessed</change>
+            <change when="2011-12-05" who="#al">checked and corrected</change>
+            <change when="2011-11-01" who="#el">checked</change>
+            <change when="2011-10-29" who="#kb">revised</change>
+            <change when="2011-10-27" who="#el">checked</change>
+            <change when="2011-10-25" who="#kb">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="ancillary">
+        <body>
+
+            <head type="main-authorial">The Poems of Walt Whitman</head>
+
+           <div1 type="section"> <p>The poems of Walt Whitman have been much praised and wondered at in this country
+                since they were published here by Tr&#252;bner and by Hotten, but though they are of the
+                most decidedly and avowedly spiritualistic character, nobody seems to see that fact.
+                They are in a singular, unrhymed style; sometimes in irregular hexameters, sometimes
+                in the Ossianic metre, sometimes in that of <hi rend="italic">Hiawatha</hi>,
+                sometimes absolutely prosaic, but always original and audaciously American. We do
+                not rate him, like one of his editors here, as one of the greatest poets that ever
+                lived, but he is unquestionably a great and original poet. He sets all
+                conventionality at defiance. He is as free in his style, his thoughts, his
+                sentiments, as the most Yankee and pretentious of his countrymen. His brag about the
+                Great Republic and everything belonging to the States is of the most preposterous
+                and laughable kind. His exuberance of imagery, his cataloguings of everything that
+                comes in his head of every possible thing in this globe, or in the universe, is
+                frequently oppressive; but amidst all this extravagance, verbiage, and tautology
+                there rises a continual stream of the brightest new thoughts, the tenderest and most
+                dewy sentiments and kindly human feelings, like the cool and rapid rushing of a
+                mountain-born river beneath the green boughs of the forest or through the flowery
+                grass of the summer meadow. The character of the philosophy of these poems, however,
+                is what we desire now particularly to call attention to. It is of that advanced and
+                transcendental kind which belongs only to writers who have been baptized into the
+                true Jordan of Spiritualism, and have ascended from its banks into the borders of
+                the Summer Land, walking there with ever-increasing wonder, and bringing thence the
+                flowers and fruits of a new and eternal promise; grapes of the true vine; and golden
+                gatherings from the trees of both knowledge and life. All such visitors of the world
+                beyond come back with a newness of aspect, of manner, of speech, and tone of mind,
+                that are unmistakable. We know them at once by the eye beaming with the light that
+                shines on the mountains of the imperishable; by the joy that flushes the features of
+                those who have walked and talked with the angels; by the broad spirit of sympathy
+                which brings to the earth the illimitable fervour of the heavens, and sees in the
+                smallest thing, in the humblest mortal, the signs of the wonder-working of the
+                Infinite Spirit of creative and supporting Love. This is what we see at once in the
+                poems of Walt Whitman: and he at once responds to our challenge, "Poet, thou art
+                one of us!" with these words:</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>As for me (torn, stormy, even as I, amid these vehement days;)</l>
+                            <l>I have the idea of all and am all, and believe in all:</l>
+                            <l>I believe Materialism is true, and Spiritualism is true&#8212;I
+                                reject no part.</l>
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>Nor do we: Materialism is as true as Spiritualism when it is united to Spiritualism;
+                it is false, or rather defective only, when it is a mere part.</p>
+
+            <p>In a succeeding poem, we have him clearly in trance, and the impressing spirit
+                speaking through him:&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <lg type="linegroup">
+                                <l>Take my hand, Walt Whitman!</l>
+                                <l>Such gliding wonders! such sights and sounds!</l>
+                                <l>Such joined unended links, each hooked to the next!</l>
+                                <l>Each answering all&#8212;each sharing the earth with all.</l>
+                            </lg>
+
+                            <lg type="linegroup">
+                                <l>What widens within you, Walt Whitman?</l>
+                                <l>What waves and soils exuding?</l>
+                                <l>What climes? what persons and lands are here?</l>
+                                <l>Who are the infants? some playing, some slumbering?</l>
+                                <l>Who are the girls? who are the married women?</l>
+                                <l>Who are the three old men going slowly with their arms about each
+                                    other's necks?</l>
+                                <l>What rivers are these? what forests and fruits are these?</l>
+                                <l>What are the mountains called that rise so high in the mists?</l>
+                                <l>What myriads of dwellings are they, filled with dwellers?</l>
+                            </lg>
+
+                            <lg type="lingroup">
+                                <l>Within me latitude widens, longitude lengthens;</l>
+                                <l>Asia, Africa, Europe, are to the east&#8212;America is provided
+                                    for in the west:</l>
+                                <l>Banding the bulge of the earth winds the hot equator;</l>
+                                <l>Curiously north and south turn the axis-ends;</l>
+                                <l>Within me is the longest day&#8212;the sun wheels in slanting
+                                    rings&#8212;it does not set for months</l>
+                                <l>Stretched in due time within me the midnight sun just rises above
+                                    the horizon and sinks again;</l>
+                                <l>Within me zones, seas, cataracts, plants, volcanoes, groups,</l>
+                                <l>Malaysia, Polynesia, and the great West Indian Islands.</l>
+                            </lg>
+
+                            <lg type="linegroup">
+                                <l>What do you hear, Walt Whitman?</l>
+                            </lg>
+                        </lg>
+
+
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>But Walt Whitman sees and hears everything in the earth. The poem which he calls
+                "Salut au Monde" is a long one. We have enough of it here to understand it, which
+                readers at large both in America and here have not done, but have showered on the
+                mediumistic poet all the epithets of "fool, madman, idiot," which the critic
+                vocabulary can so plentifully furnish, with occasional praise equally extravagant.
+                We have the key, and all is to us lucid as the sky and saner far than his deriders.
+                How perfectly spiritual is this passage,&#8212;amongst the sights "of the deaths of
+                the bodies of Gods"&#8212;Christ and others:&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>I see Hermes, unsuspected, dying, well-beloved, saying to the people,
+                                    <hi rend="italic">Do not weep for me,</hi></l>
+                            <l rend="italic">This is not my true country, I have lived banished from
+                                my true country&#8212; I now go back there;</l>
+                            <l rend="italic">I return to the celestial sphere, where every one goes
+                                in his turn.</l>
+                        </lg>
+
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>In the "Song of the Broad Axe" we have the same unmistakable spirit
+                vision:&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <lg type="linegroup">
+                                <l>I see the European headsman:</l>
+                                <l>He stands masked, clothed in red, with huge legs and strong,
+                                    naked arms,</l>
+                                <l>And leans on a ponderous axe.</l>
+                            </lg>
+
+                            <lg type="linegroup">
+                                <l>Whom have you slaughtered lately, European headsman?</l>
+                                <l>Whose is that blood upon you, so wet and sticky?</l>
+                            </lg>
+
+                            <lg type="linegroup">
+                                <l>I see the sunset of the Martyrs;</l>
+                                <l>I see from the scaffolds of the descending ghosts,</l>
+                                <l>Ghosts of dead lords, uncrowned ladies, impeached ministers,
+                                    rejected kings,</l>
+                            </lg>
+
+                            <lg type="linegroup">
+                                <l>Rivals, traitors, poisoners, disgraced chieftains, and the
+                                    rest.</l>
+                                <l>I see those who in any land have died for the good cause;</l>
+                                <l>The seed is spare, nevertheless the crop shall never run out.</l>
+                                <l>(Mind you, O foreign kings, O priests, the crop shall never run
+                                    out).</l>
+                            </lg>
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>But let us take a few passages as they occur <hi rend="italic">seriatim</hi> in the
+                volume. Here is one which again proclaims his purpose:&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <lg type="linegroup">
+                                <l>I stand in my place, with my own day, here.</l>
+                                <l>Here lands female and male;</l>
+                                <l>Here the heirship and heiress-ship of the world&#8212;here the
+                                    flame of materials;</l>
+                                <l>Here Spirituality, the translatress, the open-avowed,</l>
+                                <l>The ever-tending, the finale of visible forms;</l>
+                                <l>The satisfier, after due, long waiting, now advancing,</l>
+                                <l>Yes, here comes my mistress, the Soul.</l>
+                            </lg>
+
+                            <lg type="linegroup">
+                                <l>The Soul!</l>
+                                <l>For ever and for ever&#8212;longer than soil is brown and
+                                    solid&#8212;longer than water ebbs and flows.</l>
+                                <l>I will make the poems of materials, for I think they are to be
+                                    the most spiritual poems;</l>
+                                <l>And I will make the poems of my body and of mortality,</l>
+                                <l>For I think I shall then supply myself with the poems of my soul
+                                    and immortality.</l>
+                            </lg>
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>To be truly spiritual is to be devout, and he adds&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+
+                            <l>I say no man has ever been half devout enough,</l>
+                            <l>None has ever yet adored or worshipped half enough;</l>
+                            <l>None has begun to think how divine he himself is, and how certain the
+                                future is.</l>
+
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>But the spiritual poet must shew this:&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>The unseen and the seen;</l>
+                            <l>Mysterious ocean where the streams empty;</l>
+                            <l>Prophetic spirit of materials shifting and flickering around me;</l>
+                            <l>Living beings, identities, now doubtless near us, in the air, that we
+                                know not of;</l>
+                            <l>Contact daily and hourly that will not release me.</l>
+                        </lg>
+
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>And he proceeds:&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>I will make the true poem of riches,&#8212;</l>
+                            <l>To earn for the body and the mind whatever adheres, and goes forward
+                                and is not dropped at death.</l>
+
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>And again, of death and the soul:&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>Was somebody asking to see the Soul?</l>
+                            <l>See! your own shape and countenance&#8212;persons, substances,
+                                beasts, the trees, the running rivers, the rocks and sands.</l>
+                            <l>All hold spiritual joys, and afterwards loosen them:</l>
+                            <l>How can the real body ever die and be buried?</l>
+                            <l>Of your real body, and any man's or woman's real body,</l>
+                            <l>Item for item, it will elude the hands of the corpse-cleaners, and
+                                pass to fitting spheres,</l>
+                            <l>Carrying what has accrued to it from the moment of birth to the
+                                moment of death.</l>
+
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>In the most outward city pageant the open-eyed poet sees what the mere world-eyed
+                mass never sees. In the reception of the Japanese Embassy at New York, he
+                says:&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>I do not know whether others behold what I behold,</l>
+                            <l>In the procession, along with the Princes of Asia, the
+                                errand-bearers,</l>
+                            <l>Bringing up the rear, hovering above, or in the ranks marching;</l>
+                            <l>But I will sing you a song of what I behold</l>
+                            <l>&#42; &#42; &#42; &#42; &#42; &#42; </l>
+                            <l>Not the errand-bearing princes, nor the tanned Japanese only;</l>
+                            <l>Lithe and silent the Hindoo appears&#8212;the Past, the Dead.</l>
+                            <l>The murky night-morning of wonder and fable, inscrutable,</l>
+                            <l>The enveloped mysteries, the old and unknown hive-bees,</l>
+                            <l>The North&#8212;the sweltering South&#8212;Assyria&#8212;the
+                                Hebrews&#8212;the Ancient of ancients,</l>
+                            <l>Vast, desolated cities&#8212;the gliding Present&#8212;all of these,
+                                and more are in the pageant procession.</l>
+
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>Yes! to the poet of the opened eye&#8212;the spiritual poet and seer&#8212;all worlds
+                and ages are open. The walls of Time, the barriers of the distant and of ages are
+                thrown down; the manacles of the flesh are rent asunder; the mortal film has fallen
+                from the eye of the temporal probationer, and, spirit-like, he walks cognizant amid
+                the free things of the imperishable spheres. All times, people, regions, are present
+                with him. He sees everything as it is, and knows better than ever that everything is
+                miracle.</p>
+
+            <p>Let us see what he says on this point:&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <head type="main-authorial">MIRACLES.</head>
+
+                            <lg type="linegroup">
+                                <head type="main-authorial">1.</head>
+                                <l>What shall I give? And what are my miracles?</l>
+                            </lg>
+                            <lg type="linegroup">
+                                <head type="main-authorial">2.</head>
+                                <l>Realism is mine—my miracles—Take freely,</l>
+                                <l>Take without end—I offer them to you wherever your feet can carry
+                                    you, or your eyes reach.</l>
+                            </lg>
+                            <lg type="linegroup">
+                                <head type="main-authorial">3.</head>
+
+                                <lg type="linegroup">
+                                    <l>Why! who makes much of miracles?</l>
+                                    <l>As for me I know of nothing else but miracles,</l>
+                                    <l>Whether I walk the streets of Manhattan,<ref>&#42;</ref></l>
+                                    <l>Or dart my sight over the roofs of houses toward the sky,</l>
+                                    <l>Or wade with naked feet, along the beach, just in the edge of
+                                        the water,</l>
+                                    <l>Or stand under trees in the woods,</l>
+                                    <l>Or talk with any one I love,</l>
+                                    <l>Or sit at the table with my mother,</l>
+                                    <l>Or look at strangers opposite me riding in the car,</l>
+                                    <l>Or watch honey-bees busy round the hive, of a summer
+                                        forenoon,</l>
+                                    <l>Or animals feeding in the fields,</l>
+                                    <l>Or birds&#8212;or the wonderfulness of insects in the
+                                        air,</l>
+                                    <l>Or the wonderfulness of the sun-down&#8212;or of stars
+                                        shining, so quiet and bright,</l>
+                                    <l>Or the exquisite, delicate, thin curve of the new moon in
+                                        spring;</l>
+                                    <l>Or whether I go among those I like best, and that like me
+                                        best&#8212;mechanics, boatmen, farmers,</l>
+                                    <l>Or among the <hi rend="italics">savans</hi>&#8212;or to the <hi 
+                                        rend="italic">soir&#233;e</hi>&#8212;or to the opera,</l>
+                                    <l>Or stand a long while looking at the movements of
+                                        machinery,</l>
+                                    <l>Or behold children at their sports,</l>
+                                    <l>Or the admirable sight of the perfect old man, or the perfect
+                                        old woman,</l>
+                                    <l>Or the sick in the hospitals, or the dead carried to
+                                        burial,</l>
+                                    <l>Or my own eyes and figure in the glass;</l>
+                                    <l>These, with the rest, one and all, are to me miracles,</l>
+                                    <l>The whole referring&#8212;yet each distinct and in its
+                                        place.</l>
+
+                                </lg>
+
+                                <lg type="linegroup">
+                                    <head type="main-authorial">4.</head>
+                                    <l>To me every hour of the light and dark is a miracle,</l>
+                                    <l>Every inch of space is a miracle,</l>
+                                    <l>Every square yard of the surface of the earth is spread with
+                                        the same;</l>
+                                    <l>Every cubit foot of the interior swarms with the same;</l>
+                                    <l>Every spear of grass&#8212;the frames, limbs, organs of men
+                                        and women, and all that concerns them,</l>
+                                    <l>All these are to me unspeakably perfect miracles.</l>
+
+                                </lg>
+
+                                <lg type="linegroup">
+                                    <l>To me the sea is a continual miracle;</l>
+                                    <l>The fishes that swim&#8212;the rocks&#8212;the motion of the
+                                        waves&#8212;the ships with men in them,</l>
+                                    <l>What stranger miracles are there?</l>
+                                </lg>
+                            </lg>
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>But enough: our object is not to bring forward all the spiritual matter of the
+                volume&#8212;for it is all spiritual; we want only to shew our readers that another
+                spiritual poet is amongst us, whom the world accepts because it thinks him merely
+                eccentric and original. The poetry of Harris is very fine, but then he said out
+                plumply that the spirits of departed poets gave it him, and the wise ones turned up
+                their eyes and went on. Walt Whitman does not say that any spirit gave him these
+                poems, but he shews it in every line to the initiated. It is alive with that fresh,
+                new, piquant, magical life that no mere poet of the world, no Browning, or
+                Swinburne, or Locker has. The moment that you dip into this poetry, you feel the
+                stir and heavings of the limitless ocean of the God-world of deathless powers
+                beneath; you are immersed in the eternal springs and streams of primal being. The
+                harmonies and airs of the Summer Land are around you. You see and hear and feel and
+                know with a new rush of faculties and consciousnesses which make even the most
+                surprising of material discoveries flat and poor, for they penetrate only into the
+                outer surface of outer things. Here you touch the fire-springs of creative life; you
+                bathe in the life fountains; you are one with the countless hosts of the wise, the
+                beautiful, the loving, who have emerged from the larva cells of earth into the
+                perfected zones of eternal peace and poetry. What says your poet of his state
+                there?</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>I lie abstracted, and hear beautiful tales of things and the reasons
+                                of things:</l>
+                            <l>They are so beautiful I nudge myself to listen.</l>
+
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>His companions are yours: hear again!</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>Wild flowers and vines and weeds come up through the stones, and
+                                hardly cover them.&#8212;Beyond these I pass,</l>
+                            <l>Far, far in the forest, before I think where I go,</l>
+                            <l>Solitary, smelling the earthly smell, stopping now and then in the
+                                silence;</l>
+                            <l>Alone I had thought&#8212;yet soon a silent troop gathers around
+                                me;</l>
+                            <l>Some walk by my side, and some behind, and some embrace my arms and
+                                neck.</l>
+                            <l>They, the spirits of friends dead or alive&#8212;thicker they come, a
+                                great crowd, and I in the middle,</l>
+                            <l>Collecting, dispensing, singing in spring, there I wander with
+                                them.</l>
+                            <l>&#42; &#42; &#42; &#42; &#42; &#42; &#42; </l>
+                            <l>And twigs of maple, and a bunch of wild orange, and chestnut,</l>
+                            <l>And stems of currants, and plum-blows, and the aromatic cedar.</l>
+                            <l>These, I, compassed around by a thick cloud of spirits,</l>
+                            <l>Wandering, point to, or touch as I pass, or throw them loosely from
+                                me,</l>
+                            <l>Indicating to each one what he shall have&#8212;giving something to
+                                each.</l>
+
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>With your poet you say finally&#8212;</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>Now, while the great thoughts of space and eternity fill me, I will
+                                measure myself by them;</l>
+                            <l>And now, touched with the lives of other globes, arrived as far along
+                            as those of the earth,</l>
+                            <l>Or waiting to arrive, or passed on farther than those of the earth,</l>
+                            <l>Thenceforth I no more ignore them than I ignore my own life,</l>
+                            <l>Or the lives of the earth arrived as far as mine, or waiting to
+                                arrive.</l>
+                            <l>O I see now that life can not exhibit all to me&#8212;as the day can
+                                not,</l>
+                            <l>I see that I am to wait for what will be exhibited by death.</l>
+
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>Thus daily, whilst the earth porers of science pause and wonder, and then shrink from
+                their own wondering, the broad day of the soul breaks more broadly; rushes on more
+                peremptorily; spirits, issuing from their shy seclusion, speak out aloud, sing in
+                troops and choruses to ears no longer astonished; come visibly and palpably; scatter
+                over us flowers of heaven and of earth, make fire innocuous and touch disease into
+                health; and poets, springing up here and there in the crowds, utter words of faith
+                and vision ever and ever more startling and strong. It is high time that he that
+                would have the credit of being wise should revise his wisdom, and let the mingling
+                earth and heavens speak out to him of the new birth of things&#8212;new facts, new
+                perceptions, new sights more wonderful than dreams, new sense of things, of justice,
+                love, truth, pacification, and law&#8212;God in his world living through all in one
+                perpetual and illimitable miracle.</p>
+
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>I swear I think there is nothing but immortality!</l>
+                            <l>That the exquisite scheme is for it, and the nebulous float is for
+                                it, and the cohering is for it!</l>
+                            <l>And all preparation is for it! and identity is for it! and life and
+                                death are altogether for it!</l>
+
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+
+            <p>And this invincible conviction is the backbone and substance of the new dispensation
+                in which the poet tells us in his preface,"From the eyesight proceeds another eyesight, and 
+                from the hearing proceeds another hearing, and from the voice proceeds another voice, 
+                eternally curious of the harmony of things with man."</p>
+            
+            <p>True, Walt Whitman! True! Sing on, and let the whole world know it.</p>
+            
+            <closer>
+                <signed rend="right">W. H.</signed> 
+            </closer></div1>
+            
+            <div1 type="section"><milestone unit="undeclared" rend="horbar-short-left"/>
+            
+            <ab>&#42; New York.</ab></div1>
+
+        </body>
+    </text>
+</TEI>

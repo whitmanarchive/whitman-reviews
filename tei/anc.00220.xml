@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00220">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poemsof">Whitman for the Drawing Room</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Poems of Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00220</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Whitman for the Drawing Room</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Papers for the Times</title>
+                  <imprint>
+                     <date when="1886-04">April 1886</date>
+                     <biblScope type="pages">181-5</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-06">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WHITMAN FOR THE DRAWING ROOM.<!-- [Review of Poems of Walt Whitman] --></head>
+
+         <p>M<hi rend="smallcaps">R</hi>. R<hi rend="smallcaps">HYS</hi> and his publisher surely meant well when they decided to issue a volume of selections from <hi rend="italic">Leaves of Grass</hi>.<ref target="n1" xml:id="r1">∗</ref> The book is not intended for the confirmed admirers of Whitman, for they will be satisfied with nothing less than the complete work, and it can be of small benefit to his opponents. These opponents may be divided into two classes: persons who honestly object to Whitman's plainness of speech, because they regard it as unnecessary and unfitting. They say there is a time to be silent, and though no part or function of man if properly treated is disgraceful, there is no reason why all should be publicly exhibited. Whitman, they say, has erred in judgment. These persons we can respect; their opinion is honest and intelligible. The other class we cannot respect. It consists for the most part of hack writers to the press who think it no portion of their duty to know anything of the works they are paid to review<ref target="n2" xml:id="r2">†</ref> and of the patrons of these scribes, the retailers of literary small-talk in British drawing-rooms, whose god is Mrs. Grundy,<ref target="n3" n="1" xml:id="r3"/> and whose sole virtue is to <hi rend="italic">appear</hi> respectable. No doubt a good many of these will buy the <hi rend="italic">Selections</hi>, Whitman's reputation among them having, hitherto, been questionable; just as an actress of easy virtue draws them to the theatre, though her histronic powers are nowhere and her manners on the stage the pink of propriety.</p>
+	
+         <p>These persons will certainly be disappointed, not only with the selections which Mr. Rhys has prepared, but with the original and complete volume itself. They will not find in either what they want. The speech is plain and unveiled, but cleanly. Veiled obscenity in the shape of a joke, a spicy story, or the reports of criminal cases in the <hi rend="italic">Pall Mall Gazette</hi> are more to their minds. The second-hand bookseller knows their taste well, and when he labels a volume "curious" adds fifty per cent. to the price. There are even certain fellows of the baser sort whose trade consists in lending out willfully obscene books to these "respectable" people for their private reading. </p>
+	
+         <p>Their private reading, to be sure! for in public nothing—unless it be the <hi rend="italic">Pall Mall</hi>'s leading articles—could exceed the solemn piety and hatred of everything gross which they exhibit. Nothing that would bring "the blush to the maiden cheek" can be tolerated by them. They are above all else zealous for the virtue of their womankind, just as if they had never laughed over the story of a treacherous seduction, or participated in one themselves. Not, indeed, that they object to being described as "knowing dogs" or "men about town," for this rather enhances their reputation among some of their fair friends. The British matrons are eager enough to give their daughters in marriage to them, regardless of the prior claim which some other young woman may have, but which she cannot enforce because it has not received a priestly blessing; nor are the maidens themselves touched with remorse or with sympathy when they usurp the place. Mrs. Grundy does not require it so to act as they do is respectable, and there is nothing more to be said or done.</p>
+	
+         <p>Yet even respectable people need relaxation sometimes, and to test their private morality you must ascertain why the gentlemen guffau over their wine, and the ladies in the drawing-room—before the gentlemen arrive—titter hysterically behind their handkerchiefs. Mrs. Josephine Butler,<ref target="n4" n="2" xml:id="r4"/> many years ago, stated publicly that she had given up dinner-parties because she could not endure the after-dinner talk of the drawing-rooms.</p>
+	
+         <p>These are the people who most vigorously condemn as immoral the plain spoken, cleanly minded Whitman, and while, as we have said, they will very likely buy Mr. Rhys' book, there is no hope that it will benefit them. Possibly, however, a copy here and there will fall into the hands of some man or woman who, thus becoming acquainted with the "good grey poet" for the first time, will make good use of the opportunity. To many Whitman has, hitherto, been only a name; to some not even that. Perhaps the little volume has a mission to them. </p>
+	
+         <p>Coming now to the book itself we find something to condemn and something, also, to praise. The portrait is no better than a caricature. The Introductory Notice is interesting, but it would have been more satisfactory had its author kept clear of ungraceful affectation in style. "Depicture" and "invigorative" are not elegant, and "most immediate" is something worse. However, in these cases we are able to gather what the writer means; but occasionally it is impossible. What, for example does he mean by this: "Born on Long Island or Paumanok, its Indian name, by which he always calls it, in the State of New York, of a stalwart race of farmers, in 1819, the freedom of sun and wind was his, in a wide country side, with rising hills around, and the sea that he has sung so affectionately, with such deep sympathy, so that is harmonies seem to have subtly informed his poetry, close by." In short, if we may presume to give a word of advice to Mr. Rhys it will be—avoid, as you would poison, the mannerisms—not to say vulgarisms of the so-called æsthetic school. The best written passages are those which, obviously, are in the author's natural style. Mr. Rhys is a hearty yet discriminating admirer of Whitman. His reference to Burns is very happy, and there is much justice in his remark that the advance Whitman has made "is a great one, beyond a doubt. The only danger is that in accepting this new tendency we may neglect the great virtues of past modes. Always the salvation of all art expression lies in the perfect adjustment of the new with the old." Mr. Rhys does not note the real advance with, as it seems to us, Whitman had made beyond his predecessors, namely in his sentiment toward death. Others have treated death as a "dread monster," an enemy, or have simply ignored it. Even Goethe said "Death is something so strange that, notwithstanding all experience, one thinks it impossible for it to seize a beloved object; and it always presents itself as something incredible and unexpected."<ref target="n5" n="3" xml:id="r5"/> Whitman alone hails it lovingly, as a friend: </p>
+
+         <!-- From "When Lilacs Last in the Dooryard Bloom'd" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Come, lovely and soothing death,</l>
+                        <l>Undulate round the world, serenely arriving, arriving </l>
+                        <l>In the day, in the night, to all, to each,</l>
+                        <l>Sooner or later delicate death.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Prais'd be the fathomless universe,</l>
+                        <l>For life and joy, and for objects and knowledge curious,</l>
+                        <l>And for love, sweet love—but praise! praise! praise! </l>
+                        <l>For the sure enwinding arms of cool, enfolding death.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Dark mother always gliding near with soft feet,</l>
+                        <l>Have none chanted for thee a chant of fullest welcome?</l>
+                        <l>Then I chant it for thee, I glorify thee above all,</l>
+                        <l>I bring thee a song that when thou must indeed come, come unfalteringly."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>"The method of selection adopted in preparing the volume," remarks Mr. Rhys modestly, "has certainly not been scientific or very profoundly critical." The task of selection in the case of Whitman would undoubtedly have peculiar difficulties. "The limitations of the average run of readers have been, as far as could be surmised, the limitations of the book."<ref target="n6" n="4" xml:id="r6"/> All things considered, Mr. Rhys has chosen well, but that the <hi rend="italic">Song of Myself</hi>, containing as it does some of Whitman's finest as well as his most characteristic work, should have been wholly omitted, is singular. It is here he gives his key-note:</p>
+
+         <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">		
+                        <l>"I celebrate myself and sing myself,</l>
+                        <l>And what I assume you shall assume,</l>
+                        <l>For every atom belonging to me as good belongs to you."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Here, also, occur such grand passages as the following:</p>
+
+         <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">		
+                        <l>"Swiftly arose and spread around me the peace and knowledge that pass all the argument <lb/>of the earth</l>
+                        <l>And I know that the hand of God is the promise of my own</l>
+                        <l>And I know that the Spirit of God is the brother of my own</l>
+                        <l>And that all the men ever born are also my brothers, and the women my sisters and lovers</l>
+                        <l>And that a kelson of the creation is love."</l>
+                        <l> . .  . .  . . .</l> 		
+                        <l>"Have you heard that it was good to gain the day?</l>
+                        <l>I also say it is good to fall, battles are lost in the same spirit in which they are won."</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Vivas to those who have fail'd!</l>
+                        <l>And to those whose war-vessels sank in the sea! </l>
+                        <l>And to those themselves who sank in the sea! </l>
+                        <l>And to all generals that lost engagements and all overcome heroes! </l>
+                        <l>And the numberless unknown heroes equal to the greatest heroes known!"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>Another omission which we can hardly approve is <hi rend="italic">The Singer in Prison</hi>, but after all, something had to be omitted, and the editor's task was by no means an easy one. He has not omitted, as some editors might have done, <hi rend="italic">In a City Dead House</hi> and <hi rend="italic">The Flight of the Eagles</hi>.<ref target="n7" n="5" xml:id="r7"/> The former touches on a subject treated by Hood in his <hi rend="italic">Bridge of Sighs</hi>, but grandly not morbidly. The latter is as artistic as anything Whitman has written. Mr. Rhys and Mr. Scott deserve credit for this effort to popularize <hi rend="italic">Leaves of Grass</hi>. When may we hope to see a complete edition at a shilling?</p>
+
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+
+         <ab>
+            <hi rend="superscript">∗</hi>
+            <hi rend="italic">The Poems of Walt Whitman</hi> (Selected), with Introduction by E<hi rend="smallcaps">RNEST</hi> R<hi rend="smallcaps">HYS</hi>. Walter Scott, I/-.</ab>
+
+         <ab>
+            <hi rend="superscript">†</hi>For instance, here is a Saturday Reviewer, boldly denouncing Whitman, who does not even know the name of Whitman's book. <hi rend="italic">Blades of Grass</hi>, he calls it.</ab>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r3" xml:id="n3" n="1">Mrs. Grundy, a term for an extremely conventional or priggish person, refers to a character in the play <hi rend="italic">Speed the Plough</hi> by British playwright Thomas Morton (1764–1838).</note>
+
+               <note type="editorial" target="r4" xml:id="n4" n="2">Josephine Elizabeth Butler (1828–1906) was a feminist whose causes included the welfare of prostitutes.</note>
+
+               <note type="editorial" target="r5" xml:id="n5" n="3">This quotation is from a collection of conversations between Goethe and Johann Peter Eckermann. "Der Tod ist doch etwas so Seltsames, daß man ihn, unerachtet aller Erfahrung, bei einem uns teuren Gegenstande nicht für möglich hält und er immer als etwas Unglaubliches und Unerwartetes eintritt. Er ist gewissermaßen eine Unmöglichkeit, die plötzlich zur Wirklichkeit wird. Und dieser Übergang aus einer uns bekannten Existenz in eine andere, von der wir auch gar nichts wissen, ist etwas so Gewaltsames, daß es für die Zurückbleibenden nicht ohne die tiefste Erschütterung abgeht." <hi rend="italic">Gespräche mit Goethe</hi>, Leipzig, Band 1 und 2: 1836, Band 3: 1848, S. 743.</note>
+
+               <note type="editorial" target="r6" xml:id="n6" n="4">Ernest Rhys, "Introduction" to <hi rend="italic">Leaves of Grass: The Poems of Walt Whitman</hi> (London: Walter Scott, 1886), xxxv.</note>
+
+               <note type="editorial" target="r7" xml:id="n7" n="5">Probably a mistaken reference to "The Dalliance of the Eagles." </note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

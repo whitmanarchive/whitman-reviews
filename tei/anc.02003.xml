@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02003">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" corresp="boughs">Concerning Old and New Books</title>
+                <title level="m" type="sub">[Review of <hi rend="italic">November Boughs</hi>]</title>
+                <title level="a" type="sub">a machine readable transcription</title>
+                <author>
+                    <choice>
+                        <orig>Mrs. D. H. R. Goodale</orig>
+                        <reg>unknown</reg>
+                    </choice>
+                </author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="al">Ashley Lawson</persName>
+                    <persName xml:id="kb">Kyle Barton</persName>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>anc.02003</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+                <availability>
+                    <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author key="unknown">
+                            <choice>
+                            <orig>Mrs. D. H. R. Goodale</orig>
+                            <reg>unknown</reg>
+                        </choice>
+                        </author>
+                        <title level="a">Concerning Old and New Books</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Springfield Republican</title>
+                        <imprint>
+                            <date xml:id="dat1" cert="high" when="1888-12-25">25 December 1888</date>
+                            <biblScope type="pages">5</biblScope>
+                        </imprint>
+                    </monogr>
+</biblStruct>
+            </sourceDesc>
+            
+        </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+        
+        <revisionDesc>
+            <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+            <change when="2012-09-25" who="#jc">blessed</change>
+            <change when="2012-02-29" who="#al">checked and corrected</change>
+           <change when="2012-02-27" who="#kb">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+       
+    <text type="ancillary">
+        <body>
+            
+            <head type="main-authorial">CONCERNING OLD AND NEW BOOKS,</head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <head type="sub"><hi rend="bold">With a Hint at the Wisdom of Times and Seasons.</hi></head>
+            <head type="sub">[Written by Mrs. D.H.R. GOODALE for The Republican]</head>
+            <head type="sub">"'Tis good to be merry and wise."</head>
+                        
+            <p>So runs the old song. Surely, now that Christmas approaches, 'tis time to put our wisdom to the proof and make merry with that "good heart" which, according to Walt Whitman, it is the best service of literature to give us "as a radical possession and habit." It is a curious paradox that while books are certainly indispensable to our modern life, their chief value lies in something that we find within ourselves. The book which starts no echo is without meaning to us. In his new volume of "November Boughs," by means of various hints and records, such as personal reminiscences, poetizing, looking backward along his own road and discoursing of Shakespeare, Tennyson, Burns and the Bible, Walt Whitman emphasizes again the old manly (self) assertion of individual will and freedom, and testifies to the immeasurable value of life,&#8212;still looking and longing for that brotherhood of man in which each shall live and work to share all good with his fellows. Whatever the final stamp of valuation put upon the literary work which this fearless man has produced, we owe him much for the sincerity, earnestness and vigor with which he has insisted upon human and vital realities as the only true ground-work of art. The test that he offers for "poems or any other writings" certainly gives us a high standard, "not merely to satisfy the intellect, or supply something polished and interesting, nor even to depict great passions or persons or events, but to fill him [the reader] with vigorous and clean manliness, religiousness, and give him <hi rend="italic">good heart</hi> as a radical possession and habit."</p>
+         </body>
+    </text>
+</TEI>

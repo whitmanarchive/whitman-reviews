@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00116">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="boughs">Whitman's "November Boughs"</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">November Boughs</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Hamlin Garland</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="ng">Nicole Gray</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00116</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Garland, Hamlin">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Hamlin Garland</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Whitman's "November Boughs"</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Boston Evening Transcript</title>
+                  <imprint>
+                     <date when="1888-11-15">15 November 1888</date>
+                     <biblScope type="pages">6</biblScope>
+
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#ng" when="2010-10-14">updated note</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-08">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">
+            <hi rend="italic">WHITMAN'S "NOVEMBER BOUGHS."</hi> 
+            <!-- [Review] -->
+         </head>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>Walt Whitman has always been suggestive and usually felicitous in his titles, and there is something about "November Boughs" which arrests the attention of the reader.</p>
+
+         <p>"You lingering sparse leaves of me, on winter-rearing boughs" he writes in one place, and again in the "Carol at Sixty-nine" and other places, seems to hint that his work is nearly finished, yet the reader will find little sign of decay or weakness in this characteristic powerful volume of poems and essays. The design of the book is evidently to round out and comment upon his other works and to add a few more poems to the hitherto complete "Leaves of Grass."</p>
+
+         <p>It is an admirable book for those to read who wish to know Whitman, to discover how calm, patient and philosophical he really is. It is no longer in order to assault him, even if we do not agree with him, and the number of people who begin to understand and admire this great personality is increasing. As Stedman<ref target="n1" xml:id="r1" n="1"/> has said, "Whitman cannot be skipped," he must be studied by whomever would lay claim to the name of critic or student of American thought, and such person cannot do better than begin study by reading "November Boughs," and especially the calm estimate which the author himself puts upon his work, in the initial essay, "O'er Travelled Roads."</p>
+
+
+         <!-- from A Backward Glance O'er Travel'd Roads -->
+
+         <p>"So here I sit gossiping in the early candle-light of old age—I and my book—casting backward glances over our travelled road…That I have not gained the acceptance of my own time but have fallen back on fond dreams of the future; that from a worldly and business point of view, 'Leaves of Grass' has been worse than a failure; that public criticism on the book, and myself, as author of it, yet shows marked anger and contempt more than anything else; and that solely for publishing it I have been the object of two or three pretty serious official buffetings—is all probably no more than I ought to have expected. I had my choice when I commenced. I bid neither for soft eulogies, big money returns, nor the approbation of existing schools and conventions."</p>
+
+         <p>In calculating the decision of the world upon his book, he says William O'Connor and Dr. Bucke are far more peremptory than he, and regards the fact that he has obtained a hearing as of prime importance:</p>
+
+         <!-- from A Backward Glance O'er Travel'd Roads -->
+
+
+         <p>"Essentially that from the first, and has remained throughout the main object. Now it seems to be achieved, I am certainly contented to waive any otherwise momentous drawbacks as of little account. Candidly and dispassionately reviewing all my intentions, I feel that they were creditable, and I accept the result, whatever it may be."</p>
+
+         <p>Surely these are dignified and reasonable words, with which no one can quarrel. People in general are coming to think that his intentions were creditable, and no one who has really known him or brought himself to the poet's point of view has ever thought otherwise. The supreme barrier has been ignorance of the poet's real life (his service to his fellows, the ready self- sacrifice and the boundless love for all conditions of life), which has always barred the way to knowing his works. In the bitterness of the controversy the critics befogged the public mind, at times wilfully misrepresenting him, leaving out of their columns all reference to his sublime service to men during the civil war and his never-failing sympathy towards the poor and ignorant, as well as his tolerance of beliefs opposed to his.</p>
+
+         <p>The admirers of Whitman (if I may be allowed to represent them) do not complain at the non-acceptance of his work as poetry, but they do complain, and have reason to complain, of the distortion of the poet's intention and the misrepresentation of his private life. I for one have no quarrel with any one who honestly objects to Whitman's being called a poet, but with those who raise the point (happily they are few now) that his intentions were not creditable, I certainly do take decided issue.</p>
+
+         <p>After all, the controversy about poetry is mostly a contention about a word. I read a passage from Whitman like this:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00313" cert="absolute"/>
+                        <!-- from From Montauk Point-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I stand as on some mighty eagle's beak,</l> 
+                        <l>Eastward the sea absorbing, viewing (nothing but <lb/>sea and sky)</l> 
+                        <l>The tossing waves, the foam, the ships in <choice><orig>dis-<lb/>tance</orig><reg>distance</reg></choice>,</l> 
+                        <l>The wild unrest, the snowy curling caps—that <choice><orig>in- 
+                           <lb/>
+                           bound</orig><reg>in-bound</reg></choice> verge of waves,</l> 
+                        <l>Seeking the shore forever."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>I say this is poetry, you say "it is passionate descriptive speech." Very well. It doesn't matter what you call it. A great picture is there. Emotion is there, and a certain resonant, free song is there. The name does not matter. This example will do as well as hundreds to illustrate the present attitude of those who call Whitman a poet and those who do not. Opponents no longer find it necessary to assault the poet's character in order to justify their dislike of his writings, and on the other hand the "Whitmanites" are ready to make certain concessions, and altogether an understanding is being reached. I think no one can read "Specimen Days," and especially the war memoranda, without coming to venerate the man who spent years in the hospitals (visiting the bedsides of over one hundred thousand soldiers), laying the foundations for the sickness which chained him to his chair before he was sixty years of age, despite a magnificent physique.</p>
+
+         <p>There is a very significant memorandum in this last volume touching the physical effect of his experience in the hospital:</p>
+
+         <!-- from Last of the War Cases -->
+
+         <p>"W<hi rend="smallcaps">ASHINGTON</hi>, May 26, '63. It is curious: when I am present at the most appalling scenes, deaths, operations, sickening wounds (perhaps full of maggots), I keep cool and do not give out or budge, although my sympathies are very much excited; but often, hours afterward, perhaps, when I am at home or out walking alone, I feel sick and actually tremble when I recall the case before me."This gives us a glimpse of the horrors of the labor which undermined one of the superbest physical organizations.</p>
+
+         <p>Coming at Whitman from this side (through his prose) the student will get close to the author of "Leaves of Grass" and be prepared to look from the same height upon the "objectionable" passages. Appreciating his motive and catching somewhat of the same breadth of view, the reader will find no line with a downward tendency.</p>
+
+         <p>Here, again, the time has come for the correction of an error. "Leaves of Grass" is now a volume of over four hundred pages, and yet in the midst of this unparalleled grouping of great thoughts and superb images, there are not ten lines to which the ordinary reader of Shakespeare could consistently point as objectionable. This must not be forgotten. Waiving the claim that it is not "poetry," as commonly understood, and agreeing that to many people there are objectionable passages, it still appears to me unreasonable to hold a prejudice against a most remarkable outpouring of exalted passion, prophecy, landscape painting, songs of the sea and, above all, calls for deeper love for Nature and for men. I have faith to believe that the circle of readers who feel this toward Whitman is constantly growing and must continue to grow as men grow to know him.</p>
+
+         <p>The advocates of Whitman's case have demanded too much of the public; they have not taken into account as well as he has the inertia of the average mind, whose thinking is necessarily along well-worn grooves, and can be but slowly and unwillingly turned aside. We insist now on the critics taking a new stand on the matter. Whitman is no longer a mystery; he is a serene, gentle, grand old man, living in Camden, who sends us what he thinks in his final volume, desiring readers and friends amidst the democracy, which he loves so well, his faith not shaken by all the buffetings, unkindnesses and neglect which he has received. We should hasten to do him honor while he is with us. Praise too often builds monuments when it should buy bread; furnishes tombstones where it should warm houses. Royal praise for the hearing ear, I say, flowers of love for the throbbing sense of the living poet. I present my tribute, drop my bit of laurel into the still warm, firm hand of the victorious singer.</p>
+
+         <p>I copy one of the poems of the present volume, which contains nearly a score of essays:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00344" cert="absolute"/>
+                        <!-- from Of That Blithe Throat of Thine -->
+                     </relations>
+                     <head type="main-authorial">OF THAT BLITHE THROAT OF THINE.</head>
+                     <lg type="linegroup">
+                        <l>[More than eighty degrees north, Greely, the <choice><orig>ex-<lb/>plorer</orig><reg>explorer</reg></choice>, heard the sound of a single snowbird, <choice><orig>mer-<lb/>rily</orig><reg>merrily</reg></choice> sounding over the desolation.]</l>
+                        <l>Of that blithe throat of thine from Arctic bleak <lb/>and blank,</l>
+                        <l>I'll mind the lesson, solitary bird—let me, too, welcome <lb/>chilling drifts,</l>
+                        <l>E'en the profoundest chill as now—a torpid pulse, <lb/>a brain unnerved,</l>
+                        <l>Old age land-locked within its winter bay. (Cold, <lb/>cold, oh cold!)</l>
+                        <l>These snowy hairs, my feeble arm, my frozen feet,</l>
+                        <l>For them thy faith, thy rule, I take and grave it <lb/>to the last;—</l>
+                        <l>Not summer zones alone, not chants of youth, <lb/>or south's warm tides alone,</l>
+                        <l>But held by sluggish throes, packed in the <choice><orig>north-<lb/>ern</orig><reg>northern</reg></choice> ice the cumulus of years,</l>
+                        <l>These with gay heart I also sing.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The poet's optimism can rise and does rise above pain and weakness and all besetting ills with a positive sublimity of mien. May he live to enjoy the ever- growing respect of the thinking men of his day. H<hi rend="smallcaps">AMLIN</hi> G<hi rend="smallcaps">ARLAND</hi>.</p>
+
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Edmund Clarence Stedman (1833–1908) was an anthologist, poet, and Wall Street banker. He published many volumes of poems and compiled a number of anthologies, including <hi rend="italic">Poets of America</hi>, 2 vols. (Boston: Houghton Mifflin, 1885). Stedman wrote a piece titled "Walt Whitman" for the November 1880 issue of <hi rend="italic">Scribner's Monthly</hi>, in which he generally praised Whitman and gave him a long and important discussion, but referred to Whitman's attitude toward other American poets as "intolerant."  Whitman defended himself by reversing his previous commentary and writing "My Tribute to Four Poets" in <hi rend="italic">Specimen Days</hi> shortly thereafter.  See Kenneth M. Price, <hi rend="italic">Whitman and Tradition: The Poet in his Century</hi> (New Haven: Yale University Press, 1990), 80-95.
+</note>  
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

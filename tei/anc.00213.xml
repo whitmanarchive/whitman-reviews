@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00213">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Leaves of Grass</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+               <persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00213</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Leaves of Grass</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Detroit Post and Tribune</title>
+                  <imprint>
+                     <date cert="medium" type="circa" when="1882">1882–1883</date>
+                     <biblScope type="pages">[unknown]</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-03">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">LEAVES OF GRASS. <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+         <head type="sub">Walt Whitman's Poems of Nature.</head>
+
+         <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"A child said, What is the grass, fetching it to me <lb/>with full hands;</l>
+                        <l>How could I answer the child? I do not know <lb/>what it is any more than he</l>
+                        <l>—I guess it is the handkerchief of the Lord</l>
+                        <l>A scented gift and remembrancer designedly <lb/>dropt</l>
+                        <l>Bearing the owner's name some way in the <choice><orig>corn-<lb/>ers</orig><reg>corners</reg></choice> that we may remark and say Whose?</l>
+                        <l>—And now it seems to me the beautiful uncut <lb/>hair of graves."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>There never was a happier title than the one which is the caption of this paper, nor one that has attracted more attention in the American world of literature. It is the title of a book that has been challenged by the conservers of public morals as unfit to be read, and legislation has been appealed to unsuccessfully to prohibit its publication. As usual in such cases, the reaction increased the demand for the book to such an extent that several new editions have been called for and it is found on the shelves of book stores side by side with Longfellow and Tennyson, in the home and in public libraries, where the critical reader or student of verse can have access to it, and the human nature that can suffer from any undue license of the poetic imagination which Walt Whitman has transcribed on these pages must be very weak indeed and easily harmed.</p>
+	
+         <p>There is not a line of prefatory writing in Leaves of Grass, not a foot note to clear up the passages in nature which God has left obscure; the writer does not explain that the poems were a result of a few idle hours or the reveries of an invalid convalescing from an attack of mania a potu or typhoid fever; he pours out his thoughts about everything in a flood of incoherent and incohesive language, and borne on its resistless flow we find all that floods bear with them, debris, flotsam jewels—tarns of still deep beauty jewels—precious, perishing lovely things that we haste to snatch from the rubbish and make our own. His interest in humanity and his claim that all the world is kin, he expresses with natural humility:</p>
+
+         <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>These are really the thoughts of all men in all <lb/>ages and lands, they are not original with me;</l>
+                        <l>If they are not yours as much as mine they are <lb/>nothing or next to nothing;</l>
+                        <l>If they are the riddle and the untying of the <lb/>riddle, they are nothing or next to nothing;</l>
+                        <l>This is the grass that grows wherever the land is <lb/>and the water is;</l>
+                        <l>This is the common air that bathes the globe.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>Can any pen-picture of nature be finer than his apostrophe to the earth on page 76?<ref target="n1" n="1" xml:id="r1"/>
+         </p>
+
+         <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Smile O voluptuous cool-breathed earth!</l>
+                        <l>Earth of the slumbering and liquid trees!</l>
+                        <l>Earth of departed sunsets—earth of the <choice><orig>mount-<lb/>ains</orig><reg>mountains</reg></choice> misty top!</l>
+                        <l>Earth of the vitreous pour of the full moon just <lb/>tinged with blue!</l>
+                        <l>Earth of shine and dark mottling the tide of the river!</l>
+                        <l>Earth of the limpid gray of clouds brighter and <lb/>clearer for my sake!</l>
+                        <l>Far-swooping elbowed earth—rich <choice><reg>apple-blossomed</reg><orig>apple-blos- 
+                           <lb/>somed</orig></choice> earth!</l>
+                        <l>Smile, for your lover comes.</l>
+                        <l>Prodigal, you have given me love—therefore I to <lb/>you give love.</l>
+                        <l>O unspeakable passionate love!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>There seems to be no earthly property however small, insignificant and remote, that this grand poet of nature does not invest with the beauty and glory of poesy as he does when he calls the common field grass "the beautiful uncut hair of graves," a line that in itself should immortalize him; he walks among the herds of cattle and gives us this lesson:</p>
+
+         <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I think I could turn and live with animals, they <lb/>are so placid and self-contained,</l>
+                        <l>I stand and look at them long and long;</l>
+                        <l>They do not sweat and whine about their <choice><orig>condi-<lb/>tion</orig><reg>condition</reg></choice>;</l>
+                        <l>They do not lie awake in the dark and whine <lb/>about their sins;</l>
+                        <l>They do not make me sick discussing their duty <lb/>to God.</l>
+                        <l>Not one is dissatisfied, not one is demented with <lb/>the mania of owning things.</l>
+                        <l>Not one kneels to another nor to his kind that <lb/>lived thousands of years ago;</l>
+                        <l>Not one is respectable or unhappy over the <lb/>whole earth."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>The self-elected critic who said that Shakespeare was not a poet—his verses didn't rhyme—would make a similar objection to Walt Whitman. To the dull, untuned ear of the prosaic soul they would convey neither rhythm nor rhyme, but Poetry herself might sit entranced at his feet as the mellow numbers flow in tranquil rhythmic measure from his lips. Here are snatches selected at random, any one of which would be sufficient to redeem a volume from wastage:</p>
+
+         <!-- From "Faces" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00271" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>The old face of the mother of many children, <lb/>Whist! I am fully content.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Behold a woman:</l>
+                        <l>She looks out from her quaker cap, her face is <lb/>clearer and more beautiful than the sky.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>She sits in an arm-chair under the shaded porch <lb/>of the farm-house.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>The sun just shines on her old white head.</l>
+                        <l>Her ample gown is of cream-hued linen.</l>
+                        <l>Her grandsons raised the flax, and her <choice><orig>grand-<lb/>daughters</orig><reg>granddaughters</reg></choice> spun it with the distaff and the <lb/>wheel.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>The melodious character of the earth,</l>
+                        <l>The finish beyond which philosophy cannot go <lb/>and does not wish to go.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l>The justified mother of men.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "Mother and Babe" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00161" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">MOTHER AND BABE.</head>
+                        <l>I see the sleeping babe nestling the breast of <lb/>its mother,</l>
+                        <l>The sleeping mother and babe—hush'd, I study <lb/>them long.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "A Child's Amaze" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00158" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">A CHILD'S AMAZE.</head>
+                        <l>Silent and amazed, even when a little boy,</l>
+                        <l>I remember I heard the preacher every Sunday <lb/>put God in his statements</l>
+                        <l>As contending against some being or influence.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "Beautiful Women" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00160" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">BEAUTIFUL WOMEN.</head>
+                        <l>Women sit, or move to and fro—some old, <lb/>some young.</l>
+                        <l>The young are beautiful; but the old are more <lb/>beautiful than the young.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>The poet's allusions to death are among the finest passages in his works, and his songs of parting are something more than tricks of pathos; they are the outcome of sorrow's cleansing fires in his own heart. The Camps of Green is a poem engendered by war scenes.</p>
+
+         <!-- From "Camps of Green" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00301" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"To the camps of the tents of green,</l>
+                        <l>Which the days of peace kept filling, </l>
+                        <l>And the days of war kept filling.</l>
+                        <l>With a mystic army; is it too ordered</l>
+                        <l>Forward? is it too only halting awhile,</l>
+                        <l>Till night and sleep pass over?</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "Joy, Shipmate, Joy!" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00304" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">JOY, SHIPMATE, JOY!</head>
+	                       <l rend="indented1">Joy, shipmate, joy.</l>
+                        <l>Pleased to my soul at death I cry</l>
+                        <l>Our life is closed, our life begins</l>
+                        <l>The long, long anchorage we leave;</l>
+                        <l>The ship is clear at last she leaps,</l>
+                        <l>She swiftly courses from the shore</l>
+	                       <l rend="indented1">Joy, shipmate, joy.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>The exquisitely mournful tribute to the memory of President Lincoln is familiar [to] the reader but it will bear producing here.</p>
+
+         <!-- From "O Captain My Captain!" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00218" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">O CAPTAIN, MY CAPTAIN!</head>
+                        <l>O Captain, my Captain! our fearful trip is done</l>
+                        <l>The ship has weathered every rack, the prize we <lb/>sought is won</l>
+                        <l>The port is near, the bells I hear, the people all <lb/>exulting,</l>
+                        <l>While follow eyes the steady keel, the vessel <lb/>grim and daring;</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">But O heart! heart! heart!</l>
+		                      <l rend="indented2">O the bleeding drops of red,</l>
+	                       <l rend="indented1">Where on the deck my Captain lies</l>
+		                      <l rend="indented2">Fallen cold and dead.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>O Captain, my Captain, rise up and hear the bells.</l>
+                        <l>Rise up—for you the flag is flung—for you the <lb/>bugle trills,</l>
+                        <l>For you bouquets and ribbon'd wreaths—for you <lb/>the shore a crowding,</l>
+                        <l>For you they call, the swaying mass, their eager <lb/>faces turning.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Here Captain, dear father</l>
+		                      <l rend="indented2">This arm beneath your head</l>
+	                       <l rend="indented1">Is it some dream that on the deck</l>
+		                      <l rend="indented2">You've fallen cold and dead?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>My Captain does not answer, his lips are pale <lb/>and still</l>
+                        <l>My father does not feel my arm, he has no pulse <lb/>nor will</l>
+                        <l>The ship is anchored safe and sound, its voyage <lb/>closed and done</l>
+                        <l>From fearful trip the victor ship comes in with <lb/>object won.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Exult O shores, and ring O bells,</l>
+		                      <l rend="indented2">But I with mournful tread</l>
+	                       <l rend="indented1">Walk the deck my Captain lies,</l>
+		                      <l rend="indented2">Fallen cold and dead.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>To analyze a flower is to kill it; the same might be said of the majority of even fine poems, but there are some that dissected fall into pictures and the above is one of these; the two lines</p>
+
+         <!-- From "O Captain My Captain!" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00218" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Here, captain, dear father,</l>
+                        <l>This arm beneath your head"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>have the heroism of a soldier and the tenderness of a woman in them, while they instantly convey to the mind a picture, alas! too common to excite alarm or wonder, but inexpressively touching. It has been Walt Whitman's destiny to commemorate in verse the deaths of two captains of the ship of state, but to him the first was a personal loss. Of the last, midnight, September 19, he writes of</p>
+
+         <!-- From "The Sobbing of the Bells" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00302" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>The sobbing of the bells—</l>
+                        <l>—Those heart-beats of a nation in the night</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>Emerson appears to have accepted the poet, if we may believe the assertion of an unknown writer that he approved of Leaves of Grass. It would need one of Emersonian breadth to appreciate the vigor, the intensity, the strong balancing of all mental and physical forces in this redundancy of verse. The book is full of such salt-sea breezes of expression as these:</p>
+
+         <!-- From "A Song of Joys" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00115" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+	                       <l rend="indented1">O the joy of a manly selfhood!</l>
+                        <l>To be servile to none to defer to none, not to any <lb/>tyrant known or unknown;</l>
+                        <l>To walk with erect carriage, a step springy <lb/>and elastic;</l>
+                        <l>To look with calm gaze or with a flashing eye;</l>
+                        <l>To speak with a full and sonorous voice out of a <lb/>broad chest;</l>
+                        <l>To confront with your personality all the other <lb/>personalities of the earth."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>That verse or sentence alone could be profitably engraved upon the pages of every school reader in the land, yet doubtless there are hypercritical readers who would cavil at the second line and find in it a furtive attack on all the known systems of theology.</p>
+	
+         <p>And is there nothing in the book to condemn? Yes, there are whole pages of "magnificent uncleanness"<ref target="n2" n="2" xml:id="r2"/> which have no excuse for being. They are gross with the grossness of the 18th century, when people do not call a spade a spade, and are shocked by ungloved hands. In reference to the position which a part of the public has taken towards the book we are reminded of the answer Henry Ward Beecher gave to a gentleman who at an exhibition of statuary asked, "Are those statues indecent, Mr. Beecher?"</p>
+	
+         <p>"No, sir," was the severe answer, "but your question is."</p>
+	
+         <p>The poet is an old man now, the fires of youth have burned themselves to ashes, yet when he was called upon to revise the present edition of his work he would not alter or omit a line of his earlier writings. The calm pulse of age approved the turbulent blood of his youth when he wrote of himself:</p>
+
+         <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Walt Whitman, a Kosmos, of Manhattan the <lb/>son</l>
+                        <l>Turbulent, fleshly, sensual, eating, drinking and <lb/>breeding</l>
+                        <l>No sentimentalist, no stander above men and <lb/>women, or apart from them,</l>
+                        <l>No more modest or immodest.</l>
+                        <l>A morning glory at my window satisfies me more <lb/>than the metaphysics of books."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And this man in his old age is beloved of women and children, and the childlike tenderness and simplicity of his nature are revealed in the following incident:</p>
+
+         <p>"In the middle of the room in its white coffin, lay the dead child, the nephew of the poet. Near it in a great chair, sat Walt Whitman surrounded by little ones, and holding a beautiful little girl on his lap. She looked wonderingly at the spectacle of death and then inquiringly into the old man's face. "You don't know what it is, do you, my dear," said he, and added, "we don't either." </p>      
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">This is actually on p. 46.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">Richard Bentley, <hi rend="italic">Cometh Up as a Flower: An Autobiography</hi> (New Burlington Street, 1867), 40.</note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

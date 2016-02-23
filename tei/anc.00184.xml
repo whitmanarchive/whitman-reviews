@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00184">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00184</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Southern Field and Fireside</title>
+                  <imprint>
+                     <date when="1860-06-09">9 June 1860</date>
+                     <biblScope type="pages">20</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-19">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">A NEW AMERICAN POEM. <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+
+         <p>It has been a favorite subject of complaint with English critics and reviewers, in treating of American Civilization, that in this country we have produced as yet no peculiar, distinctive literature of our own, and that all our efforts in polite letters have been but feeble imitations of English originals, lunar reflections, as it were, of that intellectual sun which, we are told, still rises for us over the Atlantic. Thus, they allege, we refer to Cooper as "The American Scott," Emerson is Carlyle and water (and very muddy water, in the present writer's humble judgment), the <hi rend="italic">North American Review</hi> is a poor copy of the <hi rend="italic">Edinburgh</hi>, and so forth. But especially do they reproach us with a lack of originality in the poetical form of composition. There is fancy and sweetness and music, they admit, in our poets, but we can point to no one great poem on which is stamped the impression of a new and mighty continent, which is fragrant with the fresh odours of the unpruned-forest, whose rhythm, mighty in its movement as the wind rushing over the limitless prairie, bears the reader along unresistingly—a poem, in short, full of the energy, the passion, the <hi rend="italic">vim</hi> of large-veined, stout-breasted, hopeful, wide-awake, go-ahead Young America. But the reproach can be made no longer. We have an American poem. Several of them. Yes, sir. Also a great original representative mind. 'The hour and the man' have arrived, the man who knows what's o'clock and always comes up to time. The name of this wonderful poet is Walt Whitman, and his verdant volume of verse is called "Leaves of Grass."</p>
+
+         <p>Perhaps we are wrong in referring to these "leaves" as verse. We used that term for want of a better one, and having in mind the definition of the master in the <hi rend="italic">Bourgeois Gentilhomme</hi>—<hi rend="italic">Tout-ce qui n'est point prose est vers, et tout-ce qui n'est point vers est prose</hi>.<ref target="n1" n="1" xml:id="r1"/>  Worthy Monsieur Jourdain was astonished, as Moliére makes him confess, to discover that he had been speaking prose all his life without knowing it, but the master would have experienced a much greater degree of amazement, could he have seen his theory demolished by a poem like any one of these by Walt Whitman. Here is something which is neither prose nor verse, which writes itself out in long or short sentences, as the case may be, disdaining the shackles of rhyme or measure, and sounding to the ear alternately like the click of the instrument in the Telegraph office, the roar of Buttermilk Falls<ref target="n2" n="2" xml:id="r2"/>, the eloquence of the Razor-Strop man, the buzz of a wheat-machine, the braying of an ass, the cries of 'the boys' running to a big fire with No 40, the animated evening conversation in a Lager Bier Saloon, and a campaign speech in the House of Representatives.</p>
+
+         <p>Mr. Walt Whitman is to us, however, no "new Nebuchadnezzar,"<ref target="n3" n="3" xml:id="r3"/> nor has the "Leaves of Grass" been brought to our notice now for the first time. Five years ago we recollect to have seen the first edition of it, and to have made up our mind that if it did not proceed from a lunatic, it was designed as a solemn hoax upon the public. The extravagance of the style, the beastliness of the sentiments, the blatant blasphemy of the whole performance, its profanation of every tender and holy impulse, its frequent indecency of language, all suggested Bedlam. The bizarre appearance of the book also indicated a crazy origin. The page, about half the size of our own, was printed in type as large as that of a playbill, the presswork seemed to have been done with a sledgehammer, and the frontispiece was adorned with a full length portrait, in the finest steel engraving, of Walt Whitman, in which, without other garment than shirt and pantaloons, his sleeves rolled up and arms akimbo, he appeared to be doing his best to look like a rowdy and a vagabond, and with greater success, it must be admitted, than ordinarily falls to poor human endeavor.</p>
+
+         <p>After the lapse of a lustrum, not so long a time as was recommended by the Latin critic for keeping a poem before publication, the profane bestial rigmarole is again brought before the public, enlarged, altered and rendered, if possible, more disgusting and abominable than in its pristine shape. If the present edition had excited no more comment than the first, we should not have taken the trouble to refer to it. But it has been widely noticed and even applauded, an immense amount of advertising has been expended upon it by the publishers, and there is danger that it may find its way into respectable bookstores and even pure households, by reason of the attention it has received. To save the latter from moral contamination and the necessity of using disinfectants, we feel bound to say so much by way of caution as will enable them to learn the true character of the volume. Not that we would pollute our columns with quoting any of its vilest passages. It will suffice, we hope, to say that Walt Whitman glories in materialism of the most degraded kind, that the animal passions call forth his loftiest admiration, and that man as a brute, in his earthly relation to the beasts that perish, not in his kinship to immortal beings, is the object of that faculty which in the Walt Whitman organization takes the place of reverence. Not only is he without the means of discriminating between the pure and the impure, but the Chevalier Bayard<ref target="n4" n="4" xml:id="r4"/> is no more to him than a chicken cock, Tennyson is no higher in the scale of created things than a tadpole, and he can perceive no difference between Bacon and a Berkshire pig.</p>
+
+         <p>And yet all this is mixed up with constant references to the soul, of which he assumes to be an interpreter. Hear what he says of himself—</p>
+
+
+         <!-- "Proto-Leaf" (later "STARTING FROM PAUMANOK"), Leaves of Grass 1860-61 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>—No dainty dolce affettuoso I;</l>
+                        <l>Bearded, sunburnt, gray-necked, forbidding I have <choice><orig>ar-<lb/>rived</orig><reg>arrived</reg></choice>.</l>
+
+                        <l>∗∗∗∗∗∗</l>	
+
+                        <l>I pass death with the dying, and birth with the <choice><reg>new-washed</reg><orig>new- 
+                           <lb/>washed</orig></choice> babe, and am not contained between my <lb/>hat and my boots.</l>
+                        <l>I exist as I am—that is enough,</l>
+                        <l>If no other in the world be aware, I sit content,</l>
+                        <l>And if each and all be aware, I sit content.</l>
+                        <l>I am the poet of the body</l>
+                        <l>And I am the poet of the soul.</l>
+                        <l>The pleasures of heaven are with me, and the pains of <lb/>hell are with me.</l>
+                        <l>The first I graft and increase upon myself-the latter I <lb/>translate into a new tongue.</l>
+                        <l>I know perfectly well my own egotism.</l>
+                        <l>I am an acme of things accomplished and I am an en- <lb/>closer of things to be.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>A clever parodist, in the <hi rend="italic">New York Albion</hi>, thus imitates Walt Whitman in lines which he will find it difficult to tell from his own.</p>
+
+         <q who="anonymous" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>I tell you the truth. Salut!</l>
+                        <l>I am not to be bluff'd off. No, Sir.</l>
+                        <l>I am large, hairy, sprawling, big in the shoulders, <lb/>narrow in the flank, strong in the knees, and <lb/>of an inquiring and communicative <choice><orig>disposi-<lb/>tion</orig><reg>disposition</reg></choice>.</l>
+                        <l>Also instructive in my propensities, given to <choice><orig>con-<lb/>templation</orig><reg>contemplation</reg></choice>, and able to lift anything that is <lb/>not too heavy.</l>
+                        <l>Listen to me, and I will do you good.</l>
+                        <l>Loafe with me, and I will do you better.</l>
+                        <l>And if any man dares to make fun of me, I shall be <lb/>after him with a particularly sharp stick.</l>
+                        <l>Vale!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The following from "Leaves of Grass" has been cited by a very competent critic as a fine specimen of "power, pathos and music." It is a funeral piece—</p>
+
+         <!-- From the poem "Burial" (later: "To Think of Time"), Leaves of Grass 1860-61 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Cold dash of waves at the ferry-wharf-posh and ice <lb/>in the river, half-frozen mud in the streets, a gray <lb/>discouraged sky overhead, the short last daylight of <lb/>Twelfth Month,</l>
+                        <l>A hearse and stages—other vehicles give place—the <choice><orig>fu-<lb/>neral</orig><reg>funeral</reg></choice> of an old Broadway stage-driver, the cortege <lb/>mostly drivers.</l>
+                        <l>Steady the trot to the cemetery, duly rattles the <choice><orig>death-<lb/>bell</orig><reg>deathbell</reg></choice>, the gate is passed, the new-dug grave is halted <lb/>at, the living alight, the hearse uncloses,</l>
+                        <l>The coffin is passed out, lowered and settled, the whip <lb/>is laid on the coffin, the earth is swiftly shovelled <lb/>in,</l>
+                        <l>The mound above is flatted with the spades—silence,</l>
+                        <l>A minute, no one moves or speaks—it is done,</l>
+                        <l>He is decently put away—is there anything more?</l>
+                        <l>He was a good fellow, free-mouthed, quick-tempered, <lb/>not bad-looking, able to take his own part, witty, <lb/>sensitive to a slight, ready with life or death for a <lb/>friend, fond of women, gambled, ate hearty, drank <lb/>hearty, had known what it was to be flush, grew <lb/>low-spirited toward the last, sickened, was helped <lb/>by a contribution, died, aged forty-one years—and <lb/>that was his funeral.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>We very frankly confess ourselves unable to recognize the force, the feeling, or the melody of the passage. The last line or strophe or stanza, or whatever it may be, is a good portraiture, but we like this from the <hi rend="italic">Albion</hi> much better—</p>
+
+         <q who="anonymous" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>Once I knew a man.</l>
+                        <l>Not that man.</l>
+                        <l>But another man.</l>
+                        <l>A man I once knew. He was great, 'was glorious, <lb/>nev'r washed his hair, n'r combed his face,— <lb/>'mean combed face n'r washed hair; had big <lb/>han's—dirty—'n big feet-dirty, —red 'n freckled, <lb/>'cause did n't wear hat, n'r coat, n'r shoes, but <lb/>went bear headed 'n bare footed, 'n shirt 'n pants <lb/>like free 'n in-in-in-'pen't cita'n these 'nited <lb/>States.</l>
+                        <l>'Swear he was glorious.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>This is no bad picture in words of the steel engraving of Walt Whitman himself, in the first edition of "Leaves of Grass."</p>
+
+         <p>In dismissing the consideration of this new American poem, let us say that we think we can discern the reason why it has been raked up from its long sleep among the buried corruptions of the past. Walt Whitman is the poet of prizefighters, the minstrel of muscle; his is the song of sinews, the burthen of brawn, and he thinks naturally enough that the age and generation which could delight in the Mill of the Champions,<ref target="n5" n="5" xml:id="r5"/>  must applaud the apotheosis of brute strength. Among the Heenan-ities<ref target="n6" n="6" xml:id="r6"/> of the day, his verse may find admirers, but with all the votaries of a pure literature, he must be greeted with a "<hi rend="italic">Procul, procul este profani!</hi>"<ref target="n7" n="7" xml:id="r7"/>
+         </p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">"All that is not prose is verse, and all that is not verse is prose," a line from <hi rend="italic">Le Bourgeois Gentilhomme</hi> (1670), a play by French playwright Moliére (1622–1673).</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">At least four Buttermilk Falls exist in New York—one in Buttermilk Glen, in Ithaca, one in LeRoy near Rochester, one in the Catskills, and one near Long Lake in the Adirondack State Park. A razor strop is used to sharpen barber shop razors.</note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="3">Whitman is called "the New Nebuchadnezzar" in a list of Henry Clapp's bon mots in the <hi rend="italic">New-York Saturday Press</hi>, May 26, 1860, p. 2.</note>
+
+               <note type="editorial" target="r4" xml:id="n4" n="4">Pierre du Terrail, seigneur de Bayard (c. 1474–1524) was a French military hero (often called the knight without fear or blame). He fought bravely throughout the Italian wars. He is credited with saving central France from invasion through his defense of Mézières (1521).</note>
+
+               <note type="editorial" target="r5" xml:id="n5" n="5">"Mill" in this context might be a term for a free-for-all or melee, and Heenan was a boxing champion in the U.S. He had lost to John Morrissey in 1858, but was generally accepted as the new U.S. champion after the retirement of Morrissey, and was endorsed by Morrissey. On 16 April 1860, in Farnborough, England, Heenan fought Tom Sayers, the British Champion, in the "World Championship."</note>
+
+               <note type="editorial" target="r6" xml:id="n6" n="6">This seems to be a pun suggesting at once inanities and "Heenanities," with the latter being a reference to the championship boxer John Carmel Heenan. The allusion is topical since Heenan had married Adah Isaacs Menken, an infamous actress associated with a bohemian crowd including Walt Whitman. She married Heenan in September 1859; it became public knowledge in January 1860. In February 1860 Alexander Menken revealed that he had never divorced Adah and she was publicly reviled. Adah published a number of poems in the <hi rend="italic">Sunday Mercury</hi>, including "The Autograph on the Soul" in April 1860. According to Allen Lesser "The Autograph on the Soul" is Menken's first free-verse poem and shows Whitman's influence [<hi rend="italic">Enchanting Rebel</hi> (New York: The Beechhurst Press, 1947), 65.]</note>
+
+               <note type="editorial" target="r7" xml:id="n7" n="7">Be off, be gone, you uninitiated! A misquotation of line 258, Book VI of Virgil's <hi rend="italic">Aeneid</hi>, "procul, o procul este, profane."</note>
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00077">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="rivulets">Songs Oversea</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Two Rivulets</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>J. H. McCarthy</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00077</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="McCarthy, J. H.">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>J. H. McCarthy</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Songs Oversea</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Examiner</title>
+                  <imprint>
+                     <date when="1876-10-21">21 October 1876</date>
+                     <biblScope type="volume">3586</biblScope>
+                     <biblScope type="pages">1191-3</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-06">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">SONGS OVERSEA.<!-- [Review of Two Rivulets] --></head>
+         
+            <ab>
+               
+                   
+                     <hi rend="italic">Two Rivulets</hi>
+                   
+                  By Walt Whitman. 
+Author's Edition.
+ 
+                      Camden, New Jersey, U.S.A. 
+                   
+               
+            </ab>
+         
+
+         <p>It is now many years since the peace and placidity of the Republic of Letters, beginning to be shaken a little here at home by new songs of new singers, was first disturbed by the announcement of the advent of a great new poet on the other side of the Atlantic, a poet who, according to the expressions of the little band—small indeed but rapidly waxing—was to answer to the desire of one of Longfellow's prose-characters, and be the Bard of America with a song appropriate to the vastness of the subject. The poet's name was Walt Whitman, and by this magic name his faithful followers conjured until they got people to read these poems they loved so much. Then, indeed, the storm broke on the heads of the devoted adherents. The form of his song was not that to which so many centuries of European civilisation had been accustomed, therefore it was wholly unmusical, discordant, monstrous, horrible, and shapeless. But this was not all. Behind chaos came hell. The giant who broke light-hearted through the meshes of sonnet and sextain and rondel, who would have laughed with hearty Titanic laughter had he but known of them, at the quaint conceits and recipes of good Master George Puttenham<ref target="n1" xml:id="r1" n="1"/> for proportion poeticall, in staffe and in measure, and who recked not of lozenge or Tricquet, Pillaster, spire, sphere, or ovall, was discovered daring to speak of the body to a goodly and God-fearing generation, and for this Homeric simplicity was held as one of the company of the Arbiter or the Aretine. But, if many opposed him, many were of his party, and the most opposite and opposed schools of poetry agreed on this one point—admiration of the new master. But whether praised or blamed, Walt Whitman, with Carlyle's Danton, walked his own wild road whither it led him. But it has led him from the <hi rend="italic">Pays de l'amour</hi>, and from passion of any sort, as it has led one of our own sweet chief poets, who once sang love and was cried at for singing, into the fierce arena of political struggle. In "The Two Rivulets" will be found no stream, no little runlet, that has passed through the Eden-garden of the children of Adam, nor are the waters ruffled by any wind-blown echo of Calamus, nor does the amorous animal—man—roll on and trample down the grass-leaves. Walt Whitman's new volume consists of "Two Rivulets,"</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00495" cert="absolute"/>
+                        <!-- Two Rivulets epigraph -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>For the <choice><sic>eternal</sic><corr>Eternal</corr></choice> 
+                           <choice><sic>ocean</sic><corr>Ocean</corr></choice> bound<choice><sic></sic><corr>,</corr></choice>
+                        </l>
+                        <l>These ripples, passing surges, streams of <choice><sic>death</sic><corr>Death</corr></choice> and <choice><sic>life</sic><corr>Life</corr></choice><choice><sic>,</sic><corr>.</corr></choice>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>twin channels of poetry and prose; the already familiar "Democratic Vistas," "Centennial Songs," "As a Strong Bird on Pinions free," "Memoranda during War," and "Passage to India." There is no need to revive here, even in slightest measure, any part of the old quarrel as to the ex-act designation suitable for such of the works of Walt Whitman as their author considers to be fitly baptised as poems. The power of the singer may be seen still vigorous in the poems "Eidolons" and "To a Locomotive in Winter;" the latter wonderful in its investiture of the mechanical monster with the parament of poetry and poetic thought, perhaps not wholly to be understood or appreciated except by those who have been in America; who have with it, in the "driving snow" of "a winter day declining," been</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00273" cert="absolute"/>
+                        <!-- from To a Locomotive in Winter -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic>Launched</sic><corr>Launch'd</corr></choice> o'er the prairies wide—across the lakes</l>
+                        <l>To the free skies, unpent<choice><sic></sic><corr>,</corr></choice> and glad<choice><sic></sic><corr>,</corr></choice> and strong.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Here, too, in the "After the Sea-ship," as in "The Song of All Seas," which concludes the series of Centennial Songs, is found evidence of the writer's strong love and feeling for the sea and for its children, the rivers and lakes, which are found at their mightiest on the American continent. And this strong love for the sea he feels for all Nature. Truly Mr. Symonds says of him in 'The Greek Poets,' "Hopeful and fearless, accepting the world as he finds it, recognising the value of each human impulse, shirking no obligation, self-regulated by a law of perfect health, he, in the midst of a chaotic age, emerges clear and distinct, at one with nature, and therefore Greek." It was this admiration, this passionate worship of Nature, which led to much denunciation of the worshipper; it is this which still inspires and informs his work. But the present volume is distinctly a political, a historical, or, perhaps more correctly still, a prophetic book, and it deals with and treats of the mighty future of America. Walt Whitman has been often, and with justice, compared to the painter—poet—prophet William Blake; like him he has not, it may be, obtained the recognition due to him; in this at least he suffers more than Blake, that he is better known in the land of the stranger than at home. Americans question his right to be the typical singer of America. Yet Walt Whitman has merits that no American prose-writer or poet ever yet had, with virtues and strength sufficient for claiming laureateship of the great American nation. Nothing in its way could be more splendidly dramatic and grandly descriptive than the account of the assassination of President Lincoln, one of the greatest and noblest of the central figures of modern political evolution. Space will not permit of its complete quotation from the Memoranda of the War, "these soiled and creas'd little livraisons, each composed of a sheet or two of paper, folded small to carry in the pocket, and fasten'd with a pin… blotched here and there with more than one blood stain," which are amongst the most precious of Whitman's possessions—amongst the most precious of his gifts.</p>
+
+         <p>After relating how it was announced that Lincoln would be at the theatre on the night of April 14, 1865, and describing the contrast of the fearful tragedy about to be performed with the nature of the performance—<hi rend="italic">Our American Cousin</hi>—at which Lincoln, who enjoyed theatrical performances, was present, he proceeds:—</p>
+
+         <!-- from Memoranda During the War -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00502" cert="absolute"/>
+                     </relations>
+                     <p>Through the general hum following the stage pause, with the change of positions, etc., came the muffled sound of a pistol shot which not one hundredth part of the audience heard at the time—and yet a moment's hush—somehow, surely a vague startled thrill—and then, through the ornamented, draperied, starr'd and striped space-way of the President's box, a sudden figure, a man, raises himself with hands and feet, stands a moment on the railing, leaps below to the stage (a distance of perhaps fourteen or fifteen feet), falls out of position, catching his boot-heel in the copious drapery (the American flag), falls on one knee, quickly recovers himself, rises as if nothing had happen'd (he really sprains his ankle, but unfelt then), and so the figure, Booth, the murderer, dress'd in plain black broadcloth, bareheaded, with a full head of glossy raven hair, and his eyes like some mad animal flashing with light and resolution, yet with a certain strange calmness, holds aloft in one hand a large knife—walks along not much back from the footlights, turns fully towards the audience his face of statuesque beauty, lit by those basilisk eyes, flashing with desperation, perhaps insanity—launches out in a firm and steady voice the words, <hi rend="italic">Sic semper tyrannis</hi>
+                        <ref target="n2" xml:id="r2" n="2"/>—and then walks with neither slow nor very rapid pace diagonally across to the back of the stage, and disappears…(Had not all this terrible scene—making the mimic ones preposterous—had it not all been rehears'd in blank, by Booth, beforehand?)</p>
+
+                     <p>A moment's hush, incredulous—a scream—the cry of <hi rend="italic">murder</hi>. Mrs. Lincoln leaning out of the box, with ashy cheeks and lips, with involuntary cry, pointing to the retreating figure, <hi rend="italic">He has killed the President</hi>… And still a moment's strange, incredulous suspense—and then the deluge!—then that mixture of horror, noises, uncertainty—the sound, somewhere back, of a horse's hoofs clattering with speed—the people burst through chairs and railings, and break them up—that noise adds to the queerness of the scene—there is inextricable confusion and terror—women faint—quite feeble persons fall and are trampled on—many cries of agony are heard—the broad stage suddenly fills to suffocation with a dense and motley crowd, like some horrible carnival—the audience rush generally upon it, at least the strong men do—the actors and actresses are all there in their play costumes and painted faces, with mortal fright showing through the rouge; some trembling, some in tears—the screams and calls, confused talk—redoubled, trebled—two or three manage to pass up water from the stage to the President's box—others try to clamber up, etc., etc., etc.</p>
+
+                     <p>In the midst of all this, the soldiers of the President's Guard, with others, suddenly drawn to the scene, burst in (some two hundred altogether)—they storm the house, through all the tiers, especially the upper ones, inflamed with fury, literally charging the audience with fixed bayonets, muskets and pistols, shouting "<hi rend="italic">Clear out! clear out! you sons of———.</hi>" Such the wild scene, or a suggestion of it rather, inside the play-house that night.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p> . .  . .  . . .</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00502" cert="absolute"/>
+                        <!-- from Memoranda During the War -->
+                     </relations>
+                     <p>And in the midst of that night-pandemonium of senseless hate, infuriated soldiers, the audience and the crowd—the stage and all its actors and actresses, its paint-pots, spangles, and gas lights—the life-blood from those veins, the best and sweetest of the land, drips slowly down, and death's ooze already begins its little bubbles on the lips…. Such, hurriedly sketched, were the accompaniments of the death of President Lincoln. So suddenly, and in murder and horrors unsurpassed, he was taken from us. But his death was painless.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+ 
+
+         <p>Such descriptive power as this would of right entitle Walt Whitman to place and name among the sons of men; and it is this, and such as this, which make the faults that must undoubtedly be admitted—among others, and perhaps most flagrant, the idle and unnecessary dislike of the poet to "old romance," to "novels, plots, and plays of foreign courts," and worst of all to "love-verses sugar'd in rhyme"—seem comparatively unimportant. Could he apply this power to the whole as to this one chapter, Walt Whitman might abandon all other titles for that of America's first historian.</p> 
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+George Puttenham (1520-1590) was an English courtier and the presumed author of an important critical work of the Elizabethan age, <hi rend="italic">The Arte of English Poesie</hi> (1589).
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+                  <hi rend="italic">Sic Semper tyrannis</hi> is a Latin phrase meaning "Thus always to tyrants" or "Thus ever [it be] with tyrants."
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

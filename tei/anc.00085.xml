@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00085">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00085</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Philadelphia Times</title>
+                  <imprint>
+                     <date when="1881-12-03">3 December 1881</date>
+                     <biblScope type="pages">6</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-13">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>, complete at last, thanks to the patience and pluck of James R.Osgood &amp; Co., the Boston publishers, speaks to the world by his new book, just issued in such shape and under such auspices as will win the world's wider attention. The book is running over with the writer's own personality and the two must be treated as one. Walt and his work are older, whiter, more mature; not wiser, but quieter; the mad turbulence hushed a little and some pruning done; yet the same sight, undimmed, immortal; Leaves of Grass, still green and vital as ever, but now growing close about many a solid rock of fame; the man and his work, among the oddest, if not the most beautiful, things of the present century.</p>
+
+         <q who="unknown">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>I, the Titan, the hard-mouthed mechanic, spending my <lb/>life in the hurling of words.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In an age of short hair, and cropped beards, and close-fitting contained "pants," and neck wear, a man that persists in letting his hair and beard grow long, wears loose clothing, low-necked shirts and no collar or hatter at all, out-Byrons Byron, and if he can do all this, as Whitman does, and still maintain his self-respect, and not get hooted at on every street corner, that is, keep on his own way without fastening upon himself the obloquy of a quack and charlatan, it argues pretty strongly that there is unusual stuff in the animal somewhere. And the man who can name three hundred little songs and songlets, and somehow permeate each name with instinctive life that laughs at commonplace and each name an original fixed streak of genius in its way, not only not dull, but vividly descriptive, suggestive, is something out of the ordinary ranks of hacks in all lines. As to the poems, Emerson long ago said they were poetry; Tennyson, Swinburne, not to speak of vapid critics at home or abroad, affirm that Walt has written poetry. What is there left to be said? Much every day were there room to say it. Short and clear let the words be. It would be easy to pick a thousand lines from Whitman's three hundred and eighty-two pages that fairly breathe and bristle with power, that sparkle and flash with beauty, that are as unique in modern poetry as the brightest aurora that has filled the north skies for a generation and as rare as the few gem-like days of June. Now and then there are eclipses; sunlight and stars all gone out of the man and his word; but nature swings back to him, lo to it, and there is light again when the orbit is bound and nature attuned. It is life, seen and recorded. Never mind the egotism. That must come in somehow in all work. To jot it down more definitely, Whitman has eyes, looks into things, not at them. No long or steady gaze, no masterful comprehension of the great laws of the facts, but the facts he sees; furthermore, has the ability to report the fact as he sees it, as it is; yet further, to saturate all facts so seen and recorded with the momentary intense splendor of his own being. Name the being? The grade of it? Well, not Homeric; that was warlike, heroic, grand. Read the lines of Whitman's face and of his poetry: nothing of the Homeric or heroic is there. Not Shakespearean; that is art incarnate. Whitman is not an artist; not Virgilic or Dantic—that is culture and morality and sentiment and piety of a kind. Whitman has none of these. Not Emersonian or Tennysonian—that is scholarly—Whitman is the farthest removed from all that. What then? We answer, that what these all were to the distinctive spirit of their generations, though in utter contrast with them, Whitman is to the characteristic spirit of this generation—gigantic, rude, loud, prosy, mechanic, conceited. Whirling, unsettled, abounding in vitality, extent and power. In this light read Whitman's book, and lines fine, in their way, as any in Homer or Shakespeare shall flash on your soul, if you have a soul, and pleasure rich and rare as the lover finds in love, the poet in nature, and the banker in his margins shall press and pierce you almost to pain.</p>
+
+      </body>
+   </text>
+</TEI>

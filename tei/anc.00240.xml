@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00240">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="days">Walt Whitman's New Volume</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Specimen Days and Collect</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00240</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman's New Volume</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York World</title>
+                  <imprint>
+                     <date when="1882-10-30">30 October 1882</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-09-27">copied and encoded from original</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN'S NEW VOLUME.</head>
+         <!-- <head type="sub">[Review of Specimen Days and Collect]</head> -->
+
+            
+            <ab><hi rend="italic">Specimen Days and Collect</hi>
+              By W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>, author of "Leaves of Grass." 
+ <hi rend="italic">Specimen Days and Collect</hi> 
+                 
+                      Philadelphia:  
+                      Ress, Welsh &amp; Co.  
+                      New York:  
+                      R. Worthington.  
+                      12mo. cloth.  
+                      pp. 374. 
+                   
+               
+            </ab>
+         
+
+         <p>So painfully impressed it Mr. Whitman with the idea that every deed and experience of a man's life, nay, every sight and sound and touch and taste and smell, should be recorded that it is strange he has not sooner written his autobiography.  For, although it is not easy to assert with confidence precisely what Mr. Whitman means in a poem or an essay or a volume, it is impossible to escape the conclusion that he means this volume of avowed prose to be his autobiography.  He begins it with a memorandum ("mem.," as he is fond of neglecting to write it) made "Down in the Woods July 2, 1882," in which he says: "If I do it at all I must delay no longer."  "It" presumably means to leave to a curious posterity a record of Himself and incidentally also of America—these States—Democracy—Long Island—ferry-boats, plains and the multitudinous oceanic eligibilities of this wondrous All.  This purpose is more definitely explained in another sentence of this "mem.," if by courtesy it may be called a sentence, which will serve both as an index and as a specimen:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1>
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>Incongruous and full of skips and jumps as is the huddle of diary jottings, war memoranda of 1862–65, nature notes of 1877–81, with Western and Canadian observations afterwards, all bundled up and tied by a big string, the resolution and indeed mandate comes to me this day, this hour—(and what a day! what an hour just passing! the luxury of riant gloss and blowing breeze with all the shows of sun and sky and perfect temperature never before so filling me body and soul)—to go home, untie the bundle, reel out diary scraps and memoranda just as they are, large or small, one after another, into print-pages, and let the melange's lackings and wants of connection take care of themselves.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>"Maybe, if I don't do anything else," he says, and he might have omitted the doubting and conditional phrases, "I shall send out the most wayward, spontaneous, fragmentary book ever printed ∗ ∗ ∗ without any definite purpose that can be told in a statement."  Following this introduction is a slovenly sketch of his life.  In a semi-Biblical fashion he writes out the genealogy of the Whitmans and of the Van Velsors (his mother's family), both of which for several generations lived on Long Island.  "Out from these arrieres of persons and scenes, I was born May 31, 1819. ∗ ∗ ∗ The successive growth-stages of my infancy, childhood, youth and manhood were all pass'd on Long Island, which I sometimes feel as if I had incorporated."  He spent these years "absorbing fields, shores, marine incidents, characters, the bay-men, farmers, pilots—always had a plentiful acquaintance with the latter and with fishermen—went every summer on sailing trips—always liked the bare sea-beach, south side, and have some of my happiest hours on it to this day."  His father, who was a carpenter, moved to Brooklyn and the boy was employed for a time in a lawyer's office.  "Clarke's, Fulton street, near Orange."  Afterwards he became a printer and did work for several newspapers.  In 1849 he worked his way to New Orleans and was employed first as a printer and later for a short time as editor of the <hi rend="italic">Crescent</hi>.  He was once editor of the Brooklyn <hi rend="italic">Eagle</hi>, but "the trouble in the Democratic party broke forth about those times (1848–49) and I split off with the Radicals, which led to rows with the boss and 'the party,' and I lost my place."  During these years of life as a journalist in Brooklyn and New York (for he did not remain long in New Orleans) he developed his passion for ferries.  "Indeed I have always had a passion for ferries; to me they afford inimitable, streaming, never-failing, living poems."  He had a passion also for omnibus drivers.  He fills half a page with the names of the drivers whom he remembers and tells of his delight in declaiming Homer (Pope's Homer!) and Shakespeare from the top of a stage while he was going up Broadway.  "The influence of those Broadway omnibus jaunts and drivers and declamations and escapades undoubtedly enter'd into the gestation of 'Leaves of Grass.'"  Soon after the war began he went to Washington and remained in the hospitals there and in Virginia until the war ended.  Then he secured a subordinate appointment in the Government service and filled it for several years.  Stricken with paralysis, he retired to Camden, N.J., where he has since resided.  He has visited Boston and the principal cities in Canada and in the West.  While in the West he wrote for the <hi rend="italic">Jimplecute</hi>.  Extracts from his war diary and from his notes taken "down in the woods" in New Jersey and during his journey through Canada and the West make up the "Specimen Days."  The "Collect" consists of his essay on America—these States—Democracy—&amp;c., &amp;c., &amp;c. (to quote his own favorite phrase), and critical essays on Carlyle, Emerson, Lincoln and other men and on literary subjects, the most of which have before been printed in the periodicals.  An appendix contains a few early tales and poems.</p>
+
+         <p>The hospital notes are printed in the slovenly shape in which they were written in his diary.  Scenes at deathbeds, reflections on war, descriptions of wounds and essays on moonlight are all jumbled together.  The book is not even divided into chapters.  In these pages of blood and slang, of slaughtered men and sentences, of egotism and heroic endurance are a few splendid thoughts.  the following are fair specimens of good and of bad:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1>
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>No formal general's report nor book in the library, nor columns in the paper, embalms the bravest.  North or South, East or West.  Unnamed, unknown, remain, and still remain, the bravest soldiers. ∗ ∗ ∗ Likely, the typic one of them (standing, no doubt, for hundreds, thousands,) crawls aside to some bush-clump or ferny tuft on receiving his death-shot—there sheltering a little while, soaking roots, grass and soil with red blood—the battle advances, retreats, flits from the scene, sweeps by—and there, happily with pain and suffering (yet less, far less, than is supposed) the last lethargy winds like a serpent round him—the eyes glaze in death—none recks—perhaps the burial-squads, in truce, a week afterwards, search not the secluded spot—and there, at last, the Bravest Soldier crumbles in mother earth, unburied and unknown.</p> 
+
+                     <p>
+                        <hi rend="italic">Saturday, January</hi> 30.—Afternoon, visited Campbell Hospital. Scene of cleaning up the ward and giving the men all clean clothes—through the ward (6), the patients dressing or being dress&#x92;d—the naked upper half of the bodies—the good-humor and fun—the shirts, drawers, sheets of beds, &amp;c., and the general fixing up for Sunday. Gave J.L. 50 cents.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In his observations of nature there is nothing new, but there are a few plain truths (truths which at least since Wordsworth have been the common property of all who ramble in the woods) which are expressed with the freshness of keen observation.  Others are most awkward and slovenly efforts to be original:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1>
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>"The emotional aspects and influences of Nature!" he exclaims.  "I, too, like the rest, feel these modern tendencies (from all the prevailing intellections, literature and poems) to turn everything to pathos, ennui, morbidity, dissatisfaction, death.  Yet how clear it is to me that those are not the born results, influences of Nature at all, but of one's own distorted, sick and silly soul.  Here, amid this wild, free scene, how healthy, how joyous, how clean and vigorous and sweet!"</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And then such lapses as these:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1>
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>By my great oak—sturdy, vital, green—give feet thick at the butt.</p>
+
+                     <p>A grand twelve-acre field of ripe cabbages, with their prevailing hue of malachite green, and floating—flying over and among them in all directions, myriads of these same white butterflies.</p>
+
+                     <p>An hour or so after breakfast I wended my way down to the recesses of the aforesaid dell ∗ ∗ ∗ It was just the place and time for my Adamic air-bath and flesh-brushing from head to foot. So hanging clothes on a rail near by, keeping old broad-brim straw on head and easy shoes on feet, haven&#x92;t I had a good time the last two hours! First with the stiff-elastic bristles rasping arms, breast, sides, till they turn&#x92;d scarlet—then partially bathing in the clear waters of the running brook—taking everything very leisurely, with many rests and pauses—stepping about barefooted every few minutes now and then in some neighboring black ooze, for unctuous mud-bath to my feet— ∗ ∗ ∗ feeling quite secure from obtrusion (and that indeed I am not at all nervous about, if it accidentally happens.) ∗ ∗ ∗ Nature was naked, and I was also. ∗ ∗ ∗ Is nakedness then indecent? No, not inherently.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Such perverse and eccentric enthusiasm is as poor a substitute for originality as dashes and catalogues of words are for sentences; but among these "nature-notes" are a few sane, clear and piercing thoughts—glimpses of Jersey in summer without mosquitoes.  Whitman boasts of his scientific ignorance of natural history and of botany and refuse to contemplate any object except as a savage, and he thus denies himself the keenest enjoyment of nature as effectively as the mere scientist.  The struggle against a theory or habit begets a theory or a habit not less fatal than the one so persistently avoided, and his egotistic disdain of the simplest facts not only makes his own enjoyment less than it would otherwise be, but also makes the most of his notes unintelligible and ridiculous to others.  He is an exaggeration of the least happy phase of Thoreau, and his work bears the same relation to the work of his delightful friend, John Burroughs, that the mud in a brick-mill bears to a house.</p>
+
+         <p>"Democratic Vistas," the long essay in the "Collect" is a dense cloud, a whirlwind of words and an occasional flash of clear thought.  It is what in his own vocabulary might be called an "oceanic" iteration of the one idea which he has been "called" to assert:</p>
+
+         <!-- From Democratic Vistas -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1>
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>Our fundamental want to-day in the United States, with closest, amplest reference to present conditions, and to the future, is of a class, and the clear idea of a class, of native authors, literatures, far different, far higher in grade than any yet known, sacerdotal, modern, fit to cope with our occasions, lands, permeating the whole mass of American mentality, taste, belief, breathing into it a new breath of life, giving it decision, affecting politics far more than the popular superficial suffrage, with results inside and underneath the elections of Presidents or Congresses—radiating, begetting appropriate teachers, schools, manners, and, as its grandest result, accomplishing, (what neither the schools nor the churches and the clergy have hitherto accomplish'd, and without which this nation will no more stand, permanently, soundly, than a house will stand without a substratum,) a religious and moral character beneath the political and productive and intellectual bases of the States. ∗ ∗ ∗ a new Literature, perhaps a new Metaphysics, certainly a new Poetry, are to be, in my opinion, the only sure and worthy supports and expressions of the American Democracy.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In Whitman's well-known ideas of poetry (intelligently formulated in his criticism but exemplified with disastrous vagueness in his own "poems") there is one wholesome truth and a deserved rebuke to the poetic fashion of the day.  Yet this truth—that culture and art cannot supply the lack of originality and vigor—is as old as criticism; and in his assertion of it he has imitated the owner of a forest who assured a lumberman that his trees were so straight that they leaned the other way.  Still the repetition of this single idea, made with a grotesque force and applied to present conditions, is the most important (doubtless the only important) result of his work.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1>
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                     </relations>
+                     <p>"The lust and the weird," he asks, "that have taken such extraordinary possession of Nineteenth century verse-lovers—what mean they? The inevitable tendency of poetic culture to morbidity, abnormal beauty—the sickliness of all technical thought or refinement in itself—the abnegation of the perennial and democratic concretes at first hand, the body, the earth and the sea, sex and the like—and the substitution of something for them at second or third hand—what bearings have they on current pathological study?</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The curiosities (or, to speak plainly, the barbarities) of Mr. Whitman's vocabulary would be rich matter for Mr. E. A. Freeman to use in his essay on the peculiarities of American speech.  A few of the words that he is fond of using are: "Secesh," "hard-pan," "grub" (food), "shebang," "broke" (having no money), "skedaddle," "top-loftical," "crack" (famous), "swell" (fashionable), "boss" (employer), "literatuses," "philosophs."</p>
+
+         <p>Mr. Whitman is one of the few writers who have anything to say whose volumes the desecrating condenser could improve.  A judicious editor could select enough passages from the two bundles of scraps which he calls volumes to make a small book worthy of preservation.  But he would have to leave out of it almost everything which it gave the author special pleasure to put into it.</p>
+
+
+      </body>
+   </text>
+</TEI>

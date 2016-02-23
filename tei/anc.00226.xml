@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00226">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="fancy">[Review of <hi rend="italic">Good-bye My Fancy</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+          <author>
+                <choice>
+                   <orig>C.</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00226</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice>
+                        <orig>C.</orig>
+                        <reg>unknown</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Poet Lore</title>
+                  <imprint>
+                     <date when="1891">1891</date>
+                     <biblScope type="pages">644-5</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#vs" when="2007-08-07">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>[ . . .] Others there are deserving of mention, but we must now turn to the volume of the year, which should be specially precious to the American people,—that of the poet who has most firmly grasped the "American Idea" in its deepest and broadest bearings on humanity. We mean Walt Whitman's "Good-bye my Fancy." Here is only a handful of poems, but among them there are jewels which may "flash their laugh at time." Other poets may smooth and polish, but there is no other poet in America at present, nor ever has been, who can stir every fibre of one's soul as Whitman can in a few short lines. We fly from peak to peak, unnoting of valleys which may lie in between. The same master's touch, which seems to us specially fine in the little volume called "Drum Taps," is evident in these last few songs of his old age. We have space to quote only one,—the last, which, when men have lost their rhythmical prejudices, will hold its own with "Crossing the Bar," or the epilogue to "Asolando":</p>
+
+         <!-- from Good-Bye my Fancy (separate volume) -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00459" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Good-bye my Fancy!</l>
+                        <l>Farewell dear mate, dear love!</l>
+                        <l>I'm going away, I know not where,</l>
+                        <l>Or to what fortune, or whether I may ever see you again,</l>
+                        <l>So good-bye my Fancy.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Now for my last—let me look back a moment;</l>
+                        <l>The slower fainter ticking of the clock is in me,</l>
+                        <l>Exit, nightfall, and soon the heart-thud stopping.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Long have we lived, joy'd, caress'd together;</l>
+                        <l>Delightful!—now separation—Good-bye my Fancy.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Yet let me not be too hasty,</l>
+                        <l>Long indeed have we lived, slept, filter'd, become really blended into one;</l>
+                        <l>Then if we die we die together (yes, we'll remain one),</l>
+                        <l>If we go anywhere, we'll go together to meet what happens,</l>
+                        <l>May-be we'll be better off and blither, and learn something,</l>
+                        <l>May-be it is yourself now really ushering me to the true songs, (who knows?)</l>
+                        <l>May-be it is you the mortal knot really undoing, turning—so, now, finally,</l>
+                        <l>Good-bye—and hail! my Fancy.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <closer>
+            <signed rend="right">
+               <hi rend="italic">C</hi>.</signed>
+         </closer>
+
+      </body>
+   </text>
+</TEI>

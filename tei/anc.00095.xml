@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00095">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Walt Whitman's Complete Volume</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>T. Francis Gordon</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00095</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Gordon, T. Francis">T. Francis Gordon</author>
+                  <title level="a">Walt Whitman's Complete Volume</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The American</title>
+                  <imprint>
+                     <date when="1882-08-12">12 August 1882</date>
+                     <biblScope type="volume">2 </biblScope>
+                     <biblScope type="pages">282</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-18">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">
+            <hi rend="italic">WALT WHITMAN'S COMPLETE VOLUME</hi>.<hi rend="superscript"><ref>*</ref></hi> 
+            <!-- [Review of Leaves of Grass (1881&#8211;81)] -->
+         </head>
+         <argument><p>[The publication of Walt Whitman's complete and unexpurgated volume, relinquished by his Boston publishers on account of the objections of the Attorney-General of Massachusetts to certain of its contents, has been undertaken by a Philadelphia publisher. We present, in this connection, some views concerning Whitman's poetry generally, and add some further remarks concerning the propriety of issuing the volume in its present shape.—E<hi rend="smallcaps">D</hi>. T<hi rend="smallcaps">HE</hi> A<hi rend="smallcaps">MERICAN</hi>.]</p></argument>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <head type="sub">T<hi rend="smallcaps">HE</hi> R<hi rend="smallcaps">EALISM OF</hi> W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>. </head>
+
+
+         <p>"I<hi rend="smallcaps">F</hi> we look at the matter widely, there is really no such thing as good or bad subjects in poetry, but good or bad poets. Anything, everything, is a fit subject. Art has no business with leading-strings or handcuffs or gags. It says to you, 'Go;' and turns you loose into the great garden of poetry where there is no forbidden fruit."</p>
+
+         <p>This is Victor Hugo's protest against the disapprobation of those French critics whose conventional imaginations were very much disturbed by the astonishing leaps through time and space that were made by this untrammelled and disorderly genius. It is this same "<hi rend="italic">quidquid agunt homines</hi>," unrestrained freedom of choice, that Walt Whitman has so urgently insisted upon, when the well-regulated public has remonstrated at what he calls liberty, and society license. If we "look at the matter widely," as Hugo recommends, we shall be inclined to agree with the French poet that art should not be handcuffed, and admit as the final test only that the result shall be good poetry; but then this final test must be firmly insisted upon. If a poet has produced really fine poetry, no matter what his material may have been, he has justified himself, at least from the standpoint of his art. But in order to apply this test substantially, we must consider what really good art is; and we find it to be the noble expression of noble ideas; and if it fail in either of these directions it ceases to be the best art. If the ideas are no longer worthy, while the form remains perfect, we have an art that rapidly deteriorates and becomes trivial, and bears within it the germ of decay. If, on the other hand, the ideas are noble and the form indifferent, we have an imperfect, incomplete art, that if it be in a healthy state must soon develop into fuller and finer expression. There is, therefore, not the danger that those concerned with the merely moral side of the question might suppose, in setting art free and cutting her leading strings, as long as the real function of art is recognized. There are plenty of restrictions left, in the severe restraint on hand and eye and speech that true art imposes on her honest servants. What matters it how poor, how mean, how simple the material, if the touch of the artist can turn it to gold, if the imagination can glorify it? There is a certain superb license that brings its own apology with it, when a man of genius is carried over the bounds of convention by the rush of passion, or the glory of beauty, or the heat of a fervid imagination, and is grand at the same time that he is gross, as Shakespeare was sometimes, or Rubens. But if he is only gross without being grand, then there is no quarter for him anywhere, and he is rejected both by morals and art. Realism, for its own sake, has no place in art, least of all in poetry; for poetry, by its very form, separates itself from prose as an imaginative manner of expressing the ideal side of nature and of man's emotions, passions and actions. In prose even brutal realism sometimes justifies itself, when there is need to make reality seem as terribly real as possible and to present facts impressively; but we see to what degradation poetry can be reduced by conscientiously applied realism, even in the hands of a poet of imagination and the most refined sensibilities, a poet who had produced the finest imaginative poetry, in Wordsworth's "Simon Lee." And we see to what infinitely lower degradation realism can bring a man without refined sensibilities and a cultivated imagination in Whitman's "Children of Adam."</p>
+
+         <p>It is only another proof of the enormous egotism of the man, that he should claim to have made a new departure in insisting on the physical basis of passion, as there is scarcely a poet from Anacreon<ref target="n2" xml:id="r2" n="1"/> to Swinburne who has failed to do it ample justice. All that he has done is to tear off, with a rude hand, the thin veil of ideality that "shadowed its form though not concealed," and drag it bare before the public, shorn of the finer, higher, purer emotions that sentiment has so intimately associated with it, and stripped of all imaginative charm. This he assuredly has done. It is true that Whitman is a son of the people, and has naturally missed the refining influences of early associations; but then one is forced to remember another son of the people, Robert Burns, and one involuntarily thinks of his</p>
+
+         <q who="Burns, Robert">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+<!-- from O my love's like a red, red rose -->
+                     <lg type="linegroup">
+                        <l>"O, my Love's like a red, red rose,</l>
+                        <l rend="indented1">That's newly sprung in June:</l>
+                        <l>O my Love's like a melodie</l>
+                        <l rend="indented1">That's sweetly played in tune,"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>when one comes to lines like these,—verses they can scarcely be called:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00103" cert="absolute"/>
+                        <!-- from Sometimes with One I Love -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Sometimes with one I love I fill myself with rage for fear I effuse unreturned love.</l>
+                        <l>But now I think there is no such thing as unreturned love; the pay is certain <lb/>one way or another.</l>
+                        <l>(I loved a certain person ardently and my love was unreturned,</l>
+                        <l>Yet out of my love have I written these songs.)"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Or put this beside it, so full of spontaneousness and the emotion of the hour.</p>
+
+         <q who="Burns, Robert">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+<!-- from O Poortith Cauld -->
+                     <lg type="linegroup">
+                        <l>"O, wha can prudence think upon,</l>
+                        <l rend="indented1">And sic a lassie by him?</l>
+                        <l>O, wha can prudence think upon,</l>
+                        <l rend="indented1">And sae in love as I am?"</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>But it is not only to noble or graceful ideas, but to worthy expression of them as well, that poetry owes its power and charm; and it is in this sense of form that Walt Whitman is so essentially lacking. A poet must be an artist, as well as a man of imagination, and however much of an outlaw or rebel he may be in spirit, must submit himself to the laws of his art. Methods he must have though they be of his own choosing, and the man of genius always recognizes the necessity of such restraints. A poet who absolutely ignores the charm of verse, has missed the secret of his art. An English poet who neglects the language of poetry, which is something set apart from the common terms of daily speech, and by preference employs the most hackneyed, prosaic literal expressions of everyday life, has no sense of the sacredness of poetry. When one thinks of what real poetry is, one has hardly patience with a man who could offer the public lines like these, and call them poetry:</p>
+
+         <!-- The following four quotes are presented together by the reviewer; but opening and closing quotation marks for each one indicate that separate passages are presented -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I tucked my trowser-ends into my boots, and went and had a good time."</l>        
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Do I contradict myself?</l>
+                        <l>Very well then I contradict myself.</l>
+                        <l>(I am large, I contain multitudes.)"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00264" cert="absolute"/>
+                        <!-- from The Sleepers -->
+                     </relations>
+                     <lg type="linegroup"> 
+                        <l>"I reckon I am their boss, and they make me a pet besides."</l>  
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00129" cert="absolute"/>
+                        <!-- from With Antecedents -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I assert that all fast days were what they must have been,</l>
+                        <l>And that they could no-how have been better than what they were,</l>
+                        <l>And that to-day is what it must be, and that America is,</l>
+                        <l>And that to-day and America could no-how be better than what they are."</l>    
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Could indifference of ideas and contempt of form be carried further than this?</p>
+
+         <p>In Whitman's case, it is especially unfortunate that he should have failed to conceive of poetry as an art, for every now and then one comes across a burst of something that might have been poetry, and fine poetry too, if it had been shaped by an artist. There is this from the "Song of Myself":</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I am he that walks with the tender and growing night.</l>
+                        <l>I call to the earth and the sea half held by the night,</l>
+                        <l>Press close, bare-bosomed night—press close, magnetic, nourishing night!</l>  
+                        <l>Night of the south-winds—night of the large few stars!</l>
+                        <l>Still, nodding night—mad, naked summer night."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>There are passages of this quality scattered through the volume in "Drum Taps," "Sea Drift," "From Noon to Starry Night," but they shine like oases among weary pages that are an inextricable tangle of incoherent emotions, epithets, invectives, detached thoughts, inconsequent reflections, un-analyzable, divigations, that spread in straggling unmetrical lines. The author of Leaves of Grass entirely lacks, or has never cultivated any sustained power of construction, and the fact that he has been taken so seriously in Europe is partly due to his astonishing egotism, his defiant tone and fierce assertion of his own individuality, and partly to the undiscriminating manner that prevails in certain English literary circles to find something that shall be unmistakably typical of the new civilization of the crude Western world, something that might pass for the poetry of the self-made man.</p>
+
+         <p>It is not from an ethical standpoint, not from narrow, conservative prejudice, that Walt Whitman's insistent realism is inevitably condemned, but from the vital principles of his art, which it offends beyond reconciliation. He is judged by a canon that he himself would hardly refuse to accept: "In poetry, there is no such thing as good or bad subjects, but good or bad poets." T. F<hi rend="smallcaps">RANCIS</hi> G<hi rend="smallcaps">ORDON</hi>.</p>
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+        
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   "Leaves of Grass." 
+                  [By Walt Whitman.] 
+                   
+                     Pp. 382.  
+                      Rees Welsh &amp; Co.,  
+                      Philadelphia.  
+                   
+               
+            </ab>
+          
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n2" target="r2" n="1">
+The ancient Greek poet Anacreon (c. 582 BC - c. 485) wrote in the Ionic dialect and was noteworthy for his amatory lyrics. 
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

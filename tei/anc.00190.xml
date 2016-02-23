@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00190">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">A Wild Poet of the Woods</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>John Hollingshead</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00190</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Hollingshead, John">John Hollingshead</author>
+                  <title level="a">A Wild Poet of the Woods</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Irish Literary Gazette and Register</title>
+                  <imprint>
+                     <date when="1861-02">February 1861</date>
+                     <biblScope type="pages">126-7</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-23">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">A WILD POET OF THE WOODS.<hi rend="superscript"><ref>*</ref></hi> 
+            <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> 
+         </head>
+
+         <div1 type="section"><p>E<hi rend="smallcaps">ACH</hi> literary man of any distinguished mark or position has raised at least one monster, who seizes his style, his principles, his peculiar modes of thought, and carries them headlong downwards into the great gulf of absurdity. This Frankenstein,—this attendant spirit,—is faithful, but unruly. It multiplies every action, whim, or fancy that it copies by three or four; it leaps higher, dives lower, speaks louder, and goes farther than its master; and often succeeds in so far dazzling a certain circle of admirers that they prefer the coarse copy to the pure original. Mr. Thomas Carlyle must be often haunted by some such phantom, who speaks to him in crabbed sentences more affected than his own, and exhibits even more fretful impatience of shams and windbags. Mr. Charles Dickens has often suffered from demons of this kind, who have visited him in huge genial masks, in huge pathetic masks, and in huge humourous masks; and Mr. Thackeray has been unable to shut out electro-plated familiars, who have shown him his own image, distorted and magnified.</p>
+	
+         <p>Most authors of this rank have had their trials, and now comes the turn of Mr. Ralph Waldo Emerson. A nature worshipper so devout; a mystic so often incomprehensible; a prose poet who uses language, as some people think it ought to be used, to conceal thoughts, or perhaps the want of thoughts, could hardly hope to escape imitators, where imitation was so easy. He may have expected the visitation to fall rather heavily when it came in the fullness of time; but he could never have been prepared for such a muscular caricature as Walt Whitman. The sternest enemy of the American philosopher and of the great fog-bank school to which he, in some measure, belongs, cannot fail to pity him under such an affliction.</p>
+	
+         <p>Walt Whitman, or, as we should prefer to call him, Emerson's monster, or wild poet of the woods, is a thoroughly untamed, muscular, unconventional writer. What Emerson talks about doing, or seems to wish to do, Walt Whitman to all appearance does. Emerson only asks for health and a day to make the pomp of emperors ridiculous; Walt Whitman has got health of the rudest kind, with many days, and he glorifies the whole weighable, pinchable, material universe. No form or manifestation of matter is mean or contemptible to him. Like the great practical poet, alluded to in our last number,<ref target="n2" xml:id="r2" n="1"/> he would chant a great guano<ref target="n3" xml:id="r3" n="2"/> lyric, though with a far louder voice, and in a very different tune. If he fell in a gutter, he would rise up shaking his muddy locks, and dash onwards like the "strong-breasted bull" which meets with his admiration. He describes himself in a coarse, sing-song, rugged stanza as,—</p>
+
+         <!-- From the poem "Proto-Leaf" (later: "Starting from Paumanok"), Leaves of Grass 1860-61 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Free, fresh, savage,</l>
+                        <l>Fluent, luxuriant, self-content, fond of persons and places,</l>
+                        <l>Fond of fish-shaped Paumanok, where I was born,</l>
+                        <l>Fond of the sea."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>He might have added in plain prose, and no one would have discovered the difference,—"fond of rump steaks and oyster sauce, legs of mutton, pots of beer, cart-horses, wrestling, and lifting weights." He chants in this strain page after page:—</p>
+
+         <!-- From the poem "Proto-Leaf" (later: "Starting from Paumanok"), Leaves of Grass 1860-61 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"No dainty dolce affettuoso I;</l>
+                        <l>Bearded, sunburnt, gray-necked, forbidding, I have arrived</l>
+                        <l>To be wrestled with as I pass, for the solid prizes of the <choice><orig>uni-<lb/>verse</orig><reg>universe</reg></choice>. . . . .</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>The dustman, the "navvy," the slaughterer of oxen, have at length found their poet. He sings the song of all creation. His invitations have no limit:—</p>
+
+         <!-- From the poem "Walt Whitman" (later: "Song of Myself"), Leaves of Grass 1860-61 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="printed">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <p>"This is the meal pleasantly set,—this is the meat and drink for natural hunger.</p>
+
+                     <p>"It is for the wicked just the same as the righteous. I make appointments with all; I will not have a single person slighted or left away. The ∗ ∗ ∗  ∗ ∗ ∗ , sponger, thief, are hereby invited. The heavy-lipped slave is invited,—the ∗ ∗ ∗ ∗ ∗ is invited.</p>
+
+                     <p>"There shall be no difference between them and the rest.<ref target="n4" xml:id="r4" n="3"/>
+                     </p>
+
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The entertainment is the same, whether for man or for beast. If anything, perhaps, Walt Whitman has a partiality for the beast:—</p>
+
+         <!-- From the poem "Walt Whitman" (later: "Song of Myself"), Leaves of Grass 1860-61 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I behold the picturesque giant and love him,—</l>
+                        <l>And I do not stop there,</l>
+                        <l>I go with the team also."</l>
+                        <l>∗∗∗∗</l>
+                        <l>"Oxen that rattle the yoke or halt in the shade!</l>
+                        <l>What is that you express in your eyes?</l>
+                        <l>It seem to me more than all the print I have read in my life."</l>
+                        <l>∗∗∗∗</l>
+                        <l>"The wild gander leads his flock through the cool night,</l>
+                        <l>
+                           <hi rend="italic">Ya-honk!</hi> he says, and sounds it down to me like an invitation;</l>
+                        <l>The pert may suppose it meaningless, but I listen close,</l>
+                        <l>I find its purpose and place up there toward the wintry sky.</l>
+                        <l>The sharp-hoofed moose of the north, the cat on the house-sill, <lb/>the chickadee, the prairie-dog,</l>
+                        <l>The litter of the grunting sow as they tug at her teats,</l>
+                        <l>The brood of the turkey-hen. . . . .</l>
+                        <l>I see in them and myself the same old law."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+	
+         <p>Every word of this might have been written by Emerson muscularized;—by Emerson at the age of thirty-two, trained by a New York "rowdy" into a state of firm, animal, pugilistic vigour. To come a little nearer home, every line might have been written by one of Barclay and Perkins's draymen, by a Rotherhithe coal-whipper<ref target="n5" xml:id="r5" n="4"/>, by a Billingsgate fish-hauler, a canal bargeman, a sewer-cleanser, a meat-porter at Newgate market, or an average pot-boy who had learned to read and spell. What Dr. Johnson said of the famous Percy ballads<ref target="n6" xml:id="r6" n="5"/>, may be said of poems like these "leaves of grass;"—they can be spun by one at the rate of six yards an hour. This is a chant of the lands:—</p>
+
+         <!-- From the poem "Proto-Leaf" (later: "Starting from Paumanok"), Leaves of Grass 1860-61 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"O the lands!</l>
+                        <l>Lands scorning invaders! Interlinked, food-yielding lands!</l>
+                        <l>Land of coal and iron! Land of gold! Lands of cotton, sugar, <lb/>rice!</l>
+                        <l>Odorous and sunny land! Floridian land!</l>
+                        <l>Land of the spinal river, the Mississippi! Land of the <choice><orig>Alle-<lb/>ghanies</orig><reg>Alleghanies</reg></choice>! Ohio's land!</l>
+                        <l>Land of wheat, beef, pork! Land of wool and hemp!</l>
+                        <l>Land of the potato, the apple, and the grape!"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>This goes on for many pages more, and there is really no reason why it should ever stop at all. Cyclopædias, commercial dictionaries, directories, and such books are plentiful enough, and in the slang of our wild poet of the woods they contain thousands, millions of such poems. Everything is a poem in the Walt Whitman sense, as everything, by a similar wrenching of language, might have been called a fish-kettle, a pitchfork, or a blacking-bottle. There used to be a favourite class of comic songs which proved all men to be gardeners, scrubbing-brushes, or lucifer-matches, according as the whim started. These dreary pieces of laboured humour are not as popular now as they were twenty years ago, but Walt Whitman, if he gains such a hearing here as he has in America, ought certainly to bring them once more into fashion.</p>
+	
+         <p>There is a certain philosophy in all this muscular poetry,—the philosophy of making money by creating a sensation. The world is always on the look out for anything wild, strange, and eccentric. If Walt Whitman had had the power or the inclination to put his common-places into intelligible forms and language, the "leaves of grass" would never have made hay while the sun shone. The tricks of authorship are not yet half catalogued, or half exhausted. We must have treatises upon logic written by street tumblers, or rather we must have authors of such works keen enough to take to street tumbling to stimulate the sale of their books. We must have an epic poem written by the keeper of a Shoreditch baked-potato-can, or rather we must have the writer of an epic poem go out with a potato-can to make his poetry popular. The science of advertising is in its infancy, and America, so it seems, can give the mother country a "few wrinkles" on this subject. When Walt Whitman, as the story goes, drove an omnibus along Broadway to oblige the regular driver, who was laid up with a fever, we have no doubt that his charity proved a remarkably good investment. We have no means of overhauling his publishing accounts, to see what effect the public excitement had upon his "editions," but we have no doubt that many people never bought his book until after they found him driving an omnibus.</p>
+	
+         <p>As it is not fair to blame the son alone while the father is living, we should like to have Mr. Emerson's calm opinion of his literary offspring. The rumour runs that the philosopher is rather proud of his wild poet of the woods, and reads the "leaves of grass" with infinite pleasure. If this is so, he must be deceived by the poet's "yearnings after the infinite," which are about as intelligible as a dog's baying at the moon. The inventory of nature is the only thing solid in a book, one-half of which is quite as coarse as Rabelais, and just as obscure. The passages that look profound are not worthy of sustained thought and investigation, because they are deliberately made nonsense-riddles that never had an "answer."</p>
+
+         <closer>
+            <signed rend="right">J<hi rend="smallcaps">OHN</hi> H<hi rend="smallcaps">OLLINGSHEAD</hi>.<ref target="n7" xml:id="r7" n="6"/>
+            </signed>
+         </closer></div1>
+
+        <div1 type="section"> <milestone unit="undeclared" rend="horbar-short-left"/>
+
+         
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>
+                   
+                   
+                      Boston (U.S.):  
+                      Thayer and Eldridge.  
+                      1860–61. 
+                   
+               
+            </ab></div1>
+         
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r2" xml:id="n2" n="1">J. T. S. Lidstone, who wrote many versions of "Londoniad." </note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="2">
+                  <hi rend="italic">Guano</hi> is the excrement of sea birds, used as a fertilizer, and a major European import from the mid-century to the 1870s. </note>
+
+               <note type="editorial" target="r4" xml:id="n4" n="3">These are slightly misquoted lines from the 1860 <hi rend="italic">Leaves of Grass</hi>, pp. 46-47. The first omitted word is "kept-woman" and the second is "veneralee." </note>
+
+               <note type="editorial" target="r5" xml:id="n5" n="4">Rotherhithe was a famous shipbuilding area and the major whaling base in London until the trade declined in the 1840s. A coal-whipper is a person employed in moving coal. This often involved raising coal out of a ship's hold through the use of a pulley. </note>
+
+               <note type="editorial" target="r6" xml:id="n6" n="5">Samuel Johnson was not impressed with Thomas Percy's collection of <hi rend="italic">Ancient English and Scottish Poems</hi>.  Johnson observed in conversation that "he could rhyme as well, and as elegantly, in common narrative and conversation."  See <hi rend="italic">Johnsonian Miscellanies</hi>, ed. George Birkbeck Hill (Oxford Clarendon Press, 1897) 1: 314. </note>
+
+               <note type="editorial" target="r7" xml:id="n7" n="6">According to the <hi rend="italic">Oxford Dictionary of National Biography</hi>, John Hollingshead was a prolific London journalist who often wrote on urban working-class life, including a number of articles for Dickens's <hi rend="italic">Household Words</hi>. </note>
+
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

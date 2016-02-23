@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00030">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="cg">Charles Green</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00030</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Frank Leslie's Illustrated Newspaper</title>
+                  <imprint>
+                     <date when="1856-12-20">20 December 1856</date>
+                     <biblScope type="pages">42</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#cg" when="2005-06-24">Encoded, validated</change>
+         
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>We find upon our table (and shall put into the fire) a thin octavo volume, handsomely printed and bound, with the above curious title. We shall not aid in extending the sale of this intensely vulgar, nay, absolutely beastly book, by telling our readers where it may be purchased. The only review we shall attempt of it, will be to thus publicly call the attention of the grand jury to a matter that needs presentment by them, and to mildly suggest that the author should be sent to a lunatic asylum, and the mercenary publishers to the penitentiary for pandering to the prurient tastes of morbid sensualists. Ralph W. Emerson's name appears as an indorser of these (so-called) poems (?)—God save the mark! We can only account for this strange fatuity upon the supposition that the letter is a forgery, that Mr. E. has not read some passages in the book, or that he lends his name to this vile production of a vitiated nature or diseased imagination, because the author is an imitator of his style, and apes him occasionally in his transcendentalisms. Affectation is as pitiful an ambition in literature as alliteration, and never has it been more fully exhibited during the present century than in the case of Thomas Carlyle, a man with an order of intellect approaching genius, but who for a distinguishing mark to point like a finger-board to himself, left a very terse and effective style of writing to adopt a jargon filled with new-fangled phrases and ungrammatical super-superlative adjectives—Mr. Carlyle buried himself for a long time in German universities and German philosophy, and came forth clothed in a full "old clothes" suit of transcendentalism worthy of the Chatham street embodiments of that pseudo-philosophy, Kant and Spinosa [sic]—Carlyle by this operation became a full-fledged Psyche from the chrysalis, and sported in the sunshine of popularity, whereupon a young gentleman ambitious of making New England an umbra of Scottish-Germanic glory, one Ralph Waldo Emerson, suddenly transforms himself into a metaphysical transcendentalist and begins talking about "Objective and Subjective," the "Inner and Outer," the "Real and Ideal," the "God-heads and God-tails," "Planes," "Spheres," "Finite, Infinite," "Unities," and "Dualities," "Squills, Ipecac," "Cascading and Cavorting," &amp;, &amp; And lo! another appeared after this Mr. Emerson, one Walt Whitman, who kicked over the whole bucket of the Milky Way, and deluged the world with the whey, curds and bonny-clabber of Brooklyn—which has resulted from the turning of the milk of human kindness in a "b'hoy's" brains to the cream of Tartar—and a delicious dish of the same is now furnished under cover of Leaves of Grass, and indorsed by the said Emerson, who swallows down Whitman's vulgarity and beastliness as if they were curds and whey. No wonder the Boston female schools are demoralized when Emerson, the head of the moral and solid people of Boston, indorses Whitman, and thus drags his slimy work into the sanctum of New England firesides.</p>
+
+      </body>
+   </text>
+</TEI>

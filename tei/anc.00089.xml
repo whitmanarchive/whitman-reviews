@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00089">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">The Poetry of the Future</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00089</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">The Poetry of the Future</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Examiner</title>
+                  <imprint>
+                     <date when="1882-01-19">19 January 1882</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-17">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"THE POETRY OF THE FUTURE." <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head>
+
+         <p>Here we have it, the real Simon-pure article,<ref target="n2" xml:id="r2" n="1"/> and no doubt about it.<ref target="n1" xml:id="r1">∗</ref> At least we are so assured by the author and by his admirers. Let us see wherein the poetry of the future differs from the poetry of the past and the present, and whether it can make good its title to be considered the poetry of the future.</p>
+
+         <p>Walt Whitman is a great poet—in his own estimation, and in that of critics who make up in noise what they lack in numbers. This volume is intended to demonstrate to the world that his claim is well-founded; for, like other great men who have an original message to deliver to the world, he has been misunderstood. He should not complain, however, but remember that obloquy is the ordinary lot of genius. This volume, we repeat, is intended to be his vindication. We have read it carefully and curiously-curiously, because though we had heard much of Whitman before, we confess to dense ignorance of all but a hundred lines or so of his writings—and we do not hesitate to say that it is a volume admirably calculated to convince those who were previously of his opinion. That it will convince others we—but this is to pass judgment before the cause is argued.</p>
+
+         <div1 type="ancillary">
+            <head type="main-authorial" rend="center">His Moral Tone.</head>
+
+            <p>We should not be true to our own convictions if we neglected to protest, on the very threshold of the subject, against the coarse filthiness of the book. The author is by turns blasphemous and obscene, for the mere sake of showing that he dare do anything and say anything that he chooses. We are not sure that the book is not amenable to the laws against sending obscene literature through the mails; and were the Society for the Suppression of Vice to test the matter, any ordinary jury would give a verdict in its favor. The plea that the book is "literature" does not excuse such unmitigated and indefensible nastiness as disfigures some of its pages. Byron and Swinburne and Oscar Wilde are as modest as a young maiden by comparison. To write such a book and send it forth to the world with a complacent smirk required great courage—or brazen effrontery—on the part of its author; and it is strange that he should have obtained the imprint for it of so respectable a publishing house. <gap reason="illegible"/>
+               <!-- A short section here is illegible in the available photocopy and is missing from the electronic transcript on the Whitman Archive -->
+            </p>
+
+            <p>Walt Whitman's artistic creed is easily understood. He states it on the very first page of this volume:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00025" cert="absolute"/>
+                           <!-- from As I Ponder'd in Silence -->
+                        </relations>
+                        <lg type="linegroup"> 
+                           <l>
+                              <hi rend="italic">I too haughty Shade also sing war, and a longer</hi> 
+                              <lb/>
+                              <hi rend="italic">and greater one than any,</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">Waged in my book with varying fortune, with</hi> 
+                              <lb/>
+                              <hi rend="italic">flight, advance and retreat, victory deferr'd</hi> 
+                              <lb/>
+                              <hi rend="italic">and wavering,</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">(Yet methinks certain, or as good as certain, at the</hi> 
+                              <lb/>
+                              <hi rend="italic">last), the field the world,</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">For life and death, for the Body and for the <choice><orig>eter-
+                              
+                              <lb/>
+                              
+                              nal</orig><reg>eternal</reg></choice> Soul.</hi>
+                           </l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q> 
+
+
+            <p>That is it, war on the social customs and opinions of the age, on its morals, its religion—on everything. Again he says:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00048" cert="absolute"/>
+                           <!-- from Song of Myself -->
+                        </relations>
+                        <lg type="linegroup"> 
+                           <l>I am not the poet of goodness only, I do not <choice><orig>de-<lb/>cline</orig><reg>decline</reg></choice> to be the poet of wickedness also.</l> 
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q> 
+
+            <p>Decline? He jumps at the chance, and wallows in vice and crime at every opportunity. The poet's friends tell us that his life has been correct, that only in his verse is he a libertine; so much the worse for him, he cannot even plead in extenuation of his offence that he had become so accustomed to evil that it is second nature to him. Deliberate baseness is always worse than the baseness that is the outcome of a depraved and bestial nature.</p>
+         </div1>
+
+         <div1 type="ancillary">
+            <head type="main-authorial" rend="center">Is Walt Whitman a Poet?</head>
+
+            <p>No one will dispute Byron's place in the temple of fame, however severely he may condemn the poet's character and the impress it has left on his work. Walt Whitman may be a poet in spite of his immorality. He asks us to accept him as a poet, as a great poet, with a bold egotism which must be either the height of sublimity or the height of folly. Is he a poet?</p>
+
+            <p>That depends, of course, on what one means by poetry. If by poetry we mean verse composed according to regular rhythmical laws, with or without rhyme, Walt Whitman is not a poet. Regular he never is; rhythmical he is at times, but in a wild and irregular way; and of rhyme he is very sparing, for the most part avoiding it altogether. If there are in this volume six consecutive lines to be found anywhere that will "scan" perfectly according to any one known metre, it may safely be assumed that they exist wholly by accident, not by the poet's design. He simply happened to express himself in that way. But we do not believe that six such lines are to be found; we have looked diligently, and have not discovered them. To return: if poetry be admitted to be, as to its essence, independent of mere form; if irregular, capricious and rugged rhythmical forms be conceded fittingly to embody poetical thought and constitute a different thing from merely poetical prose; then it will be hard to deny that Walt Whitman is, at infrequent intervals, a true poet. That he is a great poet is a preposterous claim, that is not worth the trouble of serious refutation.</p>
+
+            <p>Let us illustrate. Are the following passages poetry or are they not?</p>
+
+            <q who="anonymous">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+<!-- from Psalm 97 -->
+                        <lg type="linegroup"> 
+                           <l>The Lord reigneth; let the earth rejoice;</l>
+                           <l>Let the multitude of isles be glad.</l>
+                           <l>Clouds and darkness are round about him;</l>
+                           <l>Righteousness and judgment are the habitation <lb/>of his throne.</l>
+                           <l>A fire goeth before him,</l>
+                           <l>And burneth up his enemies round about.</l>
+                           <l>His lightnings enlightened the world:</l>
+                           <l>The earth saw and trembled;</l>
+                           <l>The hills melted like wax at the presence of the <lb/>Lord,</l>
+                           <l>At the presence of the Lord of the whole earth.</l>
+                           <l>The heavens declare his righteousness,</l>
+                           <l>And all the people see his glory.</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <q who="anonymous">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+<!-- from Beowulf -->
+                        <lg type="linegroup"> 
+                           <l>Departed then over the wavy sea</l>
+                           <l>The floater, foamy-necked, most like to a bird,</l>
+                           <l>Till about an hour of the second day</l>
+                           <l>The twisted prow had sailed,</l>
+                           <l>That the voyagers saw land, ocean shores shine,</l>
+                           <l>Mountains steep, spacious sea-nesses.</l>
+                           <l>Then was the sea-sailer</l>
+                           <l>At the end of its watery way.</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>The first passage is from Psalm 97; the second a faithful translation from <hi rend="italic">Beowulf</hi>, one of the oldest and most valuable relics of Anglo-Saxon literature. The Psalms are commonly called poetry, yet they have neither rhyme nor regular rhythm; <hi rend="italic">Beowulf</hi> is called poetry, yet it has nothing to distinguish it from prose but a sort of alliteration. If it be admitted that the above are poetry—of a genuine, though perhaps not of the most perfect, sort—Walt Whitman's claim to be a poet is, perhaps, borne out, but his claim to be an <hi rend="italic">original</hi> poet is made ridiculous. At the best he has done ill what David did well over three thousand years ago. But admitting that the Psalms are poetry, can we deny the same title to these lines?</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00048" cert="absolute"/>
+                           <!-- from Song of Myself -->
+                        </relations>
+                        <lg type="linegroup"> 
+                           <l>Smile O voluptuous cool breath'd earth!</l>
+                           <l>Earth of the slumbering and liquid trees!</l>
+                           <l>Earth of the departed sunset—earth of the <lb/>mountains misty-topt!</l>
+                           <l>Earth of the vitreous pour of the full moon <lb/>just tinged with blue!</l>
+                           <l>Earth of shine and dark mottling the tide of the river!</l>
+                           <l>Earth of the limpid gray of clouds brighter and <lb/>clearer for my sake!</l>
+                           <l>Far-swooping elbow'd earth—rich <choice><orig>apple-blos- 
+                              <lb/>
+                              som'd</orig><reg>apple-blossom'd</reg></choice> earth!</l>
+                           <l>Smile, for your lover comes.</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+
+            <p>Whether the thought in the above was really worth the trouble of expressing may be a question, but that it is poetically expressed can there be doubt? And where in all English literature should we look for two more exquisite pictures than these, from a poem on Lincoln's death, "When lilacs last in the dooryard bloomed"?</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00217" cert="absolute"/>
+                           <!-- When Lilacs Last in the Dooryard Bloom'd, 3 -->
+                        </relations>
+                        <lg type="linegroup"> 
+                           <l>In the dooryard fronting an old farmhouse <lb/>near the white-wash'd palings,</l>
+                           <l>Stands the lilac-bush tall-growing with <choice><orig>heart- 
+                              <lb/>
+                              shaped</orig><reg>heart-shaped</reg></choice> leaves of rich green,</l>
+                           <l>With many a pointed blossom rising delicate, <lb/>with the perfume strong I love,</l>
+                           <l>With every leaf a miracle—and from this bush <lb/>in the dooryard,</l>
+                           <l>With delicate-color'd blossoms and heart-shaped <lb/>leaves of rich green,</l>
+                           <l>A sprig with its flower I break.</l>
+                           <l> . .  . .  . . .</l>
+                        </lg>
+
+                        <lg type="linegroup">
+                           <l>Pictures of growing spring and farms and <lb/>homes.</l>
+                           <l>With the Fourth-month eve at sundown, and the <lb/>gray smoke lucid and bright.</l>
+                           <l>With floods of the yellow gold of the gorgeous, <lb/>indolent, sinking sun, burning, <choice><orig>expand-<lb/>ing</orig><reg>expanding</reg></choice> the air,</l>
+                           <l>With the fresh sweet herbage under foot, and <lb/>the pale green leaves of the trees prolific,</l>
+                           <l>In the distance the flowing glaze, the breast <lb/>of the river, with a wind dapple here and there,</l>
+                           <l>With ranging hills on the banks, with many a <lb/>line against the sky, and shadows,</l>
+                           <l>And the city at hand with dwellings so dense, <lb/>and stacks of chimneys,</l>
+                           <l>And all the scenes of life and the workshops, <lb/>and the workmen homeward returning.</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>Tennyson never wrote a more dainty love-song than this from "Sea-drift:"</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00131" cert="absolute"/>
+                           <work ref="xxx.00130" cert="absolute"/>
+                           <!-- from Out of the Cradle Endlessly Rocking -->
+                           <!-- also from larger entity Sea-Drift -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>Two together!</l>
+                           <l>Winds blow south, or winds blow north,</l>
+                           <l>Day come white, or white come black,</l>
+                           <l>Home, or rivers and mountains from home.</l>
+                           <l>Singing all time, minding no time,</l>
+                           <l>While we two keep together.</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>Occasionally he is capable of setting a sublime truth in words that are as beautifully fitted for the purpose as the jeweller's fine gold is to receive and hold the diamond; as when he says of the grass:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00048" cert="absolute"/>
+                           <!-- from Song of Myself -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>Or I guess it is the handkerchief of the Lord.</l>
+                           <l>A scented gift and remembrancer designedly <lb/>dropt,</l>
+                           <l>Bearing the owner's name someway in the <choice><orig>cor-<lb/>ners</orig><reg>corners</reg></choice>, that we may see and remark, and <lb/>say <hi rend="italic">Whose?</hi>
+                           </l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>Or where he says in the same poem, "I believe a leaf of grass is no less than the journey-work of the stars."</p>
+         </div1>
+
+         <div1 type="ancillary">
+            <head type="main-authorial" rend="center">The Other Side of the Question.</head>
+
+            <p>On the other hand, while one is wading through the unnumbered lines of dreary trash in this volume, how often is he tempted to declare that Walt Whitman has not the poet's gift in the slightest measure—that he is only an ignorant American youth whose culture has been gained wholly from the street-corner and the daily newspaper, who has been smitten with a desire for notoriety, and has shrewdly determined that to be odd and singular is the shortest cut to that end. In what respect do his writhings and contortions, his twistings and turnings of our good old English tongue, differ from the affected attitudes and "intense" dialect of the "consummately utter" æsthete who gives us so much sport today? After all, does the ability to write a few fine lines constitute one a poet? Does one kernel of wheat in a bushel of chaff warrant us in giving the name "grain" to the whole? Evidently not, but evidently also, the single kernel of wheat <hi rend="italic">is</hi> wheat in spite of the vast preponderance of chaff. May the question not be answered somewhat like this: Walt Whitman is a poet, after a fashion, but he has written very little poetry. If he is not of those who "die with all their music in them," as Dr. Holmes sings, he yet may have succeeded in uttering but a small part of the music that is in him. For noise, be it remembered, is not music.</p>
+
+            <p>One further characteristic needs to be touched on in forming a complete and final judgment of the value of Whitman's work. He shows an aptness now and then for coining those</p>
+
+            <q who="unknown">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <lg type="linegroup">
+                           <l rend="indented4">Jewels five-words-long</l>
+                           <l>That on the stretched forefinger of all Time</l>
+                           <l>Sparkle forever.</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>What could be better, for example, than his description of the sound of the carpenter's plane, as it "whistles its wild ascending lisp"? Anybody who has ever heard the sound will appreciate the striking fitness of the phrase. "Far-sprinkled systems" is a most happy epithet for the clear sky of a winter's night; and nothing could better picture in words the thronged thoroughfares of New York than this line:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00021" cert="absolute"/>
+                           <!-- from A Broadway Pageant -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>When million-footed Manhattan unpent <choice><orig>de-<lb/>scends</orig><reg>descends</reg></choice> to her pavements.</l> 
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>What poet has apostrophized Death more happily than this: "Dark mother always gliding near with soft feet"? And in all the poetry written about the death of President Garfield, has there been a single phrase so peculiarly happy as "the sobbing of the bells…those heartbeats of a Nation in the night"? But if one shall say of these things, One swallow does not make a summer, nor do a few happy turns of phrase make a poet—for our part we could only assent.</p>
+
+            <p>But, it may be asked, does Walt Whitman never submit to the trammels of poetry, as poetry is ordinarily conceived? Never fully, yet once he comes very near to doing so—in a poem on the death of Lincoln—and this is the result:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00218" cert="absolute"/>
+                           <!-- from O Captain! My Captain! -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>O Captain! my Captain! our fearful trip is <lb/>done,</l>
+                           <l>The ship has weather'd every rock, the prize we <lb/>sought is won,</l>
+                           <l>The port is near, the bells I hear, the people <lb/>all exulting,</l>
+                           <l>While follow eyes the steady keel, the vessel <lb/>grim and daring;</l>
+                           <l rend="indented2">But O heart! heart! heart!</l>
+                           <l rend="indented3">O the bleeding drops of red,</l>
+                           <l rend="indented4">Where on the deck my Captain lies</l>
+                           <l rend="indented4">Fallen cold and dead.</l>
+                        </lg>
+
+                        <lg type="linegroup">
+                           <l>O Captain! my Captain! rise up and hear the <lb/>bells;</l>
+                           <l>Rise up—for you the flag is hung—for you the <lb/>bugle trills,</l>
+                           <l>For you bouquets and ribbon'd wreaths—for <lb/>you the shores a-crowding,</l>
+                           <l>For you they call, the swaying mass, their eager <lb/>faces turning;</l>
+                           <l rend="indented2">Here Captain! dear father!</l>
+                           <l rend="indented3">This arm beneath your head!</l>
+                           <l rend="indented4">It is some dream that on the deck</l>
+                           <l rend="indented4">You've fallen cold and dead.</l>
+                        </lg>
+
+                        <lg type="linegroup">
+                           <l>My Captain does not answer, his lips are pale <lb/>and still,</l>
+                           <l>My father does not feel my arm, he has no pulse <lb/>nor will,</l>
+                           <l>The ship is anchor'd safe and sound, its voyage <lb/>closed and done,</l>
+                           <l>From fearful trip the victor ship comes in with <lb/>object won;</l>
+                           <l rend="indented2">Exult O shores, and ring O bells!</l>
+                           <l rend="indented3">But I with mournful tread,</l>
+                           <l rend="indented4">Walk the deck my Captain lies,</l>
+                           <l rend="indented4">Fallen cold and dead.</l> 
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>The most prejudiced will not deny that that is poetry, but Walt Whitman is not half so proud of it himself as he is of some of his "barbaric yawps." Nevertheless, he will be known fifty years hence—if he is known then at all, which we more than half-doubt—only as the author of "My Captain," on the whole, probably, the most stirring lyric that the civil war produced. Contrast with such a poem lines like these:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00114" cert="absolute"/>
+                           <!-- from Our Old Feuillage -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>Southward there, I screaming, with wings slow <lb/>flapping, with the myriads of gulls <choice><orig>win-<lb/>tering</orig><reg>wintering</reg></choice> along the coasts of Florida,</l>
+                           <gap reason="illegible"/>
+                           <!-- The following line is partially illegible in photocopy; segmentation info not attempted -->
+                           <l>Otherways, there atwixt the banks of the <lb/>Arkansaw, the Rio Grande, the Nueces,</l>
+                           <l>the Brazos, the Tombigbee, the Red River, the Saskatchawan or the Osage, I with the spring waters laughing and skipping and running.</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>Not every writer can drop so quickly and so naturally as he from the level of pure poetry to what is not even prose, but mere drivel.</p>
+         </div1>
+
+         <div1 type="ancillary">
+            <head type="main-authorial" rend="center">A Final Word or Two.</head>
+
+            <p>Walt Whitman is the peculiar product of a peculiar condition of things. He is the "Bowery Bhoy" in literature, a rowdy with the <hi rend="italic">cacoethes scribendi</hi> (in plain English, the itch for writing). He could not have been bred anywhere but in a certain part of New York city a generation ago—in any other place or at another time he could no more have been developed than Plymouth Rocks can be hatched out of cobble-stones. And American letters were in a peculiar transition state when he made his first appearance in print, which fact alone made his career possible. A few devoted admirers have diligently puffed him, and the more judicious critics have ridiculed him into a sort of fame. It is a common saying among publishers that next to very warm praise of a book downright abuse on the part of the critics will best promote its sale. But a popularity thus created is always short-lived; people buy the book for a few weeks just to see whether the critics have told the truth about it, and finding that they have, toss it aside never to look at it again.</p>
+
+            <p>Walt Whitman has certain artistic virtues, it is true; he can paint a pretty pen-picture of nature as it presents itself to the eye, but he has no word for us of "the still, sad music of humanity" heard throughout nature. How can he tell us what he has never seen—what he has no eyes to see? He has a certain rough power, an aboriginal gift, so to speak, of poetic language, but he is uncouth and barbaric. He has fire, but it destroys oftener than it warms. Though he affects to be as broad as the universe, he is narrow—he has but one note to his pipe, and that a cracked one. Pathos is an element of his power, but it must be allowed that bathos is much more frequent in his writings. As Landor<ref target="n3" xml:id="r3" n="2"/> said of Byron, "there are things in him as strong as poison and original as sin." He is, after all, too many-sided to be characterized in a single phrase—many-sided in good qualities as well as in evil: At one time he is a dithyrambic Emerson calmly philosophizing on the spiritual truths of the universe; at another he is a prose Swinburne run mad. He is a wicked Tupper;<ref target="n4" xml:id="r4" n="3"/> he is an obscene Ossian;<ref target="n5" xml:id="r5" n="4"/> he is a poetical Zola; he is—Walt Whitman.</p>
+         </div1>
+
+         <div1 type="section"><milestone unit="undeclared" rend="horbar-full"/>
+
+        
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>
+                   
+                  By W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>. 
+                   
+                      12mo.  
+                      pp. 382 
+                      Boston:  
+                      J.R. Osgood &amp; Co.  
+                      1881.  
+                      $2.  
+                   
+               
+            </ab></div1>
+          
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n2" target="r2" n="1">
+Simon-pure, short for "the real Simon Pure," means real or genuine.  The term is taken from the play <hi rend="italic">A Bold Stroke for a Wife</hi> (1718)  by Susanna Centlivre, English dramatist and actress, in which a Quaker who is impersonated by another character is believed to be an imposter and must prove his identity. 
+</note> 
+               <note type="editorial" xml:id="n3" target="r3" n="2">
+Walter Savage Landor (1775-1864) gained fame for <hi rend="italic">Imaginary Conversations</hi>, six volumes of imagined dialogues between historical figures published between 1824 and 1829.
+</note>  
+               <note type="editorial" xml:id="n4" target="r4" n="3">
+The English poet Martin Farquhar Tupper (1810-1889) wrote <hi rend="italic">Proverbial Philosophy</hi>, didactic moral and religious verse published in the mid 1800s.
+</note>  
+               <note type="editorial" xml:id="n5" target="r5" n="4">
+                  <hi rend="italic">The Works of Ossian</hi> is an influential cycle of poems translated and published by James Macpherson in 1765.  Macpherson's claim that the poetry was of ancient Scots Gaelic origin resulted in a long running controversy over its authenticity. 
+</note> 
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

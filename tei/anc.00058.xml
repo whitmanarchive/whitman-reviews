@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="drum">Drum-Taps</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Drum-Taps</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+          <author>
+                <choice>
+                   <orig>F.</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00058</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice>
+                     <orig>F.</orig>
+                     <reg>unknown</reg>
+                  </choice>
+                  </author>
+                  <title level="a">Drum-Taps</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Saturday Press</title>
+                  <imprint>
+                     <date when="1866-01-27">27 January 1866</date>
+                     <biblScope type="pages">3-4</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-29">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <note type="newspaper-editorial">(<hi rend="italic">For the Saturday Press</hi>.)</note>
+
+         <head type="main-authorial">"DRUM-TAPS."</head>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>Few persons, we imagine, have read the much over-praised, as well as greatly  underrated writings of Walt Whitman, without a conviction that their author is a genuine poet, although they may not agree with his more enthusiastic critics in ranking him above all of the moderns, and finding his true place beside Isaiah, Ezekiel and Job. It is impossible to sympathize heartily with the greatest thoughts that have found utterance in literature, and not to admire; him. The two ideas which have him in their possession,—the omnipresence of; the soul, and the sacredness of the individual—lie at the roots of poetry and civilization; and he chants them with an invincible faith, which is, of itself, sufficient to place him on a plane beyond that of the poets who believe in art as a finality.</p> 
+  
+         <p>But to be a Pantheist and a Democrat, does not constitute a claim sufficient  to entitle any man to the distinction of being a great poet; and Walt Whitman has no other, save a picturesqueness of phrase unsurpassed in  literature, and a powerful rhythm, whose long musical roll is like that of the waves of the sea. For he is not a man of ideas. What is called his sanity, his tenacious grasp on realities, is, after all, the monomania of a man whom a great thought has robbed of his self-possession. The unity of the soul is a key that unlocks all doors, but Walt Whitman stopped at the first one to which he applied it. He celebrates the divinity of matter, and worships the shells of things with such fervor that he almost persuades us that there is no substance behind them. It is a dangerous error. The sphinx, Matter, stands in her terrible beauty before every soul, and no answer to her riddle is more fatal than this. Whisper to her that she is divine, and her smiling lips open surely for your destruction. The idea which led Oriental thinkers to the life of contemplation, and which gives Emerson a serenity like that of the unclouded summer sky, leads this poet to materialism. His songs, though beautiful and inspiring, smack too strongly of the earth. His suggestions are sometimes vast, but himself is chaotic and fragmentary. The truth is that the two ideas which find expression through him are antagonistic. <hi rend="italic">Because</hi> the soul is one and all mighty, the individual is nothing. "I want no masses at all," says Emerson; but in Whitman the passion for individuals is so strong that it continually wrestles with and overthrows his belief in the universal. Democracy is a good thought to found a state upon, but it is not the profoundest basis for a poem.</p> 
+
+         <p>Jefferson may claim that "all men are born free and equal," and Whitman may "accept nothing which all cannot have the counterpart of on the same terms;" but the soul, which does not divide itself impartially through the whole universe, but incarnates itself wholly in each atom, is an aristocrat—does not whiffle about rights and duties—claims all and will not be hindered of its own. Mr. Gradgrind's<ref target="n1" xml:id="r1" n="1"/> facts, Walt Whitman's patriotism, the vilest man, the purest saint, are equally sacred, and equally valueless, for they are the stepping- stones only, to the unattainable beyond. Let any man assume the attitude of adoration, no matter how fair the shrine, and his shell instantly hardens around him. And porous as this poet thinks himself to all the influences of the universe, he is prostrated, deaf, dumb and blind, before an idol from which the god has departed.</p> 
+  
+         <p>And yet, as Thoreau said, he suggests at times something more than human. In his latest volume there are a few passages which contain the very essence of poetry, and are inexpressibly pathetic, moreover, with the yearning humanity that breathes through them. Setting aside his war chants, which are remarkable  for nothing but the startling vividness of their pictures, there are certain poems which make one doubt the correctness of the impression made by the whole man. Such, for instance, are the invocation to Death in the poem called "When last in the dooryard the lilacs bloomed [sic]," "Chanting the Square Deific," and "As I lay with my head in your lap." If his faith in the unseen were more of a prophetic fury, and less a premeditated and coolly considered belief; if he clung closer to realities and less tenaciously to appearances, he would be the greatest poet of our day. But he hesitates, as he says, with a rare self-appreciation, at the first step in his progress. He shuts himself from hearty sympathy on all sides. His music, his picturesque force avail him little with the poets, while he so persistently produces poetical effects outside of the accepted rules of their art; and his vast ideas fail of half their force to those who, believing in them as faithfully as he, feel that his application of them is limited and material.</p> 
+
+         <closer>
+            <signed rend="right">F.</signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Thomas Gradgrind is a fictional character in Charles Dickens's <hi rend="italic">Hard Times</hi> (1854) who prides himself on his "eminently practical" philosophy of rationalism, self-interest, and unemotional fact.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

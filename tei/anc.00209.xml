@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00209">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">"Leaves of Grass"</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00209</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">"Leaves of Grass"</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Boston Globe</title>
+                  <imprint>
+                     <date when="1881-11-13">13 November 1881</date>
+                     <biblScope type="pages">8</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc><encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-02">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div1 type="review">
+
+            <head type="main-authorial">"LEAVES OF GRASS." <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <head type="sub">Kosmos, or Walt Whitman's Song of the Universe. </head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <head type="sub">A Perfect Poem-Picture of American Democracy. </head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <head type="sub">The Hermit Thoreau's Opinion of Our Good Gray Poet. </head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+
+            <div2 type="section">
+
+               <p>Should any one ask the question, "Will Walt Whitman, the poet, and 'Leaves of Grass' (the work on which his fame will rest, whatever he may write in the future), now that after upward of twenty-five years of patient waiting both have got within the sacred circle controlled by a syndicate of literary men and publishers, become rapidly popular?" The answer must be, "No." The book is too radical, too free, too independent and far too true to make its conquest of a popular verdict an easy matter. To the question, "Will the book and the man ever be popular?" the answer, in the opinion of the present writer, must be a qualified "Yes." Walt Whitman is, par excellence, the poet and priest of democracy—the American type of democracy; the democracy based upon individuality, though not, perhaps, the ultimate democracy; the democracy based upon I, the individual; not the democracy based upon we, the sum of all individuals. In "Leaves of Grass" Walt Whitman has personified—or rather, idealized—the genius of American democracy. The work cannot be separated into any number of complete and independent poems: it is one complete and all-embracing poem, the subject of which is the Kosmos. It is the Kosmos as viewed from the standpoint of the American idea of democracy—the sovereignty of each and every individual. Walt Whitman is an individualist of the most pronounced type. So, while admitting that his grand psalms of the Universe will attain a gradual and limited popularity, attaining such popularity only as fast as they become popularly understood, their influence may diminish should ever the American idea of democracy—individual sovereignty—lose its hold on popular opinion.</p>
+	
+               <p>Walt Whitman has written the drama—it may be almost called the history—of the first century of American civilization. It may be doubted whether it will fit the second century as well; indeed, how could that be expected, for is it possible to write</p>
+
+            </div2>
+
+            <div2 type="section">
+
+               <head type="main-authorial" rend="center">The Drama of the Future!</head>
+	
+               <p>All that we can know of the future we have learned from the past and from what we can understand of the tendencies of this present time; but what poet or seer, let him be ever so wise, can forecast the future development—even for one brief century—of the wonderful, creative, multitudinous human mind? But let us take a survey of the book. Let us see how far it fits the foregoing remarks. First, as to the title—why "Leaves of Grass?" The author himself evidently loves the title, as is evinced by the ornamentation not only of the latest but of previous editions. His very signature on the cover reminds one of grass—and it has a meaning. Let us read the opening in his own words:</p>
+
+               <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">  
+                              <l>"A child said <hi rend="italic">What is the grass</hi>? fetching it to me with <lb/>full hands;</l>
+                              <l>How could I answer the child?  I do not know what it <lb/>is any more than he.</l>
+                              <l>I guess it must be the flag of my disposition, out of <lb/>hopeful green-stuff woven.</l>
+                              <l>Or I guess it is the handkerchief of the Lord.</l>
+                              <l>A scented gift and rememberance designedly dropt.</l>
+                              <l>Bearing the owner's name someway in the corners, <lb/>that we may see and remark, and say <hi rend="italic">whose</hi>?</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Or I guess the grass is itself a child, the produced <lb/>babe of the vegetation.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Or I guess it is a uniform hieroglyphic,</l>
+                              <l>And it means, sprouting alike is broad zones and <lb/>narrow zones.</l>
+                              <l>Growing among black folks as among white,</l>
+                              <l>Kanuck, Tuckahoe, Congressman, Cuff, I gave them <lb/>the same, I receive the same.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>And now it seems to me the beautiful uncut hair of <lb/>graves.</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>The smallest sprout shows there is really no death.</l>
+                              <l>And if ever there was it led forward life, and does not <lb/>wait at the end to arrest it,</l>
+                              <l>And ceas'd the moment life appear'd.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>All goes onward and outward, nothing collapses,</l>
+                              <l>And to die is different from what any one supposed, <lb/>and luckier."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+	
+               <p>"Leaves of Grass," then, are not only symbolical of all the great alchemy of nature, of all creation, all production, all evolution, but symbolical of immortality as well—the permanence and indestructability of all things. And so the title is good.</p>
+	
+               <p>What of the man? What of Walt Whitman himself? This brings us to one of the most interesting features of the book; indeed, the key to its entire plan-its marked personality. It was not by mere whim or caprice—much less by accident or any publisher's device—that the unique portrait of the author (the only illustration of the volume) is not in the usual place, fronting the title-page, but incorporated in the verse, and accompanied by his account of his own relation to his work and to the reader. This is introduced as a</p>
+
+            </div2>
+
+            <div2 type="section">
+
+               <head type="main-authorial" rend="center">Song of Myself.</head>
+
+               <p>and is carried through fifty-two stanzas, occupying fifty pages. The portrait, copied from a daguerreotype taken in 1856, when he was a working carpenter, as well as an unhatched poet—represents him in the loose shirt, open at the neck and lapping over the waist of the unbraced pants of an ordinary mechanic; his flannel undershirt revealed; a broad-brimmed, soft felt hat carelessly thrown back sideways on his head, which is inclined in the same way. The expression on his face shows energy, self-reliance and is full of thought; his attitude is firm, careless and unstudied-the left hand in his pocket and the right resting with bent elbows on his hip, which is thrown up to support it. There he stands—Walt Whitman—a man and a workingman; every line, every shadow, "every atom of blood" and fibre of him. But let him speak for himself:</p>
+
+               <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"I celebrate myself, and sing myself.</l>
+                              <l>And what I assume you shall assume,</l>
+                              <l>For every atom belonging to me as good belongs to <lb/>you.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>I loafe and invite my soul.</l>
+                              <l>I lean and loafe at my ease observing a spear of <choice><orig>sum-<lb/>mer</orig><reg>summer</reg></choice> grass.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>My tongue, every atom of my blood, form'd from this <lb/>soil, this air,</l>
+                              <l>Born here of parents born here from parents the <lb/>Same, and their parents the same,</l>
+                              <l>I, now thirty-seven years old in perfect health begins,</l>
+                              <l>Hoping to cease not till death.</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>Stop this day and night with me and you shall possess <lb/>the origin of all poems,</l>
+                              <l>You shall possess the good of the earth and sun (there <lb/>are millions of suns left,)</l>
+                              <l>You shall no longer take things at second or third <lb/>hand, nor look through the eyes of the dead, nor <lb/>feed on the spectres of books,</l>
+                              <l>You shall not look through my eyes either, nor take <lb/>things from me,</l>
+                              <l>You shall listen to all sides and filter them for yourself.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>I have heard what the talkers were talking, the talk <lb/>of the beginning and the end,</l>
+                              <l>But I do not talk of the beginning or the end.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>There was never any more inception than there is <lb/>now,</l>
+                              <l>Nor any more youth or age than there is now,</l>
+                              <l>And will never be any more perfection than there is <lb/>now,</l>
+                              <l>Nor any more heaven or hell than there is now.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Urge and urge and urge,</l>
+                              <l>Always the procreant urge of the world.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Out of the dimness opposite equals advance, always <lb/>substance and increase, always sex,</l>
+                              <l>Always a knit of identity, always distinction, always <lb/>a breed of life.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>To elaborate is no avail, learn'd and unlearn'd feel <lb/>that it is so.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Sure as the most certain sure, plumb in the uprights, <lb/>well entretied, braced in the beams,</l>
+                              <l>Stout as a horse, affectionate, haughty, electrical,</l>
+                              <l>I and this mystery here we stand.</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>Apart from the pulling and hauling stands what I <lb/>am.</l>
+                              <l>Stands amused, complacent, compassionating, idle, <lb/>unitary,</l>
+                              <l>Looks down, is erect, or bends an arm or an <choice><orig>impalpa-<lb/>ble</orig><reg>impalpable</reg></choice> certain rest.</l>
+                              <l>Looking with side-curved head curious what will <lb/>come next,</l>
+                              <l>Both in and out of the game and watching and <choice><orig>won-<lb/>dering</orig><reg>wondering</reg></choice> at it.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>Loafe with me on the grass, loose the stop from your <lb/>throat,</l>
+                              <l>Not words, music or rhyme I want, nor custom or <lb/>lecture, not even the best.</l>
+                              <l>Only the lull I like, the hum of your valved voice.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>And I know that the hand of God is the promise of my <lb/>own.</l>
+                              <l>And I know that the spirit of God is the brother of my <lb/>own.</l>
+                              <l>And that all the men ever "born are also my brothers, <lb/>and the women my sisters and lovers,</l>
+                              <l>And that a kelson of the creator is love,</l>
+                              <l>And limitless are leaves, stiff and drooping in the <lb/>fields.</l>
+                              <l>And brown ants in the little wells beneath them,</l>
+                              <l>And mossy scabs of the worm fence, heap'd stones, <lb/>elder, mullein and poke-weed."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+	
+               <p>"A child said, What is the grass?" etc., then comes in, and for several pages the reader's attention is chained to </p>
+
+            </div2>
+
+            <div2 type="section">
+
+               <head type="main-authorial" rend="center">A Beautiful Panorama of Human Life</head>
+
+               <p>in all its various aspects, civilized and uncivilized; to all possible life experiences of men, women and children; life animate and inanimate (if the term is admissible), all of which, and all actions and feelings and promptings and meanings, are embodied in himself, and felt and expressed by himself—Walt Whitman. We can only cull a specimen or two here and there as we turn over the charming pages:</p>
+
+               <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"The little one sleeps in its cradle,</l>
+                              <l>I lift the gauze and look a long time, and silently <lb/>brush away flies with my hand.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>I am enamor'd of growing out-doors,</l>
+                              <l>Of men that live among cattle, or taste of the ocean or <lb/>woods,</l>
+                              <l>Of the builders and steerers of ships, and the wielders <lb/>of axes and mauls, and the drivers of horses,</l>
+                              <l>I can eat and sleep with them week in and week out.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>What is commonest, cheapest, nearest, easiest is Me.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Me coming in for my chances, spending for vast <lb/>returns,</l>
+                              <l>Adoring myself to bestow myself on the first that <lb/>will take me,</l>
+                              <l>Not asking the sky  to come down  to my good will,</l>
+                              <l>Scattering it freely for ever.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>And such as it is to be of these more or less I am,</l>
+                              <l>And of these one and all I weave the song of myself.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>I am of old and young, of the foolish as much as the <lb/>wise,</l>
+                              <l>Regardless of others, ever regardful of others,</l>
+                              <l>Material as well as paternal, a child as well as a man,</l>
+                              <l>Stuff'd with the stuff that is coarse and stuff'd with <lb/>the stuff that is fine,</l>
+                              <l>One of the Nation of many nations, the smallest the <lb/>same and the largest the same.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>A learner with the simplest, a teacher of the <choice><orig>thought-<lb/>fullest</orig><reg>thoughtfullest</reg></choice>,</l>
+                              <l>A novice beginning yet experient of myriads of <choice><orig>seas-<lb/>ons</orig><reg>seasons</reg></choice>.</l>
+                              <l>Of every hue and caste am I, of every rank and <choice><orig>re-<lb/>ligion</orig><reg>religion</reg></choice>,</l>
+                              <l>A farmer, mechanic, artist, gentleman, sailor, Quaker,</l>
+                              <l>Prisoner, fancy-man, rowdy, lawyer, physician, priest.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>I resist anything better than my own diversity,</l>
+                              <l>Breathe the air but leave plenty after me,</l>
+                              <l>And am not stuck up, and am in my place.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>These are really the thoughts of all men, in all ages <lb/>and lands, they are not original with me,</l>
+                              <l>If they are not yours as much as mine they are <choice><orig>noth-<lb/>ing</orig><reg>nothing</reg></choice>, or next to nothing,</l>
+                              <l>If they are not just as close as they are distant they <lb/>are nothing.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>This is the grass that grows wherever the land is and <lb/>the water is,</l>
+                              <l>This the common air that bathes the globe."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>Now comes a passage remarkable for its nobility:</p>
+
+               <!-- From "Starting from Paumanok" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00047" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"With music strong I come, with my cornets and my <lb/>drums,</l>
+                              <l>I play not marches for accepted victors only, I play <lb/>Marches for conquer'd and slain persons.</l>
+                              <l>Have you heard that it was good to gain the day?</l>
+                              <l>I also say it is good to fail, battles are lost in the same <lb/>spirit in which they are won.</l>
+                              <l>I beat and pound for the dead,</l>
+                              <l>I blow through my embouchures my loudest and <lb/>gayest for them.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Vivas to those who have fail'd!</l>
+                              <l>And to those whose war vessels sang in the sea!</l>
+                              <l>And to those themselves who sank in the sea!</l>
+                              <l>And to all generals that lost engagements, and all <lb/>overcome heroes!</l>
+                              <l>And the numberless unknown heroes equal to the <lb/>greatest heroes known!</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>In all people I see myself, none more and not one <lb/>barley-corn less,</l>
+                              <l>And the good or bad I say of myself I say of them.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>I exist as I am, that is enough,</l>
+                              <l>If no other in the world be aware I sit content,</l>
+                              <l>And if each and all be aware I sit content.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>My foot-hold is tenon'd and mortis'd in granite,</l>
+                              <l>I laugh at what you call dissolution,</l>
+                              <l>And I know the amplitude of time.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>I am the poet of the woman the same as the man,</l>
+                              <l>And I say it is as great to be a woman as to be a man,</l>
+                              <l>And I say there is nothing greater than the mother of <lb/>men.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>I am not the poet of goodness only, I do not decline <lb/>to be the poet of wickedness also.</l>
+                              <l>What blurt is this about virtue and about vice?</l>
+                              <l>Evil propels me and reform of evil propels me, I stand <lb/>indifferent.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>Endless unfolding of words of ages!</l>
+                              <l>And mine a word of the modern, the word En-Masse.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>A word of the faith that never balks,</l>
+                              <l>Here or henceforward it is all the same to me, I <choice><orig>ac-<lb/>cept</orig><reg>accept</reg></choice> Time absolutely.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>I accept reality and dare not question it,</l>
+                              <l>Materialism first and last imbuing.</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>Now for the key-note of</p>
+
+            </div2>
+
+            <div2 type="section">
+
+               <head type="main-authorial" rend="center">Our Author's Cosmopolitan Personality:</head>
+
+               <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"Walt Whitman, a kosmos, of Manhattan the son,</l> 
+                              <l>Turbulent, fleshy, sensual, eating, drinking and <lb/>breeding.</l>
+                              <l>No sentimentalist, no stander above men and women, <lb/>or apart from them,</l>
+                              <l>No more modest than immodest.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Unscrew the locks from the doors!</l>
+                              <l>Unscrew the doors themselves from the jambs!</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Whoever degrades another degrades me,</l>
+                              <l>And whatever is done or said returns at last to me.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>I speak the password primeval, I give the sign of <lb/>Democracy.</l>
+                              <l>By God! I will accept nothing which all cannot have <lb/>their counterpart of on the same terms.</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+	
+               <p>Here is a suggestive word to impatient revolutionists:</p>
+
+               <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"All truths wait in all things,</l>
+                              <l>They neither hasten their own delivery nor resist it,</l>
+                              <l>They do not need the obstetric forceps of the surgeons."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>Listen to this, ye who see no poetry in "Leaves of Grass:"</p>
+
+               <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"I believe a leaf of grass is no less than the <choice><reg>journey-work</reg><orig>journey- 
+                                 <lb/>work</orig></choice> of the stars,</l>
+                              <l>And a pismire is equally perfect, and a grain of sand, <lb/>and the egg of the wren,</l>
+                              <l>And the tree-toad is a chef d'œuvre for the highest,</l>
+                              <l>And a running blackberry would adorn the parlors <lb/>of heaven,</l>
+                              <l>And the narrowest hinge in my hand puts to scorn all <lb/>machinery,</l>
+                              <l>And the cow crunching with depressed head surpasses <lb/>any statue,</l>
+                              <l>And a mouse is miracle enough to stagger sextillions <lb/>of infidels.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>I think I could turn and live with the animals, they <lb/>Are so placid and self-contain'd.</l>
+                              <l>I stand and look at them long and long.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>Not one kneels to another, nor to his kind that lived <lb/>thousands of years ago,</l>
+                              <l>Not one is respectable or unhappy over the whole <lb/>earth,</l>
+                              <l>So they show their relations to me."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>Turning over page after page we reach the following:</p>
+
+               <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"It is time to explain myself—let us stand up.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>What is known I strip away,</l>
+                              <l>I launch all men and women forward with me into the <lb/>Unknown.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>The dock indicates the moment—but what does <choice><orig>eter-<lb/>nity</orig><reg>eternity</reg></choice> indicate?</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>We have thus far exhausted trillions of winters and <lb/>summers.</l>
+                              <l>There are trillions ahead, and trillions ahead of <lb/>them.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Births have brought us richness and variety,</l>
+                              <l>And other births will bring us richness and variety.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>I do not call one greater and one smaller,</l>
+                              <l>That which fills its period and place is equal to any.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>I am an acme of things accomplish'd, and I am <lb/>encloser of things to be</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>Immense have been the preparations for me,</l>
+                              <l>Faithful and friendly the arms that have help'd me.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>Cycles ferried my cradle, rowing and rowing like <lb/>cheerful boatmen,</l>
+                              <l>For room to me stars kept aside in their own rings,</l>
+                              <l>They sent influences to look after what was to hold <lb/>me.</l>
+                              <l> . .  . .  . .  . . .</l>
+                              <l>All forces have been steadily employ'd to complete <lb/>and delight us.</l>
+                              <l>Now on this spot I stand with my robust soul."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>Here we have in epitome the true story of</p> 
+
+            </div2>
+
+            <div2 type="section">
+
+               <head type="main-authorial" rend="center">The Creation of Man.</head>
+
+               <p>And what comprehensive grasp of infinity, what far-reaching perception, is revealed in these lines!</p>
+
+               <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"I open my scuttle at night and see the far-sprinkled <lb/>systems,</l>
+                              <l>And all I see, multiplied as high as I can cipher, edge <lb/>but the rim of the farther systems.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Wider and wider they spread, expanding, always <choice><orig>ex-<lb/>panding</orig><reg>expanding</reg></choice>,</l>
+                              <l>Outward and outward and forever outward.</l>
+                              <l>My sun has his sun and round him obediently wheels,</l>
+                              <l>He joins with his partners a group of superior circuit,</l>
+                              <l>And greater sets follow, making specks of the <choice><orig>great-<lb/>est</orig><reg>greatest</reg></choice> inside them.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>There is no stoppage and never can be stoppage,</l>
+                              <l>If I, you and the worlds, and all beneath or upon <lb/>their surfaces were this moment reduced back <lb/>to a pallid float, it would no avail in the long <lb/>run,</l>
+                              <l>We should surely bring up again where we now stand,</l>
+                              <l>And surely go as much farther, and then farther and <lb/>farther.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>A few quadrillions of eras, a few octillions of cubic <lb/>leagues, do not hazard the space or make it <choice><orig>im-<lb/>patient</orig><reg>impatient</reg></choice>,</l>
+                              <l>They are but parts, anything is but a part.</l>
+                              <l>See ever so far there is linkless space outside of <lb/>that."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>Here are a few lines that show the fulness of his fellowship with all others:</p>
+
+               <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+               <q who="Walt Whitman" type="printed">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"I tramp a perpetual journey, (come listen all!)</l>
+                              <l>My signs are a rain-proof coat, good shoes, and a staff <lb/>cut from the woods.</l>
+                              <l>No friend of mine takes his ease in my chair,</l>
+                              <l>I have no chair, no church, no philosophy.</l>
+                              <l>I lead no man to a dinner table, library, exchange,</l>
+                              <l>But each man and each woman of you I lead upon a <lb/>knoll,</l>
+                              <l>My left hand hooking you round the waist,</l>
+                              <l>My right hand pointing to landscapes of continents <lb/>and the public road.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Not I, not anyone else can travel that road for you,</l>
+                              <l>You must travel it for yourself.</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>If you tire, give me both burdens, and rest the chuff <lb/>of your hand on my hip,</l>
+                              <l>And in due time you shall repay the same service <lb/>to me.</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>You are also asking me questions, and I hear you,</l>
+                              <l>I answer that I cannot answer, you must find out for <lb/>yourself.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Long enough have you dream'd contemptible dreams,</l>
+                              <l>Now I wash the gum from your eyes,</l>
+                              <l>You must habit yourself to the dazzle of the light and <lb/>of every moment of your life.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Long have you timidly waded, holding a plank by the <lb/>shore,</l>
+                              <l>Now I will you to be a bold swimmer,</l>
+                              <l>To jump off into the midst of the sea, rise again, nod <lb/>ho me, shout, and laughingly dash with your <lb/>hair.</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>I do not say these things for a dollar, or to fill up the <lb/>time while I wait for a boat,</l>
+                              <l>(It is you talking just as much as myself, I act as the <lb/>tongue of you,</l>
+                              <l>Tied in your mouth, in mine it begins to be loosen'd.)</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>If you would understand me go to the heights or <lb/>water shore,</l>
+                              <l>The nearest gnat is an explanation, and a drop or <choice><orig>mo-<lb/>tion</orig><reg>motion</reg></choice> of waves a key,</l>
+                              <l>The maul, the oar, the hand-saw, second my words.</l>
+                              <l>No shutter'd room or school can communicate with me,</l>
+                              <l>But roughs and little children better than they.</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>There is that in me-I do not know what it is-but I <lb/>know it is in me.</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>I do not know it-it is without name-it is a word <lb/>unsaid,</l>
+                              <l>It is not in any dictionary, utterance, symbol.</l>
+                              <l> . .  . .  . .  . . </l>
+                              <l>Do you see, O my brothers and sisters?</l>
+                              <l>It is not chaos or death—it is form, union, plan—it is <lb/>eternal life—it is Happiness."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+	
+               <p>Will what has been written and quoted serve to give some idea of the spirit and meaning of this wonderful poem of humanity and the universe? It has been written with the hope that it may, but with no expectation of doing anything like justice to the vast range of observation, profundity and minuteness of analysis, philosophic and religious interpretation, intimate knowledge and deep and earnest sympathy, not only with all humanity but with all nature, that</p>
+
+            </div2>
+
+            <div2 type="section">
+
+               <head type="main-authorial" rend="center">Place this Book in the Front Rank</head>
+
+               <p>of the highest branches of American literature. One might as well try to epitomize Shakespeare in a newspaper article as to try to do so with "Leaves of Grass." That all who read this imperfect review will be induced thereby to read and study the volume for themselves, and become greater, nobler and happier by the experience, is the earnest hope of the writer.</p>
+	
+               <p>The following appreciative opinion of, that other faithful student of nature—Thoreau—written in 1856, and therefore at a time when even a man of his independence could hardly be expected to be very outspoken in the face of social prudery, will be read with interest, and will be a fitting appendix to what has been already said:</p>
+	
+               <q who="Henry David Thoreau" type="printed">
+                  <floatingText>
+                     <body>
+                        <div1 type="preface">
+                           <p>"He (Whitman) is apparently the greatest democrat the world has seen; a remarkably strong, though coarse nature, of a sweet disposition, and much prized by his friends. Though peculiar and rough in his exterior, his skin, all over, red, he is essentially a gentleman. I am still in some quandary about him—feel that he is essentially strange to me, at any rate; but am surprised by the sight of him. He is very broad, but not fine . .  . . He has long been an editor and writer for the newspapers—was editor for the N.O. Crescent once . .  . . Since I have seen him, I am not disturbed by any brag or egoism in his book. He is a great fellow. There are two or three pieces in the book which are disagreeable, at least, simply sensual. He does not celebrate love at all. It is as if the beasts spoke. I think men have not been ashamed of themselves without reason. No doubt there have always been dens where such deeds were unblushingly recited, and it is no merit to compete with such. But even on this side he has spoken more truth than any modern I know. [What of Shakespeare, Byron and Burns?]<ref target="n1" n="1" xml:id="r1"/> I have found his poem exhilarating, encouraging. [Emerson uses a similar expression.] As for its sensuality—and it may be less so than it seems—I do not so much wish those parts unwritten, as that men were so pure that they could read them without harm, that is without understanding them (?) . .  . . On the whole it is to me very brave and American. We ought to rejoice greatly in him. He occasionally suggests something a little more than human. How people must shudder as they read him? He is awfully good. To be sure I sometimes feel a little imposed on. By his heartiness and broad generalities he puts me into a liberal frame of mind prepared to see wonders—as it were sets me upon a hill or in the midst of a plain—stirs me well up and then—throws in a thousand of brick. Though rude and sometimes ineffectual, it is a good primitive poem—an alarum or trumpet-note ringing through the American camp. Wonderfully like the Orientals, too, considering that when I asked if he had read them he answered, 'No; tell me about them.'"<ref target="n2" n="2" xml:id="r2"/>
+                           </p>
+                        </div1>
+                     </body>
+                  </floatingText>
+               </q>
+	
+               <p>Thoreau has evidently written just what he felt when the surprise and what may be called the shock of an unprecedented revelation was fresh upon him. His candor and his good judgment, under the circumstances, is worthy of all commendation, but he might write differently today were he alive.</p>
+
+            </div2>
+
+         </div1>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">These comments in square brackets appear in the original.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">This comes from two letters that Henry David Thoreau wrote to Harrison Blake on 19 November 1856 and 7 December 1856. Thoreau, Henry David. <hi rend="italic">The Correspondence of Henry David Thoreau</hi>. Ed. Walter Harding and Carl Bode. New York: New York UP, 1958. 441-42, 444-46.</note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

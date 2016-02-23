@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00225">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="boughs">'November Boughs'</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">November Boughs</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Edward Carpenter</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00225</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Carpenter, Edward">Edward Carpenter</author>
+                  <title level="a">'November Boughs'</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Scottish Art Review</title>
+                  <imprint>
+                     <date when="1889-04">April 1889</date>
+                     <biblScope type="pages">334-5</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-07">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">'NOVEMBER BOUGHS.' <!-- [Review] --></head>
+
+         <p>A<hi rend="smallcaps"> LARGE</hi> flat volume, strongly, roughly sewn and bound in russet-coloured limp cloth—Walt Whitman's <hi rend="italic">November Boughs</hi>—comes over the sea. The author himself (as he expresses it) 'like a dismasted ship,' lying at Camden, New Jersey—occupying the brief remainder of his time, and the intervals of physical prostration and illness, with last editions of, and additions to, his works. ('Just now I am finishing a big volume of about 900 pages comprehending all my stuff, poems and prose.') When last I saw him—four years and a half ago—he was still able, with the aid of a stick or the arm of a friend, to enjoy a ramble through Camden and across the Ferry to Philadelphia, a fine-looking old man, through crippled somewhat in his gait by paralysis, well over six feet in height, with long white hair and beard, something elemental, haughty—the 'I too am not a bit tamed, I too am untranslatable' look about him, more developed even perhaps in age than when those words were written; withal an infinite tenderness and wistfulness in his eye—surely never in any man those two opposites, love and pride, exhibited side by side in such splendid antagonism as in him. Now he writes, "Have not been out-doors for over six months—hardly out of my room, but get along better than you might think for'; his body disabled, and even at times his brain, but his great big heart seemingly the same as ever.</p>
+	
+         <p>But to come to <hi rend="italic">November Boughs</hi>. The book consists of 140 pp., clear but compact print, prose, and poetry; and to readers of <hi rend="italic">Leaves of Grass</hi> and <hi rend="italic">Specimen Days</hi>, forms a distinct, notable, and even important addition to both these volumes. The introductory essay is 'A backwards Glance o'er travel'd Roads,' and is really a history of the genesis and purpose of <hi rend="italic">Leaves of Grass</hi>; the next twenty pages are occupied by poetical pieces, mostly short, under the general heading of <hi rend="italic">Sands at Seventy</hi>; and the remainder of the book consists of short papers on a variety of subjects; a good many literary—Shakespeare, Burns, Tennyson, the Bible, etc.; notes on Father Taylor, Abraham Lincoln, Elias Hicks, George Fox; some more diary scraps; and a few remaining Memoranda of the War and the Hospitals. All these doubtless to be grouped with the earlier work under their different main headings in the complete volume which is to come.</p>
+	
+         <p>Of <hi rend="italic">Sands at Seventy</hi>, if, as the hour-glass runs out, the movement is a little slower and more laboured, still there is work here to be compared with the author's best: the same flat acceptance of ordinary facts, the same direct gaze into the spiritual world behind them; the same egotism; the same yearning, obstinately-clinging human love; the same unclipped jagged old lines; the same (though perhaps fewer) passages of large emotional volume. If there is a variation it is in the nearness of Death, and the many pieces and poems that embody the experiences of old age and the thoughts of the human creature in pretense of the unknown-to-come; and precious are these, for by how few have such subjects been treated with equal candour or with equal penetration!</p>
+
+         <!-- From "Continuities" November Boughs -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00349" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <l>'Nothing is ever really lost, or can be lost,</l>
+                        <l>No birth, identity, form—no object of the world.</l>
+                        <l>Nor life, nor force, nor any visible thing;</l>
+                        <l>Appearance must not foil, nor shifted sphere confuse thy brain.</l>
+                        <l>Ample are time and space-ample the fields of Nature.</l>
+                        <l>The body, sluggish, aged, cold-the embers left from earlier fires,</l>
+                        <l>The light in the eye grown dim, shall duly flame again;</l>
+                        <l>The sun now low in the west rises for mornings and for noons <lb/>continual;</l>
+                        <l>To frozen clods ever the spring's invisible law returns,</l>
+                        <l>With grass and flowers and summer fruits and corn.'</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Or in "A Carol closing Sixty-nine':—</p>
+
+         <!-- From "A Carol Closing Sixty-Nine" November Boughs -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00315" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <l>"Of me myself—the jocund heart yet beating in my breast,</l>
+                        <l>The body wreck'd, old, poor, and paralysed—the strange inertia<lb/>falling pall-like round me,</l>
+                        <l>The burning fires down in my sluggish blood not yet extinct,</l>
+                        <l>The undiminished faith—the group of loving friends.'</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Yet the burden of it all is the same as of old in <hi rend="italic">Leaves of Grass</hi>—'Pleasantly and well-suited I walk; wither I walk I cannot define, but I know that it is well.'</p>
+	
+         <p>The <hi rend="italic">Sands at Seventy</hi> are as variegated as ever. The poet resists anything better than his own diversity. Here is 'The first Dandelion' looking 'forth from its sunny nook of sheltered grass-innocent, golden, calm as the dawn'; here is a song to his Canary-bird; here is the 'small thin Indian helmsman, with brow elate and governing hand,' guiding the steamship through the dangerous rapids of the St. Lawrence; here is a picture of Broadway teeming with human life; here is the 'old salt,' Kossabone, related to the poet 'on his mother's side,' sits on a point overlooking the sea, watching, as his custom is, afternoons, the coming and going of the far vessels: he nearly ninety years old and a sailor all his life, now lives with his grandchild, Jenny:—</p>
+
+         <!-- From "Old Salt Kossabone" November Boughs -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00347" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <l>'And now the close of all:</l>  
+                        <l>One struggling outbound brig, one day, baffled for long—cross- <lb/>tides and much wrong going,</l>  
+                        <l>At last at nightfall strikes the breeze aright, her whole luck <lb/>veering,</l>  
+                        <l>And swiftly bending round the cape, the darkness proudly enter- <lb/>ing, cleaving, as he watches,</l>  
+                        <l>"She's free—she's on her destination"—these the last words- <lb/>when Jenny came, he sat there dead,</l>  
+                        <l>Dutch Kossabone, Old Salt, related on my mother's side, far back.'</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Here is 'The Voice of the Rain,' very beautiful; and here, at last, most characteristic, most obstinately—clinging of all, is the Good-bye to his readers, entitled 'After the Supper and Talk':—</p>
+
+         <!-- From "After the Supper and Talk" November Boughs -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00376" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <l>'After the supper and talk—after the day is done,</l>  
+                        <l>As a friend from friends his final withdrawal prolonging,</l>
+                        <l>Good-bye and Good-bye with emotional lips repeating,</l>  
+                        <l>(So hard for his hand to release those hands—no more will they <lb/>meet,</l>
+                        <l>No more for communion of sorrow and joy, of old and young,</l>  
+                        <l>A far-stretching journey awaits him, to return no more,)</l>
+                        <l>Shunning, postponing severance—seeking to ward off the last <lb/>word ever so little,</l>
+                        <l>E'en at the exit-door turning—charges superfluous calling back— <lb/>e'en as he descends the steps,</l>
+                        <l>Something to eke out a minute additional—shadows of nightfall <lb/>deepening,</l>
+                        <l>Farewells, messages lessening—dimmer the forthgoer's visage <lb/>and form,</l>
+                        <l>Soon to be lost for aye in the darkness—loth, O so loth to depart!</l>  
+                        <l>Garrulous to the very last.'</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>One of the most interesting of the shorter papers is that 'On the Bible as Poetry.' Needless to say that Whitman—modern man though he essentially is—looks upon the Bible as a well-spring of poetry—'the axis of civilisation and history during thousands of years . . . . even to our Nineteenth Century here are the fountain-heads of song.' From him the chunk-headed 'secularist' gets scant regard; 'but reading folks probably get their information of those Bible areas and peoples, as depicted in print by English and French cads, the most shallow, impudent, supercilious brood on earth.'</p>
+	
+         <p>Amid the Shakespeare speculations of the day, it is important to note that our author—who has undoubtedly a fine critical sense—leans slightly, though without by any means committing himself, to the Baconian theory; and more important, to find that he is convinced that the great series of historical plays hides within itself a deliberate plan and purpose—that, namely, of exposing the dragon-rancours of diseased and dying Feudalism—much, we suppose, as Ibsen's social dramas to-day are exposing the futilities of diseased and dying Commercialism.</p>
+	
+         <p>An affectionate criticism of Robert Burns should commend the volume to the hearts of Scotchmen, though Whitman does <hi rend="italic">not</hi> think those true friends of the Ayrshire bard who will not accept for him 'anything less than the highest rank, alongside of Homer, Shakespeare, etc.' A paper on 'Slang' is full of suggestion on that ever-wonderful topic, the growth of language. Another on 'The Old Bowery Theatre,' and Booth, the actor, is replete with local interest and reminiscences. But we must stop. The book is to be had for a dollar and a quarter (about 5s.) from David McKay, publisher, Philadelphia, and probably can be ordered through any British bookseller.</p>
+	
+         <p>After all, <hi rend="italic">November Boughs</hi> is just what its title suggests. The full foliage and wealth of summer has gone; but in exchange comes the widening prospect, the faint blue distance, the strangely-quickening odour of dead and dying leaves; the branches are alive with motion—the sough of the vast wind that sweeps over the world—the cosmic life—which, however impalpable, breathes through these pages. In one of his pieces in this volume Walt Whitman, apostrophising the Sea, declares that he would gladly surrender the powers of Homer and Shakespeare, if only the Sea would breathe upon his verse 'and leave its odor there.' And in another passage (in the introductory essay) he says—'No one will get at my verses who insists upon viewing them as a literary performance, or attempt at such performance, or as aiming mainly towards art or æstheticism.' It is in this quality of Nature in Whitman's work, transcending Art, yet indeed only possible through the patient study, through the perfection and final surrender of Art, that the secret of Whitman's power lies. The breath of the free wind blows through his pages. Criticism of his imperfections is easy; the secret of his power is difficult to attain.</p>
+
+         <closer>
+            <signed rend="right">E<hi rend="smallcaps">DWARD</hi> C<hi rend="smallcaps">ARPENTER</hi>.</signed>
+         </closer>
+
+      </body>
+   </text>
+</TEI>

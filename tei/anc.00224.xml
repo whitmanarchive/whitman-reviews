@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00224">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="boughs">[Review of <hi rend="italic">November Boughs</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Walter Lewin</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+               <persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00224</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Lewin, Walter">Walter Lewin</author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Academy</title>
+                  <imprint>
+                     <date when="1889-02-23">23 February 1889</date>
+                     <biblScope type="pages">127</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-08-07">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+            <ab>
+               
+                   
+                     <hi rend="italic">November Boughs</hi>
+                   
+                  By Walt Whitman. 
+                   
+                      (Alexander Gardner.)  
+                   
+               
+            </ab>
+         
+
+         <p>To persons who are not already well-disposed toward Walt Whitman and his work, this collection of <hi rend="italic">November Boughs</hi> offers little to attract and at the same time little to repel. It seems to be hardly intended for such persons at all. Those who have not discovered what may be termed the secret of Whitman in <hi rend="italic">Leaves of Grass</hi> and in <hi rend="italic">Democratic Vistas</hi> are not likely to discover it in the pages of this new volume; and impartial students, who wish to judge for themselves, must still be referred to the author's earlier writings.</p>
+	
+         <p>Yet to persons—and they are many now—who are already well-disposed toward Walt Whitman and his work, the volume will be welcome. It will please and interest them as the later expression of a man whom they admire. It consists for the most part of fugitive pieces in prose and in verse, some gathered from magazines, others printed now for the first time. Readers in England have seen several of them in the convenient "Camelot" volume published last year and reviewed at the time in the A<hi rend="smallcaps">CADEMY</hi>. Two prose pieces which appeared there under the titles "My Book and I" and "How I made a Book" are now brought together and newly entitled—"A Backward Glance o'er Travell'd Roads." The papers on Shakspeare, on Burns as Poet and Person, and on Tennyson, also reappear; but most of the other contents of the book are not so familiar. There is an interesting reminiscence of Father Taylor, who, though "an orthodox minister of no particular celebrity, who, during a long life, preached especially to Yankee sailors in an old fourth-class church down by the wharves of Boston," was, in the opinion of Walt Whitman, "the only essentially perfect orator" he ever heard. Interesting, also, are the somewhat fuller notes on another famous preacher—Elias Hicks. Whitman's parents were "Hicksite" Quakers; and Whitman himself, in his early days, saw something of the great Quaker heretic, and derived therefrom deep and lasting impressions. He traces a resemblance between Elias Hicks and Father Taylor:</p>
+	
+         <p>"Years afterward, in Boston, I heard Father Taylor, the sailor's preacher, and found in his passionate, unstudied oratory the resemblance to Elias Hicks's—not argumentative or intellectual, but so penetrating—so different from anything in the books (different as the fresh air of a May morning, or seashore breeze, from the atmosphere of a perfumer's shop)" (p. 128). Of Elias Hicks himself, Walt Whitman writes:</p>
+	
+         <p>"The true Christian religion (such was the teaching of Elias Hicks) consists neither in rights, or Bibles, or sermons, or Sundays—but in noiseless secret ecstasy and unremitted aspiration, in purity, in a good practical life, in charity to the poor and toleration to all. He said, 'A man may keep the Sabbath, may belong to a church and attend all the observances, have regular family prayer, keep a well-bound copy of the Hebrew scriptures in a conspicuous place in his house, and yet not be a truly religious person at all.' E. believ'd little in a church as organiz'd—even his own—with houses, ministers, or with salaries, creeds, Sundays, saints, Bibles, holy festivals, &amp;c. But he believ'd always in the universal Church, in the soul of man, invisibly rapt, ever waiting, ever responding to universal truths. He was fond of pithy proverbs. He said, 'It matters not where you live, but how you live.' He said once to my father, 'They talk of the devil—I tell thee, Walter, there is no worse devil than man'" (pp. 128-9).</p>
+
+         <p>A man like this was a man after Walt Whitman's own heart.</p>
+	
+         <p>The poetical pieces—in the old familiar form—are of varying merit. There is a vivid descriptive touch in that on "Broadway":</p>
+
+         <!-- From "Broadway" November Boughs -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00345" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <l>"What hurrying human tides, or day or night!</l>
+                        <l>What passions, winnings, losses, ardors, swim <lb/>thy waters!</l>
+                        <l>What whirls of evil, bliss and sorrow, stem thee!</l>
+                        <l>What curious questioning glances—glints of love!</l>
+                        <l>Leer, envy, scorn, contempt, hope, aspiration!</l>
+                        <l>Thou portal—thou arena—thou of the myriad <lb/>long drawn lines and groups!</l>
+                        <l>(Could but thy flagstones, curbs, façades, tell <lb/>their inimitable tales;</l>
+                        <l>Thy windows rich, and huge hotels—thy side— <lb/>walks wide):</l>
+                        <l>Thou of the endless sliding, mincing, shuffling <lb/>feet!</l>
+                        <l>Thou, like the parti-coloured world itself—like <lb/>infinite, teeming, mocking life!</l>
+                        <l>Thou visor'd, vast, unspeakable show and <lb/>lesson!" (p. 28.)</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Two lines called "The Bravest Soldiers" are characteristic:</p>
+
+         <!-- From "The Bravest Soldiers" November Boughs -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00316" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">	
+                        <l>"Brave, brave were the soldiers (high named <choice><orig>to-<lb/>day</orig><reg>today</reg></choice>) who lived through the fight;</l>
+                        <l>But the bravest pressed to the front, and fell, <lb/>unnamed, unknown" (p. 20).</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Yet, after all, that is only partly true; even some who pressed to the front may not have fallen. I think few persons—however they may object to some of his methods—would deny the bravery of the "good grey poet" himself, yet happily he has not fallen, but has lived to celebrate his triumph. His purpose has been achieved. I do not mean that he has converted the world, or that he has vanquished all ill-will; but he has compelled attention and has won regard. He is no longer scorned or laughed at. He has even achieved such respectability that in some newspapers he is called "Mr." Whitman—a form of respect which, I fear, he does not duly appreciate. Nay, more! Mr. Swinburne, who has a genius for saying things out of due season, has abused him. And all this has been secured without compromise on Whitman's part. He has abandoned nothing, and may therefore enjoy his triumph without regret of any kind. Old age has come upon him, it is true, and with it increasing bodily infirmities. An occasional undertone of sadness in the present volume points to this. But, for the most part, we see in these pages the same hopeful, cheery, affectionate, and great-souled man and poet, whom we have known so long. Old age has not touched his heart, and it is impossible to believe that it ever will.</p>
+
+         <closer>
+            <signed rend="right">W<hi rend="smallcaps">ALTER</hi> L<hi rend="smallcaps">EWIN</hi>.</signed>
+         </closer>
+
+      </body>
+   </text>
+</TEI>

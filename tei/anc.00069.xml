@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00069">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poems">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>John Marston</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00069</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Marston, John">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>John Marston</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Athenæum</title>
+                  <imprint>
+                     <date when="1868-04-25">25 April 1868</date>
+                     <biblScope type="volume">2113</biblScope>
+                     <biblScope type="pages">585-6</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-12-28">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+        
+            <ab>
+               
+                   
+                     <hi rend="italic">Poems</hi>. By Walt Whitman. Selected and edited by William Michael Rossetti 
+                   
+                      (Hotten.)  
+                   
+               
+            </ab>
+         
+
+         <p>T<hi rend="smallcaps">HE</hi> selections here given from the poems of Walt Whitman form, we are told, nearly half of his entire works. Mr. Rossetti's objects in the present compilation have been, first, to exclude every poem that could fairly be deemed offensive; and, secondly, to include whatever, being free from just or unjust censure on the ground of decorum, is at the same time highest as poetry and most characteristic of the writer. The editor has wisely, and with a proper reverence for one in whose genius he believes, refrained from culling what are called "beauties" from such poems as might be thought objectionable. He has hacked and spoilt no piece by depriving it of the unity and continuity which make it vital; and thus, though we have not here the whole of Whitman, what we have is genuinely his own. It follows from the process adopted that  we are not now called upon to weigh the accusations which have been brought against the writer in America for his license of expression in morals (morals being, of course, to be understood in a special and restricted sense), but simply to examine his credentials as a poet.</p>
+ 
+         <p>In a Preface which, on the whole, is written with his usual discernment and happiness of exposition, Mr. Rossetti observes of Whitman, "He may be termed formless by those who, not without much reason to show for themselves, are wedded to the established forms and ratified refinements of poetic art; but it seems reasonable to enlarge the canon till it includes so great and startling a genius, rather than to draw it close and exclude him." We see, however, no reason why the usual definition of an art should be changed for the sake of embracing in its limits one who might otherwise stand without them. The question now at issue, is not whether Mr. Whitman is a great thinker, but whether he is a great poet. Now, by common consent the vital constituents of poetry are emotion and imagination. By imagination we mean the power of conceiving ideas and of representing them by adequate symbols to the senses.</p>
+
+         <p>Judged by this admitted test, what shall we say of Walt Whitman? That some entire poems in this collection, and many scattered passages in other poems, bear the test triumphantly, few, if qualified to judge, will doubt. On the other hand, we have here many pages (probably the greater number) of which it would be difficult to maintain that they are poetry in any sense of that word which has yet been accepted. Thus, in the address 'To Working Men,' who can say that, however exalted by the prevailing idea of the piece, any item in the following catalogue, with the one exception marked in italics, is in itself poetical?—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00119" cert="absolute"/>
+                        <!-- from A Song for Occupations -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>House-building, measuring, sawing the boards;</l>
+                        <l>Blacksmithing, glass-blowing, nail-making, coopering, tin- <lb/>roofing, shingle-dressing,</l>
+                        <l>Ship-joining, dock-building, fish-curing, ferrying, flagging <lb/>of side-walks by flaggers,</l>
+                        <l>The pump, the pile-driver, the great derrick, the coal- <lb/>kiln and brick-kiln,</l>
+                        <l>Coal-mines, and all that is down there,—the lamps in the <lb/>darkness, echoes, songs, what meditations, <hi rend="italic">what</hi> 
+                           <lb/>
+                           <hi rend="italic">vast native thoughts looking through smutched faces</hi>,</l>  
+                        <l>Iron-works, forge-fires in the mountains, or by the river- <lb/>banks—men around feeling the melt with huge <lb/>crowbars—lumps of ore, the due combining of ore, <lb/>limestone, coal—the blast-furnace and the puddling- <lb/>furnace, the loup-lump at the bottom of the melt at <lb/>last—the rolling-mill, the stumpy bars of pig-iron, <lb/>the strong, clean-shaped T-rail for railroads;</l>
+                        <l>Oil-works, silk-works, white-lead-works, the sugar-house, <lb/>steam-saws, the great mills and factories<choice><sic>.</sic><corr>;</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Even in the composition called 'A Poet,' which, besides its high strain of thought, is very interesting as a revelation of Whitman's individuality, there is far more of theory than of imagination. When he writes of the poet—</p>
+     
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00430" cert="absolute"/>
+                        <!-- Great Are the Myths? -->
+                        <!-- not sure if this is the correct work ID.  The quote comes under a new header (Morning Romanza), but the Myths header appears to encompass this section-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Him all wait for—him all yield up to—his word is <choice><orig>deci-<lb/>sive</orig><reg>decisive</reg></choice> and final,</l>
+                        <l>Him they accept, in him lave, in him perceive themselves, <lb/>as amid light,</l>
+                        <l>Him they immerse, and he immerses them.</l>
+                        <l>Beautiful women, the haughtiest nations, laws, the <choice><orig>land-<lb/>scape</orig><reg>landscape</reg></choice>, people, animals,</l>
+                        <l>The profound earth and its attributes, and the unquiet <lb/>ocean (so tell I my morning's romanza),</l>
+                        <l>All enjoyments and properties, and money, and whatever <lb/>money will buy,</l>
+                        <l>The best farms—others toiling and planting, and he <lb/>unavoidably reaps,</l>
+                        <l>The noblest and costliest cities—others grading and <choice><orig>build-<lb/>ing</orig><reg>building</reg></choice>, and he domiciles there,</l>
+                        <l>Nothing for anyone, but what is for him—near and far <lb/>are for him,—the ships in the offing,</l>
+                        <l>The perpetual shows and marches on land, are for him, if <lb/>they are for anybody<choice><sic>—</sic><corr>.</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>the reader may or may not find in the lines truth of doctrine, but he assuredly will not find beauty of expression. Turning, on the contrary, to the pieces named respectively 'Assimilations,' 'Burial,' 'The Waters,' 'A Ship,' 'President Lincoln's Funeral Hymn,' and 'A Word out of the Sea,' he will scarcely deny that they possess striking truth and beauty of description, and, still better, that subtle and informing power which unobtrusively converts all outward things into symbols, just as the soul makes for itself a symbol of the body which it pervades and rules. This unconscious power of symbolization—quite distinct from, and even opposed to, the mechanical ingenuity of allegory—is nowhere more delightfully evinced by Whitman than in 'A Word out of the Sea,' to our thinking <hi rend="italic">the</hi> poem of the book. A boy discovers a bird's-nest in some briars that skirt the sea-shore. Day after day he watches the movements of the male bird and his mate, listens to the singing and the chirping by which they express their happiness. At length,</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00131" cert="absolute"/>
+                        <!-- from Out of the Cradle Endlessly Rocking -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>May-be killed unknown to her mate,</l>
+                        <l>One forenoon the she-bird crouched not on the nest,</l>
+                        <l>Nor returned that afternoon, nor the next,</l>
+                        <l>Nor ever <choice><sic>returned</sic><corr>appeared</corr></choice> again.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The boy continues to note the solitary bird flitting restlessly from spot to spot on the shore, and at times pouring forth a mournful song, the desolation, the longing and the brief beguiling hope of which the listener translates into human speech. To the boy's ear the bird sings as follows:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00131" cert="absolute"/>
+                        <!-- from Out of the Cradle Endlessly Rocking -->
+                     </relations>
+                     <lg type="linegroup"> 
+                        <l>Soothe! soothe! soothe!</l>
+                        <l>Close on its wave soothes the wave behind,</l>
+                        <l>And again another behind, embracing and lapping, every <lb/>one close,—</l>
+                        <l>But my love soothes not me, not me.</l>
+                     </lg>
+
+                     <lg type="linegroup"> 
+                        <l>Low hangs the moon—it rose late;</l>
+                        <l>O it is lagging—O I think it is heavy with love, with love.</l>   
+                     </lg>
+
+                     <lg type="linegroup"> 
+                        <l>O madly the sea pushes, pushes upon the land<choice><sic>,</sic><corr>.</corr></choice>
+                        </l>
+                        <l>With love—with love.</l>  
+                     </lg>
+
+                     <lg type="linegroup"> 
+                        <l>O night! do I not see my love fluttering out there among <lb/>the breakers?</l>
+                        <l>What is that little black thing I see there in the white?</l> 
+                     </lg>
+
+                     <lg type="linegroup">  
+                        <l>Loud! loud! loud!</l>
+                        <l>Loud I call to you, my love!</l>
+                        <l>High and clear I shoot my voice over the waves;</l>
+                        <l>Surely you must know who is here, is here;</l>
+                        <l>You must know who I am, my love.</l>
+                     </lg>
+      
+                     <lg type="linegroup">
+                        <l>Low-hanging moon!</l>
+                        <l>What is that dusky spot in your brown yellow?</l>
+                        <l>O it is the shape, the shape of my mate!</l>
+                        <l>O moon, do not keep her from me any longer!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Land! land! O land!</l>
+                        <l>Whichever way I turn, O I think you could give me my <lb/>mate back again, if you only would;</l>
+                        <l>For I am almost sure I see her dimly whichever way I look.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>O rising stars!</l>
+                        <l>Perhaps the one I want so much will rise, will rise with <lb/>some of you.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>O throat! O trembling throat!</l>
+                        <l>Sound clearer through the atmosphere!</l>
+                        <l>Pierce the woods, the earth;</l>
+                        <l>Somewhere, listening to catch you, must be the one I want.</l>
+                     </lg>
+      
+                     <lg type="linegroup">      
+                        <l>Shake out, carols!</l>
+                        <l>Solitary here—the night's carols!</l>
+                        <l>Carols of lonesome love! Death's carols!</l>
+                        <l>Carols under that lagging, yellow, waning moon!</l>
+                        <l>O, under that moon, where she droops almost down into <lb/>the sea!</l>
+                        <l>O reckless, despairing carols!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>But soft! sink low;</l>
+                        <l>Soft! let me just murmur;</l>
+                        <!-- Whitman Archive and Price have "husky-nosed sea" in following line -->
+                        <l>And do you wait a moment, you husky-noised sea;</l>
+                        <l>For somewhere I believe I heard my mate responding to <lb/>me,</l>
+                        <l>So faint—I must be still, be still to listen;</l>
+                        <l>But not altogether still, for then she might not come <lb/>immediately to me.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Hither, my love!</l>
+                        <l>Here I am! Here!</l>
+                        <l>With this just-sustained note I announce myself to you;</l>
+                        <l>This gentle call is for you, my love, for you!</l>
+                     </lg>
+
+                     <lg type="linegroup"> 
+                        <l>Do not be decoyed elsewhere!</l>
+                        <!-- The following lines are missing in Whitman Archive electronic transcript and Price -->
+                        <l>That is the whistle of the wind—it is not my voice;</l>
+                        <l>That is the fluttering, the fluttering of the spray;</l>
+                        <l>Those are the shadows of leaves.</l>
+                     </lg>
+
+                     <lg type="linegroup"> 
+                        <l>O darkness! O in vain!</l>
+                        <!-- end lines are missing in Whitman Archive electronic transcript and Price -->
+
+                        <l>O I am very sick and sorrowful!</l>
+                        <l>O brown halo in the sky, near the moon, drooping upon <lb/>the sea!</l>
+                        <l>O troubled reflection in the sea!</l>
+                        <l>O throat! O throbbing heart!</l>
+                        <l>O all!—and I singing uselessly, uselessly all the night!</l>
+                     </lg>
+
+                     <lg type="linegroup"> 
+                        <l>Yet I murmur, murmur on!</l>
+                        <l>O murmurs—you yourselves make me continue to sing, I <lb/>know not why.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>O past! O life! O songs of joy!</l>
+                        <l>In the air—in the woods—over fields;</l>
+                        <l>Loved! loved! loved! loved! loved!</l>
+                        <l>But my love no more, no more with me!</l>
+                        <l>We two together no more!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The plaint of the bird arouses in the boy, too, the sense of something missed  and yearned for. A joy has vanished from the soul as its mate from the bird. Shall the ideal of youth that has taken wing return to earth no more? Shall the yearning for it ever be satisfied, and by what?—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00131" cert="absolute"/>
+                        <!-- from Out of the Cradle Endlessly Rocking -->
+                     </relations>
+                     <lg type="linegroup"> 
+                        <l>
+                           <choice><sic></sic><corr>…</corr></choice>
+                           <choice><sic>Answering</sic><corr>answering</corr></choice>, the Sea,</l>
+                        <l>Delaying not, hurrying not,</l>
+                        <l>Whispered me through the night<choice><sic></sic><corr>,</corr></choice> and very plainly before <lb/>daybreak,</l>
+                        <l>Lisped to me the low and delicious word DEATH.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Of the sublimated passion and sweetness of the above, of the minuteness with which the most delicate transitions of feeling are caught, and of the grand yet melancholy suggestiveness which sets the whole picture, as it were, in a frame of sad sunset glory, we can hardly speak in terms of praise too high. That Whitman can write noble poetry, this one example conclusively testifies.</p>
+ 
+         <p>Of the writer, generally, it may be said, that he is universal in his sympathies, (with the sole exception that he cannot recognize the possibility of goodness in any man who happens to be born an aristocrat,)—that (with this exception) he believes in the capacity for virtue, latent or developed, of all his fellows—believes that the best man is but the full and perfected expression of the worth and power hidden in the worst,—believes that in point of art it is right to express in speech all that is true in fact, and to regard all processes and things, natural or mechanical, that have once been associated with man as sanctified thereby. The "<hi rend="italic">homo sum</hi>" and the deductions drawn from it, have never found a more zealous advocate.</p>
+ 
+         <p>It is difficult to describe a mind so varied and yet so peculiar in a few phrases. Yet we will venture to designate Mr. Whitman as a wide, sincere, passionate thinker,—presenting in himself a new combination of separate views, which are not particularly new in themselves. This is not said to his disadvantage, for truisms, after all, lie at the root of the world's progress. The expansiveness of his mind includes imagination, no doubt, but rather as a constituent than as a characteristic. He resembles those vast tracts of country in which is found the utmost diversity of surface, and in which long intervals of homely or even barren scenery precede and succeed glorious manifestations of Nature. He is so large and generic in his mode of thinking that he often scatters beauty in the seed rather than reveals it in the flowers; at other times, nothing can surpass the truthful minuteness with which he paints the most delicate <hi rend="italic">nuances</hi> of feeling. He is a fine poet, though it would be a great error to say that all is poetry to which he has given the name.</p>
+ 
+         <p>For a brief and excellent summary of Whitman's life and writings, we refer the reader to Mr. Rossetti's Preface—a composition disfigured only by a somewhat puerile display of contempt for his fellow critics. His allegations against them may or may not be just; but their errors, if real, would have been more gracefully improved by that superior example which Mr. Rossetti so consciously affords, than by his unnecessary invectives.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00104">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="days">[Review of <hi rend="italic">Specimen Days and Collect</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Edward Dowden</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00104</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Dowden, Edward">Edward Dowden</author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Academy</title>
+                  <imprint>
+                     <date when="1882-11-18">18 November 1882</date>
+                     <biblScope type="volume">22</biblScope>
+                     <biblScope type="pages">357-9</biblScope>
+
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-07">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+            <ab>
+               
+                   
+                     <hi rend="italic">Specimen Days and Collect</hi>
+                   
+                  By Walt Whitman. 
+                   
+                      (Philadelphia:  
+                      Rees Welsh &amp; Co.)  
+                   
+               
+            </ab>
+         
+
+         <p>"E<hi rend="smallcaps">CHOES AND</hi> E<hi rend="smallcaps">SCAPADES</hi>," "Drifts and Cumulus," "Notes of a Half-Paralytic"—these and other titles for his bundle of jottings, made during and after the war, were rejected by Whitman; and for a while he hovered about a title which would have suggested a comparison between this cluster of open-air thoughts and observations and the berries of the wild cedar-tree of America.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                        <!-- from Specimen Days & Collect -->
+                     </relations>
+                     <p>"A melange of loafing, looking, hobbling, sitting, traveling—a little thinking thrown in for salt, but very little—not only summer but all seasons—not only days but nights—some literary meditations—books, authors examined, Carlyle, Poe, Emerson tried (always under my cedar-tree, in the open air, and never in the library)—mostly the scenes everybody sees, but some of my own caprices, meditations, egotism—truly an open air and mainly summer formation—singly or in clusters—wild and free and somewhat acrid."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The acrid taste is no more than a pleasant sharpness now and again; and in the main these "Notes of a Half-Paralytic" are sweet and sane and nourishing, more, perhaps, than their writer knows or can know. No diary of an invalid is wholesomer reading than this; never a groan or a growl, never a word of complaint; but every bright hour, every breeze of health, every delight in flower and bird and stream and star, and in the kind voice or hand of a friend, remembered and recorded. Always, in this invalid's diary, the pure, fresh air, and the sky overhead; never the blinds drawn down, the table crowded with medicine bottles, and the foot of the spiritual medicine-man upon the threshold:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                        <!-- from Specimen Days & Collect -->
+                     </relations>
+                     <p>"Doubtless in the course of the following, the fact of invalidism will crop out (I call myself a <hi rend="italic">half-Paralytic</hi> these days, and reverently bless the Lord it is no worse) between some of the lines—but I get my share of fun and healthy hours, and shall try to indicate them. (The trick is, I find, to tone your wants and tastes low down enough, and make much of negatives, and of mere daylight and the skies.)"</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>From 1876, when Whitman began to get over the worst of the tedious and baffling illness, ascribed by physicians to his exertions in the hospitals during the war, he spent portions of several seasons at a secluded haunt in New Jersey—Timber Creek, its stream (almost a river) entering from the great Delaware twelve miles away, "with primitive solitudes, recluse and woody banks, sweet-feeding springs, and all the charms that birds, grass, wild-flowers, rabbits and squirrels, old oaks, walnut-trees, &amp;c., can bring." Down the long farm-lane he would hobble to a lonely pond, where the creek expands and the kingfishers dart and turn; and so, still sauntering on, "to the spring under the willows—musical as soft-clinking glasses—pouring a sizeable stream, thick as my neck, pure and clear, out from its vent, where the bank arches over." And here, enveloped for the month of May in the droning of bumble-bees, listening to the clear quailnotes in June, or the roulades and pensive refrains of the hermit-thrush, Whitman would take his seat on log or stump, and (the journalist's ruling passion strong in age and disablement) would jot down his notes—notes not for the buoyant and healthy alone, but meant just as well for ailing folk:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                        <!-- from Specimen Days & Collect -->
+                     </relations>
+                     <p>"Who knows (I have it in my fancy, my ambition) but the pages now ensuing may carry ray of sun, or smell of grass or corn, or call of bird, or gleam of stars by night, or snowflakes falling fresh and mystic, to denizen of heated city-house, or tired workman or workwoman?—or may-be in sick room or prison—to serve as cooling breeze, or Nature's aroma, to some fever'd mouth or latent pulse."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Sometimes he would run down by rail to the New Jersey sea-shore; and on those flat and odorous sea-prairies, their sedgy perfume in his nostrils, he would revive the sights and sounds and smells of his Long Island youth, the "stretch of interminable white-brown sand, hard and smooth and broad, with the ocean perpetually, grandly rolling in upon it, with slow-measured sweep, with rustle and hiss and foam, and many a thump as of low bass drums." Or, back again in his Camden home, he would cross and recross the Delaware, helped by the friendly pilots ("Eugene Crosby, with his strong, young arm so often supporting, circling, convoying me over the gaps of the bridge, through impediments, safely aboard"), and would enjoy the stir and play of the delightful "human comedy," or would invite his soul, and absorb the spectacle of the starry heavens.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                        <!-- from Specimen Days & Collect -->
+                     </relations>
+                     <p>"<hi rend="italic">A January Night.</hi>—Fine trips across the wide Delaware to-night. Tide pretty high, and a strong ebb. River, a little after eight, full of ice, mostly broken, but some large cakes making our strong-timber'd steamboat hum and quiver as she strikes them. In the clear moonlight they spread, strange, unearthly, silvery, faintly glistening, as far as I can see. Bumping, trembling, sometimes hissing like a thousand snakes, the tide-procession, as we wend with or through it, affording a grand undertone, in keeping with the scene. Overhead, the splendor indescribable; yet something haughty, almost supercilious, in the night. Never did I realise more latent sentiment, almost passion, in those silent interminable stars up there. One can understand, such a night, why, from the days of the Pharaohs or Job, the dome of heaven, sprinkled with planets, has supplied the subtlest, deepest criticism on human pride, glory, ambition."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>We have record of visits to New York, and a sail in the bay, with a little lyrical cry at sight of the schooner-yachts going in a good wind—"those daring, careening things of grace and wonder, those white and shaded swift-darting fish-birds (I wonder if sea or shore elsewhere can outvie them), ever with their slanting spars, and fierce, pure, hawk-like beauty and motion." But the procession of gentility and wealth in Central Park is not altogether to Whitman's liking; and in his criticism of modern society, although at bottom he believes that the American people remains sound, there are pages (to quote Mr. Ruskin's words with respect to Whitman's writings) "deadly true—in the sense of rifles—against our deadliest sins." More than once Whitman voyaged up the Hudson to the honeysuckle-and-rose-embowered cottage of John Burroughs, the delightful writer of <hi rend="italic">Wake Robin</hi> and <hi rend="italic">Pepacton</hi>; and in September 1879 he found himself strong enough to begin a long jaunt to the West, seeing Missouri, Kansas, and Colorado, at Denver turning south, and then east again. The sea-like spread of prairies, the wild gorges, the streams of amber and bronze, brawling along their beds with frequent cascades and snow-white foam, the fantastic forms of mountains bathed in transparent browns, faint reds and grays, the free handling and absolute uncrampedness of the landscape, the superb physique of the miners, their character shaped by their victorious tussles with savage nature (but alas, the genteel ladies of the West, copying unsuccessfully their Eastern sisters!)—these, with a few inevitable reserves, were all acceptable to, and accepted by, the author of <hi rend="italic">Leaves of Grass</hi>. A later journey to Canada, the sight of Niagara, a visit to the hospitable house of his friend Dr. Bucke at London, then up the black waters of the Saguenay a hundred miles, the region more grim, more wildly beautiful, "with a sort of still and pagan <hi rend="italic">scaredness</hi>," than any he had seen yet, comprised the last of Whitman's wanderings. A Sunday service with the insane at the asylum under the care of Dr. Bucke brought Whitman face to face with some of those "laggards" in the race who have ever been dear to his heart:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                        <!-- from Specimen Days & Collect -->
+                     </relations>
+
+                     <p>"I was furnish'd with an arm-chair near the pulpit, and sat facing the motley, yet perfectly well-behaved and orderly, congregation. The quaint dresses and bonnets of some of the women, several very old and gray, here and there like the heads in old pictures. O the looks that came from those faces! There were two or three I shall probably never forget. Nothing at all markedly repulsive or hideous—strange enough I did not see one such. Our common humanity, mine and yours, everywhere—</p>
+
+                     <p>'The same old blood—the same red, running blood;' yet behind most, an inferr'd arriere of such storms, such wrecks, such mysteries, fires, love, wrong, greed for wealth, religious problems, crosses—mirror'd from those crazed faces (yet now temporarily so calm, like still waters), all the woes and sad happenings of life and death—now from everyone the devotional element radiating—was it not, indeed, <hi rend="italic">the peace of God that passeth all understanding</hi>, strange as it may sound?"</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Connected with the notes of convalescence in this volume are Whitman's previously published memoranda of the war; and the national frenzy and agony (with underlying sanity and strength) of the one period goes well with the tender calm and restorative happiness of the other. His lecture on Lincoln, a record of his visits to Emerson and Longfellow, a reminiscence and a criticism, severe, yet sympathetic, of Edgar Poe, will interest readers who care to see great or distinguished persons through a poet's eyes. At Emerson's grave he muses:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                        <!-- from Specimen Days & Collect -->
+                     </relations>
+                     <p>"A just man, poised on himself, all-loving, all-inclosing, and sane and clear as the sun. Nor does it seem so much Emerson himself we are here to honor—it is conscience, simplicity, culture, humanity's attributes at their best, yet applicable, if need be, to average affairs…How shall I henceforth dwell on the blessed hours when, not long since, I saw that benignant face, the clear eyes, the silently smiling mouth, the form yet upright in its great age—to the very last, with so much spring and cheeriness, and such an absence of decrepitude, that even the term <hi rend="italic">venerable</hi> hardly seemed fitting?"</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The tribute is made of more worth by Whitman's keen perception of the limita- tions of Emerson's genius. Elsewhere there is eloquent recognition of the work done for American literature by Longfellow, Bryant, Whittier. I miss from this collection of notes an admirable piece of criticism on Burns, published in <hi rend="italic">Our Land and Time</hi> (January 25, 1875). In Edgar Poe, Whitman finds neither the genius for perfect and noble living and thinking, morally without flaw, happily balanced in activity, nor "that other shape of personality dearer far to the artist-sense (which likes the strongest play of lights and shades) where the perfect character, the good, the heroic, although never attain'd, it never lost sight of, but through failures, sorrows, temporary downfalls, is return'd to again and again" (so with Burns, Byron, George Sand):</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00458" cert="absolute"/>
+                        <!-- from Specimen Days & Collect -->
+                     </relations>
+                     <p>"Almost without the first sign of moral principle, or of the concrete and its heroisms, or the simpler affections of the heart, Poe's verses illustrate an intense faculty for technical and abstract beauty, with the rhyming art to ex- cess, an incorrigible propensity towards nocturnal themes, a demoniac undertone behind every page—and, by final judgment, belong among the electric lights of imaginative literature, brilliant and dazzling, but with no heat…In a dream I once had, I saw a vessel on the sea, at midnight, in a storm. It was no great full-rigg'd ship, nor majestic steamer, steering firmly through the gale, but seem'd one of those superb little schooner-yachts I had so often seen lying anchor'd, rocking so jauntily in the waters around New York, or up Long Island Sound—now flying uncontroll'd with torn sails and broken spars through the wild sleet, and winds and waves of the night. On the deck was a slender, slight, beautiful figure, a dim man, apparently enjoying all the terror, the murk, and the dislocation of which he was the centre and the victim. That figure of my lurid dream might stand for Edgar Poe, his spirit, his fortunes, and his poems -themselves all lurid dreams."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Beside "Democratic Vistas," known to all who value Whitman, this volume contains the recent articles by him in the <hi rend="italic">North American Review</hi> ("Poetry to-day in America" and "A Memorandum at a Venture"), the prefaces to the several editions of his poems, and some pieces written in early youth—short tales and poems—printed now to avoid the annoyance of a surreptitious issue which had been announced.</p>
+
+         <p>Among other restoratives of health one could wish that Whitman would some time try a voyage across the Atlantic. With Mr. Tennyson, Mr. Ruskin, Mr. Rossetti, Mr. Symonds, Mr. Swinburne, Mr. W. Bell Scott, Mr. R. Hengist Horne,<ref target="n1" xml:id="r1" n="1"/> Mr. Robert Buchanan,<ref target="n2" xml:id="r2" n="2"/> Mr. Robert L. Stevenson, the Hon. Roden Noel,<ref target="n3" xml:id="r3" n="3"/> and others known and unknown, desirous to give him friendly greeting, he might have among us, in American phrase, "a good time.</p> 
+
+         <closer>
+            <signed rend="right">E<hi rend="smallcaps">DWARD</hi> D<hi rend="smallcaps">OWDEN</hi>.</signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Richard Henry (Hengist) Horne (1803-1884) was an English poet and critic.
+</note>
+
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+Robert Williams Buchanan (1841-1901) was a British poet, novelist and dramatist.  His article entitled "The Fleshly School of Poetry" published in the <hi rend="italic">Contemporary Review</hi> (October 1871), was notorious for its criticism of the poetry of Dante Gabriel Rossetti, Algernon Swinburne and others.
+</note>
+
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+Roden Berkeley Wriothesley Noel (1834-1894) was an English poet; his best-known book of verse was <hi rend="italic">A Little Child's Monument</hi> (1881).
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

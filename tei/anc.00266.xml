@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00266">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+          <author>
+                <choice>
+                   <orig>T. V.</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               <persName xml:id="ss">Sarah Synovec</persName>
+               <persName xml:id="se">Sabrina Ehmke Sergeant</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00266</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice>
+                        <orig>T. V.</orig>
+                        <reg>unknown</reg>
+                     </choice>
+                     <title level="a">Walt Whitman</title>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Liberator</title>
+                  <imprint>
+                     <date when="1860-09-07">7 September 1860</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2008-10-24">updated header and validated</change>
+         <change who="#ss" when="2008-10-23">encoded</change>
+         <change who="#se" when="2008-09-30">transcribed and encoded from digital images and photocopies of the original</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main-authorial">Walt Whitman.<ref target="n1" xml:id="r1" n="1"/>
+         </head> 
+
+         <p>Ekas, ekas, este bibelot, was the exorcism uttered by the grand mystagogue before beginning the ceremony of initiating an aspirant into the mysteries of Bacchus. Now, although we are no mystagogue, and do not profess a knowledge of Bacchic or other mysteries of that sort, we nevertheless feel inclined respectfully to request all merely pedantic, low—minded and profane persons to remove themselves out of this presence, while we speak of a man who is neither low—minded, pedantic, nor profane—Walt Whitman.</p>
+
+         <p>Ruskin says we should 'go to nature in all singleness of heart, and walk with her laboriously and trustingly, having no other thought but how best to penetrate her meaning; rejecting nothing, selecting nothing, scorning nothing.'<ref target="n2" xml:id="r2" n="2"/> That this man has been content thus to look upon nature in her unity and diversity, and to permit her to speak in her own mystic and beautiful language, is the secret of the wonderful fascination of his poems. Many individuals of the 'owl species' see nothing but Walt Whitman in these poems. He—'one of the roughs, disorderly, fleshly and sensual'—intrudes himself upon them in every sentence, and repeats 'the unquenchable creed—egotism' on every page. It is undoubtedly a grave offence for an author to thrust his personality between the reader and the truth which the book is intended to embody or set forth. But this is a grand poem of human nature. Man, his origin, nature, and destiny, and the grandeur of these, is the subject; and the author chooses to treat it in the first person, that is all.</p>
+
+         <!-- from poem "Walt Whitman" -->
+         <p>
+            <q who="Walt Whitman" rend="block">
+               <floatingText type="printed">
+                  <body>
+                     <lg type="poem">
+                        <l>"I celebrate myself,</l>
+                        <l>And what I assume you shall assume,</l>
+                        <l>For every atom belonging to me as good belongs to you."</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+         </p>
+
+         <p>This was the first sentence in the poems as originally published, and to us it was the key to everything that followed. We have been drawn irresistibly to the book, again and again, for there is a simple-minded and strong man speaking in his strength and simplicity. Walt comes to us, with his Leaves of Grass, a true child of nature—of the earth and the stars, and of what is beyond. He scornfully refuses to be judged by any ordinary, conventional standard of Art, for he, indeed, is no artist, but the born priest and hierophant of the mystic, unfathomable universe. He sees that everything is divine; that God is in all, over all, and under all; that there is nothing mean, without a purpose, or out of its place. He is so full of profound reverence for the old Divine Mother that she, in return, presses him to her bosom, and showers upon him all the wealth of her limitless love—so full of child-like playfulness, confidence and simplicity, that, as he 'leans and loafes at his ease, observing a spear of summer grass,' all her children press round him with uproarious, sunny laughters, weaving wild flowers in his hair, and kissing him with kisses that breathe the odors of heaven. To him the universe is a miraculum ingens, pregnant with profound mysteries; but he himself is also a miracle—the greatest of miracles. A soft whisper tells him that he is 'the acme of things accomplished.' All the ages have borne him in solemn procession from chaos and primeval night until now. Rise after rise bow the phantoms behind me, Afar down I see the huge first Nothing—I know I was even there.
+</p>
+
+
+         <p>
+            <q who="Walt Whitman" rend="block">
+               <floatingText type="printed">
+                  <body>
+                     <lg type="poem">
+                        <lg type="linegroup">
+                           <l>****</l>
+                        </lg>
+                        <lg type="linegroup">
+                           <l>'Immense have been the preparations for me,</l>
+                           <l>Faithful and friendly the arms that have helped me.</l>
+                           <l>Cycles ferried my cradle, rowing and rowing like cheerful boatmen,</l>
+                           <l>For room to me stars kept aside in their own rings,</l>
+                           <l>They sent influences to look after what was to hold me.</l>
+                        </lg>
+                        <lg type="linegroup">
+                           <l>****</l>
+                        </lg>
+                        <lg type="linegroup">
+                           <l>All forces have been steadily employed to complete and delight me:</l>
+                           <l>Now I stand on this spot with my Soul.</l>
+                        </lg>
+                        <lg type="linegroup">
+                           <l>****</l>
+                        </lg>
+                        <lg type="linegroup">
+                           <l>The SOUL!</l>
+                           <l>Forever and forever—longer than soil is brown and solid—longer than water ebbs and flows.'</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+         </p>
+
+         <p>He takes the loftiest views of man, reverences all his parts, and will not have any thing omitted. He is the poet of the body and of the soul, of the passions and the organs, and of all their manifestations, normal and beautiful, or otherwise. Truth, beauty, goodness, heroism, justice—these he recognizes, receives, and takes courage from them; falsehood, uglines [sic], depravity, cowardice and oppression—he sees these, also, with clear vision, but knows that God and Order reign, not Chaos and the Devil,—and therefore receives them, confident that, for a season, they too have their place. Of the sexes and sexual relation, no previous poet has spoken so freely and so well. This opinion will doubtless astonish many who have read the book. Nor are we surprised that so many find in the 'Enfans d' Adam' only the drunken and obscene ravings of a 'new, astonishing Phallus worship.'  'All architecture is what you do to it when you look upon it.'</p>
+
+
+         <p>
+            <q who="Walt Whitman" rend="block">
+               <floatingText type="printed">
+                  <body>
+                     <lg type="poem">
+                        <lg type="linegroup">
+                           <l>****</l>
+                        </lg>
+                        <lg type="linegroup">
+                           <l>'All music is what awakes from you, when you are reminded by the instruments.'</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+         </p>
+
+         <p>There is such a deep and unmitigated vulgarity and coarseness in the inner life of the people, that no direct allusion can be made to the sexual relations without exciting simpering smiles and blushes, or rude, profane mirth. What of moral elevation, simplicity and genuine purity can there be in a people that persists in speaking of the limbs of a table or chair? We are disgusted with this substitution of seeming for being, and the insufferable cant and hypocrisy to which it gives rise. Thou, friend, who hast hitherto seen nothing but the madness of phallic processions in this poem, go wash thyself, make thyself clean, then return to it and reflect. Think of what precise thing thou hast hitherto made the phallus a symbol, and with what associations—what thou hast done to it when looking upon it! and then decide where the obscenity resides.</p>
+
+         <p>As for us, we heartily thank Walt Whitman for the clear, distinct, manly and pure voice with which he has spoken of these things, and hail it as the dawn of a wiser and better era, in which men and women will no longer speak of the limbs of tables and chairs. Nor will any pure and ingenuous mind torture this into an endorsement of rude, low and lascivious talk, but will rather receive it as the indication of an intense desire to be at once and forever free from all such.</p>
+
+         <p>We have much more to say of Walt—strong, brave lover of man, and uncompromising champion of man's rights, that he is—but must defer it to a more convenient opportunity. In the meantime, we would advise all who have escaped the dominion of the passions and the appetites, and who have any appreciation of the essential dignity of man and the grandeur of his destiny, to buy the book, and read it.</p>
+
+
+         <closer>
+            <signed>T. V.</signed>
+         </closer>
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">For information concerning the circumstances surrounding this review's publication in the <hi rend="italic">Liberator</hi>, please see Ezra Greenspan's article, "An Undocumented Review of the 1860 Leaves of Grass in the Liberator," <hi rend="italic">WWQR</hi> 24.4 (2007): 201-207. <ref target="http://www.uiowa.edu/~wwqr/greenspan_article_Spring%202007.pdf">http://www.uiowa.edu/~wwqr/greenspan_article_Spring%202007.pdf</ref>
+               </note>
+
+               <note type="editorial" xml:id="n2" target="r2" n="2">This quotation is taken from the John Ruskin's 1843 volume entitled <hi rend="italic">Modern Painters</hi>.</note>
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

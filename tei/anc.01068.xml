@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.01068">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" corresp="lg1860">Leaves of Grass&#8212;By Walt Whitman</title>
+                <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+                <title level="a" type="sub">a machine readable transcription</title>
+                
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="kp">Ken Price</persName>
+                    <persName xml:id="kb">Kyle Barton</persName> 
+                    <persName xml:id="el">Elizabeth Lorang</persName> 
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>National Endowment for the Humanities</funder>
+                <funder>The United States Department of Education</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>anc.01068</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+                <availability>
+                    <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+                </availability>
+            </publicationStmt>              
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author key="unknown">
+                            <choice><orig>unsigned</orig>
+                                <reg>unknown</reg></choice>
+                        </author>
+                        <title level="a">Leaves of Grass&#8212;By Walt Whitman</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">The New York Illustrated News</title>
+                        <imprint>
+                            <biblScope type="volume">36</biblScope>
+                            <date xml:id="dat1" cert="high" when="1860-05-26">26 May 1860</date>
+                            <biblScope type="pages">429</biblScope>
+                        </imprint>
+                    </monogr>
+</biblStruct>
+            </sourceDesc>            
+        </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+        <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+            <change when="2015-09-16" who="#el">updated TEI header and encoding</change>
+            <change when="2012-10-31" who="#jc">fixed typos and other minor issues</change>
+            <change when="2012-10-30" who="#kp">blessed</change>
+            <change when="2011-11-01" who="#el">checked</change>
+            <change when="2011-10-29" who="#kb">revised</change> 
+            <change when="2011-10-27" who="#el">checked</change> 
+            <change when="2011-10-25" who="#kb">transcribed, encoded</change> 
+        </revisionDesc>                       
+    </teiHeader>
+    
+    <text type="ancillary">
+        <body>
+            
+            <head type="main-authorial">Leaves of Grass&#8212;By Walt Whitman.</head>
+            
+            <p>Walt Whitman's new volume of poems, which he very quaintly calls "Leaves of Grass" has come to hand. We have looked for it with more than ordinary interest, as men look for good tidings from a far country. For this man, we know, has a message, no matter how uncouth the form of it, to deliver to us, and to this generation. An authentic message!&#8212;which he has not learned in any school, at second hand, or gathered from books&#8212;or torn from parchment records, long since dead in monastic graves&#8212;but alive with God and the great fiery heart of the universe to-day, full of wild eloquence, and of all manner of intellectual and spiritual magnetisms.</p>
+            <p>It is not some seven, or eight, or more years ago, since this author&#8212;this Manhattan poet, who gives us so many antique and modern thoughts, so many new, strange, and startling images, and things suggestive of an imagery, which has no material archetype&#8212;cast his first grass leaves upon the waters, hoping as the prophecy declares of all vital things, that he should find them again&#8212;and that the world should find them&#8212;after many days. We, for one, carefully reading them at the time, had no manner of doubt nor shadow of a misgiving that such in their case, would be the issue. And here, after so long a lapse of time,&#8212;hundreds and thousands of highly bepraised books, in the mean while, having passed through the fires to <choice><sic>Molech</sic><corr>Moloch</corr></choice>,<ref target="n1" xml:id="r1" n="1"/> and having been there consumed in the Gehenna Hell which is the just doom-place of rubbish&#8212;hundreds and thousands more still following them day by day, and will still continue to follow them until men cease to be fools&#8212;here we say is this book of Grass Leaves as fresh as ever, as redolent as ever of May flowers, and meadow bloom, and the aroma of woods and prairies.</p>
+            <p>We find many things new and old in this book; the old, welcome as the familiar faces of the old Gods to the first lovers and worshipers of the Gods&#8212;the new, bright with a radiance which is all their own, and welcome also for their surpassing beauty, and the new life which they bring. For these poems of Walt Whitman are no silly word-catching&#8212;no mere musical claptrap done into dainty feet with measured and mathematical precision&#8212;but they are the very life of the man, fragments both of his body and soul, with a genuine creative power in them big enough to create a soul under the ribs of death himself. The strongest man may refresh himself at the fountains of this shaggy aboriginal giant&#8212;who sits on the threshold of nature's arcane&#8212;his hands full of sunbeams; his mouth musical with so many sweet laughters, his whole face illuminated with the wise and beneficent mirth of the arcane Gods.</p>
+            <p>And if any one be inclined to call this rhapsody, let him prove his right to speak by producing his letters of competency. To all cavillers, questioners, and doubters, to all flippant young gentlemen of the French school, who do the brilliant for Bohemian clubs and Bohemian newspapers, to all drawing-room Fire-flies, and Will-o'-the-Wisps in general. who have so much to say and say nothing, we will offer them this admonishment: Hold your peace. This man is not for you, nor such as you. He speaks to men, not to lumbering journeymen, nor conceited apes, nor to anything of the breed of these. But if a brave, truthful reader, who is not afraid of hearing much that is too Hebraic to be polite, which any vulgar mind can make vulgar, and obscene ever, but which from the author's stand-point is by no means vulgar, but as sacred as the soul itself&#8212;if, we say, he be not afraid of such sentence as these, but will bear with them, and get their value out of them, whatever it may prove to be to him, for the sake of other and infinitely better, purer, wiser matters which he will assuredly find in these poems, we can commend and authorize him to address himself straightway to the work.</p>
+            <p>For the first time in American history a native poet sings to us of America. Your Longfellows, and Lowells, and Whittier&#8212;your male-men writers of all sorts, and your female-women writers of all sorts, may, if they please, and as they please, ignore America and its grand people and institutions, the struggles, battles, and conquests, the hopes, and loves, and hates, and all the fiery passions of the people; may write themselves unbelievers in the destiny of American civilization, atheists to their country, and go along to their lives' end, singing their dead songs about dead Europe, and its stupid monks and priests, its chivalry, and its thing a-my-bobs called kings&#8212;but not so this new comer, and great believer, this devout and prophetic son of America, born of the people of the soil. For him, to-day, is as great as any yesterday; as full, too, of romance and poetry; for he brings with him the eyes to see and the ears to hear, and the words to speak all the things which he thinketh. God has so gifted this new man, and has so educated him with faith in the present and the actual, in the future and the inevitable.</p>
+            <p>He sees nothing mean and low, nothing common any where around him. He is entranced by the miracle of existence, and wonder worlds open beneath him and around him wherever he walks, whatever he touches. All material things are suspended upon a scaffolding of impalpable thought&#8212;a living scaffolding of thought which, indeed, is the only reality; the material, being a phantasm which it projects, and to which it gives shape and form, motive and activity. This orientalism of vision, however, so far from being offensive, or even obtrusive, is the great underlying charm of the book, and its chief fascination, by which he holds the right reader with a magnetism as strong as the Poles. he is the most oriental and the most American of Americans. A strong, practical common sense runs through all his sentences; and he every where calls things by their right names, and uses no rosewater. You shall laugh and cry with him&#8212;but no man can laugh at him&#8212;even in his bluntest, rudest and most informal speech. We can see that whatsoever appertains to the honor, interest, learning, literature, culture, manners, laws and government of America, is very dear to him; dearer than all the world beside; and we love him for his love of this great and magnificent land. Legislators and literats, and office-seekers, and brilliant beer-drinkers, and grog drinkers, and the mob who hate law and government, may forget that they are Americans&#8212;may defame and traduce their country, sell its honor for a mess of pottage or try to make it a French stew by inoculating us with French notions, French books and French morals and habits&#8212;but not so, Whitman! True as the needle to the North is he true to his country, to the brave mother language, and to the American people.</p>
+            <p>We are well aware, and so doubtless is he that from the very structure and form of his verse he is more open to parody and burlesque than any living writer. Smart young gentle men of the ginger-beer sort, have tried their hands with immense success at this work&#8212;hitting us and the form, and, as usual, missing the spirit, the genius, the fine aroma of thought which breathe through the original. We are not disposed to give unqualified praise to Mr. Whitman, and we honestly think that he has written many things which, considering that women also and young girls go to make up the world, he might far better have left unwritten. We have no faith in Priapus, nor in the Phallic Symbolism. All that kind of worship and literature is long since dead for all good purposes&#8212;and needs no revival. And it seems sad to us&#8212;speaking from the common platform of the sexes&#8212;that so admirable a book should be marred by passages which put a taint upon its general purity.</p>
+            <p>People call Whitman an egotist&#8212;and he is no doubt an egotist of the most imperial sort. But he often speaks in his own name, when he represents the "Cosmos," and all nature and humanity. The reader must not always confound his personal pronouns with the poet's license of universality. He often speaks for the race when he appears to be speaking for himself. There can be no question, however, that Leaves of Grass are, on the whole, as genuine a piece of autobiography as that of Augustine, or Gibbon, or the Confessions of Rosseau.</p>
+            <p>And for the claims of this book to be called a book of poems, we will venture to say that there is more true poetry in it than would float any dozen modern volumes which the critics dignify with the name of poetry. We have already written so much that we can make no quotations here; but we look in vain out of these pages for any other voice which speaks for America&#8212;and speaks for her with equal power.</p>          
+        </body>
+        <back>
+            <div1 type="notes">
+                <p>
+                    <note type="editorial" xml:id="n1" target="r1" n="1">This word is misspelled in the original.</note>
+                </p>
+            </div1>
+            </back>
+    </text>
+</TEI>
+    
+    

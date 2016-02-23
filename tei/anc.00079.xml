@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00079">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Leaves of Grass</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00079</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Leaves of Grass</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Sunday Herald</title>
+                  <imprint>
+                     <date when="1881-10-30">30 October 1881</date>
+                     <biblScope type="pages">3</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-12">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div1 type="review">
+
+            <head type="main-authorial">"LEAVES OF GRASS." <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <head type="sub">The Complete Poems of Walt Whitman</head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <head type="sub"> As Published by a Famous Boston House.</head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <head type="sub">A Friendly Characterization of the Poet's Work.</head>
+
+            <div2 type="part">
+
+               <p>When a great man gets ahead of the world he has but to wait quietly and the world will come around to where he is. When Walt Whitman was welcomed to Olympus a quarter of a century ago, his greatness was as secure as it is today, when he is acknowledged by the people whose greatness inspires his verse. In all quarters of the Union, North, South, East and West, Walt Whitman has the warmest personal friends who, if they have not met him face to face, have felt the grasp of his hand in his words. No other man has expressed his personality so strongly in his poems. One of the best characterizations of "Leaves of Grass" is that of a lady, who said: "It does not read like a book; it seems like a man." The publication of the complete poems of Walt Whitman by one of the leading publishers of the United States is a literary event, for through it the greatest American poet has come to the birthright denied him so long. It has, indeed, mattered little to him, for he has bided his time patiently and serenely, and when such captains of the mind as Emerson and Tennyson reached out their hands in friendly recognition, he could rest satisfied that the multitude would some day acknowledge the prophet hailed by those leaders. The date of the following lines seem remote enough:</p>
+
+               <q who="Ralph Waldo Emerson" type="printed">
+                  <floatingText type="letter">
+                     <body>
+                        <div1 type="letter">
+
+                           <p rend="right">C<hi rend="smallcaps">ONCORD</hi>, Mass., July. 1855.</p>
+
+                           <p>Dear Sir: I am not blind to the worth of the wonderful gift of the "Leaves of Grass." I find it the most extraordinary piece of wit and wisdom that America has yet contributed. I am very happy in reading it as great power makes us happy. It meets the demand I am always making of what seemed the sterile and stingy nature, as if too much handiwork or too much lymph in the temperament were making our western wits fat and mean. I give you joy of your free and brave thought. I have great joy in it. I find incomparable things said incomparably well as they must be. I find the courage of treatment which so delights us, and which large perception only can inspire.</p>
+
+                           <p>I greet you at the beginning of a great career, which yet must have had a long foreground somewhere for such a stint.  I rubbed my eyes a little to see if this sunbeam were no illusion, but the solid sense of the book is a sober certainty. It has the best merits, namely, of fortifying and encouraging. I did not know, until I last night saw the book advertised in a newspaper, that I could trust the name as real and available for the postoffice. I wish to see my benefactor, and have felt much like striking my tasks and visiting New York to pay you my respects.</p>
+
+                           <closer>
+                              <signed rend="right">
+                                 R. W. Emerson.</signed>
+                           </closer>
+                        </div1>
+                     </body>
+                  </floatingText>
+               </q>      
+
+
+               <p>Though these words were afterward somewhat taken back—a little Galileo-like, through fear of the New England pope called prudery—it was the true Emerson who spoke his heart then. "Leaves of Grass" have been harvested several times and bound in sheaves of various form, from the quaint first edition, which was both body and soul, the work of Walt Whitman, to that of the New York Publisher who was so frightened at what he had done that he</p>
+
+            </div2>
+
+            <div2 type="part">
+
+               <head type="main-authorial">BACKED OUT AS SOON AS POSSIBLE;</head>
+
+               <p>that of the Boston publisher, which has been the standard for many years because of the implied demand; the personal edition published by the poet himself; one or more of the English editions, and now at last the edition just published by James R. Osgood &amp; Co., a compact volume of 382 pages, with all the elements of attractive typography, binding form and price needed for the great popular success which the work is sure to achieve. That beside its assured hearty reception the book will be much maligned and ridiculed is a matter of course, for as it is read more so will there be more opposition to its lessons. But it is a test of greatness that ridicule it as much as you will, the ridicule will not stick. Walt Whitman has survived the great storms that have assailed him and his fame is secure from the pattering of little showers.</p>
+
+               <p>The new edition contains all his poems; the only changes that have been made are in the way of condensation of utterance. There are, also, something like 20 new poems printed direct from the manuscript. There is more of a rounding and completeness of the work; the all embracing patriotism which forms one of the poet's grandest characteristics is more comprehensive than ever before manifested.  Walt Whitman did yeoman service for the Union in the hospitals of the field during the war, and he loves the whole Union. He has a warm place in his heart for the South, and it is manifested on many pages of this new edition. He writes:</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"I am of old and young, of the foolish as much as the <lb/>wise,</l>
+                              <l>Regardless of others, ever regardful of others,</l>
+                              <l>Maternal as well as paternal, a child as well as a man,</l>
+                              <l>Stuff'd with the stuff that is coarse and stuff'd with <lb/>stuff that is fine.</l>
+                              <l>One of the nation of many nations, the smallest the same <lb/>and the largest the same,</l>
+                              <l>A southerner soon as a northerner."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>The titles of a number of poems have been changed, notably that of the great poem of the work, that which strikes the key note of the volume, "Walt Whitman," being now known as "Song of Myself." At the beginning of this song is a portrait of the poet as he was when "Leaves of Grass" was gestating, a steel engraving from an old daguerreotype taken in 1856 when Walt Whitman was 37 years old. He was then a carpenter, building and selling cottage houses in Brooklyn, and the picture was taken impromptu one warm June afternoon by Gabriel Harrison. The picture is well described by the lines:</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"Apart from the pulling and hauling stands what I <lb/>am,</l>
+                              <l>Stands amused, complacent, compassionating, idle, <lb/>unitary,</l>
+                              <l>Looks down, is erect, or bends an arm on an <choice><orig>impalpa-<lb/>ble</orig><reg>impalpable</reg></choice> certain rest.</l>
+                              <l>Looking with side-curved head curious what will come <lb/>next.</l>
+                              <l>Both in and out of the game, and watching and wondering <lb/>at it."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+            </div2>
+
+            <div2 type="part">
+
+               <head type="main-authorial">THE OLD OBJECTIONS</head>
+
+               <p>will, of course, be brought up. Many will say they agree with the ideas, but what is the use of printing them in the shape of poetry? Because it reads better that way, and it is poetry of the noblest kind, may be answered. Why is it that so many still insist that conventional form is necessary to poetry? Do they admire flowers most, or the vase? In Milton's day many maintained that "Paradise Lost" was not a poem because it was not in rhyme. In the "Leaves of Grass" the blades are of unequal length, but they are ever fresh and beautiful, and full of sweet nutriment. Thought, and truth, and strength, and nobility, and grand proportions, whose symmetry belittles inequalities of metre, are all there, and rhythmic swing is there. Is anything more needed for poetry?</p>
+
+               <p>One of the great features of Walt Whitman is that he does not seek his ideals in far away times, which stripped of their glamour of, remoteness, are but as the times of today; or, in supreme moments, he idealizes the commonplace, and has the clearness of vision that discerns the gleam of gold through all the accumulated dross.</p>
+
+               <p>The large and the magnificent tolerance that includes all and allows for all, and finds a place for all, is a sublime characteristic of the man. There is so much in these lines that they cannot be packed into layers of equal length. The book teems with the ecstasy of being. The statement of details into which the poet now and then drops has been criticised as "cataloging." But viewed with the poet's intention, what a mosaic picture of the people, of the nation and its races, is thus constituted! One sees the stir and hears the hum of the entire land; feels the pulse of the multitude. What is the use of attempting to depict such a thing—it can't be all shown. But the effect is like a gleam of sunshine in the depths of a forest; it reveals many things with vivid distinctness; there is a vast reserve of hidden things which might be seen, but enough is shown to tell what is there—to give the character of the place. Do not these fragments, picked from different parts of the country, at random, give an idea of what the life of that country is:</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"The groups of newly-come immigrants cover the <lb/>wharf or levee,</l>
+                              <l>As the wooly-pates hoe in the sugar field, the <choice><orig>over-<lb/>seer</orig><reg>overseer</reg></choice> views them from his saddle.</l>
+                              <l>The bugle calls in the bedroom, the gentlemen run for <lb/>their partners, the dancers bow to each other.</l>
+                              <l>The youth lies awake in the cedar-roof'd garret and <lb/>harks to the musical rain,</l>
+                              <l>The wolverine sets traps on the creek that helps fill <lb/>the Huron.</l>
+                              <l>The squaw, wrapt in her yellow-hemm'd cloth, is <choice><orig>offer-<lb/>ing</orig><reg>offering</reg></choice> mocassin and bead bars for sale,</l>
+                              <l>The connoisseur peers along the exhibition gallery, <lb/>with half-shut eyes bent sideways."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q> 
+
+            </div2>
+
+            <div2 type="part">
+
+               <head type="main-authorial">THE WANT OF ARTISTIC GRACE</head>
+
+               <p>in form is compensated for by the artistic picturesqueness of form; in a measure, the poet makes pictures of his poems, and thus strengthens their individuality. For instance, the frequent use of italics and parentheses and the choice of odd words now and then—a bit of Spanish or French. <hi rend="italic">Camerado</hi> and <hi rend="italic">Libertad</hi> are favorites. These foreign words and phrases seem to depict unassimilated fragments floating on the life-current of the nation.</p>
+
+               <p>Many intelligent people fail to comprehend; they can't see what the poet is driving at—it is all so strange and unwanted, or unlike previous models. They get too close to the canvass; they see nothing but paint and brush marks; they do not take it all in—they do not see the picture. What a daring use of color! Only a strong man could wield such a brush. Should a weaker man attempt such bold figures; he would make himself ridiculous; it  would seem like affectation, as it would should he wear unconventional dress. But Walt Whitman can carry it off. He looks exceeding well in his broad hat, wide collar and suit of modest gray. We all want more freedom of movement, but he can afford to take it and is not afraid. Read this vivid description of a sunrise:</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"To behold the day-break!</l>
+                              <l>The little light fades the immense and diaphanous <lb/>shadows.</l>
+                              <l>The air tastes good to my palate.</l>
+                              <l>Hefts of the moving world at innocent gambols silently <lb/>rising freshly exuding,</l>
+                              <l>Scooting obliquely high and low.</l>
+                              <l>Something I cannot see puts upward libidinous <lb/>prongs,</l>
+                              <l>Seas of bright juice suffuse heaven."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q> 
+
+               <p>And this from one of the many pictures of death:</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"And as to you, corpse, I think you are good manure, <lb/>but that does not offend me.</l>
+                              <l>I smell the white roses sweet-scented and growing.</l>
+                              <l>I reach to the leafy lips, I reach to the polish'd breasts <lb/>of melons."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>  
+
+               <p>There is much that will not be understood by many, much to  which many will object, but as willing guests who approach a beautifully spread table, upon which are dishes which some like and dislike, and others again can learn to like—there is enough of grandeur and beauty and truth, so that every body can</p>
+
+            </div2>
+
+            <div2 type="part">
+
+               <head type="main-authorial">TAKE AWAY SOMETHING TO HIS TASTE.</head>
+
+               <p>The poems are not to be accepted too literally, and the poet understood to be doing or wishing to do everything which is spoken of under the cover of the first person—he simply expresses his capacity to feel universally; he impersonates all humanity in himself, puts himself in its place, and surveys the universe from his standpoint—as everyone is to himself the central point of the world.</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"I do not say these things for a dollar, or to fill up the <lb/>time while I wait for a boat,</l>
+                              <l>(It is you talking just as much as myself, I act as the <lb/>tongue of you,</l>
+                              <l>Tied in your mouth in mine it begins to be loosen'd)."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>  
+
+               <p>Walt Whitman is the poet of evolution—modern science finds its prophet in him. He conjoins materialism with ideality. He is religious in the largest sense.</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00047" cert="absolute"/>
+                              <!-- from Starting from Paumanok -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"Each is not for its own sake,</l>
+                              <l>I say the whole earth and all the stars in the sky are <lb/>for religion's sake.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>I say no man has ever been half devout enough,</l>
+                              <l>None has ever yet adored or worship'd half enough,</l>
+                              <l>None has begun to think how divine he himself is, <lb/>and how certain the future is."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>The course of the "Song of Myself" is like that of a noble drama, and it has the sublimest moments in its culmination. How sound physical health asserts itself here:</p>
+
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"I think I could turn and live with animals, they are <lb/>so placid and self-contain'd,</l>
+                              <l>I stand and look at them long and long.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>They do not sweat and whine about their condition,</l>
+                              <l>They do not lie awake in the dark and weep for their <lb/>sins.</l>
+                              <l>They do not make me sick discussing their duty to <lb/>God,</l>
+                              <l>Not one is dissatisfied, not one is demented with the <lb/>mania of owning things.</l>
+                              <l>Not one kneels to another, nor to his kind that lived <lb/>thousands of years ago.</l>
+                              <l>Not one is respectable or unhappy over the whole <lb/>earth."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q> 
+
+               <p>What an omnisciently inspired and sustained note in the passages beginning with the following:</p>
+
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">     
+                              <l>"I heard what was said of the universe,</l>
+                              <l>I heard it and heard it of several thousand years;</l>
+                              <l>It is middling well as far as it goes—but is that all!</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Magnifying and applying come I,</l>
+                              <l>Outbidding at the start the old cautions hucksters,</l>
+                              <l>Taking myself the exact dimensions of Jehovah,</l>
+                              <l>Lithographing Kronos, Zeus his son, and Hercules his <lb/>grandson.</l>
+                              <l>Buying drafts of Osiris, Isis, Belus, Brahma, Buddha,</l>
+                              <l>In my portfolio placing Manito loose, Allah on a leaf, <lb/>the crucifix engraved.</l>
+                              <l>With Odin and the hideous-faced Mexitli and every <lb/>idol and image,</l>
+                              <l>Taking them all for what they are worth and not a <lb/>cent more."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q> 
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup"> 
+                              <l>"I do not despise you priest, all time, the world over,</l>
+                              <l>My faith is the greatest of faiths and the least of <lb/>faiths.</l>
+                              <l>Enclosing worship ancient and modern and all between <lb/>ancient and modern."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q> 
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"Cycles ferried my cradle, rowing and rowing like <lb/>cheerful boatmen.</l>
+                              <l>For room to me stars kept aside in their own rings.</l>
+                              <l>They sent influences to look after what was to hold me.</l>
+                              <l>Before I was born out of my mother generations <lb/>guided me.</l>
+                              <l>My embryo has never been torpid, nothing could <lb/>overlay it.</l>
+                              <l>For it the nebula cohered to an orb,</l>
+                              <l>The long, slow strata piled to rest it on.</l>
+                              <l>Vast vegetables gave it sustenance.</l>
+                              <l>Monstrous sauroids transported it in their mouths and <lb/>deposited it with care.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>All forces have been steadily employed to complete <lb/>and delight me,</l>
+                              <l>Now on this spot I stand with my robust soul."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>  
+
+            </div2>
+
+            <div2 type="part">
+
+               <head type="main-authorial">WAS EVER THE COURSE OF CREATION</head>
+
+               <p>more concisely and grandly stated? Does it not make old fables turn pale? It is a lofty height from which all this is said down to the world. Taking the national side of the poet, were the local names ever more truthfully or poetically expressed than in the following:</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00047" cert="absolute"/>
+                              <!-- from Starting from Paumanok -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"The red aborigines,</l>
+                              <l>Leaving natural breaths, sounds of rain and winds, <lb/>calls as of birds and animals in the woods, syllabled to us <lb/>for names.</l>
+                              <l>Okonee, Koosa, Ottawa, Monongahela, Sauk, Natchez, <lb/>Chattahoochee, Kaqueta, Oronoco,</l>
+                              <l>Wabash, Miami, Saginaw, Chippewa, Oshkosh, Walla- <lb/>Walla.</l>
+                              <l>Leaving such to the States they melt, they depart, <lb/>charging the water and the land with names."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q> 
+
+               <p>It is interesting to note some of the favorite passages of the poet's most eminent admirers. The lines previously quoted, "I heard what was said of the universe," are especially admired by J. T. Trowbridge, who knows them by heart. The favorite passage of the late Prof. Clifford, the Englishman, who was one of the first to introduce the poet to transatlantic audiences were the glowing lines to night:</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00048" cert="absolute"/>
+                              <!-- from Song of Myself -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>"I am he that walks with the tender and growing <lb/>night,</l>
+                              <l>I call to the earth and sea half-held by the night.</l>
+                              <l>Press close bare-bosom'd night—press close magnetic <lb/>nourishing night!</l>
+                              <l>Night of south winds—night of the large few stars!</l>
+                              <l>Still nodding night—mad naked summer night.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Smile, O voluptuous cool-breathed earth!</l>
+                              <l>Earth of the slumbering and liquid trees!</l>
+                              <l>Earth of departed sunset—earth of the mountains <lb/>misty-topt!</l>
+                              <l>Earth of the vitreous pour of the full moon just <lb/>tinged with blue!</l>
+                              <l>Earth of shine and dark mottling the tide of the river!</l>
+                              <l>Earth of the limpid gray of clouds brighter and clearer <lb/>for my sake!</l>
+                              <l>Far swooping elbow'd earth—rich apple-blossom'd <lb/>earth!</l>
+                              <l>Smile, for your lover comes.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Prodigal you have given me love—therefore, I to you <lb/>give love!</l>
+                              <l>O unspeakable passionate love."</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+  
+               <p>The favorite poem of Charles Sumner was the first one under the head of "Sea Drift," the idyl of sunny loveliness, called "Out of the Cradle Endlessly Rocking." The poem is too long to quote here, but here is one of its lyrics, the song of two mated birds, "Two Feathered Guests from Alabama":</p>
+
+      
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00131" cert="absolute"/>
+                              <work ref="xxx.00130" cert="absolute"/>
+                              <!-- from Out of the Cradle Endlessly Rocking -->
+                              <!-- also from larger entity Sea-Drift -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>Shine! shine! shine!</l>
+                              <l>Pour down your warmth great sun!</l>
+                              <l>While we bask, we two together.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Two together!</l>
+                              <l>Winds blow south, or winds blow north.</l>
+                              <l>Day come white, or night come black,</l>
+                              <l>Home, or rivers and mountains from home,</l>
+                              <l>Singing all time, minding all time,</l>
+                              <l>While we two keep together.</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q> 
+
+               <p>Of the poems here collected for the first time that written in Platte canon, Colorado, amid its awful ruggedness and grandeur, is a magnificent justification of the poet's methods:</p>
+
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00289" cert="absolute"/>
+                              <!-- Spirit That Form'd This Scene, in full -->
+                           </relations>
+                           <lg type="linegroup">
+                              <l>Spirit that form'd this scene,</l>
+                              <l>These tumbled rock-piles grim and red,</l>
+                              <l>These reckless heaven-ambitious peaks,</l>
+                              <l>These gorges, turbulent-clear streams, this naked <lb/>freshness.</l>
+                              <l>These formless wild arrays, for reasons of their own,</l>
+                              <l>I know thee, savage spirit—we have communed <choice><orig>to-<lb/>gether</orig><reg>together</reg></choice>.</l>
+                              <l>Mine too such wild arrays, for reasons of their own.</l>
+                              <l>Was't charged against my chants they had forgotten <lb/>art?</l>
+                              <l>To fuse within themselves its rules precise and <choice><reg>delicatesse</reg><orig>delica 
+                                 <lb/>tesse</orig></choice>?</l>
+                              <l>The lyrist's measur'd beat, the wrought-out temple's <lb/>grace—column and polish'd arch forgot?</l>
+                              <l>But thou that revelest here—spirit that form'd this <lb/>scene,</l>
+                              <l>They have remember'd thee.</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+            </div2>
+
+            <div2 type="part">
+
+               <head type="main-authorial">IN "ITALIAN MUSIC IN DAKOTA"</head>
+
+               <p>a charming picture is given of the effect of music on a quiet evening at a solitary frontier post. All familiar with the plains will respond to the chord here struck:</p>
+
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00257" cert="absolute"/>
+                              <!-- Italian Music in Dakota, in full -->
+                           </relations>
+                           <lg type="linegroup">      
+                              <l>Through the soft evening air enwinding all,</l>
+                              <l>Rocks, woods, fort, cannon, pacing sentries, endless <lb/>wilds.</l>
+                              <l>In dulcet streams in flutes' and cornets' notes,</l>
+                              <l>Electric, pensive, turbulent, artificial.</l>
+                              <l>(Yet strangely fitting even here, meanings unknown <lb/>before,</l>
+                              <l>Subtler than ever, more harmony, as if born here, <choice><orig>re-<lb/>lated</orig><reg>related</reg></choice> here,</l>
+                              <l>Not to the city's frescoed rooms, not to the audience <lb/>of the opera house.</l>
+                              <l>Sounds echoes, wandering strains, as really here at <lb/>home.</l>
+                              <l>Sonnambula's innocent love, trios with Norma's <choice><orig>an-<lb/>guish</orig><reg>anguish</reg></choice>.</l>
+                              <l>And thy ecstatic chorus, Poliuto;)</l>
+                              <l>Ray'd in the limpid yellow slanting sundown,</l>
+                              <l>Music, Italian music in Dakota.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>While Nature, sovereign of this gnarl'd realm,</l>
+                              <l>Lurking in hidden barbaric grim recesses,</l>
+                              <l>Acknowledging rapport, however far removed,</l>
+                              <l>(As some old root or soil of earth its last-born flower <lb/>or fruit).</l>
+                              <l>Listens well pleas'd.</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>In the lines to Gen. Grant, returned from his world's tour, he says that what best he sees in him is not the tribute paid to him, but that in his walks with kings the prairie sovereigns of the West, "Invisibly with thee walking with kings with even pace the round world's promenade, were all so justified." Others of these new poems, full of beauty, are "Thou orb aloft full dazzling" (which was rejected by a leading editor last summer, on the ground that his readers would not understand it), "To the Man-of-War Bird," "Patrolling Barnegat," "My Picture Gallery," "The Prairie States," a tribute to Custer's memory called "From far Dakota's canons," "A Riddle Song," inspired by the mystery of life, and the following tender, reverential lines to his mother's memory:</p>
+
+            </div2>
+
+            <div2 type="part">
+
+
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00298" cert="absolute"/>
+                              <!-- As at Thy Portals Also Death, in full -->
+                           </relations>
+
+                           <head type="main-authorial">AS AT THY PORTALS ALSO, DEATH.</head>
+
+                           <lg type="linegroup">
+                              <l>As at thy portals also, death.</l>
+                              <l>Entering thy sovereign, dim, illimitable grounds.</l>
+                              <l>To memories of my mother, to the divine blending, <lb/>maternity,</l>
+                              <l>To her, buried and gone, yet buried not, gone not from <lb/>me,</l>
+                              <l>(I see again the calm benignant face, fresh and <lb/>beautiful still,</l>
+                              <l>I sit by the form in the coffin.</l>
+                              <l>I kiss, and kiss convulsively again the sweet old lips, <lb/>the cheeks, the closed eyes in the coffin).</l>
+                              <l>To her, the ideal woman, practical, spiritual, of all of <lb/>earth, life, love, to me the best,</l>
+                              <l>I grave a monumental line before I go, amid these songs,</l>
+                              <l>And set a tombstone here.</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>Face to face with lines which approach the grave with such classic nobility of step, who can say that Walt Whitman is not a poet? A thoughtful writer of German birth and education, but living today in America, has said that some of the main features and themes of "Leaves of Grass" may be designated as individuality, inevitable law, physical health, modernness, open air nature, democracy, comradeship, the indissoluble union, good will to other lands, respect to the past, grandeur of labor, perfect state equality, with modernness like a canopy over all, and a resumption of the old Greek ideas of nudity and the divinity of the body, with the Hebrew sacredness of paternity, while the war, the sea, the night, the south and poems of death are also frequently recurring themes. His treatment of the last mentioned theme is specially notable in the "Memories of President Lincoln." In the stately elegy which begins these memories, "When lilacs last in the dooryard bloomed," the threading of the theme shows a high dramatic instinct. As the singer walks the night with the knowledge of death and the thought of death as companions, the warble of the gray-brown bird singing in the swamp the song of death pervades it all. The notes recur like the motive of a symphony, and at last</p>
+
+            </div2>
+
+            <div2 type="part">
+
+               <q who="Walt Whitman">
+                  <floatingText>
+                     <body>
+                        <lg type="poem">
+                           <relations>
+                              <work ref="xxx.00217" cert="absolute"/>
+                              <!-- from When Lilacs Last in the Dooryard Bloom'd -->
+                           </relations>
+
+                           <head type="main-authorial">THE SONG BREAKS FORTH:</head>
+
+                           <lg type="linegroup">
+                              <l>Come lovely and soothing death,</l>
+                              <l>Undulate round the world, serenely arriving, <choice><orig>arriv-<lb/>ing</orig><reg>arriving</reg></choice>,</l>
+                              <l>In the day, in the night, to all, to each,</l>
+                              <l>Sooner or later, delicate death.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Prais'd be the fathomless universe.</l>
+                              <l>For life and joy, and for objects and knowledge <choice><orig>curi-<lb/>ous</orig><reg>curious</reg></choice>,</l>
+                              <l>And for love, sweet love—but praise! praise! praise!</l>
+                              <l>For the sure-enwinding arms of cool-enfolding death.</l>
+                           </lg>
+
+                           <lg type="linegroup">
+                              <l>Dark mother always gliding near with soft feet,</l>
+                              <l>Have none chanted for thee a chant of fullest welcome?</l>
+                              <l>Then I chant it for thee, I glorify thee above all,</l>
+                              <l>I bring thee a song that when thou must indeed come, <lb/>come unfalteringly.</l>
+                           </lg>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </q>
+
+               <p>The foregoing lines are but a part of the bird song. Another song on the death of Lincoln, "Oh Captain! My Captain!" is already established as a popular American classic.</p>
+
+               <p>The poet Stedman, in a recent article, used the unfortunate expression that his appreciative criticism on "Walt Whitman," printed in Scribner's some months ago, was churlishly received. The writer chances to know that Mr. Stedman has somehow sadly misapprehended the state of the case. Mr. Whitman has the warmest personal regard for Mr. Stedman, of whom he speaks with a genuine liking, and he felt the real worth of Mr. Stedman's article, but he also felt that Mr. Stedman had failed to grasp the wholeness of the work, though no finer characterization of the parts could be found. "Leaves of Grass" is a kosmos, and the leaving out of that which Mr. Stedman, in common with many, finds objectionable, would make it like an imperfect body. One of the greatest of living authors, in speaking with the writer about that passage in Mr. Stedman's article, where it was stated that nature always covered up her bare and ugly spots, and that, therefore, such did not belong in the field of poetry, said that there were times when nature was bare and ugly, that it was the province of art to be truthful to nature, and that genius could treat these themes without offence. In all Walt Whitman there is no more evil thought than in the sprouting of a bud or the wafting of pollen on the wings of springtime. Fortunately it is based upon a law more stable than the fickle suffrages of the multitude, or the wishes of those who would have had him write differently, and, therefore, but partially true.</p>
+
+            </div2>
+
+         </div1>
+
+      </body>
+   </text>
+</TEI>

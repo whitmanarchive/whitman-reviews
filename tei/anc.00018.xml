@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Edward Everett Hale</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               <persName xml:id="fm">Frank Menius</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00018</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Hale, Edward Everett">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Edward Everett Hale</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The North American Review</title>
+                  <imprint>
+                     <biblScope type="volume">82</biblScope>
+                     <date when="1856-01">January 1856</date>
+                     <biblScope type="pages">275-7</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-20">Corrected, validated</change>
+         <change who="#fm" when="2004-06-14">Converted HTML to XML</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+            <ab>
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>
+                   
+                   
+                      Brooklyn.  
+                      1855.  
+                   
+               
+            </ab>
+         
+
+         <p>E<hi rend="smallcaps">VERYTHING</hi> about the external arrangement of this book was odd and out of the way. The author printed it himself, and it seems to have been left to the winds of heaven to publish it. So it happened that we had not discovered it before our last number, although we believe the sheets had then passed the press. It bears no publisher's name, and, if the reader goes to a bookstore for it, he may expect to be told at first, as we were, that there is no such book, and has not been. Nevertheless, there is such a book, and it is well worth going twice to the bookstore to buy it. Walter Whitman, an American,—one of the roughs,—no sentimentalist,—no stander above men and women, or apart from them,—no more modest than immodest,—has tried to write down here, in a sort of prose poetry, a good deal of what he has seen, felt, and guessed at in a pilgrimage of some thirty-five years. He has a horror of conventional language of any kind. His theory of expression is, that, <q who="Walt Whitman" type="printed">"to speak in literature with the perfect rectitude and <hi rend="italic">insouciance</hi> of the movements of animals, is the flawless triumph of art."</q> Now a great many men have said this before. But generally it is the introduction to something more artistic than ever,—more conventional and strained. Antony began by saying he was no orator, but none the less did an oration follow. In this book, however, the prophecy is fairly fulfilled in the accomplishment. <q who="Walt Whitman" type="printed">"What I experience or portray shall go from my composition without a shred of my composition. You shall stand by my side and look in the mirror with me."</q>
+         </p>
+
+         <p>So truly accomplished is this promise,—which anywhere else would be a flourish of trumpets,—that this thin quarto deserves its name. That is to say, one reads and enjoys the freshness, simplicity, and reality of what he reads, just as the tired man, lying on the hill-side in summer, enjoys the leaves of grass around him,—enjoys the shadow,—enjoys the flecks of sunshine,—not for what they "suggest to him," but for what they are.</p>
+
+         <p>So completely does the author's remarkable power rest in his simplicity, that the preface to the book—which does not even have large letters at the beginning of the lines, as the rest has—is perhaps the very best thing in it. We find more to the point in the following analysis of the <q who="Walt Whitman" type="printed">"genius of the United States,"</q> than we have found in many more pretentious studies of it.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>"Other states indicate themselves in their deputies, but the genius of the United States is not best or most in its executives or legislatures, nor in its ambassadors or authors or colleges or churches or parlors, nor even in its newspapers or inventors;—but always most in the common people. Their manners, speech, dress, riendships;—the freshness and candor of their physiognomy, the picturesque looseness of their carriage, their deathless attachment to freedom, their aversion to everything indecorous or soft or mean, the practical acknowledgment of the citizens of one State by the citizens of all other States, the fierceness of their roused resentment, their curiosity and welcome of novelty, their self-esteem and wonderful sympathy, their susceptibility to a slight, the air they have of persons who never knew how it felt to stand in the presence of superiors, the fluency of their speech, their delight in music (the sure symptom of manly tenderness and native elegance of soul), their good temper and open-handedness, the terrible significance of their elections, the President's taking off his hat to them, not they to him,—these too are unrhymed poetry. It awaits the gigantic and generous treatment worthy of it."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The book is divided into a dozen or more sections, and in each one of these some thread of connection may be traced, now with ease, now with difficulty,—each being a string of verses, which claim to be written without effort and with entire <hi rend="italic">abandon</hi>. So the book is a collection of observations, speculations, memories, and prophecies, clad in the simplest, truest, and often the most nervous English,—in the midst of which the reader comes upon something as much out of place as a piece of rotten wood would be among leaves of grass in the meadow, if the meadow had no object but to furnish a child's couch. So slender is the connection, that we hardly injure the following scraps by extracting them.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I am the teacher of Athletes;</l>
+                        <l>He that by me spreads a wider breast than my own, proves the width of <lb/>my own;</l>
+                        <l>He most honors my style who learns under it to destroy the teacher;</l>
+                        <l>The boy I love, the same becomes a man, not through derived power, but <lb/>in his own right,</l>
+                        <l>Wicked rather than virtuous out of conformity or fear,</l>
+                        <l>Fond of his sweetheart, relishing well his steak,</l>
+                        <l>Unrequited love, or a slight, cutting him worse than a wound cuts,</l>
+                        <l>First-rate to ride, to fight, to hit the bull's-eye, to sail a skiff, to sing a <lb/>song, or to play on the banjo,</l>
+                        <l>Preferring scars, and faces pitted with small-pox, over all latherers and <lb/>those that keep out of the sun."</l>
+                        <l>Here is the story of the gallant seaman who rescued the passengers <lb/>on the San Francisco:—</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"I understand the large heart of heroes,</l>
+                        <l>The courage of present times and all times;</l>
+                        <l>How the skipper saw the crowded and rudderless wreck of the steamship, <lb/>and death chasing it up and down the storm,</l>
+                        <l>How he knuckled tight, and gave not back one inch, and was faithful of <lb/>days and faithful of nights,</l>
+                        <l>And chalked in large letters on a board, 'Be of good cheer, we will not <lb/>desert you';</l>
+                        <l>How he saved the drifting company at last,</l>
+                        <l>How the lank, loose-gowned women looked when boated from the side of <lb/>their prepared graves,</l>
+                        <l>How the silent old-faced infants, and the lifted sick, and the sharp-lipped, <lb/>unshaved men;</l>
+                        <l>All this I swallowed, and it tastes good; I like it well, and it becomes <lb/>mine:</l>
+                        <l>I am the man, I suffered, I was there."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Claiming in this way a personal interest in every thing that has ever happened in the world, and, by the wonderful sharpness and distinctness of his imagination, making the claim effective and reasonable, Mr. "Walt Whitman" leaves it a matter of doubt where he has been in this world, and where not. It is very clear, that with him, as with most other effective writers, a keen, absolute memory, which takes in and holds every detail of the past,—as they say the exaggerated power of the memory does when a man is drowning,—is a gift of his organization as remarkable as his vivid imagination. What he has seen once, he has seen for ever. And thus there are in this curious book little thumb-nail sketches of life in the prairie, life in California, life at school, life in the nursery,—life, indeed, we know not where not,—which, as they are unfolded one after another, strike us as real,—so real that we wonder how they came on paper.</p>
+
+         <p>For the purpose of showing that he is above every conventionalism, Mr. Whitman puts into the book one or two lines which he would not address to a woman nor to a company of men. There is not anything, perhaps, which modern usage would stamp as more indelicate than are some passages in Homer. There is not a word in it meant to attract readers by its grossness, as there is in half the literature of the last century, which holds its place unchallenged on the tables of our drawing-rooms. For all that, it is a pity that a book where everything else is natural should go out of the way to avoid the suspicion of being prudish.</p>
+
+      </body>
+   </text>
+</TEI>

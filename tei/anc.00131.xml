@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00131">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="complete">Whitman's Complete Works</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Complete Poems and Prose of Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Sylvester Baxter</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+               <persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00131</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Baxter, Sylvester">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Sylvester Baxter</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Whitman's Complete Works</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Boston Herald</title>
+                  <imprint>
+                     <date when="1889-01-03">3 January 1889</date>
+                     <biblScope type="pages">4</biblScope>
+
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-10">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WHITMAN'S COMPLETE WORKS</head>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <head type="sub">A Fine "Personally Handled" Edition of the Poet,</head>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <head type="sub">With Autograph—A Volume That Book Lovers Will Prize—Some of Its Notable Features—New Poems and Prose—Whitman's Estimate of His Own Career—Opinion of Tennyson.</head>
+
+         <p>The complete edition of Walt Whitman's works, just issued by the poet himself in one volume, is a book to be prized by the bibliophile as well as treasured by Whitman's friends. The plates of the three uniform volumes comprising Whitman's writings are used, but with the broad margins and finer paper of the uncut sheets, the guise seems an entirely new one. The text has received a final revision, there is the charm of certain additions, there are several portraits of Whitman ranging from his early prime to one taken in his 70th year, and there is the great value of the direct association of the poet's personality, as guaranteed in the words of the handsome title page, with its fine profile reproduced from a photograph: Complete Poems and Prose of Walt Whitman. 1855-1888. Authenticated and Personal Book (Handled by W. W.) Portraits from Life. Autograph. On the first fly leaf of the copy before the writer are the words, written in the poet's familiar hand: "S——B ——, from his friend, the author, Walt Whitman, with affection and memories.—Dec. 21, 1888." The handwriting is strikingly firm and bold, showing that the paralysis that afflicts the author has not affected his firm hand.</p>
+
+         <p>The cover is a plain one, with marbled sides and back of dark olive, with the title pasted on in plain white paper: Walt Whitman, Complete Poems and Prose—Leaves of Grass, Specimen Days and Collect, November Boughs with Sands at Seventy, Annex to L. of G.—Portraits from Life, and Autograph Ed'n 1888-9. Altogether, the volume combines the homely democratic simplicity associated with Whitman's name with the essential features of a handsome book—a worthy garment for the great thoughts presented. The note at the end, written for this edition on Nov. 13, 1888, states the author's motives for publishing it, and may be called</p>
+
+         <div1 type="section">
+            <head type="main-authorial">His Literary Valedictory.</head>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <div1 type="extract">
+                        <relations>
+                           <work ref="xxx.00503" cert="absolute"/>
+                           <!-- from Complete Poems & Prose of Walt Whitman -->
+                           <!-- from a section titled "Note at End of Complete Poems and Prose" (no work ID appears to be available-->
+                        </relations>
+
+                        <p>"As I conclude—and (to get typographical correctness,) after running my eyes diligently through the three big divisions of the preceding volume—the interrogative wonder-fancy rises in me whether (if it be not too arrogant to even state it), the 33 years of my current time, 1855-1888, with their aggregate of our new world doings and people, have not, indeed, created and formulated the foregoing leaves—forcing their utterance as the pages stand—coming actually from the direct urge and developments of those years, and not from any individual epic or lyrical attempts whatever, or from my pen or voice, or any body's special voice. Out of that supposition the book might be considered an autochthonic record, and expression, fully rendered, of and out of these 30 to 35 years—of the soul and evolution of America—and, of course, by reflection, not ours only, but more or less of the common people of the world. Seems to me I may dare to claim a deep native tap root for the book, too, in some sort. I came on the stage too late for personally knowing much of even the lingering revolutionary worthies—the men of '76. Yet, as a little boy, I have been pressed tightly and lovingly to the breast of Lafayette (Brooklyn, 1825), and have talked with old Aaron Burr, and also with those who knew Washington and his surroundings, and with original Jeffersonians, and more than one very old soldier and sailor. And in my own day and maturity, my eyes have seen and ears heard, Lincoln, Grant and Emerson, and my hands have been grasped by their hands. Though in a different field and range from most of theirs, I give the foregoing pages as perfectly legitimate, resultant, evolutionary and consistent with them. If these lines should ever reach some reader of a far-off future age, let him take them as a missive sent from Abraham Lincoln's fateful age. Repeating, parrot-like, what in the preceding divisions has been already said, and must serve as a great reason why of this whole book—first, that the main part about pronounced events and shows (poems and persons, also) is the point of view from which they are viewed and estimated: and second, that I cannot let my momentous, stormy, peculiar era of peace and war, these states, these years, slip away without arresting some of its specimen events—even its vital breaths—to be portrayed and inscribed from out of the midst of it, from its own days and nights—not so much in themselves (statistically and descriptively our times are copiously noted and memorandized with an industrial zeal), but to give from them here their flame-like results in imaginative and spiritual suggestiveness, as they present themselves to me, at any rate, from the point of view alluded to.</p>
+
+                        <p>"Then a few additional words yet to this hurried farewell note. In another sense (the warp crossing the woof and knitted in) the book is probably a sort of autobiography, an element I have not attempted especially to restrain or erase. As alluded to at the beginning, I had about got the volume well started by the printers, when a sixth recurrent attack of my war paralysis fell upon me. It has proved the most serious and continued of the whole. I am now uttering</p> 
+                     </div1>
+                  </body>
+               </floatingText>
+            </q>
+         </div1>
+
+         <div1 type="section">
+            <head type="sub">"'November Boughs'</head>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <div1 type="extract">
+                        <relations>
+                           <work ref="xxx.00503" cert="absolute"/>
+                           <!-- from Complete Poems & Prose of Walt Whitman -->
+                           <!-- from a section titled "Note at End of Complete Poems and Prose" (no work ID appears to be available-->
+                        </relations>
+                        <p>and printing this book in my 70th year. To get out the collection—mainly the born results of health, flush life, buoyancy and happy outdoor volition—and to prepare the Boughs have beguiled my invalid months the past summer and fall. ('Are we to be beaten down in our old age?' says one white-haired old fellow remonstratingly to another in a budget of letters I read last night.) ∗∗∗ Then I wanted to leave something markedly personal. I have put my name with pen and ink with my own hand in the present volume. And from engraved or photographed portraits, taken from life, I have selected some, of different stages, which please me best, (or at any rate displease me least), and bequeath them at a venture to you, reader, with my love. W. W., Nov. 13, 1888."</p>
+                     </div1>
+                  </body>
+               </floatingText>
+            </q> 
+         </div1>
+
+         <div1 type="section">
+
+            <p>"Leaves of Grass" has the following prefatory verses in this volume:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00503" cert="absolute"/>
+                           <!-- from Complete Poems & Prose of Walt Whitman  -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>"Come, said my soul,</l>
+                           <l>Such verses for my body let us write (for we <lb/>are one),</l>
+                           <l>That should I after death invisibly return,</l>
+                           <l>Or, long, long hence, in other spheres,</l>
+                           <l>There to some group of mates the chants <choice><orig>re-<lb/>suming</orig><reg>resuming</reg></choice>,</l>
+                           <l>(Tallying earth's soil, trees, winds, <choice><orig>tumultu-<lb/>ous</orig><reg>tumultuous</reg></choice> waves.)</l>
+                           <l>Ever with pleased smile I may keep on.</l>
+                           <l>Ever and ever yet the verses owning—as, <lb/>first, I here and now,</l>
+                           <l>Signing for soul and body, set to them my <lb/>name,</l>
+                        </lg>
+                        <closer>
+                           <signed rend="center">W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>."</signed>
+                        </closer>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q> 
+
+            <p>The second book, "Specimen Days and Collect," contains two things which alone would make it invaluable, the preface to the first issue of "Leaves of Grass," that of 1855, and the great essay, "Democratic Vistas." Since Whitman included verse only in the final form of "Leaves of Grass" the original preface is given in the prose book. It is known as a masterpiece of composition in the grand style. Its thoughts borne free on the wings of a spontaneous rhythm. Many of its passages will be recognized as having been worked over into later poems. "Democratic Vistas" is one of the greatest essays ever written concerning America. Whitman speaks here as a seer. Probably no one has ever taken a more comprehensive, far-seeing national view. It is a paper for statesmen in the highest sense. With his healthy, strong, optimistic mind, he looks far ahead through the centuries and perceives the grand destiny of our country, but this does not make him ignore the shadows of the picture, and the very clearness of his prophetic vision shows to him, also, the plainer the perils that beset the road to the goal, as in these words of warning: <!-- from Democratic Vistas -->
+"Shift and turn the combinations of the statement as we may, the problem of the future of America is, in certain respects, as dark as it is vast. Pride, competition, segregation, vicious willfulness, and license beyond example, brood already upon us. Unwieldy and immense, who shall hold in behemoth, who bridle leviathan? Flaunt it as we choose, athwart and over the roads of our progress loom huge uncertainty, and dreadful, threatening gloom. It is useless to deny it: Democracy grows rankly up the thickest, noxious, deadliest plants and fruits of all—brings worse and worse invaders—needs newer, larger, stronger, keener compensations and compellers."</p>
+
+         </div1>
+
+         <div1 type="section">
+            <head rend="bold" type="main-authorial">A Review from the Close.</head>
+
+            <p>"November Boughs" begins with a review of the poet's career, and works from the standpoint of the journey's close: "A Backward Glance O'er Travel'd Roads." There is humility and modesty in its tone, as well as hopefulness, assertion and a brave, serene confidence. Characterizing his poems, he thus prescribes his purpose and his method:</p> 
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <div1 type="extract">
+                        <relations>
+                           <work ref="xxx.00410" cert="absolute"/>
+                           <!-- from A Backward Glance O'er Travel'd Roads -->
+                        </relations>
+                        <p>The word I myself put primarily for the description of them as they stand at last is the word suggestiveness. I round and finish little, if anything, and could not consistently with my scheme. The reader will always have his or her part to do, just as much as I have had mine. I seek less to state or display any theme or thought, and more to bring you, reader, into the atmosphere of the theme or thought, there to pursue your own flight. Another impetus word is comradeship as for all lands, and in a more commanding and acknowledged sense than hitherto. Other word signs would be good cheer, content and hope. The chief trait of any given poet is always the spirit he brings to the observation of humanity and nature, the mood out of which he contemplates his subjects. <gap reason="illegible"/>
+                           <!-- several lines illegible in photocopy--> Universal as are certain facts and symptoms of communities or individuals at all times, there is nothing so rare in modern conventions and poetry as their normal recognizance. Literature is always calling in the doctor for consultation and confession, and always giving evasions and swathing suppressions in place of that 'heroic nudity' on which only a genuine diagnosis of serious cases can be built. And in respect to editors of Leaves of Grass in time to come (if there should be such) I take occasion now to confirm these lines with the settled convictions and deliberate renewals of 30 years, and to hereby prohibit, as far as word of mine can do so, any elision of them.</p>
+                     </div1>
+                  </body>
+               </floatingText>
+            </q>  
+
+            <p>He continued with the following reverent words:</p> 
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <div1 type="extract">
+                        <relations>
+                           <work ref="xxx.00410" cert="absolute"/>
+                           <!-- from A Backward Glance O'er Travel'd Roads -->
+                        </relations>
+                        <p>Then still a purpose inclosing all, and over and beneath all. Ever since what might be called thought, or the budding of thought, fairly began in my youthful mind, I had had a desire to attempt some worthy record of that entire faith and acceptance ('to justify the ways of God to man' is Milton's well known and ambitious phrase) which is the foundation of moral America. I felt it all as positively then in my young days as I do now in my old ones: to formulate a poem whose every thought or fact should directly or indirectly be or connive at an implicit belief in the wisdom, health, mystery, beauty of every process, every concrete object, every human or other existence, not only considered from the point of view of all, but of each. While I cannot understand it or argue it out, I fully believe in a clew and purpose in nature, entire and several; and that invisible spiritual results, just as real and definite as the visible, eventuate all concrete life and all materialism, through time. My book ought to emanate buoyance and gladness legitimately enough, for it was grown out of those elements, and has been the comfort of my life since it was originally commenced.</p> 
+                     </div1>
+                  </body>
+               </floatingText>
+            </q> 
+
+            <p>He ends with the words:</p> 
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <div1 type="extract">
+                        <relations>
+                           <work ref="xxx.00410" cert="absolute"/>
+                           <!-- from A Backward Glance O'er Travel'd Roads -->
+                        </relations>
+
+                        <p>In the free evening of my day, I give to you, reader, the foregoing garrulous talk, thoughts, reminiscences,</p>
+
+                     </div1>
+                  </body>
+               </floatingText>
+            </q> 
+
+            <q>
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <lg type="linegroup">
+                           <l>As idly drifting down the ebb,</l>
+                           <l>Such ripples, half-caught voices echo from the <lb/>shore.</l> 
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+
+            <p>Concluding with two items for the imaginative genius of the West when it worthily rises—First, what Herder taught to the young Goethe, that really great poetry is always (like the Homeric or Biblical canticles) the result of a national spirit, and not the privilege of a polished and select few. Second, that the strongest and sweetest songs yet remain to be sung.</p>
+         </div1>
+
+         <div1 type="section">
+            <head rend="bold" type="main-authorial">The Latest Poems</head>
+
+            <p>The latest poems, given under the title of "Sands at Seventy" are like the voice of an old friend whose tones we have learned to love for the sake of the words they have conveyed, the thoughts they have clothed. So ever after, whatever the words be, the tones have a welcome sound. It is so with all old poets; their message has been spoken, their great harvest has been gathered, but the aftermath is to be valued, and scant though it may be, it still contains the quality, the savor of the rich soil that has rejoiced us with its abundant yield. These latest poems of Whitman's are fragmentary utterances; they have the old character of form and expression, but are intermittent flashes; detached images, brief glimpses. As with Dr. Holmes, these songs are pervaded by the reminiscent atmosphere of sunset hours. In one of the traits that have strongly characterized Whitman there is no perceptible decline—that of graphic, terse and vivid delineation with a word or phrase that both depicts and suggests, like the sure brush stroke of a master painter. An example of this is to be found in the stately beginning on the poem of the death of Gen. Grant: "As one by one withdraw the mighty actors," striking at once the keynote of a majestic theme that is sustained with the same power to the close:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00341" cert="absolute"/>
+                           <!-- from Death of General Grant  -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>Thou from the prairies!—tangled and <choice><orig>many- 
+                              <lb/>
+                              veined</orig><reg>many-veined</reg></choice> and hard has been thy part,</l>
+                           <l>To admiration has it been enacted?</l> 
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q> 
+
+            <p>It is a glorious calm that pervades these four lines:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00326" cert="absolute"/>
+                           <!-- from After the Dazzle of Day  -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>After the dazzle of day is gone,</l>
+                           <l>Only the dark, dark night shows to my eyes the stars;</l>
+                           <l>After the clangor of organ majestic, or chorus, <lb/>or perfect band,</l>
+                           <l>Silent, athwart my soul, moves the symphony <lb/>true.</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>  
+
+            <p>And, in these lines called "Halcyon Days" the re [sic] is manifest what was once said of Appollonius of Tyana, that old age, as well as youth, has its bloom:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00329" cert="absolute"/>
+                           <!-- from Halcyon Days  -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>Not from successful love alone,</l>
+                           <l>Nor wealth, nor honored middle age, nor <choice><orig>vic-<lb/>tories</orig><reg>victories</reg></choice> of politics or war,</l>
+                           <l>But as life wanes and all the turbulent <choice><orig>pas-<lb/>sions</orig><reg>passions</reg></choice> calm,</l>
+                           <l>As gorgeous, vapory, silent hues cover the <lb/>evening sky,</l>
+                           <l>As softness, fullness, rest, suffuse the frame, <lb/>like fresher, balmier air,</l>
+                           <l>As the days take on a mellower light, and the <lb/>apple at last hangs really finish'd and <choice><orig>in-<lb/>dolent</orig><reg>indolent</reg></choice> ripe on the tree,</l>
+                           <l>Then for the teeming quietest, happiest days <lb/>of all!</l>
+                           <l>The brooding and blissful halcyon days!</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>  
+
+            <p>A strong group of poems are the "Fancies at Navesink;" reflections on the meanings of the ocean rides as the pulse of the power that vivifies all—the "fluid, vast identity, holding the universe with all its parts as one." Then the ebb, with its images of death, failure and despair swept on to oblivion—but that not the end, for</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <lg type="poem">
+                        <relations>
+                           <work ref="xxx.00335" cert="absolute"/>
+                           <!-- from And Yet Not You Alone -->
+                        </relations>
+                        <lg type="linegroup">
+                           <l>Duly by you, from you, the tide and the <lb/>light again—duly the hinges turning.</l>
+                           <l>Duly the needed discord parts offsetting, <lb/>blending,</l>
+                           <l>Weaving from you, from Sleep, Night, Death <lb/>itself.</l>
+                           <l>The rhythms of birth eternal.</l>
+                        </lg>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q> 
+
+            <p>The six-line poem on Whittier's 80th birthday is a beautiful tribute. Those fond of drawing analogies might find much satisfaction in the resemblance in the names of the two poets, one a Hicksite Quaker, the other the son of Hicksite Quakers. Whitman passing his last years across the river from the great Quaker City, always using the quaint Quaker terminology of "Fifth Month," etc., and devoting the last pages of his "November Boughs" to a collection of notes on Elias Hicks,<ref target="n1" xml:id="r1" n="1"/> of whom he says in his prefatory note:</p> 
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <div1 type="extract">
+                        <relations>
+                           <work ref="xxx.00486" cert="absolute"/>
+                           <!-- from Notes (such as they are) founded on Elias Hicks -->
+                        </relations>
+                        <p>As myself a little boy hearing so much of E. H., at that time long ago in Suffolk and Queens and Kings counties—and more than once personally seeing the old man—and my dear, dear father and mother faithful listeners to him at the meetings—I remember how I dreamed to write, perhaps, a piece about E. H. and his look and discourses however long afterward—for my parents' sake—and the dear Friends, too! And the following is what has at last but all come out of it—the feeling and intention never forgotten yet!</p>
+                     </div1>
+                  </body>
+               </floatingText>
+            </q>
+         </div1>
+
+         <div1 type="section">
+            <head rend="bold" type="main-authorial">Whitman's opinion of Tennyson </head>
+
+            <p>is of particular interest, since the British laureate is one of our great American's most intimate, though never beheld, friends across the Atlantic. In the brief paper, "A Word About Tennyson," Whitman says:</p>
+
+            <q who="Walt Whitman">
+               <floatingText>
+                  <body>
+                     <div1 type="extract">
+                        <relations>
+                           <work ref="xxx.00468" cert="absolute"/>
+                           <!-- from A Word About Tennyson -->
+                        </relations>
+                        <p>Let me assume to pass verdict, or, perhaps, momentary judgment, for the United States on this poet—a removed and distant position giving some advantages over a nigh one. What is Tennyson's service to his race, times, and especially to America? First, I should say—or, at least, not forget—his personal character. He is not to be mentioned as a rugged, evolutionary, aboriginal force—but (and a great lesson is in it) he has been consistent throughout with the native, healthy patriotic spinal element and promptings of himself. His moral line is local and conventional, but it is vital and genuine. He reflects the upper crust of his time, its pale cast of thought—even its ennui. Then the simile of my friend, John Burroughs, is entirely true. 'His glove is a glove of silk, but the hand is a hand of iron.' He shows how one can be a royal laureate, quite eloquent and 'aristocratic,' and a little queer and affected, and at the same time perfectly manly and natural. As to his non-democracy, it fits him well, and I like him the better for it. I guess we all like to have (I am sure I do) some one who presents those sides of a thought or a possibility, different from our own—different, and yet with a sort of home-likeness—a tartness and contradiction offsetting the theory as we view it, and construed from taste and proclivities not at all his own…Yes, Alfred Tennyson is a superb character, and will help give illustriousness, through the long roll of time, to our 19th century. In its bunch of orbic names, shining like a constellation of stars, his will be one of the brightest. His very faults, doubts, swervings, doublings upon himself, have been typical of our age. We are like the voyagers of a ship casting off for new seas, distant shores. We would still dwell in the old suffocating and dead haunts, remembering and magnifying their pleasant experiences only, and more than once impelled to jump ashore before it is too late, and stay where our fathers stayed and live as they lived. May-be I am non-literary and non-decorous (let me at least be human and pay part of my debt) in this word about Tennyson. I want him to realize that here is a great and ardent nation that absorbs his songs, and has a respect and affection for him personally as almost for no other foreigner. I want this word to go to the old man at Farringford as conveying no more than the simple truth: and that truth (a little Christmas gift) no slight one, either.</p>
+                     </div1>
+                  </body>
+               </floatingText>
+            </q> 
+
+            <p>There are many other words worth reading in this new section of the volume; papers on Shakespeare, Robert Burns, Fr. Taylor, remarks on "The Spanish Element in Our Nationality," and various random notes and reminiscences, including some additional ones about the war. It is all pervaded by the healthy personal feeling, lofty patriotism and deep spirituality inherent in Whitman. Altogether, this complete edition may be called monumental in our literature.</p>
+
+         </div1>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">Elias Hicks (1748-1830) was an advocate of abolition and a liberal Quaker preacher.  He headed one of the two factions of the first major schism within the Religious Society of Friends.</note> 
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

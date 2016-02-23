@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00185">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Swimming Against the Current</title>
+            <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Adah Isaacs Menken Heenan</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00185</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Heenan, Adah Isaacs Menken">Adah Isaacs Menken Heenan</author>
+                  <title level="a">Swimming Against the Current</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Sunday Mercury</title>
+                  <imprint>
+                     <date when="1860-06-10">10 June 1860</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-23">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div1 type="section">
+            <p>Mrs. Heenan.</p>  
+            <p>The following vigorous and characteristic article from the pen of our well-known contributor, will excite a variety of opinions, though none can fail to admire the almost masculine energy of its terse sentences. We are far from endorsing all its sentiments, and are astonished to observe that Mrs. Heenan indulges in a eulogium of that coarse and uncouth creature, Walt Whitman. The lady is entitled to her own opinion, however, though in the present expression of it she is certainly</p>
+         </div1> 
+
+         <div1 type="section">
+
+            <head type="main-authorial">SWIMMING AGAINST THE CURRENT. [Review]</head>
+            <byline rend="center">
+               <hi rend="smallcaps">BY ADAH ISAACS MENKEN HEENAN</hi>.<ref target="n1" n="1" xml:id="r1"/>
+            </byline>
+
+            <p>Swimming against the current is hard and dangerous work.</p>
+
+            <p>Strong, firm, and iron bound must be the noble vessel; brave and fearless must be the hearts that stand at the helm. "God and our right" must be the pass-word of those who lift their sails to stem the current.</p>
+
+            <p>Individuality of intellect and an affinity with God—not society—powerful energy, a potent buoyancy, and a strong volition can and will venture the task. Cowardice is the demonstration of weakness. Strength and valor must exert themselves in valorous actions. Courage is the true demonstration of strength. And whoever is gifted with that mental and moral god-power, to stand like a rock in the midst of a roaring storm, feels the mighty impulse to oppose the impetuous billows of the rushing current—dare the storm—stem the tide, will reach the goal, gain eternal life, for they are God's children of inspiration!</p>
+
+            <p>But few, oh! too few, possess these holy attributes, to bear them up against wind and wave. Therefore, the vast majority of mankind intrust themselves with so much ease and convenience to the current of popular sentiments, fashions, weak, driveling notions, idiotic principles: plying, now and then, a little with the useless rudder of their intellect, they swim lazily along with the current; flattering the ambition and passions of the influential and great men, worshiping the idols of the day, to suit prevalent notions, taking every advantage of the weak, and infirm, they swim down the current of life, and arrive quietly and conveniently into the harbor of Death.</p>
+
+            <p>Swimming against the current is <hi rend="italic">hard and dangerous work!</hi> How few are the brave souls that are to-day stemming the tide! Seward, Jefferson Davis, Sumner, Lovejoy, Wendell Phillips, Beecher, Theodore Parker, Garrison, Walter Whitman, Mrs. Hatch, and perhaps some few more.<ref target="n2" n="2" xml:id="r2"/> There they stand, in the midst of inhumanity, few and far apart, like the islands of the ocean, fertile and fresh as the cases of the desert, "their shoulders and upward higher than all the people," as the mountains range and overtower the plains and valleys below.</p>
+
+            <p>There they stand with their spontaneous and generous impulses, the internal ear and eye of humanity, that sees and grasps instinctive eagerness at the faults and corruptions of men, things, religions, and institutions around them.</p>
+	
+            <p>They have braved the current, for they hear the divine voice of inspiration calling, "Whom shall I send to the rescue?" And they could not help responding, "Here I am—send me!"</p>
+	
+            <p>But alas! they swim against the current, and laborious and tiresome is the task. Many a foaming wave rushes at their heads, and renders them almost helpless for awhile; but they recover, and swim on, God bless them!</p>
+	
+            <p>Sometimes overcome by the strong battle of the waves, a fainting soul pauses for rest; he looks down the stream, and sees thousands of pleasure-boats moving smoothly with the current, and rocking softly the rich, gay, happy, and successful passengers. He hesitates. "Shall I join them? Shall I blot out God's voice that calls me?" he asks. <hi rend="italic">No </hi>, he <hi rend="italic">cannot</hi> resist that holy voice. <hi rend="italic">Onward</hi> is his course—he must swim again.</p>
+	
+            <p>Look at Walter Whitman, the American philosopher who is centuries ahead of his contemporaries, who, in smiling carelessness, analyzes the elements of which society is composed, compares them with the history of past events, and ascertains the results which the same causes always produced, and must produce. Thus [one line of newspaper text illegible]. He hears the Divine voice calling him to caution mankind against this or that evil, and wields his pen, exerts his energies, for the cause of liberty and humanity!</p>
+	
+            <p>But he is too far ahead of his contemporaries; they cannot comprehend him yet; he swims against the stream and finds me company. The passengers, in their floating boats, call him a fanatic, a visionary, a demagogue, a good-natured fool, etc., etc. Still he heeds them not: his mental conviction will not permit him to heed them.</p>
+	
+            <p>Thousands of philosophers, poets, senators, preachers of God, philanthropists, friends and saviors of liberty, women of inspiration, men of reform, have been drowned in the current of life, because they swam against the stream—died with the deep-seated pain in their breasts, poisoned with disappointment, insult, or ridicule, or starved to death by an ungrateful people—poor Edgar A. Poe, for example. But when in the next century their words and schemes will become understood, because circumstances will take that turn which they predicted, marble statutes will be erected over the remains of him whom they suffered to starve, because he swam against the current.</p>
+	
+            <p>Suppose all men would yield to the current of the age? None would manfully uncover the rotten spots, expose the errors and prejudices entertained, and the evils practiced. Would not humanity soon be degraded into a reckless pleasure-party, skipping around, and approaching always nearer the yawning whirlpool, until finally the whole boat would rush in.</p>
+	
+            <p>Yes! those men who have the valor and moral courage to swim against the current, are the noble and generous towers of humanity. Yet we ignore and contradict them; yet they are, nevertheless, the Messiahs of humanity. Mankind is obliged to them for new ideas, periodical regeneration, and the progress of civilization. They combat with the waves, and are frequently buried beneath them; but after centuries, they are rescued from the aqueous grave, and rise to perpetual glory!</p>
+	
+            <p>If there is any truth in the above—and close observation of facts prove that there is—it is also morally certain that thus Israel will rise to perpetual glory! So the house of Jacob will be rescued from the grave, and a proud monument assigned us in the history of the world. So Judea will triumph, after darkness and ignorance will be utterly dispelled by the radiant sun of divine truth! For thus Israel has swam against the current for thirty centuries and more! Thus it has struggled and combated against the corruptions of all ages in history; Thus is Israel the savior, the Messiah of the nations!</p>
+	
+            <p>Israel swam against the current when heathenism reigned supreme, when Grecian philosophy undermined the ancient superstructure of religion, when Epicure's doctrines demoralized Rome, and heathenism gave way before Christianity and the Islam. It swam against the current of popular religions in all periods of history; and does it yet, with the same energy and unabated vigor. Buried under waves of popular prejudices, it always resurrects again in youthful strength, valor, and glory of eternal life!</p>
+	
+            <p>"Hail thee, Israel, who is like unto thee? a people saved by God, the shield of thy salvation and the sword of thy pride!"</p>
+
+         </div1>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">See editorial note 6 for the following review <ref target="anc.00184">A New American Poem</ref>. Robert Henry Newell, literary editor of the <hi rend="italic">Sunday Mercury</hi> no fan of Whitman's) took Menken to Charley Pfaff's where she was introduced to a bohemian crowd including Whitman (Lesser 60–
+63).</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">William Seward, Charles Sumner, and Elijah Parish Lovejoy, were all famous anti-slavery advocates. Cora L. V. Scott Hatch was a well-known spiritual medium.</note>
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

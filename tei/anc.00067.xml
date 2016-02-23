@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00067">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poems">Walt Whitman's Poems</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>William Charles Mark Kent</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="br">Beverley Rilett</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00067</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Kent, William Charles Mark">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>William Charles Mark Kent</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Walt Whitman's Poems</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The London Sun</title>
+                  <imprint>
+                     <date when="1868-04-17">17 April 1868</date>
+                     <biblScope type="pages">31490</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#br" when="2012-03-02">changed author name "Anonymous" to "Kent, William Charles Mark" (Edward Dowden in his Walt Whitman and his English Critics claims that his friend Charles Kent [William Charles Mark Kent, 1823-1902] wrote this review, and that William Michael Rossetti confirmed this information. </change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-10-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-12-12">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt Whitman's Poems.<!--  [Review of Poems by Walt Whitman] --></head>
+
+            <ab>
+               
+                   
+                     <hi rend="italic">Poems by Walt Whitman</hi>. Selected and Edited by William Michael Rossetti 
+                   
+                      One Vol.,  
+                      pp. 406.  
+                      J.C. Hotten. 
+                   
+               
+            </ab>
+         
+
+         <p>Opening this book has been to us a revelation. Reading it has yielded us exquisite pleasure. The remembrance of it sweetens life. Echoes from it haunt us in the thick of our occupations, 'under the shade of melancholy boughs,' in the throng of the streets, at our meals, in the midst of our  conversations, anywhere, everywhere, under the likeliest and the unlikeliest circumstances. Before  the volume now under notice came into our hands, the name of Walt Whitman was certainly known  to us, but that was all. Now that we have read these selections—observe, these <hi rend="italic">selections</hi>—from his  'Chants Democratic,' from his <hi rend="italic">Drum Taps</hi>, from his <hi rend="italic">Leaves of Grass</hi>, from his 'Songs of Parting,' we  have learnt to love that name of his, it has become to us a synonym of pleasure, suggestive of  thoughts, emotions, aspirations, expressed as in a new language, and, once so expressed, never afterwards to be altogether forgotten. To William Michael Rossetti, as the selecter of these poems,  we are not simply, in old-fashioned phrase, beholden, we are not merely in courtlier terms his most obedient, we are his very gratefully, and that, moreover, in heartfelt truthfulness. Already in the columns of the clever but now dead and gone <hi rend="italic">Chronicle</hi>, under date 6th July, 1867, the editor of this  henceforth to us cherished volume of Walt Whitman's Poems had sounded the trumpet of admiration  in praise of that particular poet of America. Here, however, he has made good, in every sense, his high, and, as it might have seemed to some, extravagant commendations. Of the justice of the estimate thus enunciated, these poems yield absolute demonstration. Apart from the selection now given to us by Mr Rossetti, we are desirous that it should be understood at once, however, by our readers, that we know nothing whatever of the writings of Walt Whitman. This we would especially premise. And for a sufficient reason. According to a very general rumour even over here in England, according to the showing of even so enthusiastic an appreciator of his genius as Mr Rossetti has (happily for us all) shown himself to be—Walt Whitman has written things that his own most ardent admirers would willingly let die. Yet, of all this, the volume now in our hand, here submitted to our consideration, bears not a particle of evidence. The leering satyrs have been scared away from among the beautiful umbrage. The dregs lurk no longer in the limpid draught placed at our lips. We can quaff without a qualm. There is no canker in the rose-wreath as it is thus brought within our reach—it is all fragrance and dripping with dew. Not a taint is here, in bloom, or  foliage, or fruit. The very atmosphere investing these poems is all purity, like the breath of morning. And yet—though we never should have conjectured as much from these poems themselves—the Collective Writings of Walt Whitman must indubitably be tainted, flawed, polluted—and that, too, with a taint, a flaw, a pollution in no conceivable way to be extenuated. Mr Rossetti himself sets forth in regard to the incriminated poems (<hi rend="italic">all</hi> of which he has carefully omitted in the process of making his selection) not one word, not one hint of extenuation. He says, indeed, that he considers 'that most of them would be much better away.' And, whatever else can be said of the editor of the present volume as a critic of poetic literature, it certainly cannot be said of him that he is a purist. 'Indecencies, improprieties, deforming erudities' there are, he tells us, scattered, it may even be abundantly scattered, here and there, over the Writings of Walt Whitman. Such they are acknowledged to be, in so many words, even by the critic thanks to whose judicious hands those damning blemishes have been discarded. Of their existence at all, we only know, now, by their own evil reputation. They themselves are not here. Nevertheless this selection is in no respect what we should call, in the ordinary acceptation of the words, an Expurgated Edition. There is here no emasculation. The poems that are given are given in their entirety. Mere parts have been nowhere selected. Abbreviations, elisions, excisions, the Editor has shrunk from as from impertinences. He has done his task well and wisely. And yet, task it can hardly be called—true labour of love as it has been (and no wonder) throughout. Although containing within it 'a little less,' we are told 'that <!-- The following left and right brackets seem to be authorial, so encoding them with unicode numbers --> [sic] half the entire bulk of Whitman's poetry,' this one volume affords a comprehensive view of the writer's genius in its integrity. It is no broken gem that is here placed in our hands for examination, but—'one entire and perfect chrysolite.' Before commenting upon Walt Whitman's poetical productions, however, so far as those are here brought within our survey, a word or two as to the man himself. Abraham Lincoln's exclamation on seeing him was—'Well, <hi rend="italic">he</hi> looks like a man!' Nor can that exclamation be wondered at when one comes to sum up his characteristics. Lofty in stature, admirably well proportioned, of vigorous strength, of abounding health—forty-nine years of age on the last day of next month—his eyes of a light blue, his complexion florid, his beard fleecy and flowing, but already quite grey—cheerful and masculine in appearance—having a predilection for the society of common people—intensely fond of fine music, and with a great natural taste for works of art—absolutely indifferent 'as to either praise or blame of what he writes'—such, in brief, is Walt Whitman. Born on the 31st of May, 1819, at the farm village of West Hills, Long Island, in the state of New York, somewhere about thirty miles from the great American capital and outport—he is but now in the prime or meridian of his manhood, though already old-looking in spite of his health, of his wholesome out-door life, his temperate habits, and his vigorous constitution. A schoolboy up to thirteen, afterwards a compositor, then a country teacher, then a press writer, then a newspaper editor, then a master printer, then (like his father) a carpenter and builder, then, throughout the Great Civil War, to the Northern Army, what Miss Nightingale was to the British Army at Scutari throughout the War in the Crimea.<ref target="n1" xml:id="r1" n="1"/> And, yet all along, and at last wholly and solely, what he is now for the rest of his days—a Poet. Before considering him as such, it is but justice to remark of him in his capacity as a practical philanthropist when attending the poor soldiers all through that tremendous struggle between North and South, between the Federals and the Confederates in America, that 'It is said that by the end of the war he had personally ministered to upwards of 100,000 sick and wounded.' Honour, therefore, to the brave, true heart, if only in remembrance of that one recorded fact in his history—a fact evidencing that Walt Whitman not only 'looks' but <hi rend="italic">acts</hi> 'like a man.' Turning our glance, however, from the man himself to his productions, to those Poems of his which have been here selected for us from his 'Songs of Parting,' his <hi rend="italic">Leaves of Grass</hi>, his <hi rend="italic">Drum Taps</hi>, and so on—one peculiarity is at once especially noticeable in regard to them, and that is their startling, intense, and absolute originality. In their manner, they are unlike any other poems that have ever previously made their appearance. As a rule, they are rhymeless. But, always, always they are rhythmical, and yet rhythmical after a manner peculiarly and exceptionally their own. The lines are of any length—sometimes abbreviated to a little more than a monosyllable—occasionally running out to the extent of half-a-dozen alexandrines. Now standing, as one might say, on one foot, and that a-tip-toe—now running along upon as many feet as those of a centipede. But—with all this whimsicality and <hi rend="italic">abandon</hi> of manner, with all this wild defiance of the hitherto dominant laws of poetical, and, for that matter even at times of rhetorical, construction—O the charm, the grace, the tenderness, the pathos, the abounding and captivating beauties scattered broadcast, with a lavish hand, with an affluent fancy, with the royal prodigality of genius, over these pages of true poetry! Nor can the daring originality thus manifested by Walt Whitman in the mere manner of his composition be regarded as so wholly unexampled. As has been admirably well asked—</p>
+
+         <q who="unknown">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Was genius awed by Aristotle's rules</l>
+                        <l>When Shakspeare burst the cobwebs of the schools?"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Flinging to the winds of heaven all the precedents of literature, this new poet of the New World, a poet intensely <hi rend="italic">sui generis</hi>, one racy of the soil from which he has sprung, carves out his own way with a pen as trenchant as an axe, and goes upon that way of his rejoicing. About the only one rhymed passage in the whole of this otherwise quite rhymeless volume of poetry, is the opening of the song in celebration of the broad-axe in the 'Chants Democratic.' And, having but just now—in total forgetfulness at the moment, alike of that especial passage and of that particular song—likened Walt Whitman's pen, in the trenchant sweep of it, to an axe, such as it might be seen gleaming and crashing when wielded in the grip of a backwoodsman of thews and sinews like his own—upon our sudden remembrance immediately afterwards of his own words, the simile appears more than ever most appropriate. For, thus it is that Walt Whitman, in his 'Song of the Broad Axe,' apostrophises that—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!--from Song of the Broad-Axe, 5-->
+
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Weapon, shapely, naked, wan;</l> 
+                        <l>Head from the mother's bowels drawn!</l> 
+                        <l>Wooded flesh and metal bone<choice><sic>;</sic><corr>!</corr></choice> limb only one, <lb/>and lip only one!</l>
+                        <l>
+                           <choice><sic>Grey-blue</sic><corr>Gray-blue</corr></choice> leaf by red-heat grown! helve <lb/>produced from a <choice><sic>light</sic><corr>little</corr></choice> seed sown!</l> 
+                        <l>Resting the grass amid and upon,</l> 
+                        <l>To be leaned, and to lean on."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>A pen no less potent, keen, piercing, than such a broad axe, 'to be leaned and to lean on,' resting the grass<!-- The following left and right brackets seem to be authorial, so encoding them with unicode numbers --> [<hi rend="italic">Leaves of Grass</hi>] amid and upon'—is, most assuredly, for us the pen of Walt Whitman. Otherwise than in one fragmentary instance like the foregoing, the book is, as we have said, altogether rhymeless. Wonderfully rhythmical throughout, though in lines of the most oddly varying lengths, the poems of Walt Whitman—when the reader has once passed the Rubicon—exercise over  that initiated reader's mind a potent and irresistible fascination. The Rubicon must be passed, however, as a preliminary, as the first and all-essential preliminary of initiation. Meaning by that, simply, that any one coming to the examination of Walt Whitman's poems with a view to their complete appreciation, must begin by, we won't say taking this and that for granted, we won't even say by making such and such allowances, for, so  expressing ourselves, we might seem to be slighting the high inherent claims to respect of a great original writer, such as Walt Whitman: instead of that we will say then simply—that the all-essential preliminary we are alluding to is one purely of concession. Concede to Whitman the fashion of his verse—concede to him his terse but never bald realism—concede to him his exotic verbiage, his coinage of words occasionally, with a daring disregard alike of the laws of syntax and of philology—and the spell of the magician is felt at once and for ever! We are within the circle of his poetic incantations! He 'hath his will' thenceforth—as he lists—at his own pleasure over our hearts, our emotions, our imaginations. As exemplars, to begin with, of his magical power in mere word-painting—take almost haphazard a single line or verse picked out here and there from the midst of his descriptions:—</p> 
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00114" cert="absolute"/>
+                        <!--from Our Old Feuillage-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Evening—me in my room—the setting sun,</l> 
+                        <l>The setting summer sun shining in my open <choice><sic>windows</sic><corr>window</corr></choice>, <lb/>showing the swarm of flies, suspended, balancing <lb/>in the air in the centre of the room, darting athwart, <lb/>up and down, casting swift shadows in specks on <lb/>the opposite wall, where the shine is<choice><sic>."</sic><corr>;</corr></choice>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!--from Song of the Broad-Axe, 3-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The irregular tapping of rain down on the leaves, after <lb/>the storm is lulled."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>   
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00114" cert="absolute"/>
+                        <!--from Our Old Feuillage-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Me<choice><sic></sic><corr>,</corr></choice> observing the spiral flight of two little yellow <lb/>butterflies shuffling between each other, ascending <lb/>high in the air.</l>    
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00226" cert="absolute"/>
+                        <!--from There was a Child Went Forth-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"And the fish suspending themselves <choice><sic></sic><corr>so curiously </corr></choice>below there—and <lb/>the beautiful curious liquid<choice><sic>."</sic><corr>,</corr></choice>
+                        </l>  
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+ 
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!--from When Lilacs Last in the Dooryard Bloom'd, 11-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"In the distance the flowing glaze, the breast of the river, <lb/>with a wind-dapple here and there<choice><sic>."</sic><corr>;</corr></choice>
+                        </l>    
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>These word paintings of Whitman's sometimes pass by their very vividness into whimsicalities, yet are, for all that, wondrous word-paintings nevertheless: as where he speaks of—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!--from Song of the Broad-Axe, 1-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l rend="indented3">" . . .dabs of music;</l> 
+                        <l>Fingers of the organist skipping staccato over the keys of <lb/>the great organ."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>His word-painting power goes with him everywhere. Into the ship-building yard, for example, where we see with him, as if we, too, were there—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!--from Song of the Broad-Axe, 3-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The butter-coloured chips flying off in great flakes<choice><sic>,</sic><corr></corr></choice> 
+                           <lb/>and slivers<choice><sic>.</sic><corr>,</corr></choice>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>   
+
+         <p>It goes with him, and we with it and with him through even the swinging of a door—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!--from Song of the Broad-Axe, 10-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The door passing the dissevered friend, flushed <lb/>and in haste<choice><sic>.</sic><corr>;</corr></choice>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Sometimes the secret of it lies even in a word—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!--from When Lilacs Last in the Dooryard Bloom'd, 6-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The dim-lit <choice><sic>church</sic><corr>churches</corr></choice> and the <hi rend="italic">shuddering</hi> 
+                           <choice><sic>organ</sic><corr>organs</corr></choice>
+                           <choice><sic>."</sic><corr>…</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Or, again, as where conjuring up shapes before him in his reverie, he speaks, among others, of—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!--from Song of the Broad-Axe, 10-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The shape of the shamed and angry stairs, trod by <lb/>sneaking footsteps<choice><sic>.</sic><corr>;</corr></choice>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+     
+         <p>Or, yet more even, where brooding over many exquisite imaginings, he says most oddly and whimsically—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00250" cert="absolute"/>
+                        <!--from Who Learns My Lesson Complete?-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"They are so beautiful I nudge myself to listen."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Or, again in the same way, when, by one subtle word, we note the last agonised kiss of bereaved affection, when—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                        <!--from To Think of Time-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The <hi rend="italic">twitching</hi> lips press lightly on the forehead <lb/>of the dying<choice><sic>."</sic><corr>,</corr></choice>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The merest specks and atoms of beauty, however, are these little word-pictures noticeable in casual lines and phrases in Walt Whitman's poetry. Immeasurably more noteworthy are the large humanity and the wide philosophy evidenced and inculcated by his utterances. His cry is that of Happiness and of Adoration—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00297" cert="absolute"/>
+                        <!--from Song at Sunset-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"For I do not see one imperfection in the universe<choice><sic>."</sic><corr>;</corr></choice>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Another while he declares—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                        <!--from Starting from Paumanok-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"That all the things of the universe are perfect miracles, <lb/>each as profound as any."</l>    
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And another while he ejaculates:—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00119" cert="absolute"/> -->
+<!--from A Song for Occupations-->
+</relations>
+                     <lg type="linegroup">
+                        <l>"The sun and stars that float in the open air;</l> 
+                        <l>The apple-shaped earth<choice><sic></sic><corr>,</corr></choice> and we upon it—surely the drift <lb/>of them is something grand!"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>    
+
+         <p>Adding—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00119" cert="absolute"/> -->
+<!--from A Song for Occupations-->
+</relations>
+                     <lg type="linegroup">
+                        <l>"I do not know what it is, except that it is grand, and <lb/>that it is happiness<choice><sic>."</sic><corr>,</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Again, he is full of wonderment at the abounding wonders around him, among others at—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00119" cert="absolute"/> -->
+<!--from A Song for Occupations-->
+</relations>
+                     <lg type="linegroup">
+                        <l>"The wonder every one sees in every one else he sees, and <lb/>the wonders that fill each minute of time forever<choice><sic>."</sic><corr>,</corr></choice>
+                        </l>  
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The wonder of wonders to him, however—the glory and consolation of his life—(the enunciation of which, of the joy and solace of which to fellow mortals, is among the most dearly-cherished aspirations of his ambition)—the one great end worth living for, being, according to Walt Whitman—Death. Thus he exclaims—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                        <!--from Starting from Paumanok-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"And I will show that<choice><sic></sic><corr>,</corr></choice> whatever happens to anybody<choice><sic></sic><corr>,</corr></choice> it <lb/>may be turned to beautiful results—and I will show <lb/>that nothing can happen more beautiful than death.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>It is thus that he speaks in his "Song at Sunset" of—"the superb vistas of Death." It is thus that in his poem addressed "To one Shortly to Die," he closes it not in pity but in felicitation—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00015" cert="absolute"/>
+                        <!--from To One Shortly to Die-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I do not commiserate—I congratulate you."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>It is thus he sings exultantly—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                        <!--from To Think of Time-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I shall go with the rest<choice><sic>.</sic><corr>,</corr></choice>
+                        </l> 
+                        <l>We cannot be stopped at a given point—that is <choice><sic>no</sic><corr>not</corr></choice> 
+                           <choice><orig>satis-<lb/>faction</orig><reg>satisfaction</reg></choice>,</l> 
+                        <l>To show us a good thing, or a few good things, for a space <lb/>of time—that is no satisfaction<choice><sic>;</sic><corr>,</corr></choice>
+                        </l> 
+                        <l>We must have the indestructible breed of the best, <choice><orig>regard-<lb/>less</orig><reg>regardless</reg></choice> of time.</l>
+                        <l>If otherwise, all these things <choice><sic>come</sic><corr>came</corr></choice> but to ashes of dung<choice><sic></sic><corr>,</corr></choice>
+                        </l> 
+                        <l>If maggots and rats ended us, then alarum! for we are <lb/>betrayed!</l> 
+                        <l>Then indeed suspicion of death.</l>
+                        <l>Do you suspect death? If I were to suspect death I should <lb/>die now:</l> 
+                        <l>Do you think I could walk pleasantly and well suited <choice><orig>to-<lb/>ward</orig><reg>toward</reg></choice> annihilation?"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Consonant with his rapturous exultation in the thought of Death, consonant with his homage for the  perfection of the universe, are his absolute confidence in the reality of the future, and his profound sense that all that is holiest has never yet in any way been adequately realised or appreciated:—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                        <!--from Starting from Paumanok-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I say the whole earth, and all the stars in the sky, are <lb/>for religion's sake.</l>
+                        <l>I say no man has ever yet been half devout enough<choice><sic>,</sic><corr></corr></choice>
+                        </l> 
+                        <l>None has ever yet adored or <choice><sic>worshipped</sic><corr>worshiped</corr></choice> half enough;</l> 
+                        <l>None has begun to think how divine he himself is, <lb/>and how certain the future is."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Hence he sings, hence he is a Poet, hence he undertakes in these poems of his to write the 'evangel-poem of comrades and love.' Akin to his overflowing delight in the thought of the Now and the Hereafter, are the largeness and the depth, the exquisite self-abnegation and the all-embracing comprehensiveness of his humanity. To the very dregs and scum and squalor of the evil streets of a bad city he cries out—by a subtle violation of grammar, as it seems to us, i.e., in the verb we have italicised in the subjoined quotation, appealing to them as though he spoke with them from their own level—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00119" cert="absolute"/> -->
+<!--from A Song for Occupations-->
+</relations>
+                     <lg type="linegroup">
+                        <l>"Because you are greasy <choice><sic>and</sic><corr>or</corr></choice> pimpled, or that you <hi rend="italic">was</hi> 
+                           <lb/>drunk, or a thief,</l> 
+                        <l>Or diseased, or rheumatic, or a prostitute, or are so now<choice><sic>,</sic><corr>;</corr></choice>
+                        </l> 
+                        <l>Or from frivolity or impotence, or that you are no scholar, <lb/>and never saw your name in print,</l> 
+                        <l>Do you give in that you are any less immortal?"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>At the City Dead House in his "Leaves of Grass," we see him standing—gazing—yearning, in tenderest pity and commiseration over—what? over "an outcast form," indeed, over the body of a poor dead prostitute—</p>  
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00228" cert="absolute"/> -->
+<!--from The City Dead-House-->
+</relations>
+                     <lg type="linegroup">
+                        <l>"The divine woman, her body—I see <choice><sic>her</sic><corr>the</corr></choice> body—I look on <lb/>it alone,</l> 
+                        <l>That house<choice><sic>,</sic><corr></corr></choice> once full of passion and beauty—all else I <lb/>notice not;</l> 
+                        <l>
+                           <choice><sic>No</sic><corr>Nor</corr></choice> stillness so cold, nor running water from faucet, nor <lb/>odours morbific impress me;</l> 
+                        <l>But the house alone—that wondrous house—that delicate <lb/>fair house—that ruin!</l> 
+                        <l>That immortal house, more than all the rows of dwellings <lb/>ever built,</l> 
+                        <l>Or <choice><sic>white domed</sic><corr>white-domed</corr></choice> Capitol itself, with majestic <choice><sic>figure</sic><corr>figure</corr></choice> 
+                           <choice><orig>sur-<lb/>mounted</orig><reg>surmounted</reg></choice>—or all the old high-spired cathedrals,</l> 
+                        <l>That little house alone<choice><sic></sic><corr>,</corr></choice> more than them all—poor desperate <lb/>house!</l> 
+                        <l>Fair, fearful <choice><sic>work</sic><corr>wreck</corr></choice>! tenement of a Soul! itself a Soul!</l> 
+                        <l>Unclaimed, avoided house! take one breath from my <lb/>tremulous lips;</l> 
+                        <l>Take one tear, dropped aside as I go, for thought of you,</l> 
+                        <l>Dead house of love! house of madness and sin, crumbled! <lb/>crushed!</l> 
+                        <l>House of life—<choice><sic>ere while</sic><corr>erewhile</corr></choice> talking and laughing—but<choice><sic>,</sic><corr></corr></choice> 
+                           <choice><sic>oh</sic><corr>ah</corr></choice>, <lb/>poor house! dead<choice><sic></sic><corr>,</corr></choice> even then;</l> 
+                        <l>Months, years, an echoing, garnished house—but dead<choice><sic></sic><corr>,</corr></choice> 
+                           <lb/>dead, dead."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>So wide, so profound, so insatiable are the yearnings of this great heart for sympathy, that on turning to his poem on "Envy" what do we find to be the cause of his Envy? Not a perusal of the records of  heroism, not the thought of Mighty Generals or Men in Power, but—when he reads of the brotherhood of lovers—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00092" cert="absolute"/> -->
+<!--from When I Peruse the Conquer'd Fame-->
+</relations>
+                     <lg type="linegroup">
+                        <l>"How through life, through dangers, odium, unchanging, <lb/>long and long,</l> 
+                        <l>Through youth, and through middle and <choice><sic>through</sic><corr></corr></choice> old age, <lb/>how unfaltering, how affectionate<choice><sic>,</sic><corr></corr></choice> and faithful they <lb/>were,</l> 
+                        <l>Then I am pensive—I hastily put down the book, and <lb/>walk away, filled with the bitterest envy."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In illustration of the same thought, or rather of the same tender, yearning for sympathy, read his commemoration of "Parting Friends,"—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00101" cert="absolute"/> -->
+<!--from What Think You I Take My Pen in Hand?-->
+</relations>
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic></sic><corr>…</corr></choice>
+                           <choice><sic>"Two</sic><corr>two</corr></choice> simple men I saw to-day<choice><sic></sic><corr>,</corr></choice> on the pier, in the midst <lb/>of the crowd<choice><sic></sic><corr>,</corr></choice> parting the parting of dear friends;</l> 
+                        <l>The one to remain hung on the other's neck<choice><sic></sic><corr>,</corr></choice> and <choice><orig>pas-<lb/>sionately</orig><reg>passionately</reg></choice> kissed him,</l> 
+                        <l>
+                           <choice><sic>Whilst</sic><corr>While</corr></choice> the one to depart tightly pressed the one to <choice><orig>re-<lb/>main</orig><reg>remain</reg></choice> in his arms."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Or, still more, the Poet's apostrophe "To a Stranger":—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00088" cert="absolute"/> -->
+<!--from To a Stranger-->
+</relations>
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic>"Passing</sic><corr>PASSING</corr></choice> stranger! you do not know how longingly I look <lb/>upon you<choice><sic>."</sic><corr>,</corr></choice>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Most of all this yearning for sympathy shines forth when it is recognised "Among the Multitude;" when, in other words, the Poet foresees it, thus—</p> 
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00106" cert="absolute"/> -->
+<!--Among the Multitude-->
+</relations>
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic>"Among</sic><corr>AMONG</corr></choice> the men and women, the multitude<choice><sic></sic><corr>,</corr></choice>
+                        </l> 
+                        <l>I perceive one picking me out by secret and divine signs,</l> 
+                        <l>Acknowledging none else—not parent, wife, husband, <lb/>brother, child, any nearer than I am<choice><sic>:</sic><corr>;</corr></choice>
+                        </l> 
+                        <l>Some are baffled—But that one is not—that one knows <lb/>me.</l> 
+                        <l>Ah<choice><sic>!</sic><corr>,</corr></choice> lover and perfect equal!</l> 
+                        <l>I meant that you should discover me so, by my faint <lb/>indirections;</l> 
+                        <l>And I, when I meet you, mean to discover you by the <lb/>like in you."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>So, too, he sees them afar off in foreign lands, those breasts with whom his own could sympathise could they be brought into communion:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="xxx.00089" cert="absolute"/> -->
+<!--This Moment Yearning and Thoughtful-->
+</relations>
+                     <lg type="linegroup">
+                        <l>"O I know we should be brethren and lovers<choice><sic>—</sic><corr>,</corr></choice>
+                        </l>
+                        <l>I know I should be happy with them."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+ 
+         <p>It were idle, however, attempting to afford the reader any adequate notion of these poems as a symmetrical whole, through mere fragmentary or incidental quotations like those to which a reviewer is necessarily restricted. It would be  worse than the proffering of the specimen-brick by the house-vendor in Hierocles—it would be the production of a handful of splinters chipped off the Apollo Belvidere<ref target="n2" xml:id="r2" n="2"/>, or of a stray finger torn from the Venus de Medici.<ref target="n3" xml:id="r3" n="3"/> Whitman's Poems—as is the case with every true work of art—must be viewed each in its entirety before there can be any hope whatever of their accurate appreciation. So regarded, they cannot fail by any possibility, as we conceive, to win the admiration to which they are so signally entitled. After this fashion alone—that is to say at once, searchingly and comprehensively—ought at any time to be examined, that noble apostrophe, beginning at page 310, To Death, that profound and heart-penetrating epitome of Human Life, commencing at page 356, that no less effective and affecting poem upon Night and Death which opens at page 266, but above all the magnificent Nocturn upon the Death of President Lincoln beginning at page 301, and, what is to our mind even finer than that, the exquisitely pathetic and pre-eminently beautiful celebration by Walt Whitman of the first revelation to himself of his own powers and future path in life as a poet, when, as a little barefooted child, he stood upon the sea-shore one evening and far on into the night, listening to the lamentations of the song-bird bereaved of its mate, himself drowned in tears as he listened—standing, there, entranced in the  moonlight drinking in the music of that delicate and tender death-chant! Never before was the song of a bird so put into human language—never before was the rapturous anguish of the poetic summons so articulated. It is Béranger's<ref target="n4" xml:id="r4" n="4"/> 
+            <hi rend="italic">Ma Vocation</hi> repeated: when—speaking of himself as a mere infant—the old Chansonnier sings to us—</p>
+
+         <q who="Béranger">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+<!-- <work ref="Ma Vocation" cert="high"/> -->
+<!-- Did not attempt to verify this quotation -->
+</relations>
+                     <lg type="linegroup">
+                        <l>"Une plainte touchante,</l> 
+                        <l>De ma bouche sortit;</l> 
+                        <l>Le bon Dieu me dit: Chante,</l> 
+                        <l>Chante, pauvre petit."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And now that Whitman has sung (and is still, for that matter, happily singing in the midst of us) in obedience to the holy mandate by which every true poet is at the outset made aware of his vocation, he has as profound a sense of the reality of that summons, and of the consequent permanence or security of his reputation as a Poet, as ever Horace had when proudly forecasting his own poetic immortality. Assuming to himself at once his right position in English Literature, he has even, as it happens, like almost all the more remarkable poets in our language, selected, unconsciously it may be, but unmistakably his own special emblem! Henceforth, as it seems to us, <hi rend="italic">his</hi> inalienably and no other's! A floral emblem to be worn by him from this time forth as conspicuously as the sprig of bloom fastened of old on the helmet of the first Plantaganet.<ref target="n5" xml:id="r5" n="5"/> In this, as we have just now intimated, it is with him, as it has been before him with his compeer and his congeners, the majority of the great poets in our language. Has not Moore<ref target="n6" xml:id="r6" n="6"/>, for example, in this way taken to himself for ever as his the shamrock—and Scott<ref target="n7" xml:id="r7" n="7"/> the purpling heather—and Campbell<ref target="n8" xml:id="r8" n="8"/> the red velvet strings of love-lies-bleeding? Has not Keats his sprig of basil<ref target="n9" xml:id="r9" n="9"/>—and Blair<ref target="n10" xml:id="r10" n="10"/> his branch of funereal yew—and Chatterton<ref target="n11" xml:id="r11" n="11"/> his trail of lamenting willow? But that Burns,<ref target="n12" xml:id="r12" n="12"/> again, according [to] his own showing, was endowed by his Muse (the Muse of Scotland) with the glistening bough of the holly, he might perchance have contested with Dan Chaucer<ref target="n13" xml:id="r13" n="13"/> the latter's now undisputed right to the possession as his of the darling blossom of the daisy.<ref target="n14" xml:id="r14" n="14"/> As indubitably, moreover, as the daisy belongs to Chaucer and the holly to Burns—so has Shelley assumed to himself the sensitive plant, and Wordsworth the little celandine and the daffodils,<ref target="n15" xml:id="r15" n="15"/> and Cowper<ref target="n16" xml:id="r16" n="16"/> the rose and the water lily, and Leigh Hunt<ref target="n17" xml:id="r17" n="17"/> the flowering  branch of May, and Tennyson the gorgeous blossom of the passion flower, if only by right of the 'splendid tear' shed upon it at the garden porch in 'Maud,'<ref target="n18" xml:id="r18" n="18"/> and Milton 'the yellow cowslip and the pale primrose,' and Shakespeare, for that matter, almost every bloom of the parterre or of the wilderness. And, as it has been with those, so it is now and henceforth with this true American Poet Walt Whitman, who has made the lilac—the fragrant, blueish-pink blossoms of the lilac—his own completely. Turning the leaves of these poems, the reader may say before the book is closed as the Poet himself says or rather sings with a sort of rapture—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!--from When Lilacs Last in the Dooryard Bloom'd, 13-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Yet the lilac<choice><sic></sic><corr>,</corr></choice> with mastering odour holds me."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>For it blossoms, and breathes forth its haunting perfume, and verdantly unfolds its delicate heart-shaped leaves, again and again, all through these pages—more especially in the great Nocturn on the Death of President Lincoln. And so, with the fragrance of the lilacs in our nostrils, and with the song of the lamenting bird in our ears, and with the thought in our hearts of the manly poet himself going his sickening rounds in the ghastly hospitals, all through the great American War, accompanied, as he went down the wards, by his attendant, bearing sponge, and pail, and lint, and ointment, for the cleansing and the binding up of many loathsome wounds, we close this beautiful volume with a renewal of our grateful acknowledgments to Mr. Rossetti, and with a benison to Walt Whitman.</p> 
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Florence Nightingale (1820-1910) was in charge of nursing in the military hospitals at Scutari, Turkey during the Crimean War.
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+The <hi rend="italic">Apollo Belvedere</hi> is a Roman copy of an original probably by the Athenian sculptor Leochares. The statue, after it was discovered in the late fifteenth century, came to be widely regarded as the ideal male form.
+</note>
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+                  <hi rend="italic">The Venus de Medici</hi> is a Hellenistic marble sculpture of Aphrodite. It represented the neoclassical ideal of female beauty. 
+</note>
+               <note type="editorial" xml:id="n4" target="r4" n="4">
+Pierre-Jean de Béranger (1780-1857) was a popular and influential French poet and songwriter whose lyrics were highly critical of France's post-Napoleonic government.
+</note>
+               <note type="editorial" xml:id="n5" target="r5" n="5">
+Plantaganet refers to Geoffrey V, Count of Anjou (1113-1151) member of the Plantaganet royal house of England (also called house of Anjou or Angevin dynasty) which reigned from 1154-1485.  
+</note>
+               <note type="editorial" xml:id="n6" target="r6" n="6">
+Thomas Moore (1779-1852) was an Irish poet, satirist, composer, and political propagandist.
+</note>  
+               <note type="editorial" xml:id="n7" target="r7" n="7">
+The Scottish poet Thomas Campbell (1777-1844) is known for his sentimental and martial lyrics.
+</note>
+               <note type="editorial" xml:id="n8" target="r8" n="8">
+The spring of basil may be referring to John Keats's (1795-1821) poem "Isabella, or the Pot of Basil" (1817-18), which is an adaptation of the story of the "Pot of Basil" in Giovanni Boccaccio's <hi rend="italic">Decameron</hi>.
+</note>
+               <note type="editorial" xml:id="n9" target="r9" n="9">
+Robert Blair (1699-1746) was a Scottish poet famed for his poem, "The Grave" (1743), which features the yew tree.
+</note>
+               <note type="editorial" xml:id="n10" target="r10" n="10">
+Thomas Chatterton (1752-1770) was an  English poet, known for his role in the 18th century "Gothic" literary revival.  The willow tree is a recurrent image in his poem, "Song from Ælla," a lament for a dead lover.
+</note>
+               <note type="editorial" xml:id="n11" target="r11" n="11">
+Robert Burns (1759-1796) was the National poet of Scotland.  The reference to holly alludes to Burns's poem, "The Vision" (1786): "Green, slender, leaf-clad holly boughs/Were twisted gracefu' round her brows,/I took her for some Scottish Muse" (duan I, st. 9).  Burns also penned a poem entitled "To A Mountain Daisy" (1786).  
+</note>
+               <note type="editorial" xml:id="n12" target="r12" n="12">
+"Dan Chaucer" is a reference to the line from Edmund Spenser's <hi rend="italic">Faërie Queene</hi>(1590), "Dan Chaucer, well of English undefiled,/On Fame's eternal beadroll worthy to be filed" (book iv. canto ii. 32).
+</note> 
+               <note type="editorial" xml:id="n13" target="r13" n="13">
+The "darling blossom of the daisy" refers to Geoffrey Chaucer's poem, "The Prologue to the Legend of Good Women" (c. 1385-86) which features the daisy.
+</note>
+               <note type="editorial" xml:id="n14" target="r14" n="14">
+William Wordsworth was reputedly fond of the lesser celandine and it inspired him to write three poems including "The Lesser Celandine."  His 1807 poem, "I Wandered Lonely as a Cloud," features the daffodils.  
+</note>
+               <note type="editorial" xml:id="n15" target="r15" n="15">
+William Cowper (1731-1800) was a popular English poet of his time.  His poem, "The Lily and the Rose," was first published in 1782.  A later poem, "The Dog and the Water-Lily," was published in 1791. 
+</note> 
+               <note type="editorial" xml:id="n16" target="r16" n="16">
+Leigh Hunt (1784-1859) was an English essayist, critic, journalist, poet, and editor of significant journals.  
+</note>
+               <note type="editorial" xml:id="n17" target="r17" n="17">
+This is a reference comes to Alfred Lord Tennyson's (1809-1892) poem "Maud" (1855): "There has fallen a splendid tear /From the passion-flower at the gate."
+</note>
+               <note type="editorial" xml:id="n18" target="r18" n="18">
+This phrase refers to John Milton's (1608-1674) 1645 poem, "Song on May Morning," celebrating dawn and the coming of spring: "Now the bright morning Star, Dayes harbinger,/Comes dancing from the East, and leads with her/The Flowry May, who from her green lap throws/The yellow Cowslip, and the pale Primrose."  
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

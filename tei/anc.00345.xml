@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00345">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poems">Walt Whitman, The American Poet of Democracy</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Walt Whitman</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="br">Bev Rilett</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00345</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Whitman, Walt">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Walt Whitman</reg>
+                     </choice>
+                  </author>
+                  <title level="m" type="main">Walt Whitman, The American Poet of Democracy</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Australian Journal: A Weekly Record of Literature, Science and the Arts</title>
+                  <imprint>
+                     <date when="1882-10-30">November 1869</date>
+                     <biblScope type="pages">164–67</biblScope>
+                     <biblScope type="volume">54</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#vs" when="2010-03-05">checked and approved encoding and transcription</change>
+         <change who="#br" when="2010-01-27">copied and encoded from image of original</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">NOTES OF A READER.</head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+         <head type="sub-authorial">WALT WHITMAN, THE AMERICAN POET OF DEMOCRACY.<!-- [Review of <hi rend="italic">Poems by Walt Whitman</hi>, Selected and Edited by William Michael Rossetti (1868).] --></head>
+
+         <p>A <hi rend="smallcaps">LITTLE</hi> over six months ago we came across an edition of the Works of Walt Whitman, selected and edited by William Michael Rosetti, an Englishman of no mean literary fame, and who possesses the critical faculty in a high degree. Up to the time mentioned, the facts that a new poet had arisen in America, and that much difference of opinion existed as to his merits, were of no special interest.</p> 
+
+         <p>Every author has, at one period or another, met with the cross of harsh, undeserved criticism. And with many, such injustice is prejudicial to the acquisition of fame. With Walt Whitman the case is different. He has a self-imposed task to perform; he is to furnish the great "psalm of the Republic," the poem of Personality—Personality as it exists in America; and, wrapped in "sublime egotism"—the egotism of a man who feels himself a king upon earth, not "wearing the purple," but in the humble guise of a working man, one whose genius</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                     </relations>
+
+                     <l>
+                        <hi rend="indented8">"Knows no end,</hi>
+                     </l>
+                     <l>And will to countless years extend</l>
+                     <l>Undimm'd, unstained, in glow;"</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>he has gone through with his work. The vastness of the territory of America, the grandeur of her natural scenery, the magnitude of her undertaking, and the greatness of her democratic institutions—are themes that, up to the present time, have needed a poet who can enter into the true spirit of the American nation, and think and speak in a way to illustrate such spirit.</p> 
+
+         <p>Old world poets, fettered by rules, chained down to precedents, fearing the critic's scourge, thinking less of the affection of the "common people" than of the admiration of literary circles, have not attained the high level of this new world theme. The tendency of English and American poetry has been hitherto chastening and refining; the Titanic vigour, energy, and intensity of Whitman, seem like the growth of an American forest tree beside a lovely English garden plant; each in its kind is beautiful, but the soul is far more deeply stirred by the former.</p>
+
+         <p>In order fully to understand the character of Walt Whitman's writings, the reader should first be made acquainted with the man and his history. Biography affords valuable aid to the student seeking to fathom the depths of poetry. The outward life of a man is often the key to the inner—the working of the mind. In Whitman this is noticeable. He was born at the farm village of West Hills, Long Island, in the Manhattan state, "well begotten and raised of a perfect mother," on the 31st of May, 1819. His family, of English origin, had been settled in the locality for five generations. Walt was one of a large family. The father, Walter Whitman, after whom he was christened, was a farmer, and afterwards a carpenter and builder, adhering in religion to the great quaker iconoclast, Elias Hicks. Walt was schooled at Brooklyn, and began life in a printing office, at the age of thirteen, subsequently turning his attention to teaching, and later still becoming a "miscellaneous press-writer" in New York. In 1849 he began to travel, and became newspaper editor at New Orleans, and afterwards a printer at Brooklyn, the place of his schooldays. With that versatile genius which enables Americans of every class to adapt themselves to circumstances, and follow every pursuit, he next followed his father's business of carpentry. This was his occupation until the outbreak of the great civil war in 1862, when he undertook the duty of nursing the sick and wounded. Mr. Rosetti, to whom I am indebted for these particulars, adds that it was through Emerson's intervention that Whitman obtained President Lincoln's sanction to carry on this work of charity "without fee or reward," and to draw army rations. Howe'er it be, we know that the "Concord sage" was one of the first to recognise Whitman's merits, in a letter addressed to the poet, greeting him "at the beginning of a great career;" and pronouncing <hi rend="italic">Leaves of Grass</hi> "the most extraordinary piece of wit and wisdom that America has yet contributed." As a hospital nurse, Whitman proved the nobleness of his nature by his untiring devotion to the sick and wounded, and a tenderness almost womanly in its extremity. Some of his most striking poems are the outcome of his experiences whilst fulfilling the self-imposed duties of this charitable office. In 1864, Whitman caught his first severe illness, from the absorption of poison into his system whilst attending to "some of the worst cases of gangrene," and was incapacitated for a period of six months, but in 1865 returned to the hospitals, and also obtained a clerkship in the department of the Interior, from which he was dismissed because of the free speech on things of a gross nature, in <hi rend="italic">Leaves of Grass</hi>. He has since obtained, like many other eminent American writers, a post under Government, in the department of the Attorney-General. Whitman's dismissal from the department of the Interior, which was enforced by Secretary Harlan, caused some little indignation and a pamphleteering controversy: hence his reinstatement to Government employment.</p>
+
+         <p>In manners and habit of life, Whitman is peculiar. The privilege of genius to be eccentric would appear to be exercised in his case to the full; but his eccentricity and genius are <hi rend="italic">en rapport</hi>, and bear a singular consistency. Rugged, plain, outspoken, and sensitive in his verse, the poet is the same in his daily life. Mr. Conway has, however, in an article in the <hi rend="italic">Fortnightly Review</hi> for October, 1866, given an admirable account of a visit to the poet who, he states, he searched out with a view of giving some report concerning him to his friends. After detailing how he found the small, wooden house of two stories, in which Whitman resided, "after journeying through the almost interminable and monotonous streets which stretch out upon the fish-shaped Panmanok," Mr. Conway adds:—</p> 
+
+         <p>"The day was excessively hot—the thermometer at nearly 100 deg., and the sun blazed down as only on sandy Long Island can the sun blaze. The common had not a single tree or shelter, and it seemed to me that only a very devout fire worshipper could be found there on such a day. No human being could I see at first in any direction; but just as I was about to turn, I saw, stretched upon his back and gazing up straight at the terrible sun, the man I was seeking. With his grey clothing, his blue grey shirt, his iron grey hands, his swart sun-browned face and bare neck, he laid upon the brown and white grass—for the sun had burnt away its greenness—and was so like the earth upon which he rested, that he seemed almost enough a part of it for one to pass by without recognition. I approached him, gave my name, and my reason for finding him out, and asked him if he did not find the sun rather hot. 'Not at all too hot,' was his reply; and he confided to me that this was one of his favourite places and attitudes for composing 'poems.' He then walked with me to his home, and took me along its narrow ways to his room—a small room of about fifteen square feet, with a single window looking out on the barren solitude of the island—a small cot, a washstand, with a little looking glass hung over it from a tack in the wall, a pine table with pen, ink, and paper on it, an old line engraving representing Bacchus hung on the wall, and opposite a similar one of Silenus. These constituted the visible endowments of Walt Whitman. There was not, apparently, a single book in the room. In reply to my expression of a desire to see his books, he declared that he had very few. I found upon further inquiry that he had received only such a good English education as every American lad may receive from the public schools, and that he now had access to the libraries of some of his friends. The books he seemed to love best, were the Bible, Homer, and Shakespeare; these he owned, and probably had in his pocket while we were talking. He had two studies, where he read; one was the top of an omnibus, and the other a small mass of sand—then entirely uninhabited—far out in the ocean, called Coney Island.  . . . I could not help suspecting that he must have had masters, but he declared that he had learned all that he knew from omnibus drivers, ferry boat pilots, fisherman, boatmen, and the men and women of the markets and wharves. These were all inarticulate poets, and he interpreted them. The only distinguished contemporary he had ever met, was the Rev. Henry Ward Beecher, of Brooklyn, who had visited him. He had, he said, asked Mr. Beecher what were his feelings when he heard a man swear; and that gentleman having admitted that he felt shocked, he (Whitman) concluded that he still preferred keeping to the boatmen for his company." Mr. Conway says that Walt Whitman impressed him favourably, socially, physically, and intellectually, and he adds his praise, not unmixed with surprise, to the testimony of Emerson in his favour. Thoreau, Robert Buchanan, Swinburne, and others, have also recognized Whitman's genius; and what, perhaps, is even more satisfactory still to Whitman, he has gained the love and admiration of thousands of his countrymen, who see in his poems the expression of their national nature and spirit.</p>
+
+         <p>Space does not allow of a criticism of Whitman's poetry, but we subjoin a specimen of his verse. The spirit of Democracy breathes through every line that he has set to paper, although in many of his pieces he mistakes the conception of a poetic idea in his own mind for the expression of it.</p> 
+
+         <p>In the case of Whitman's poetry comparison becomes impossible. He stands single and alone in the poetic circle—the personification of Democracy. The verses given below are not chosen because of superior merit, but simply as illustrating different phases of the poet's mind:—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00174" cert="absolute"/>
+                        <!-- Eighteen Sixty-One -->
+                     </relations> 
+                     <head type="main-authorial">1861.</head>
+                     <l>A<hi rend="smallcaps">RMED</hi> year! year of the struggle!</l>
+                     <l>No dainty rhymes or sentimental love verses for you, terrible year!</l>
+                     <l>Not you as some pale poetling, seated at a desk, lisping cadenzas piano;</l>
+                     <l>But as a strong man, erect, clothed in blue clothes, advancing, carrying <lb/>a rifle on your shoulder,</l>
+                     <l>With well gristled body and sunburnt face and hands—with a knife in <lb/>the belt at your side,</l>
+                     <l>As I heard you shouting loud—your sonorous voice ringing across the <lb/>continent;</l> 
+                     <l>Your masculine voice, O year, as, rising amid the great cities,</l>
+                     <l>Amid the man of Manhattan I saw you, as one of the workmen, the <lb/>dwellers in Manhattan;</l>
+                     <l>Or with large steps crossing the prairies out of Illinois and Indiana,</l>
+                     <l>Rapidly crossing the West with springy gait and descending the <lb/>Alleghanies;</l>
+                     <l>Or down from the great lakes, or in Pennsylvania, or on deck along the <lb/>Ohio river;</l>
+                     <l>Or southward along the Tennessee or Cumberland rivers, or at Chatta- <lb/>nooga on the mountain top,</l>
+                     <l>Saw I your gait and saw I your sinewy limb, clothed in blue, bearing <lb/>weapons, robust year;</l>
+                     <l>Heard your determined voice, launched forth again and again;</l>
+                     <l>Year that suddenly sang by the mouths of the round-lipped cannon,</l>
+                     <l>I repeat you, hurrying, crashing, sad, distracted year.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00218" cert="absolute"/>
+                        <!-- O Captain! My Captain! -->
+                     </relations> 
+                     <head type="main-authorial">N<hi rend="smallcaps">OCTURN FOR THE</hi> D<hi rend="smallcaps">EATH OF</hi> L<hi rend="smallcaps">INCOLN</hi>.</head>
+                     <lg type="linegroup">
+                        <l>O C<hi rend="smallcaps">APTAIN!</hi> my captain! our fearful trip is done!</l>
+                        <l>The ship has weathered every wrack, the prize we sought is won;</l>
+                        <l>The port is near, the bells I hear, the people all exulting,</l>
+                        <l>While follow eyes the steady keel, the vessel grim and daring.</l>
+                        <l rend="indented4">But, O heart! heart! heart!
+                        </l>
+                        <l rend="indented4">Leave you not the little spot
+                        </l>
+                        <l rend="indented4">Where on the deck my captain lies,
+                        </l>
+                        <l rend="indented4">Fallen Cold and Dead.
+                        </l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>O captain! my captain! rise up and hear the bells!</l>
+                        <l>Rise up! for you the flag is flung, for you the bugle trills;</l>
+                        <l>For you bouquets and ribboned wreaths, for you the shore's a-crowding;</l>
+                        <l>For you they call, the swaying mass, their eager faces turning.</l>
+                        <l rend="indented4">O captain! dear father!
+                        </l>
+                        <l  rend="indented4">This arm I push beneath you.
+                        </l>
+                        <l rend="indented4">It is some dream that on the deck
+                        </l>
+                        <l rend="indented4">You've fallen cold and dead.
+                        </l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>My captain does not answer, his lips are pale and still;</l>
+                        <l>My father does not feel my arm, he has no pulse or will;</l>
+                        <l>But the ship, the ship is anchored safe, its voyage closed and done;</l>
+                        <l>From fearful trip the victor ship comes in with object won!</l>
+                        <l  rend="indented4">Exult O shores! and ring O bells!
+                        </l>
+                        <l  rend="indented4">But I, with silent tread,
+                        </l>
+                        <l rend="indented4">Walk the spot; my captain lies
+                        </l>
+                        <l  rend="indented4">Fallen cold and dead.
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+      </body>
+   </text>
+</TEI>

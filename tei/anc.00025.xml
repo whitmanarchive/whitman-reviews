@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00025">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>George Eliot</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="br">Beverley Rilett</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00025</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Eliot, George">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>George Eliot</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Contemporary Literature</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Westminster Review</title>
+                  <imprint>
+                     <biblScope type="volume">N.S. 9</biblScope>
+                     <note type="project" rend="bracketed">
+                        <supplied>London</supplied>
+                     </note>
+                     <date when="1856-04-01">1 April 1856</date>
+                     <biblScope type="pages">343-56</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#br" when="2012-02-10">changed journal title "Westminster and Foreign Quarterly Review" to "Westminster Review"</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-21">Encoded, validated</change>
+         <change who="#ts" when="2005-02-15">Corrected encoding for ellipses</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>[ . . .] We<ref target="n1" xml:id="r1" n="1"/> have still said nothing of Mr. Ernest Jones&#x92;s war strains; of a new poem by the American poet, Mr. Buchanan Reade<ref target="n2" xml:id="r2">∗</ref>—a gracefully rhymed, imaginative story; or of another American production which, according to some Transatlantic critics, is to initiate a new school of poetry. This is a poem called "Leaves of Grass,"<ref target="n3" xml:id="r3">†</ref> and, instead of criticizing it, we will give a short extract, typical in every respect, except that it contains none of the very bold expressions by which the author indicates his contempt for the &#x93;prejudices&#x94; of decency.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"A child said, What is the grass? fetching it to me with full hands;</l>
+                     <l>How could I answer the child?…I do not know what it is any <lb/>more than he.</l>
+                     <l>I guess it must be the flag of my disposition, out of hopeful <lb/>green stuff woven.</l>
+                     <l>Or I guess it is the handkerchief of the Lord,</l>
+                     <l>A scented gift and remembrancer designedly dropped,</l>
+                     <l>Bearing the owner's name someway in the corners, that we <lb/>may see and remark, and say Whose?</l>
+                     <l>Or I guess the grass is itself a child…the produced babe of <lb/>the vegetation.</l>
+                     <l>Or I guess it is a uniform hieroglyphic,</l>
+                     <l>And it means, Sprouting alike in broad zones and narrow zones</l>
+                     <l>Growing among black folks as among white,</l>
+                     <l>Kanuck, Tuckahoe, Congressman, Cuff, I give them the same, I <lb/>receive them the same.</l>
+                     <l>And now it seems to me the beautiful uncut hair of graves.</l>
+                  </lg><lg type="linegroup"><l> . .  . . </l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>I think I could turn and live awhile with the animals… <lb/>they are so placid and self-contained,</l>
+                     <l>I stand and look at them sometimes half the day long.</l>
+                     <l>They do not sweat and whine about their condition,</l>
+                     <l>They do not lie awake in the dark and weep for their sins,</l>
+                     <l>They do not make me sick discussing their duty to God,</l>
+                     <l>Not one is dissatisfied…not one is demented with the <lb/>mania of owning things,</l>
+                     <l>Not one kneels to another nor to his kind that lived <lb/>thousands of years ago,</l>
+                     <l>Not one is respectable or industrious over the whole earth."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+         <ab><hi rend="superscript">∗</hi>"The House by the Sea: a Poem." By Thomas Buchanan Reade. London: Trübner and Co.</ab>
+
+         
+            
+            <ab><hi rend="superscript">†</hi>
+               
+                   "Leaves of Grass." 
+                   
+                      London:  
+                      Horsell.  
+                   
+               
+            </ab>
+          
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">In the first pages of this essay Eliot treats a variety of works, ranging from John Ruskin's <hi rend="italic">Modern Painters</hi> and Adolf Stahr's study of Greek sculpture to a collection of tales by Wilkie Collins and a translation of Homer's <hi rend="italic">Iliad</hi>. It is only at the end of the essay that she makes the following comments regarding <hi rend="italic">Leaves of Grass</hi>.</note>
+
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

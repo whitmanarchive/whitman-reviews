@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00063">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1867">[Review of <hi rend="italic">Leaves of Grass</hi> (1867)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>John Burroughs</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00063</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Burroughs, John">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>John Burroughs</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Literary Review</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Boston Commonwealth</title>
+                  <imprint>
+                     <date when="1866-11-10">10 November 1866</date>
+                     <biblScope type="pages">1-2</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#ts" when="2005-12-05">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>Perhaps a steady and unshaken faith in one's self—what we call self-reliance—has as much to do with a man's success in what he undertakes as any other single quality. This faith Walt Whitman certainly has in an amazing degree; perhaps no man ever wrote with so much assurance and so regardless of the opinions of the mass of his contemporaries. In his recent little volume, called <hi rend="italic">Drum Taps</hi>, occur these lines:—</p>
+
+         <!-- The following quote includes two lines from As I Lay with My Head . . . but is rendered as only one line in Price.  Don't have photocopy of the original review to refer to for comparison.  For the time being I am rending this as one line, following Price. Not including Price's segment breaks here or in subsequent quotes since they are arbitrary.  -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00208" cert="absolute"/>
+                        <!-- As I Lay with My Head in Your Lap Camerado lines 8-9-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I am more resolute because all have denied me than I could ever have been had all accepted me; I heed not, and have never heeded, either experience, cautions, majorities, nor ridicule.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The following from <hi rend="italic">Leaves of Grass</hi> is to the same purport:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00191" cert="absolute"/>
+                        <!-- Not the Pilot, quoted in full-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Not the pilot has charged himself to bring his ship into port, though beaten back, and many times baffled;</l>
+                        <l>Not the path-finder, penetrating inland, weary and long,</l>
+                        <l>By deserts parched, snows chilled, rivers wet, perseveres till he reaches his destination,</l> 
+                        <l>More than I have charged myself, heeded or unheeded, to compose a free march for <choice><sic>t</sic><corr>T</corr></choice>hese States,</l>
+                        <l>To be exhilarating music to them years, centuries hence.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>He has worked away like a man building something, the plan or character of which none foresaw, but which he had deliberately settled upon; and amid the jeers and ridicule of the crowd has gone on adding stroke after stroke, part after part, as serenely and good-naturedly as if the rest of mankind were clapping their hands in applause.</p>
+ 
+         <p>As his work approaches, or perhaps has arrived at, completion in this new edition, it turns out that the thing he has been building so long is a man—a new democratic man, whom he believes to be typical of the future American, and of whom he perpetually uses himself as the illustration.</p> 
+
+         <p>The 'Inscription,' which is one of the new features of this edition, says as much:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00353" cert="absolute"/>
+                        <!--Small the Theme of My Chant, quoted in full-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic>Small</sic><corr>SMALL</corr></choice> is the theme of the following chant, yet the greatest—namely, ONE'S SELF—that wonderous thing, a simple, separate person. That, for the use of the New World, I sing.</l>
+                        <l>Man's physiology complete, from top to toe, I sing. Not physiognomy alone, nor brain alone, is worthy for the muse; I say the <choice><sic>form</sic><corr>Form</corr></choice> complete is worthier far. The female equally with the male, I sing.</l>
+                        <l>Nor cease at the theme of One's Self. I speak the word of the modern, the word EN-MASSE.</l>
+                        <l>My days I sing, and <choice><sic>lands</sic><corr>Lands</corr></choice>—with interstice I knew of hapless <choice><sic>war</sic><corr>War</corr></choice>.</l>
+                        <l>O friend, whoe'er you are, at last arriving hither to commence, I feel through every leaf the pressure of your hand, which I return. And thus upon our journey link'd together let us go.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>This passage, 'To a Historian,' also contains a valuable hint toward understanding the purpose of the author:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00028" cert="absolute"/>
+                        <!--To a Historian, quoted in full-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>You who <choice><sic>have celebrated</sic><corr>celebrate</corr></choice> bygones!</l>
+                        <l>Who have explored the outward, the surfaces of the races 
+    —the life that has exhibited itself;</l>
+                        <l>Who have treated of man as the creature of politics, 
+     aggregates, rulers and priests;</l>
+                        <l>I, habitué of the Alleghanies, treating man as he is in himself, in his own rights,</l>
+                        <l>Pressing the pulse of the life that has seldom exhibited 
+     itself, (the great pride of man in himself;)</l>
+                        <!-- The following line is actually two separate lines in the original (break after "be,".  Not sure how to encode this type of discrepancy using the <sic> formula. -->
+                        <l>Chanter of <choice><sic>personality</sic><corr>Personality</corr></choice>, outlining what is yet to be, I project the history of the future.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The arrangement of the pieces, as they stand in the new volume, favors this view. The first poem, 'Walt Whitman,' which is a compend of the book, has for its central purpose, perhaps, to show how a man is made; what elements and experiences contribute to him, and how wide the field from which he may draw nutriment. It is a search after power—a ransacking of heaven and earth for something to try himself on—to measure himself against. He would soar into heaven, he would dive into hell, to find himself—to be published of his own personality.</p>
+ 
+         <p>Following this poem comes a collection of pieces called 'Children of Adam,' in which the author celebrates amativeness and the principle of sex. It is these poems which have given so much offense. They have most likely been very much misunderstood. The poet attempts to do justice to every part of a strong, healthy, unconventional man. In these pieces he shows us his hero mostly as a breeding animal—for the moment giving free swing to his animal nature. When we reflect that this animal nature is the basis of all else—is the very ground under our feet—we can pardon this attitude of the poet toward it, particularly as he has done an equal proportionate justice to the moral and aesthetic qualities, and has not unduly exalted any part.</p> 
+
+         <p>The poems called 'Calamus,' which follow, celebrate a riper and more mature feeling, namely, manly affection and the need of comrades. 'Salut au monde,' or, Health to the World! shows the geniality and good wishes of America toward all other nations, till, in the pieces which follow, the high intellectual powers are fully recognized and unfolded:—</p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00417" cert="absolute"/>
+                        <!--Says, section 3.-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I have said many times that materials and the <choice><sic>soul</sic><corr>Soul</corr></choice> are great, and that all depends on physique;</l>
+                        <l>Now I reverse what I said, and affirm that all depends on the aesthetic, or intellectual,</l>
+                        <l>And that criticism is great—and that refinement is greatest of all;</l>
+                        <l>And I affirm now that the mind governs—and that all depends on the mind.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+ 
+         <p>The 'Song of the Broad Axe' and 'To Working-Men' comprise most of those poems which, in other editions, were arranged under the head of 'Chants Democratic.' The Sun-down poem, which Thoreau admired so much, comes near the close of the volume. This poem represents the soul in an attitude of worship or adoration. Having examined the world and the men and women in it, having tasted and tried all things, it finds all perfect, and that there are and can be no conceivable failures:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00297" cert="absolute"/>
+                        <!--Song at Sunset-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic>Splendor</sic><corr>SPLENDOR</corr></choice> of ended day, floating and filling me!</l>
+                        <l>Hour prophetic—hour resuming the past!</l>
+                        <l>Inflating my throat—you, divine average!</l>
+                        <l>You, <choice><sic>earth</sic><corr>Earth</corr></choice> and <choice><sic>life</sic><corr>Life</corr></choice>, till the last ray gleams, I sing.</l>
+                        <!-- Stanza break here in original Whitman not acknowledged in review (or at least in transcript on Whitman Archive).  Not sure how to encode this discrepancy. -->
+                        <l>Open mouth of my <choice><sic>soul</sic><corr>Soul</corr></choice>, uttering gladness,</l>
+                        <l>Eyes of my <choice><sic>soul</sic><corr>Soul</corr></choice>, seeing perfection,</l>
+                        <l>Natural life of me, faithfully praising things;</l>
+                        <l>Corroborating forever the triumph of things. </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The 'Song of the Open Road' shows the man about at maturity. It is a magnificent poem. The newer collection called <hi rend="italic">Drum Taps</hi>, which this volume now includes, and which is the poet's latest work, comes near the close of the volume, as it ought. These poems, taken in connection with the author's services in the army-hospitals during the war, form a sort of coloring or atmosphere through which his entire work is to be read. Their chief feature is their humanity, and they are unspeakably precious in filling out and completing the idea of the work. They sanctify and make beautiful, like a great heroic act, everything in the author's previous life or previous poems.</p>
+
+         <p>Walt Whitman has at last justified himself. As he has surpassed all others in rude force and virility, he has surpassed all others in tenderness and love. All his 'hairy Pelasgic strength,' all his vast abysmal power, have at last blossomed into a benevolence such as was never before the inspiration of poems.</p> 
+
+
+      </body>
+   </text>
+</TEI>

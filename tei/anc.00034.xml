@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00034">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="bardic">"Bardic Symbols"</title>
+            <title level="m" type="sub">[Review of "Bardic Symbols"]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>William Dean Howells</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00034</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Howells, William Dean">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>William Dean Howells</reg>
+                     </choice>
+                  </author>
+                  <title level="a">"Bardic Symbols"</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Daily Ohio State Journal</title>
+                  <imprint>
+                     <date when="1860-03-28">28 March 1860</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-14">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"Bardic Symbols." <!-- [Review] --></head>
+
+         <p>Walt Whitman has a poem of this title in the April <hi rend="italic">Atlantic</hi>.</p>
+
+         <p>Swift denunciation comes always from either ignorance or prejudice, or passion—no less in literature than in any other living affair; and it carries no force with it except to the ignorant, the passionate, and the prejudiced.</p> 
+
+         <p>It is a pity that criticism should ever forget this; but criticism does; and the newspaper critic particularly seems to think that so he makes a great wind in his angry scoop, he carries conviction iwith him, and strikes dead the poet whose heart he cannot understand, and cannot find.</p>
+
+         <p>Walt Whitman has higher claims upon our consideration than mere magazine contributorship.  He is the author of a book of poetry called "Leaves of Grass," which, whatever else you may think, is wonderful.  Ralph Waldo Emerson pronounced it the representative book of the poetry of our age.  It drew the attention of critics, but found no favor with the public, for the people suspect and dislike those who nullify venerable laws, and trample upon old forms and usages.  Since the publication of his book, Walt Whitman has driven hack in New York, and employed the hours of his literary retiracy in hard work.  Some months ago he suddenly flashed upon us in the New York <hi rend="italic">Saturday Press</hi>, and created eager dissension among the "crickets."  Now he is in the <hi rend="italic">Atlantic</hi>, with a poem more lawless, measureless, rhymeless and inscrutable than ever.</p>
+
+         <p>No one, even after the fourth or fifth reading, can pretend to say what the "Bardic Symbols" symbolize.  The poet walks by the sea, and addressing the drift, the foam, the billows and the wind, attempts to force from them, by his frantic outcry, the <choice><sic>the [sic]</sic><corr></corr></choice> true solution of the mystery of Existence, always most heavily and darkly felt in the august ocean presence.  All is confusion, waste and sound.  It is in vain that you attempt to gather the poet's full meaning from what he says or what he hints.  You can only take refuge in occasional passages like this, in which he wildly laments the feebleness and inefficiency of that art which above all others seeks to make the soul visible and audible:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00132" cert="absolute"/>
+                        <!-- 11/30/05 Charlie and I traced this to "As I Ebb'd with the Ocean of Life" xxx.00132 -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>O, baffled, <choice><sic>lost</sic><corr>balked</corr></choice>,</l>
+                        <l>Bent to the very earth, here preceding what follows,</l>
+                        <l>Terrified with myself that I have dared to open my mouth,</l>
+                        <l>Aware now, that amid all the blab, whose echoes recoil <lb/>upon me, I have not once had the least idea who or <lb/>what I am,</l>
+                        <l>
+                           <hi rend="italic">But that before all my insolent poems the real <choice><sic>one</sic><corr>ME</corr></choice> still stands <lb/>untouched, untold, altogether unreached, <lb/>
+                           </hi>
+                        </l>
+                        <l>Withdrawn far, mocking me with mock-congratulatory <lb/>signs and bows,</l>
+                        <l>With peals of distant ironical laughter at every word I <lb/>have written or shall write,</l>
+                        <l>Striking me with insults till I fall helpless upon the sand.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>If indeed, we were compelled to guess the meaning of the poem, we should say it all lay in the compass of these lines of Tennyson—the saddest and profoundest that ever were written:</p>
+
+         <q who="Tennyson">
+<!-- from Break, Break, Break.  Is there is a way to identify titles in the XML for non Whitman quotes? -->
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+</relations>
+                     <lg type="linegroup">
+                        <l>Break, break, break,</l>
+                        <l>On thy cold gray stones, O sea!</l>
+                        <l>And I would that my tongue could utter</l>
+                        <l>The thoughts that arise in me!<ref target="n1" xml:id="r1" n="1"/>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>An aspiration of mute words without relevancy, without absolute signification, and full of "divine despair<ref target="n2" xml:id="r2" n="2"/>."</p>
+
+         <p>We think it has been an error in Whitman to discard forms and laws, for without them the poet diffuses.  He may hurry forward with impulses, but he is spent before he reaches the reader's heart through his bewildered understanding.  Steam subject, is a mighty force; steam free, is an impalpable vapor, only capable of delicate hues and beauty with the sun upon it.</p>
+
+         <p>But O, poet! there is not a sun in every sky.</p>
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+These lines are taken from the first stanza of Alfred Lord Tennyson's poem entitled, "Break, Break, Break."
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+The phrase "divine despair" appears in Alfred Tennyson's poem "Tears, Idle Tears" which is a segment of a larger poem, "The Princess," published in 1847.
+</note> 
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

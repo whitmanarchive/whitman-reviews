@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00244">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">'Walt Whitman's' Leaves of Grass</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00244</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">'Walt Whitman's' Leaves of Grass</title>
+               </analytic>
+               <monogr>
+                  <title level="j">San Francisco Evening Bulletin</title>
+                  <imprint>
+                     <biblScope type="volume">53</biblScope>
+                     <date when="1882-01-07">7 January 1882</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#vs" when="2008-02-13">copied and encoded from original</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"'Walt Whitman's' Leaves of Grass." <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+
+         <p>This is a republication of the original edition, now nearly twenty years old, restoring all the fleshly matter since expurgated, and having the addition of late songs. It is intended to be the author's full expression to date, and we trust that it is. The book has nearly four hundred pages of close print. The conscientious reading of it and every page of it in the hope that the next line might be different, has consumed two rainy days of leisure. For such time and patience Walt Whitman owes to each reader an unpayable debt.</p>
+
+         <p>The subject of the book is the Body, the Soul, the Sexes, Democracy, New York with its Firemen and Ferries, the Civil War, Lincoln and America—all as revolving in their orbits around Walt Whitman, and cheered in their courses by the sound of what he felicitously calls his "barbaric yawp." He holds himself out as the exemplar of a fuller outer and inner life, whom and which no one can hope to understand from his book, or in any way except to go off tramping with him through cities and the wild lands. One object of the book is to inspire the reader with a desire to enlist in this limited and peripatetic army of martyrs.</p>
+
+         <p>Now, it is undeniable that a few of our upper poets have recognized this as the true voice of a seer in the wilderness. It is equally undeniable that this outlandish soul has conceived many large imaginings, and has outlined them frequently in fitting words. No one can fail to see that this tramp has all the faculties and powers necessary for honorable travel through any realm of earth and air. His epithets and describing words are often admirable. His poetic vision is sometimes clear enough to bring new stars of thought "to swim within the ken." He suggests no living or dead man except Ossian,<ref target="n1" xml:id="r1" n="1"/> and him he imitates with a loud voice. Some bits of lofty expression seem to be Ossianic echoes, but there the resemblance ends. Ossian never fell into <gap reason="illegible"/>. Whitman rolls delightedly in the mud-bath. Ossian was always perceptible through his wildest flying clouds. Whitman delights in a jar of sounds which have no clear articulation, and affects the pose of the unconditioned and unthinkable Me. The few glimpses of good through his work seem to come from accidental chinks.</p>
+
+         <p>Whitman's obscenity has provoked the condemnation which he delights to invite. It is of a singular kind. He has fewer unspeakable words than Rabelais,<ref target="n2" xml:id="r2" n="2"/> and perhaps fewer gross ideas than the gentle Montaigne,<ref target="n3" xml:id="r3" n="3"/> but Rabelais and Montaigne never went beyond the customary limit of their times, nor reveled in their dirt, but only seemed to go through it in process of natural travel. But Whitman, in an age which has excluded some things from print, seizes upon them as his best and most loving expression of an ideal that has nothing beneath it. With him, love is not allowed the delicate withdrawal of anything from the public gaze. There is nothing so personal that it may be kept sacred, or, at least, invisible. The worst coarseness of <choice><sic>Rosseau's</sic><corr>Rousseau's</corr></choice> Confessions<ref target="n4" xml:id="r4" n="4"/> is produced here. The corruption exposed in this book would "infect to the North Star." Worst of all, it is his text and glory, which he seeks to expound as the teacher and personal propagator of a coming race of fine bodies and souls. The new evolution will develop man into the goatish Satyr and woman into the leaping, foaming Bacchanal. This may not be insanity, but if not, it is "devilish depravity."</p>
+
+         <p>Time and space would fail to quote fair samples, out of what is quotable of the perverse workings of this man's brain, but a few may be given. Here is a specimen of the uncouth greatness of his imagination:</p>
+
+         <!-- From the poem "Song of Myself" Leaves of Grass 1880-81 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>Hefts of the moving word at <lb/>Innocent gambols silently <lb/>Rising, freshly exuding,</l>
+                     <l>Scooting obliquely high and low.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Here he is in a better mood:</p>
+
+         <!-- From the poem "Whispers of Heavenly Death." Leaves of Grass 1880-81 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00003" cert="absolute"/>
+                     </relations>
+                     <l>I see, just see skyward, great cloud-masses,</l>
+                     <l>Mournfully slowly they roll, silently swelling <lb/>and mixing,</l>
+                     <l>With, at times, a half-dimm'd sadden'd far-off <lb/>star</l>
+                     <l>Appearing and disappearing.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>He explains his inspiration thus:</p>
+
+         <!-- From the poem "Song of Myself" Leaves of Grass 1880-81 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>Speech is the twin of my vision, it is unequal to <lb/>measure itself,</l>
+                     <l>It provokes me forever, it says, sarcastically,</l>
+                     <l>
+                        <hi rend="italic">Walt, you contain enough, why don't you let it out</hi> 
+                        <lb/>
+                        <hi rend="italic">then?</hi>
+                     </l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>He describes himself in this person:</p>
+
+         <!-- From the poem "Song of Myself" Leaves of Grass 1880-81 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>Walt Whitman, a kosmos, of Manhattan the <lb/>son,  . .  . . </l>
+                     <l>Turbulent, fleshy, sensual, eating, drinking and <lb/>breeding,</l>
+                     <l>No sentimentalist, no stander above men and <lb/>women or apart from them,</l>
+                     <l>No more modest than immodest.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>He explains the limit of his happiness:</p>
+
+         <!-- From the poem "Song of Myself" Leaves of Grass 1880-81 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>I merely stir, press, feel with my fingers, and <lb/>am happy,</l>
+                     <l>To touch my person to some one else's <hi rend="italic">is about as</hi> 
+                        <lb/>
+                        <hi rend="italic">much as I can stand</hi>.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And he tells whom and why he loves:</p>
+
+         <!-- From the poem "Song of Myself" Leaves of Grass 1880-81 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>I dote on myself, <hi rend="italic">there is that lot of me</hi> and all so <lb/>luscious.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>
+            <hi rend="italic">Ohe! jam satis!</hi> What shall be thought of the man and teacher, who, whatever else he has said, has said such stuff as this?</p>
+
+         <p>It is quite natural that the voice of the new evangel of Art, which has abjured reason, should also abjure rhyme. The object of the book is to deify impulse and lawlessness. What is first desired must be right: the fetters of law are unnatural and tyrannical. So the poet sings without rhyme or rhythm. Every line has its own length regardless of all others, as if in this alone lay the odic force. There is none of the gentle scan of sea-waves, but only the chopping swells of cross-seas. But it must be poetry, for every line begins with a capital letter, and the poet declares that it <hi rend="italic">is</hi> poetry, having the chief virtue that you cannot understand it until you have got further along and taken a tramp with Walt Whitman. In two or three places he has put himself under the bondage of rhythm and rhyme. Whenever he does this he writes lines that will live—notably, his "O Captain, my Captain," inspired by the fall of Lincoln. This is more than a fine poem, and lamentably shows what Whitman might have done had he not been Walt Whitman.</p>
+
+         <p>In this stage of social evolution mankind has passed beyond hearing the mental and spiritual tramps. Banish him to his own desert places, to love and live with his ineffable Me, and to exalt his raucous voice to the limitless Saharas.</p>
+
+         <p>Published by James R. Osgood &amp; Co. Sold at the book stores.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+                  <hi rend="italic">The Works of Ossian</hi> is an influential cycle of poems translated and published by James Macpherson in 1765.  Macpherson's claim that the poetry was of ancient Scots Gaelic origin resulted in a long running controversy over its authenticity.  
+</note>
+               <note type="editorial" target="r2" xml:id="n2" n="2">
+François Rabelais's (c.1490-1553) comedic works are known for their exuberance and for ranging from the gross to the profound.  
+</note>
+               <note type="editorial" target="r3" xml:id="n3" n="3">Michel de Montaigne (1533-1592) wrote <hi rend="italic">Essais</hi>
+ and thereby popularized the essay as a literary form.
+</note>
+               <note type="editorial" target="r4" xml:id="n4" n="4"> Jean-Jacques Rousseau's (1712-1778) <hi rend="italic">Confessions</hi> (1782) were probably regarded as "coarse" because of Rousseau's candor about sexuality.  
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

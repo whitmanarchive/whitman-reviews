@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00207">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Walt Whitman's Works</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00207</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman's Works</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Commercial Advertiser</title>
+                  <imprint>
+                     <date when="1881-11-09">9 November 1881</date>
+                     <biblScope type="pages">[unknown]</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-02">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN'S WORKS. <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head>
+
+         <p>James R. Osgood &amp; Co. have published a new and enlarged edition of Walt Whitman's poems. It contains all the old ones and many new, including 383 in all, and is embellished with two portraits of the author. The following are selections from the volume:</p> 
+
+         <!-- From "Tears" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00133" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  	
+                        <head type="main-authorial">TEARS.</head>
+                        <l>Tears! tears! tears!</l>
+                        <l>In the night, in solitude, tears,</l>
+                        <l>On the white shore dripping, dripping, suck'd in by the <lb/>sand,</l>
+                        <l>Tears, not a star shining, all dark and desolate,</l>
+                        <l>Moist tears from the eyes of a muffled head;</l> 
+                        <l>O who is that ghost? that form in the dark, with tears?</l>
+                        <l>What shapeless hump is that, bent, crouch'd there on the <lb/>sand?</l>
+                        <l>Screaming tears, sobbing tears, throes choked with wild <lb/>cries;</l>
+                        <l>O storm, embodied, rising, careering with swift steps <lb/>along the beach!</l>
+                        <l>O wild and dismal night storm, with wind—O belching <lb/>and desperate!</l>
+                        <l>O shade so sedate and decorous by day, with calm <choice><orig>counte-<lb/>nance</orig><reg>countenance</reg></choice> and regulated pace.</l>
+                        <l>But away at night as you fly, none looking—O then the <lb/>unloosen'd ocean</l>
+                        <l>Of tears! tears! tears!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <!-- From "Italian Music in Dakota" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00257" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  	
+                        <head type="main-authorial">ITALIAN MUSIC IN DAKOTA.</head>
+                        <l>
+                           <hi rend="italic">"The Seventeenth—the finest Regimental Band I ever heard."</hi>
+                        </l>
+                        <l>Through the soft evening air enwinding all,</l>
+                        <l>Rocks, woods, fort, cannon, pacing sentries endless wilds,</l>
+                        <l>In dulcet streams, in flutes' and cornets' notes,</l>
+                        <l>Electric, pensive, turbulent, artificial,</l>
+                        <l>(Yet strangely fitting even here, meaning unknown <choice><orig>be-<lb/>fore</orig><reg>before</reg></choice>,</l>
+                        <l>Subtler than ever, more harmony, as if born here, related <lb/>here,</l>
+                        <l>Not to the city's fresco'd rooms, not to the audience of the <lb/>opera house,</l>
+                        <l>Sounds, echoes, wandering strains, as really bare at home,</l>
+                        <l>
+                           <hi rend="italic">Sonnambula</hi>'s  innocent love, trios with <hi rend="italic">Norma</hi>'s anguish,</l>
+                        <l>And thy ecstatic chorus <hi rend="italic">Poliuto</hi>;)</l>
+                        <l>Ray'd in the limpid yellow slanting sundown,</l>
+                        <l>Music, Italian music in Dakota.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>While Nature, sovereign of this gnarl'd realm,</l>
+                        <l>Lurking in hidden barbaric grim recesses,</l>
+                        <l>Acknowledging rapport however far remov'd,</l>
+                        <l>(As some old root of soil its best-born flower or <lb/>fruit)</l>
+                        <l>Listens well pleas'd.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "With All Thy Gifts" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00258" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  	
+                        <head type="main-authorial">WITH ALL THY GIFTS.</head>
+                        <l>With all thy gifts America,</l> 
+                        <l>Standing secure, rapidly tending, overlooking the world,</l>
+                        <l>Power, wealth, extent, vouchsafed to thee—with these and <lb/>like of these vouchsafed to thee </l>
+                        <l>What if one gift thou lackest (the ultimate human <lb/>problem never solving,)</l>
+                        <l>The gift of perfect women fit for thee—what if that gift <lb/>of gifts thou lackest?</l>
+                        <l>The towering feminine of thee? the beauty, health, <choice><orig>com-<lb/>pletion</orig><reg>completion</reg></choice> fit for thee?</l>
+                        <l>The mother's fit for thee?</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "What Best I see in Thee" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00288" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  	
+                        <head type="main-authorial">WHAT BEST I SEE IN THEE.</head>
+                        <l>
+                           <hi rend="italic">To  U.S.G. return'd from his World's Tour.</hi>
+                        </l>
+                        <l>What best I see in thee,</l>
+                        <l>Is not that where thou mov'st down history's great highways,</l>
+                        <l>Ever undimm'd by time shoots warlike victory's dazzle,</l>
+                        <l>Or that thou sat'st where Washington sat, ruling the land in peace,</l>
+                        <l>Or thou the man whom feudal Europe feted, venerable Asia <lb/>swarm'd upon,</l>
+                        <l>Who walk'd with kings with even pace the round world's <choice><orig>prome-<lb/>nade</orig><reg>promenade</reg></choice>;</l>
+                        <l>But that in foreign lands, in all thy walks with kings,</l>
+                        <l>Those prairie sovereigns of the West, Kansas, Missouri, Illinois,</l> 
+                        <l>Ohio's, Indiana's millions, comrades, farmers, soldiers, all to the <lb/>front,</l>
+                        <l>Invisibly with thee walking with kings with even pace the round <lb/>world's promenade,</l>
+                        <l>Were all so justified.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+      </body>
+   </text>
+</TEI>

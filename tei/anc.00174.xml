@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00174">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Charles A. Dana</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               <persName xml:id="fe">Franklin E. Menius Jr.</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00174</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Dana, Charles A.">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Charles A. Dana</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Daily Tribune</title>
+                  <imprint>
+                     <date when="1855-07-23">23 July 1855</date>
+                     <biblScope type="pages">3</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-05-15">Corrected, validated</change>
+         <change who="#fe" when="2004-10-25">Encoded</change>
+         <change who="#ts" when="2005-02-15">Corrected encoding mainly for ellipses and hyphenation in poems</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <ab><hi rend="italic">Leaves of Grass</hi> 4to. pp. 95. Sold by Fowlers &amp; Wells.
+</ab>
+         <p>From the unique effigies of the anonymous author of this volume which graces the frontispiece, we may infer that he belongs to the exemplary class of society sometimes irreverently styled "loafers." He is therein represented in a garb, half sailor's, half workman's, with no superfluous appendage of coat or waistcoat, a "wide-awake" perched jauntily on his head, one hand in his pocket and the other on his hip, with a certain air of mild defiance, and an expression of pensive insolence in his face which seems to betoken a consciousness of his mission as the "coming man." This view of the author is confirmed in the preface. He vouchsafes, before introducing us to his poetry, to enlighten our benighted minds as to the true function of the American poet. Evidently the original, which is embodied in the most extraordinary prose since the "Sayings" of the modern Orpheus, was found in the "interior consciousness" of the writer. Of the materials afforded by this country for the operations of poetic art we have a lucid account. </p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>The Americans of all nations at any time upon the earth have probably the fullest poetical nature. The United States themselves are essentially the greatest poem. In the history of the earth hitherto the largest and most stirring appear tame and orderly to their ampler largeness and stir. Here at last is something in the doings of man that corresponds with the broadcast doings of the day and night. Here is not merely a nation but a teeming nation of nations. Here is action untied from strings, necessarily blind to particulars and details magnificently moving in vast masses. Here is the hospitality which forever indicates heroes…Here are the roughs and beards and space and ruggedness and nonchalance that the soul loves. Here the performance disdaining the trivial unapproached in the tremendous audacity of its crowds and groupings and the push of its perspective spreads with crampless and flowing breadth and showers its prolific and splendid extravagance. One sees it must indeed own the riches of the Summer and Winter, and need never be bankrupt while corn grows from the ground or the orchards drop apples or the bays contain fish or men beget children upon women.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>With veins full of such poetical stuff, the United States, as we are kindly informed, <q who="Walt Whitman" type="printed">of all nations most needs poets, and will doubtless have the greatest and use them the greatest.</q> Here is a full-length figure of the true poet:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>Of all mankind the great poet is the equable man. Not in him but off from him things are grotesque or eccentric or fail of their sanity. Nothing out of its place is good and nothing in its place is bad. He bestows on every object or quality its fit proportions, neither more nor less. He is the arbiter of the diverse and he is the key. He is the equalizer of his age and land…he supplies what wants supplying and checks what wants checking. If peace is the routine out of him speaks the spirit of peace, large, rich, thrifty, building vast and populous cities, encouraging agriculture and the arts and commerce—lighting the study of man, the soul, immortality—federal, state or municipal government, marriage, health, freetrade, intertravel by land and sea…nothing too close, nothing too far off…the stars not too far off. In war he is the most deadly force of the war. Who recruits him recruits horse and foot…he fetches parks of artillery the best that engineer ever knew. If the time becomes slothful and heavy he knows how to arouse it…he can make every word he speaks draw blood. Whatever stagnates in the flat of custom or obedience or legislation, he never stagnates. Obedience does not master him, he masters it. High up out of reach he stands turning a concentrated light…he turns the pivot with his finger…he baffles the swiftest runners as he stands and easily overtakes and envelops them. The time straying toward infidelity and confections and persiflage he withholds by his steady faith…he spreads out his dishes…he offers the sweet firm-fibred meat that grows men and women. His brain is the ultimate brain. He is no arguer…he is judgment. He judges not as the judge judges but as the sun falling around a helpless thing. As he sees the farthest he has the most faith. His thoughts are the hymns of the praise of things. In the talk on the soul and eternity and God off of his equal plane he is silent. He sees eternity less like a play with a prologue and denouement…he sees eternity in men and women…he does not see men and women as dreams or dots.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Of the nature of poetry the writer discourses in a somewhat too oracular strain, especially as he has been anticipated in his "utterances" by Emerson and other modern "prophets of the soul":</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>The poetic quality is not marshaled in rhyme or uniformity or abstract addresses to things, nor in melancholy complaints or good precepts, but is the life of these and much else and is in the soul. The profit of rhyme is that it drops seeds of a sweeter and more luxuriant rhyme, and of uniformity that it conveys itself into its own roots in the ground out of sight. The rhyme and uniformity of perfect poems show the free growth of metrical laws and bud from them as unerringly and loosely as lilacs or roses on a bush, and take shapes as compact as the shapes of chestnuts and oranges and melons and pears, and shed the perfume impalpable to form. The fluency and ornaments of the finest poems or music or orations or recitations are not independent but dependent. All beauty comes from beautiful blood and a beautiful brain. If the greatnesses are in conjunction in a man or woman it is enough…the fact will prevail through the universe…but the gaggery and gilt of a million years will not prevail. Who troubles himself about his ornaments or fluency is lost. This is what you shall do: Love the earth and sun and the animals, despise riches, give alms to every one that asks, stand up for the stupid and crazy, devote your income and labor to others, hate tyrants, argue not concerning God, have patience and indulgence toward the people, take off your hat to nothing known or unknown or to any man or number of men, go freely with powerful uneducated persons and with the young and with the mothers of families, read these leaves in the open air every season of every year of your life, reexamine all you have been told at school or church or in any book, dismiss whatever insults your own soul, and your very flesh shall be a great poem and have the richest fluency not only in its words but in the silent lines of its lips and face and between the lashes of your eyes and in every motion and joint of your body.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Such is the poetic theory of our nameless bard. He furnishes a severe standard for the estimate of his own productions. His <hi rend="italic">Leaves of Grass</hi> are doubtless intended as an illustration of the natural poet. They are certainly original in their external form, have been shaped on no pre-existent model out of the author's own brain. Indeed, his independence often becomes coarse and defiant. His language is too frequently reckless and indecent though this appears to arise from a naive unconsciousness rather than from an impure mind. His words might have passed between Adam and Eve in Paradise, before the want of fig-leaves brought no shame; but they are quite out of place amid the decorum of modern society, and will justly prevent his volume from free circulation in scrupulous circles. With these glaring faults, the <hi rend="italic">Leaves of Grass</hi> are not destitute of peculiar poetic merits, which will awaken an interest in the lovers of literary curiosities. They are full of bold, stirring thoughts—with occasional passages of effective description, betraying a genuine intimacy with Nature and a keen appreciation of beauty—often presenting a rare felicity of diction, but so disfigured with eccentric fancies as to prevent a consecutive perusal without offense, though no impartial reader can fail to be impressed with the vigor and quaint beauty of isolated portions. A few specimens will suffice to give an idea of this odd genius. </p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <head type="main-authorial">THE LOVER OF NATURE.</head>
+                     <lg type="linegroup">
+                        <l>I am he that walks with the tender and growing <lb/>night; </l>
+                        <l>I call to the earth and sea half-held by the night.</l>
+                        <l>Press close barebosomed night! Press close magnetic <lb/>nourishing night!</l>
+                        <l>Night of south winds! Night of the large few stars!</l>
+                        <l>Still nodding night! Mad naked summer night!</l>
+                        <l>Smile O voluptuous coolbreathed earth!</l>
+                        <l>Earth of the slumbering and liquid trees!</l>
+                        <l>Earth of departed sunset! Earth of the mountains <lb/>misty-topt!</l>
+                        <l>Earth of the vitreous pour of the full moon just tinged <lb/>with blue!</l>
+                        <l>Earth of shine and dark mottling the tide of the river!</l>
+                        <l>Earth of the limpid gray of clouds brighter and clearer  <lb/>for my sake!</l>
+                        <l>Far-swooping elbowed earth! Rich apple-blossomed <lb/>earth!</l>
+                        <l>Smile, for your lover comes!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Prodigal! you have given me love!…therefore I to <lb/>you give love!</l>
+                        <l>O unspeakable passionate love!</l>
+                        <l>You sea! I resign myself to you also…I guess what <lb/>you mean,</l>
+                        <l>I behold from the beach your crooked inviting fingers,</l>
+                        <l>I believe you refuse to go back without feeling of me;</l>
+                        <l>We must have a turn together…I undress…hurry <lb/>me out of sight of the land,</l>
+                        <l>Cushion me soft…rock me in billowy drowse,</l>
+                        <l>Dash me with amorous wet…I can repay you.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Sea of stretched ground-swells!</l>
+                        <l>Sea breathing broad and convulsive breaths!</l>
+                        <l>Sea of the brine of life! Sea of unshoveled and al- <lb/>ways-ready graves!</l>
+                        <l>Howler and scooper of storms! Capricious and dainty <lb/>sea!</l>
+                        <l>I am integral with you…I too am of one phase and <lb/>of all phases.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <head type="main-authorial">AFTER A SEA-FIGHT.</head>
+                     <l>Stretched and still lay the midnight,</l>
+                     <l>Two great hulls motionless on the breast of the <choice><orig>dark-<lb/>ness</orig><reg>darkness</reg></choice>,</l>
+                     <l>Our vessel riddled and slowly sinking…preparations <lb/>to pass to the one we had conquered,</l>
+                     <l>The captain on the quarter-deck coldly giving his <choice><orig>or-<lb/>ders</orig><reg>orders</reg></choice> through a countenance white as a sheet,</l>
+                     <l>Near by the corpse of the child that served in the cabin,</l>
+                     <l>The dead face of an old salt with long white hair and <lb/>carefully curled whiskers,</l>
+                     <l>The flames spite of all that could be done flickering <lb/>aloft and below,</l>
+                     <l>The husky voices of the two or three officers yet fit for <lb/>duty,</l>
+                     <l>Formless stacks of bodies and bodies by themselves <lb/>…dabs of flesh upon the mass and spars,</l>
+                     <l>The cut of cordage and dangle of rigging…the slight <lb/>shock of the soothe of waves,</l>
+                     <l>Black and impassive guns, and litter of powder <choice><orig>par-<lb/>cels</orig><reg>parcels</reg></choice>, and the strong scent,</l>
+                     <l>Delicate sniffs of the seabreeze…smells of sedgy <lb/>grass and fields by the shore…death messages <lb/>given in charge to survivors,</l>
+                     <l>The hiss of the surgeon's knife and the gnawing teeth <lb/>of his saw,</l>
+                     <l>The wheeze, the cluck, the swash of falling blood… <lb/>the short wild scream, the long dull tapering groan,</l>
+                     <l>These so.…these irretrievable!</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <head type="main-authorial">NATURAL IDEALISM.</head>
+                     <lg type="linegroup">
+                        <l>All doctrines, all politics and civilization exurge from <lb/>you,</l>
+                        <l>All scripture and monuments and anything inscribed <lb/>anywhere are tallied in you,</l>
+                        <l>The gist of histories and statistics as far back as the <lb/>records reach is in you this hour—and myths and <lb/>tales the same;</l>
+                        <l>If you were not breathing and walking here where <lb/>would they all be?</l>
+                        <l>The most renowned poems would be ashes…orations <lb/>and plays would be vacuums.</l>
+                        <l>All architecture is what you do to it when you look <lb/>upon it;</l>
+                        <l>Did you think it was in the white or gray stone? or <lb/>the lines of the arches and cornices?</l>
+                     </lg>
+
+
+                     <lg type="linegroup">
+                        <l>All music is what awakens from you when you are <choice><orig>re-<lb/>minded</orig><reg>reminded</reg></choice> by the instruments,</l>
+                        <l>It is not the violins and the cornets…it is not the oboe <lb/>nor the beating drums—nor the notes of the <choice><orig>bari-<lb/>tone</orig><reg>baritone</reg></choice> singer singing his sweet romanza…nor those <lb/>of the men's chorus, nor those of the women's <lb/>chorus,</l>
+                        <l>It is nearer and further than they.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+
+                     <head type="main-authorial">THE LAST OF EARTH.</head>
+
+                     <lg type="linegroup">
+                        <l>When the dull nights are over, and the dull days also,</l>
+                        <l>When the soreness of lying so much in bed is over,</l>
+                        <l>When the physician, after long putting off, gives the <lb/>silent and terrible look for an answer,</l>
+                        <l>When the children come hurried and weeping, and the <lb/>brothers and sisters have been sent for,</l>
+                        <l>When medicines stand unused on the shelf, and the <lb/>camphor-smell has pervaded the rooms,</l>
+                        <l>When the faithful hand of the living does not desert <lb/>the hand of the dying,</l>
+                        <l>When the twitching lips press lightly on the forehead <lb/>of the dying,</l>
+                        <l>When the breath ceases and the pulse of the heart <lb/>ceases,</l>
+                        <l>Then the corpse-limbs stretch on the bed, and the <choice><orig>liv-<lb/>ing</orig><reg>living</reg></choice> look upon them.</l>
+                        <l>They are palpable as the living are palpable.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>The living look upon the corpse with their eyesight.</l>
+                        <l>But without eyesight lingers a different living and looks <lb/>curiously on the corpse.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+
+                     <head type="main-authorial">THE HUMAN FACE DIVINE.</head>
+                     <lg type="linegroup">
+                        <l>Sauntering the pavement or riding the country by-road <lb/>here then are faces,</l>
+                        <l>Faces of friendship, precision, caution, suavity, ideality,</l>
+                        <l>The spiritual prescient face, the always welcome <choice><orig>com-<lb/>mon</orig><reg>common</reg></choice> benevolent face,</l>
+                        <l>The face of the singing of music, the grand faces of <lb/>natural lawyers and judges broad at the backtop,</l>
+                        <l>The faces of hunters and fishers, bulged at the brows <lb/>…the shaved blanched faces of orthodox <choice><orig>citi-<lb/>zens</orig><reg>citizens</reg></choice>,</l>
+                        <l>The pure extravagant yearning questioning artist's face,</l>
+                        <l>The welcome ugly face of some beautiful soul…the <lb/>handsome detested or despised face,</l>
+                        <l>The sacred faces of infants…the illuminated face of <lb/>the mother of many children,</l>
+                        <l>The face of an amour…the face of veneration,</l>
+                        <l>The face as of a dream…the face of an immobile rock,</l>
+                        <l>The face withdrawn of its good and bad…a castrated <lb/>face,</l>
+                        <l>A wild hawk…his wings clipped by the clipper.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Sauntering the pavement or crossing the ceaseless <choice><orig>fer-<lb/>ry</orig><reg>ferry</reg></choice>, here then are faces;</l>
+                        <l>I see them and complain not and am content with all.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Do you suppose I could be content with all if I thought <lb/>them their own finale?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>This now is too lamentable a face for a man:</l>
+                        <l>Some abject louse asking leave to be…cringing for it,</l>
+                        <l>Some milk-nosed maggot blessing what lets it wrig to <lb/>its hole.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>This face is a dog's snout sniffing for garbage;</l>
+                        <l>Snakes nest in that mouth…I hear the sibilant threat.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>This face is a haze more chill than the Arctic Sea,</l>
+                        <l>Its sleepy and wobbling icebergs crunch as they go.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>This is a face of bitter herbs…this an emetic…they <lb/>need no label,</l>
+                        <l>And more of the drug-shelf…laudanum, caoutchouc, <lb/>or hog's lard.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>This face is an epilepsy advertising and doing <choice><orig>busi-<lb/>ness</orig><reg>business</reg></choice>…its wordless tongue gives out the <choice><orig>unearth-<lb/>ly</orig><reg>unearthly</reg></choice> cry,</l>
+                        <l>Its veins down the neck distend…its eyes roll till <lb/>they show nothing but their whites,</l>
+                        <l>Its teeth grit…the palms of the hands are cut by the <lb/>turned-in nails,</l>
+                        <l>The man falls struggling and foaming to the ground <lb/>while he speculates well.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>This face is bitten by vermin and worms,</l>
+                        <l>And this is some murderer's knife with a half-pulled <lb/>scabbard.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>This face owes to the sexton his dismalest fee,</l>
+                        <l>As unceasing death-bell tolls there.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The volume contains many more "Leaves of Grass" of similar quality, as well as others which cannot be especially commended either for fragrance or form. Whatever severity of criticism they may challenge for their rude ingenuousness, and their frequent divergence into the domain of the fantastic, the taste of not over dainty fastidiousness will discern much of the essential spirit of poetry beneath an uncouth and grotesque embodiment.</p>
+
+      </body>
+   </text>
+</TEI>

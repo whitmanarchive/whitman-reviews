@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00011">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Charles Eliot Norton</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00011</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Norton, Charles Eliot">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Charles Eliot Norton</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Putnam's Monthly: A Magazine of Literature, Science, and Arts</title>
+                  <imprint>
+                     <biblScope type="volume">6</biblScope>
+                     <date when="1855-09">September 1855</date>
+                     <biblScope type="pages">321-3</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-15">Corrected, validated</change>
+         <change who="#cg" when="2005-05-18">Corrected, validated</change>
+         <change who="#ts" when="2005-02-15">Corrected encoding mainly for ellipses and hyphenation in poems</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>W<hi rend="smallcaps">HITMAN'S</hi> L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>.—Our account of the last month's literature would be incomplete without some notice of a curious and lawless collection of poems, called <hi rend="italic">Leaves of Grass,</hi> and issued in a thin quarto without the name of publisher or author. The poems, twelve in number, are neither in rhyme nor blank verse, but in a sort of excited prose broken into lines without any attempt at measure or regularity, and, as many readers will perhaps think, without any idea of sense or reason. The writer's scorn for the wonted usages of good writing; extends to the vocabulary he adopts; words usually banished from polite society are here employed without reserve and with perfect indifference to their effect on the reader's mind; and not only is the book one not to be read aloud to a mixed audience, but the introduction of terms, never before heard or seen, and of slang expressions, often renders an otherwise striking passage altogether laughable. But, as the writer is a new light in poetry, it is only fair to let him state his theory for himself. We extract from the preface:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+
+                     <p>"The art of art, the glory of expression, is simplicity. Nothing is better than simplicity, and the sunlight of letters is simplicity. Nothing is better than simplicity—nothing can make up for excess, or for the lack of definiteness***To speak in literature, with the perfect rectitude and the insouciance of the movements of animals and the unimpeachableness of the sentiment of trees in the woods, is the flawless triumph of art***The greatest poet has less a marked style, and is more the channel of thought and things, without increase or diminution, and is the free channel of himself. He swears to his art, I will not be meddlesome, I will not have in my writing any elegance, or effect, or originality to hang in the way between me and the rest, like curtains. What I feel, I feel for precisely what it is. Let who may exalt, or startle, or fascinate, or soothe, I will have purposes, as health, or heat, or snow has, and be as regardless of observation. What I experience or portray shall go from my composition without a shred of my composition. You shall stand by my side to look in the mirror with me."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The application of these principles, and of many others equally peculiar, which are expounded in a style equally oracular throughout the long preface,—is made passim, and often with comical success, in the poems themselves, which may briefly be described as a compound of the New England transcendentalist and New York rowdy. A fireman or omnibus driver, who had intelligence enough to absorb the speculations of that school of thought which culminated at Boston some fifteen or eighteen years ago, and resources of expression to put them forth again in a form of his own, with sufficient self-conceit and contempt for public taste to affront all usual propriety of diction, might have written this gross yet elevated, this superficial yet profound, this preposterous yet somehow fascinating book. As we say, it is a mixture of Yankee transcendentalism and New York rowdyism, and, what must be surprising to both these elements, they here seem to fuse and combine with the most perfect harmony. The vast and vague conceptions of the one, lose nothing of their quality in passing through the coarse and odd intellectual medium of the other; while there is an original perception of nature, a manly brawn, and an epic directness in our new poet, which belong to no other adept of the transcendental school. But we have no intention of regularly criticising this very irregular production; our aim is rather to cull, from the rough and ragged thicket of its pages, a few passages equally remarkable in point of thought and expression. Of course we do not select those which are the most transcendental or the most bold:—</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I play not a march for victors only…I <lb/>play great marches for conquered and <lb/>slain persons.</l>
+                        <l>Have you heard that it was good to gain <lb/>the day?</l>
+                        <l>I also say it is good to fall…battles are <lb/>lost in the same spirit in which they are <lb/>won.</l>
+                        <l>I sound triumphal drums for the dead… <lb/>I fling through my embouchures the <lb/>loudest and gayest music to them—</l>
+                        <l>Vivas to those who have failed, and to those <lb/>whose war-vessels sank in the sea, and to <lb/>those themselves who sank in the sea.</l>
+                        <l>And to all generals that lost engagements, <lb/>and to all overcome heroes, and the <choice><orig>number-<lb/>less</orig><reg>numberless</reg></choice> unknown heroes equal to the <lb/>greatest heroes known."</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"I am the mashed fireman, with breast-bone <lb/>broken…tumbling walls buried me in <lb/>their debris—</l>
+                        <l>Heat and smoke, I respired…I heard <lb/>the yelling shouts of my comrades—</l>
+                        <l>I heard the distant click of their picks and <lb/>shovels.</l>
+                        <l>They have cleared the beams away.… <lb/>they tenderly lift me forth.</l>
+                        <l>I lie in the night air in my red shirt… <lb/>the pervading hush is for my sake.</l>
+                        <l>Painless after all I lie, exhausted, but not so <lb/>unhappy.</l>
+                        <l>White and beautiful are the faces around <lb/>me…the heads are bared of their <choice><orig>fire-<lb/>caps</orig><reg>firecaps</reg></choice>—</l>
+                        <l>The kneeling crowd fades with the light of the torches."</l>
+                     </lg>
+                  </lg> <lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+        
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"I tell not the fall of Alamo…not one <lb/>escaped to tell the fall of the Alamo:</l>
+                     <l>The hundred and fifty are dumb yet at <lb/>Alamo.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+        
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>They were the glory of the race of rangers,</l>
+                        <l>Matchless with a horse, a rifle, a song, a <lb/>supper, or a courtship:</l>
+                        <l>Large, turbulent, brave, handsome, <choice><orig>gener-<lb/>ous</orig><reg>generous</reg></choice>, proud and affectionate—</l>
+                        <l>Bearded, sun-burnt, dressed in the free <choice><orig>cos-<lb/>tume</orig><reg>costume</reg></choice> of hunters."</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Did you read in the books of the <choice><orig>old- 
+                           <lb/>
+                           fashioned</orig><reg>old-fashioned</reg></choice> frigate fight?</l>
+                        <l>Did you learn who won by the light of the <lb/>moon and stars?</l>
+                        <l>Our foe was no skulk in his ship, I tell you,</l>
+                        <l>His was the English pluck, and there is <lb/>no tougher or truer, and never was, and <lb/>never will be:</l>
+                        <l>Along the lowered eve he came, terribly <lb/>raking us.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>We close with him: the yards entangled… <lb/>the masts touched:</l>
+                        <l>My captain lashed fast with his own hands.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>We had received some eighteen-pound <lb/>shots under the water—</l>
+                        <l>On our lower gun-deck two large pieces <lb/>had burst at the first fire, killing all <lb/>around and blowing up, overhead.</l>
+                        <l>Ten o'clock at night and the full moon <choice><orig>shin-<lb/>ing</orig><reg>shining</reg></choice>, and the leaks on the gain, and five <lb/>feet of water reported;</l>
+                        <l>The master-at-arms loosing the prisoners in <lb/>the after-hold, to give them a chance for <lb/>themselves.</l>
+                        <l>The transit to and from the magazine was <lb/>now stopped by the sentinels—</l>
+                        <l>They saw so many strange faces, they did <lb/>not know whom to trust.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Our frigate was a-fire—the other asked if <lb/>we demanded quarters? if our colors were <lb/>struck and the fighting done?</l>
+                        <l>I laughed content when I heard the voice <lb/>of my little captain—</l>
+                        <l>`We have not struck,' he composedly cried. <lb/>`We have just begun our part of the <lb/>fighting.'</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Only three guns were in use.</l>
+                        <l>One was directed by the captain himself, <lb/>against the enemy's mainmast:</l>
+                        <l>Two, well served with grape and canister, <lb/>silenced his musketry and cleared his <lb/>decks.</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Not a moment's cease —</l>
+                        <l>The leaks gained fast on the pumps…the fire eat toward the <lb/>powder magazine:</l>
+                        <l>One of the pumps was shot away; it was generally thought we <lb/>were sinking.</l>
+                        <l>Serene stood the little captain:</l>
+                        <l>He was not hurried…his voice was neither high or low—</l>
+                        <l>His eyes gave more light to us than our battle-lanterns.</l>
+                        <l>Toward twelve at night, there in the beams of the moon, they <lb/>surrendered to us."</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"As to you, life, I reckon you are the <choice><orig>leav-<lb/>ings</orig><reg>leavings</reg></choice> of many deaths:</l>
+                        <l>No doubt I have died myself ten thousand <lb/>times before.</l>
+                        <l>I hear you whispering there, O stars of <lb/>heaven—</l>
+                        <l>O suns! O grave of graves! O perpetual <lb/>transfers and promotions, if you do not <lb/>say anything, how can I say anything,</l>
+                        <l>Of the turbid pool that lies in the autumn <lb/>forest—</l>
+                        <l>Of the moon that descends the steeps of the <lb/>soughing twilight?</l>
+                        <l>Toss, sparkles of day and dusk —toss on the <lb/> black stems that decay in the muck—</l>
+                        <l>Toss to the moaning gibberish of the dry <lb/>limbs!"</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"A slave at auction!</l>
+                        <l>I help the auctioneer…the sloven does <lb/>not half know his business.</l>
+                        <l>`Gentlemen, look on this curious creature:</l>
+                        <l>Whatever the bids of the bidders, they <lb/>cannot be high enough for him—</l>
+                        <l>For him, the globe lay preparing <choice><orig>quintil-<lb/>lions</orig><reg>quintillions</reg></choice> of years, without one animal or <lb/>plant—</l>
+                        <l>For him the revolving cycles truly and <lb/>steadily rolled:</l>
+                        <l>In that head, the all-baffling brain—</l>
+                        <l>In it, and below it, the making of heroes.</l>
+                        <l>Examine these limbs, red, black, or white… <lb/>they are very cunning in tendon and <lb/>nerve;</l>
+                        <l>They shall be stript, that you may see them.</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Within there runs his blood…the same <lb/>old blood…the same red running <lb/>blood—</l>
+                        <l>There, swells and jets his heart…there <lb/>all passions and desires…all reachings <lb/>and aspirations;</l>
+                        <l>Do you think they are not there, because they <lb/>are not expressed in parlors and <choice><orig>lec-<lb/>ture</orig><reg>lecture</reg></choice> rooms?</l>
+                        <l>This is not only one man…he is the father <lb/>of those who shall be fathers in their <lb/>turns:</l>
+                        <l>In him the start of populous states and rich <lb/>republics;</l>
+                        <l>Of him, countless immortal lives, with <lb/>countless embodiments and enjoyments.</l>
+                        <l>How do you know who shall come from the <lb/>offspring of his offspring, through the <lb/>centuries?</l>
+                     </lg><lg type="linegroup"><l>―――</l></lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>A woman at auction!</l>
+                        <l>She, too, is not only herself…she is the <lb/>teeming mother of mothers:</l>
+                        <l>She is the bearer of them who shall grow <lb/>and be mates to the mothers.</l>
+                        <l>Her daughters, or their <choice><orig>daugh- 
+                           <lb/>ters'</orig><reg>daughters'</reg></choice> daughters…who knows who shall mate <lb/>with them?</l>
+                        <l>Who knows, through the centuries, what <lb/>heroes may come from them?</l>
+                        <l>In them, and of them, natal love…in <lb/>them the divine mystery…the same <lb/>old, beautiful mystery."</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Behold a woman!</l>
+                        <l>She looks out from her Quaker cap…her <lb/>face is clearer and more beautiful than <lb/>the sky,</l>
+                        <l>She sits in an arm-chair, under the shaded <lb/>porch of the farm house—</l>
+                        <l>The sun just shines on her old white head.</l>
+                        <l>Her ample gown is of cream-hued linen:</l>
+                        <l>Her grandsons raised the flax, and her <choice><orig>grand-<lb/>daughters</orig><reg>granddaughters</reg></choice> spun itwith the distaff and the <lb/>wheel.</l>
+                        <l>The melodious character of the earth!</l>
+                        <l>The finish, beyond which philosophy cannot <lb/>go, and does not wish to go!</l>
+                        <l>The justified mother of men!"</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Old age superbly rising! Ineffable grace of dying days."</l>
+                     </lg>
+                  </lg><lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Day, full-blown and splendid…day of <lb/>the immense sun, and action, and <choice><orig>ambi-<lb/>tion</orig><reg>ambition</reg></choice>, and laughter:</l>
+                        <l>The night follows close, with millions of <lb/>suns, and sleep,and restoring darkness."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>As seems very proper in a book of transcendental poetry, the author withholds his name from the title page, and presents his portrait, neatly engraved on steel, instead. This, no doubt, is upon the principle that the name is merely accidental; while the portrait affords an idea of the essential being from whom these utterances proceed. We must add, however, that this significant reticence does not prevail throughout the volume, for we learn on p. 29, that our poet is <q who="Walt Whitman" type="printed">"Walt Whitman, an American, one of the roughs, a kosmos."</q> That he was an American, we knew before, for, aside from America, there is no quarter of the universe where such a production could have had a genesis. That he was one of the roughs was also tolerably plain; but that he was a kosmos, is a piece of news we were hardly prepared for. Precisely what a kosmos is, we trust Mr. Whitman will take an early occasion to inform the impatient public.</p>
+
+      </body>
+   </text>
+</TEI>

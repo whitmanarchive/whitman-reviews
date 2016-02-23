@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00019</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Washington Daily National Intelligencer</title>
+                  <imprint>
+                     <date when="1856-02-18">18 February 1856</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-20">Encoded, validated</change>
+         <change who="#ts" when="2005-02-15">Minor encoding corrections</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+            <ab>
+               
+                   L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>
+                   
+                   
+                      Brooklyn, N.Y.  
+                       1855.  
+                   
+               
+            </ab>
+         
+
+         <p>Such is the curt and undescriptive title of a prose poem which has created some remark in certain literary circles. It is in every way a singular volume: singular in its form, singular in its arrangement, singular in its style, and most singular of all in its rhapsodical fancies. Its title-page, as will be seen, bears upon it the name of no author, and the book is ushered into the world without the patronage of any publisher to give it currency and protection. Of "complimentary copies" for the press, none, so far as we are aware, have been vouchsafed by the writer. Ostrich-like, he has laid his egg in the sand and left it to quicken or not, according to that time and chance which, as the wise man says, happen to all things. We are not left, however, in the body of the work, wholly ignorant of the writer's name, profession, or age—<q who="Walt Whitman" type="printed">"Walt Whitman, an American, one of the roughs, a kosmos, disorderly, fleshly, and sensual, no sentimentalist, no stander above men or women or apart from them, no more modest than immodest,"</q> is the odd fish who avows himself as the father of this odd volume. Walt Whitman is a printer by trade, whose punctuation is as loose as his morality, and who no more minds his ems than his p's and q's. He tells us that he was born on the last day of May, and <q who="Walt Whitman" type="printed">"passed from a babe in the creeping trance of three summers and three winters to articulate and walk,"</q> all which he thinks "wonderful;" while that he <q who="Walt Whitman" type="printed">"grew six feet high and became a man thirty-six years old in 1855, and that he is [I am] here any how,"</q> are facts which he pronounces equally "wonderful" in the wonder-world of his philosophy.</p>
+
+         <p>Though Walt Whitman has modestly withheld his name from the title-page of his production, he has favored us with his likeness by way of frontispiece to the volume. If the artist has faithfully depicted his effigy, Walt is indeed "one of the roughs;" for his picture would answer equally well for a "Bowery boy,"<ref target="n1" xml:id="r1" n="1"/> one of the "killers," "Mose" in the play, "Bill Sykes after the murder of Nancy,"<ref target="n2" xml:id="r2" n="2"/> or the "B'hoy that runs with the engine," much as we have known certain "portraits taken from life" compelled to do duty in pictorial newspapers as the true likeness of half a dozen celebrated criminals. Walt Whitman is evidently the "representative-man" of the "roughs."</p>
+
+         <p>The avowed object of Walter in the loose quarto before us is to "celebrate" himself; and as the pastoral muse of Virgil "meditated" on a slender oat straw, so Mr. Whitman "leans and loafes" at his ease, "observing a spear of summer grass." Holy Writ informs us that "all flesh is grass," which, according to quaint old Sir Thomas Browne, is just as true literally as metaphorically; for all the adipose matter deposited in the human body from roast beef and mutton is, after all, at the bottom of the account only grass taking upon itself a coat of flesh, for grass forms the ox and roast beef forms the physical man; ergo, the most carnivorous gastronome, no less than the most immaculate vegetarian, is nothing but grass at the last chemical analysis of his constituents. Hence it will be seen that "grass" is what Mr. Whitman calls a "uniform hieroglyphic" of the whole human family, and as such deserves to be scanned by the minute philosopher.</p>
+
+         <p>A handful of grass fetched by a child to Walter Whitman inspires him with mysterious thoughts which he vainly essays to grasp, and hints intrusive questionings which he vainly endeavors to answer. At first he guesses that blades of grass <q who="Walt Whitman" type="printed">"must be the flag of his disposition, out of hopeful green stuff woven,"</q> and anon he guesses they are the "handkerchief of the Lord," designedly dropped from above "as scented gifts and remembrancers." He next guesses that <q who="Walt Whitman" type="printed">"the grass itself is a child, the produced babe of the vegetation,"</q> and now he exclaims, in the next breath, <q who="Walt Whitman" type="printed">"it seems to me the beautiful uncut hair of graves,"</q> and hence he feels like caressing it, and breaks out in the following address to the "curling grass:"</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"It may be you transpire from the breasts of young men;</l>
+                     <l>It may be that if I had known them I would have loved them;</l>
+                     <l>It may be that you are from old people and from women, and from <lb/>offspring taken soon out of their mothers' laps,</l>
+                     <l>And here you are the mother's lap.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+       
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>What do you think has become of the young and old men?</l>
+                        <l>And what do you think has become of the women and children?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>They are alive and well somewhere.</l>
+                        <l>The smallest sprout shows there is really no death;</l>
+                        <l>All goes onward and outward…and nothing collapses,</l>
+                        <l>And to die is different from what any one supposed and luckier.</l>
+                        <l>Has any one supposed it lucky to be born?</l>
+                        <l>I hasten to inform him or her that it is just as lucky to die, and I <lb/>know it."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The reader who has proceeded only thus far begins already to discover that Walter Whitman is a pantheist. Without, perhaps, ever having read Spinoza, he is a Spinozist. Without, perhaps, much deep insight into Plato the divine, he is a Platonist "in the rough," and believes profoundly in the "immanence of all in each," without ever once mouthing that grand phrase of the Greek philosopher. With-out knowing how to chop the formal logic of the schools, he is a necessitarian and fatalist, with whom "whatever is is right." The world as he finds it, and man as he is, good or bad, high or low, ignorant or learned, holy or vicious, are all alike good enough for Walter Whitman, who is in himself a "kosmos," and whose emotional nature is at once the sensorium of humanity and the sounding board which catches up and intones each note of joy or sorrow in the "gamut of human feeling."</p>
+
+         <p>He represents himself as being alike of the old and the young, of the foolish as much as the wise; maternal in his instincts as well as paternal; a child as well as a man; a Southerner as soon as a Northerner; a planter, nonchalant and hospitable; a Yankee, bound his own way and ever ready for a swap; a Kentuckian, walking the trail of the Elkhorn with deerskin leggings; a boatman over the lakes or bays or along coasts; a Hoosier, a Badger, a Wolverine, a Buckeye, a Louisianian, a "poke-easy" from sandbills and pines: at home equally on the hills of Vermont, or in the woods of Maine, or the Texas ranch; a learner with the simplest, a teacher of the thoughtfulest, a farmer, mechanic, or artist, a gentleman, sailor, lover, or quaker, a prisoner, fancy-man, rowdy, lawyer, physician, or priest. He rejoices to feel that he is "not stuck up and is in his [my] place," for </p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"The moth and the fish eggs are in their place:</l>
+                     <l>The suns I see and the suns I cannot see are in their place;</l>
+                     <l>The palpable is in its place and the impalpable is in its place."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>So fully has the world-spirit possessed the soul of Walter that he thinks he could turn and live awhile with the animals; "they are so placid and self-contained" that he sometimes "stands and looks at them half the day long."</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>They do not sweat and whine about their condition;</l>
+                     <l>They do not lie awake in the dark and weep for their sins;</l>
+                     <l>They do not make me sick discussing their duty to God.</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Mr. Whitman's philosophy, it will be seen, is somewhat different from Blaise Pascal's, and we hope we shall not hurt Mr. W's feelings if we venture to give to the devout Jansenist a slight precedence over him. Pascal, the poor man, having no better guides than his own august reason and the oracles of divine inspiration, in his profound speculations on the greatness and misery of man, came to the conclusion that man's consciousness of his misery was one of the most signal and primary proofs of his greatness. These anxious longings of the soul as for an unknown good were to his mind the indication of slumbering capacities not yet developed, and revealed that power of introspection and self-scrutiny which is at once the attribute of consciousness and the attestation of human responsibility. The man who degrades himself to the level of the brutes, or sinks even lower than they, does yet by his very nature rise above them in that he is conscious of his degradation. At least so thought Pascal, and so think still all those who find in man's consciousness the proof of his dignity and of his elevation above the brute creation.</p>
+
+         <p>Mr. Whitman thinks, however, he would like to turn and live awhile with the animals. Well, one's associates should certainly be determined according to one's tastes. Every one to his liking, as remarked the venerable dame in the proverb when she kissed her cow. <hi rend="italics">De gustibus,</hi> &amp;c. Mr. Whitman, it is true, can plead royal example and ancient precedent in defence of his "passional attraction" towards the dumb animals. King Nebuchadnezzar, many years before him, consorted with the oxen of the field and went to graze after the most approved style of the bovine quadruped. We do not read, however, that his majesty greatly relished this species of out door life, and all, we doubt <choice><sic>doubt</sic><corr>doubt</corr></choice> [sic] because, "unlike one of the roughs," he failed to remark how "placid and self-contained" were his companions of the herd. Nebuchadnezzar too, it is to be feared, lacked the proper pantheistic instincts to permit his entering fully into the sublime mysteries of Serapis<ref target="n3" n="3" xml:id="r3"/> and Anubis.<ref target="n4" n="4" xml:id="r4"/> If his life-experiences had been the same as "Walt Whitman's" before undergoing his change, he might have managed better to enjoy his new society.</p>
+
+         <p>In the "Golden Ass" of Apuleius we have also another record of life among the animals. We need not repeat the story of Fotis's ill-starred lover and his magical transformation into an ass, with the long series of misfortunes, the cudgellings and flayings which, sad to tell, befell him in that condition. Are they not all written in the "golden" book aforesaid?—a book which Mr. Whitman, we are sure, would find very much after his own heart in its freedom from anything like sentimental refinement or prudish delicacy, while it is to be hoped that its faithful portraiture of life among the graminivors [grass eaters] would cure him of his disposition to herd awhile with the quadrupeds, and render him willing to content himself with his present advantages in the privilege of "standing and looking at them half the day long." It behooves him also to bear in mind that according to all accounts the condition of the Irish peasantry is not greatly elevated over "the rest of mankind" by their hereditary custom of assigning to the "placid" porker and domestic cow a cozy corner in the cabin along with its other inmates. If much good was to be expected from turning and living with the animals, Ireland would have convinced the world of it long before Mr. Whitman's day, and if he had properly studied her history we question whether he would have considered it a matter worth boasting of that he feels himself—</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Stucco'd with quadrupeds and birds all over."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>As we do not wish, however, to press Mr. Whitman too hard upon this point, and seek to exhibit rather the philosophy of his teachings than his <hi rend="italic">petits ridicules,</hi> we append in this same connection the following lyrical outburst of the true pantheistic spirit:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>How beautiful and perfect are the animals! How perfect is my soul!</l>
+                     <l>How perfect the earth and the minutest thing upon it!</l>
+                     <l>What is called good is perfect, and what is called sin is just as <lb/>perfect.</l>
+                     <l>The vegetables and minerals are all perfect, and imponderable <lb/>fluids are perfect.</l>
+                     <l>Oh, my soul! If I realize you I have satisfaction. Laws of the earth <lb/>and air! If I realize you I have satisfaction.</l>
+                     <l>I swear I see now that every thing has a living soul!</l>
+                     <l>The trees have, rooted in the ground; the weeds of the sea have; <lb/>the animals!</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>It is quite possible that, owing to some radical and congenital defect of our mental organization, we have never been able to penetrate "within the veil" in the Pantheon of the transcendentalists and of the Emersonian school in general. Mr. Emerson, we understand, greatly admires the present work; indeed, we have read a published letter of his in which he tenders to Mr. Whitman his thanks for the <hi rend="italic">Leaves of Grass.</hi> When we read that eulogy we were satisfied that this volume would prove to us a sealed book, and that its hieroglyphs would be as unintelligible to our ken as was the inscription around the sacred ibex to the erudite Mr. <note type="project" rend="bracketed">George Robins</note> Gliddon.<ref target="n5" xml:id="r5" n="5"/> Still we determined to read it, in the humble but earnest hope of endeavoring occasionally to catch its esoteric meaning in a few at least of those passages, which we are assured from Mr. Emerson's enjoyment of them must contain a hidden significance which nothing less potent than the magic salve of the dervise of Balsora can open our eyes to behold; and in default of which we must be content with such a poor comprehension of these Sibylline leaves as falls to the lot of common readers.</p>
+
+         <p>No one, we may say, however, in all candor, can read this singular prose-poem without being struck by the writer's wonderful powers of description and of word-painting. His memory seems as retentive of its treasures as his imagination is opulent in its creations. He writes like one who has but to prick his mind and forthwith it gushes out in a perennial flow of "thoughts which have tarried in its inner chambers." It is only when we are balked in our attempt to trail his transcendental sinuosities of thought that we feel ourselves at fault, and then we are reminded of Longfellow's description of the Emersonian philosophy, which he likened to some of the roads in our great West, which at first open very fair and wide, and are shaded on both sides by the towering giants of the primeval forest, but which before long become narrower and narrower and at last dwindle to a squirrel path and run up a tree.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+The Bowery Boys was a nativist, anti-Catholic, and anti-Irish gang based in New York City; they participated in the New York Draft Riots of 1863.
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+"Bill Sykes after the murder of Nancy" is a reference to the fictional character Bill Sikes in Charles Dickens's novel <hi rend="italic">Oliver Twist</hi> (1838).  Sikes murdered his mistress, Nancy, believing that she had been unfaithful to him.  
+</note> 
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+Serapis is a Greco-Egyptian deity of the sun, combining the attributes of Osiris and Apis.  He is identified in Egypt with the Ptolemies and was later worshiped throughout the Greek and Roman empires.
+</note>
+               <note type="editorial" xml:id="n4" target="r4" n="4">
+Anubis is an Egyptian deity represented as a human figure with the head of a jackel; as the conductor of departed spirits, he weighs the hearts of the dead.
+</note>
+               <note type="editorial" xml:id="n5" target="r5" n="5">
+George Robins Gliddon (1809-1857) was an American Egyptologist who published several works on Egyptian antiquities.  
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

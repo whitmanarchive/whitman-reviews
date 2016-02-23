@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00187">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">"Leaves of Grass"—Smut in Them</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00187</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">"Leaves of Grass"—Smut in Them</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Springfield Daily Republican</title>
+                  <imprint>
+                     <date when="1860-06-16">16 June 1860</date>
+                     <biblScope type="pages">4</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-23">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"Leaves of Grass"—Smut in Them. <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+
+         <p>Some weeks or months ago, we remarked upon a poem published in the Atlantic Monthly, from the pen of Walt Whitman—a nonsensical, whimsical scraggy performance, about as much like poetry as tearing off a rag, or paring one's corns. Recently the writer has appeared in a large volume, (published in the puritanical and transcendental city of Boston, by Thayer &amp; Eldridge, who we hope are willing to stand the notoriety of it,) and a more scandalous volume we never saw. We had not intended to notice it, but certain of the soft heads, on the shoulders of men and women indiscriminately, have conceived that it is a pure book. In the last number of the New York Saturday Press, Mary A. Chilton gives her ideas of Walt Whitman's poetry generally, and especially of his smut; and to show the public how far into degradation certain new lights are ready to be led, we quote a portion of her letter, simply italicising such sentences as we wish to call special attention to:—</p>
+
+         <q>
+            <p>"In childhood there is no blush of shame at sight of a nude form, and the serene wisdom of maturity covers this innocence with a halo of glory, by recognizing the divinity of humanity, and perceiving the unity of all the functions of the human body, and the inevitable tendency to harmonic adjustment and adaptation. As all of nature's forms are evolved from the same God-origin or substance, though there may be difference of rank, there can be no difference in essence; and <hi rend="italic">those functions which have been deemed the most brutal and degrading will be found the first in rank when nature's hierarchy shall be established and observed</hi>. A true delicacy will neither emblazon the individual act of communion abroad (as, sanctioned by custom, those who lay claim to the highest refinement do daily,) <hi rend="italic">nor blush to a crimson when the poet of sexual purity vindicates manhood and womanhood from the charge of infamy, degradation, and vice, on account of growth and development after the order of nature</hi>. Of course those who assert the doctrine of total depravity must find some part of the person too vile to think of, and will be shocked to hear another express unqualified admiration for the human body and the human soul."</p>
+         </q>
+	
+         <p>A professedly obscene book carries with it its own condemnation among decent people, and finds its own market among the vicious and unclean. Besides, there are laws against its promulgation; and appeal can be made to them if it is openly exposed for sale, or advertised, or sold more secretly. This literature is not unfrequently stuck in one's face at steamboat landings by lousy scoundrels who peddle filth for a living, but one can always cry "police" if he will, and stop it. Here, however, is a book with many respectable associations—respectable publishers—the author a writer for the Atlantic Monthly—"for sale everywhere" on respectable book-shelves—in very respectable type and binding—advertised in respectable papers—and yet it has page after page that no man could read aloud to a decent assembly without being hooted out of it, and that could not be published in the columns of a daily newspaper without disgusting and outraging a virtuous community. The dangers of the book lie in its claiming to be a respectable book—in its claiming to be a pure book, and in the fact that there are lecherous fools enough in the world to allow this claim, if not to maintain it. We are inclined to think that the author considers the book a pure one. It costs some charity to admit this, and a large allowance for eccentricity of mind and temperament; but, making the admission, we are at liberty to comment on that phase of infidelity of which it is the outgrowth.</p>
+	
+         <p>Nothing is more notorious than the fact that when any individual claims to have some light superior to that revealed in the Bible, whether that light be the "light of nature," simply, or the light of new and direct revelation or inspiration, then that individual almost invariably develops himself towards libertinism. Perhaps this fact is more notorious when we find men in masses, as in the various sects that spring up from time to time. William Dorrel who, seventy-five years ago, proclaimed himself the Messiah up in Franklin county, counseled promiscuous intercourse of the sexes and taught as vile stuff as our very natural poet Walt Whitman does now.<ref target="n1" n="1" xml:id="r1"/> The Mormons, with their new Bible, ran straight into the most disgusting polygamy; and Heber Kimball talks in the most promiscuous congregation of the saints as easily and freely of his "cows," as our "poet of sexual purity" does of women.<ref target="n2" n="2" xml:id="r2"/> Spiritualism, whenever it has cut loose from the Bible as the only authoritative revelation from heaven, has gone just as naturally into free-love as water runs down hill. The very first social institution that falls into contempt after Christianity as a revelation is discarded, is Christian marriage, and of all the 'teachings' in the world, we know of none that so inevitably lead to impurity as those attributed to "Nature."</p>
+	
+         <p>Now Walt Whitman is <hi rend="italic">par excellence</hi> the "poet of nature." In his pure taste there is nothing unclean, because nothing seems unclean. Nature has free course in him, and runs and is glorified in all its issues. Those passions which degrade men and lead to nine-tenths of the crime of the world, he exalts. Those appetites which only a pure, true and life-long love can hallow, are with him appetites to be cherished and fed—no matter about the love. It ought to be enough for Walt Whitman, if he honestly thinks his book a pure one, to know that the pure in society will shun it, and that it will be sought out and laughed over by lewd women and prurient boys and hoary-headed old lechers,—to know that this notice of his volume will stir to read it only the dregs of the social and moral world into which it goes. That settles the question. When men and women are led by their higher affinities, they will be led straight away from Walt Whitman's "Leaves of Grass." Otherwise, otherwise.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">William Dorrell (1752–1846) was born in England but came to America with the British Army to fight in the Revolutionary War. In 1794 he began preaching. Dorrell was illiterate but he nonetheless memorized long passages of the Bible. He contended that each generation had its own Messiah, that he was the Messiah of his time, and that he and his followers were perfect. Thus they were free to form relationships as they pleased.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">Heber C. Kimball, a counselor to Brigham Young and a church leader, had forty-three wives. Seventeen wives gave birth to his forty-five sons and twenty daughters.</note>
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

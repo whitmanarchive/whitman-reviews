@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00062">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="drum">[Review of <hi rend="italic">Drum-Taps</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>A. S. Hill</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="ng">Nicole Gray</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00062</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Hill, A. S.">
+                     <choice>
+                     <orig>unsigned</orig>
+                     <reg>A. S. Hill</reg>
+                  </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The North American Review</title>
+                  <imprint>
+                     <date when="1867-01">January 1867</date>
+                     <biblScope type="volume">104</biblScope>
+                     <biblScope type="pages">301-3</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#ng" when="2014-11-03">corrected annotations</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-12-05">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+         <ab>1. W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>'s <hi rend="italic">Drum-Taps</hi> New York. 1865. 12mo. pp. 72.</ab>
+
+            <ab>2. <hi rend="italic">Sequel to Drum-Taps</hi>. (<hi rend="italic">Since the preceding came from the Press</hi>.) <hi rend="italic">When Lilacs last in the Dooryard bloomed, and Other Pieces</hi></ab>
+
+         <p>I<hi rend="smallcaps">T</hi> is fortunate that "Walt Whitman's Drum-Taps," unlike his "Leaves of Grass," is in point of propriety unexceptionable, so that it can be judged on its intrinsic merits.</p> 
+  
+         <p>The pieces of which "Drum-Taps" consists are in form, like those in "Leaves of Grass," neither blank verse nor rhythmical prose. A poet of genuine artistic power would suffer from the absence of those restraints which are to genius what its banks are to a river,—limitations that aid in the development of beauty and of force; and Mr. Whitman is so far from being an artist, that he boasts of his lack of culture, after the fashion of "self-made" men. Yet it is precisely this deficiency which disguises his real excellence, and stands between him and the fame he predicts for himself. A writer whose works are to live must have taste to discriminate between what is worth saying in a given poem, and what is not worth saying, and must have courage to excise the latter. The business of cataloguing the works of creation should be left to the auctioneer.</p> 
+  
+         <p>Poets of vastly more genius and culture than Mr. Whitman possesses have committed the error of thinking all objects and fancies equally worthy of a poem. Wordsworth, for example, patched his shining robes with homespun; but Wordsworth had the manners and speech of a gentleman, while Whitman has the characteristics, good and bad, of a Bowery boy. His love of New York City has more in common with Gavroche's<ref target="n1" xml:id="r1" n="1"/> love for Paris than with that of Victor Hugo, and more in common with Tony Weller's<ref target="n2" xml:id="r2" n="2"/> love for London than with that of Dr. Johnson, Lamb, or even Dickens. His glorification of America smacks of the "We can lick all creation" of Tammany Hall.<ref target="n3" xml:id="r3" n="3"/> But with the extravagance, coarseness, and general "loudness" of Bowery boys<ref target="n4" xml:id="r4" n="4"/>, Mr. Whitman possesses in an unusual degree their better traits. He is not ashamed of the body he lives in, and he calls all things by plain names. His compositions, without being sentimental or pretty, show genuine sensibility to the beauty of nature and of man. His braggart patriotism evinced its genuineness during the war.</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00201" cert="absolute"/>
+
+                        <!-- Not Youth Pertains to Me lines 5-8-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Beauty, knowledge, <choice><sic>fortune, </sic><corr></corr></choice>inure not to me, yet there are two <choice><sic></sic><corr>or three</corr></choice> things inure to me<choice><sic>.</sic><corr>,</corr></choice>
+                        </l>   
+                        <l>I have <choice><sic>nourished</sic><corr>nourish'd</corr></choice> the wounded and <choice><sic>soothed</sic><corr>sooth'd</corr></choice> many a dying soldier<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>  
+                        <l>And at intervals <choice><sic>I have strung together a few songs,</sic><corr>waiting or in the midst of camp,</corr></choice>
+                        </l>
+                        <l>
+                           <choice><sic>Fit for war and the life of a camp."</sic><corr>Composed these songs.</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The fact that the "songs" in Drum-Taps were written under such circumstances ought to have rebutted in the most fastidious minds whatever presumption may have been raised against the volume by previous publications.</p>
+
+         <p>But the claims of these productions to consideration rest upon a more solid basis than the author's personal services in the hospital. Mr. Whitman not only possesses an almost photographic accuracy of observation, a masculine directness of expression, and real tenderness of feeling, but he sometimes hits upon an original epithet which illuminates a page of prosaic details. He speaks of "the <hi rend="italic">sturdy</hi> artillery…soon, unlimbered to begin the <hi rend="italic">red business</hi>"; "the hurrying, crashing, sad, distracted, <hi rend="italic">robust</hi> year" (1861); the "<hi rend="italic">hinged</hi> knees and steady hand" of the dresser of wounds; the "elderly (sick) man, so gaunt and grim, with <hi rend="italic">well-grayed hair and flesh all sunken about the eyes"; "million-footed, superb-faced</hi> Manhattan"; "the wind with girlish laughter"; the "gentle, soft-born, <hi rend="italic">measureless</hi> light"; "the gorgeous, <hi rend="italic">indolent</hi>, sinking sun, burning, <hi rend="italic">expanding</hi> the air"; "the <hi rend="italic">most excellent</hi> sun, so calm and haughty"; "the <hi rend="italic">huge</hi> and thoughtful night." And in at least three places he shows more sustained, if not higher power. The effect of the news from Sumter<ref target="n5" xml:id="r5" n="5"/> upon New York is thus described:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00173" cert="absolute"/>
+                        <!--First O Songs for a Prelude lines 12-16-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l rend="indented4">"The Lady of this teeming and turbulent city,</l> 
+                        <l>Sleepless, amid her ships, her houses, her incalculable wealth,</l> 
+                        <l>With her million children around her<choice><sic>—</sic><corr>,</corr></choice>suddenly<choice><sic></sic><corr>,</corr></choice>
+                        </l>
+                        <l>At dead of night, at news from the <choice><sic>S</sic><corr>s</corr></choice>outh,</l> 
+                        <l>
+                           <choice><sic>Incensed</sic><corr>Incens'd</corr></choice>
+                           <choice><sic>,</sic><corr></corr></choice> struck with <choice><sic>clenched</sic><corr>clinch'd</corr></choice> hand the pavement."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>"Old Ireland" is personified as</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00227" cert="absolute"/>
+                        <!--Old Ireland lines 2-5-->
+                        <!-- Can't find passage in Project Gutenberg e-text of Drum Taps to verify -->
+                     </relations>
+                     <lg type="linegroup"> 
+                        <l>"Crouching over a grave, an ancient<choice><sic>,</sic><corr></corr></choice> sorrowful mother,</l> 
+                        <l>Once a queen<choice><sic>,</sic><corr>—</corr></choice>now lean and <choice><sic>tattered</sic><corr>tatter'd</corr></choice>, seated on the ground,</l> 
+                        <l>Her old white hair drooping <choice><sic>dishevelled</sic><corr>dishevel'd</corr></choice> round her shoulders;</l>
+                        <l>At her feet fallen an unused royal harp<choice><sic>."</sic><corr>,</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>But Mr. Whitman's faculty is, perhaps, most fully shown in the poem entitled, "When Lilacs Last in the Door-Yard Bloomed"; in which the contrast of the beauty and life of the opening spring with the scenes presented and the thoughts awakened by the funeral of Abraham  Lincoln is drawn with unexpected power. The poem is, as a whole, remarkable, but we must content ourselves with a brief quotation.</p> 
+
+         <!-- What follows is a series of extracts taken from lines 26-45 of "When Lilacs Last in the Dooryard Bloom'd".  In some cases the author removes lines without acknowledging an excision; in one case a one-line excision is acknowledged with an ellipse across the page. -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!-- When Lilacs Last in the Dooryard Bloom'd line 26-->
+                        <!-- Can't find passage in Project Gutenberg e-text of Drum Taps to verify -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Over the breast of the spring, the land, amid cities;</l>   
+                        <l>Amid the grass in the fields each side of the lanes—passing the endless grass;</l>   
+                        <l>Passing the yellow-spear'd wheat, every grain from its shroud in the dark-brown <lb/>fields uprising;</l>   
+                        <l>Carrying a corpse to where it shall rest in the grave</l> 
+                        <l>Night and day journeys a coffin.</l>  
+                        <l> . .  . . .</l>
+                        <l>Through day and night, with the great cloud darkening the land,</l>   
+                        <l>
+                           <hi rend="italic">With the pomp of the inloop&#x92;d flags,</hi> with the cities draped in black,</l>
+                        <l>
+                           <hi rend="italic">With the show of the States themselves, as of crape-veil&#x92;d women, standing,</hi>
+                        </l>   
+                        <l>With processions long and winding, and the flambeaus of the night,</l> 
+                        <l>With the waiting depot, the arriving coffin, and the sombre faces,</l>   
+                        <l>With all the mournful voices of the dirges, poured around the coffin,</l>   
+                        <l>The dim-lit churches and the <hi rend="italic">shuddering organs</hi>—Where amid these you journey,</l>   
+                        <l>With <hi rend="italic">the tolling, tolling bells&#x92; perpetual clang,</hi>
+                        </l>   
+                        <l>Here! coffin that slowly passes,</l>   
+                        <l>I give you my sprig of lilac.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Gavroche, a fictional character from Victor Hugo's <hi rend="italic">Les Misérables</hi> (1862), is a mischievous Parisian street urchin. 
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+In Charles Dickens's <hi rend="italic">The Pickwick Papers</hi> (1837), Tony Weller is the father of Sam Weller, who acted as servant and comic companion of main character Samuel Pickwick in his travels through the English countryside. 
+</note> 
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+Tammany Hall was both a place and the name of the Democratic Party political machine that often controlled New York City politics from 1789 to the 1960s. 
+</note>
+               <note type="editorial" xml:id="n4" target="r4" n="4">
+The Bowery Boys was a name that referred to a social type comprised of young, disaffected working-class New Yorkers in the nineteenth century. The name was also adopted by several New York street gangs who protested the actions of the political elite in the antebellum period. 
+</note>
+               <note type="editorial" xml:id="n5" target="r5" n="5">
+Fort Sumter, a military outpost near Charleston, South Carolina, was the location of the first battle of the American Civil War (April 12, 1861).
+</note>  
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

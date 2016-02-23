@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00059">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="drum">[Review of <hi rend="italic">Drum-Taps</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Franklin Bejamin Sanborn</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00059</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Sanborn, Franklin Benjamin">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Franklin Bejamin Sanborn</reg>
+                     </choice>
+                  </author>
+                  <title level="a">LITERARY REVIEW</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Boston Commonwealth</title>
+                  <imprint>
+                     <date when="1866-02-24">24 February 1866</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2011-07-11">updated author's name in sourceDesc to Franklin Benjamin Sanborn; previously given as anonymous</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-29">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+         <ab>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>'s D<hi rend="smallcaps">RUM</hi> T<hi rend="smallcaps">APS</hi> New York, 1865. (Pp. 96.)</ab>
+
+         <p>Such is the title of the latest volume of poems by a man of singular genius, Mr. Walter Whitman, of Brooklyn, N. Y. lately displaced from a humble clerkship in Washington by the husband of Mrs. Harlan. In it is included also a smaller collection of verses, called "Sequel to Drum Taps," and containing chiefly poems which relate to the death of President Lincoln and the close of the war.  The poems called Drum Taps, as the name indicates, relate mostly to the beginning and the progress of the war. Before noticing at any length either these poems or their author, let us make a little comparison which is not without significance.</p> 
+  
+         <p>Mr. Whitman is a native of New York, a staunch patriot, and through the war, by his services to our soldiers in camp and hospital, has earned the gratitude of tens of thousands of the men who fought and died for their country. He has tenderly cared for the wounded, nursed the sick, consoled the dying and buried the dead. This he did not for pay or for glory—for he got neither—but for love of the sacred cause of freedom and of mankind. He had previously been known to many of his countrymen as a poet of original powers, occupied with the most important themes, which he did not always treat in conformity to the preconceived opinions of the multitude. Having served in his chosen work through the war, both before and after his appointment and dismissal  from a clerkship at Washington, he sought in his native city a publisher for his patriotic verses, but he found none willing to put his name to the volume. Messrs. Bunce &amp; Huntington finally printed it, but without their name, and without taking any of customary steps to introduce the book to the reading public. It is scarcely to be got at a bookstore, has hardly been noticed by a newspaper, and, though full of the noblest verses, is utterly unknown to the mass of readers.</p> 
+  
+         <p>Now, look at another fact. Mr. John Esten Cooke<ref target="n1" xml:id="r1" n="1"/> is a Virginian, who early joined the rebellion, in which his State played so prominent a part. He served in the army, and did his noble best to destroy the government and kill our brave soldiers. Being a writer, too, he aided his sword by his pen; and by what passes in Virginia for fine writing, he encouraged his fellow-traitors to prolong  their treason. He had been known at the North, too, before the war, as a writer of trashy verses and sensational fiction.</p> 
+
+         <p>Whether Mr. Cooke was pardoned by President Johnson at the urgency of Mrs. Cobb<ref target="n2" xml:id="r2" n="2"/>, or whether he is still unpardoned, (if he ever rose to the rank which made a pardon necessary,) we do not know. But he has had the effrontery to come to New York with a fourth-rate novel, written in the style of Mrs. Henry Wood<ref target="n3" xml:id="r3" n="3"/>, but full of the rankest treason and laudation of traitors, and he, too, has needed a publisher. But he did not wait long. Messrs. Bunce &amp; Huntington, the same who  treat Mr. Whitman so cavalierly, are eager to put his trash into the market. They announce it months in advance; they advertise it in all the newspapers; they send advance copies and secure long notices in the leading journals. The <hi rend="italic">Advertiser</hi> devotes nearly a column to it; the <hi rend="italic">Evening Post</hi> notices it at some length; the <hi rend="italic">Round Table</hi> blows a trumpet before and behind it; and other journals pay it the courtesy of a serious review. Yet neither the author nor the book have any merit to be compared with Tupper<ref target="n4" xml:id="r4" n="4"/> and the Country Parson<ref target="n5" xml:id="r5" n="5"/>, while both are full of the vilest political heresy and bad taste.</p> 
+  
+         <p>This is the way we encourage poets and patriots; this is the way we reward them, and make treason odious!</p> 
+  
+         <p>Yet this displaced and slighted poet has written the most touching dirge for Abraham Lincoln of all that have appeared. Here it is copied from [the] volume before us:—</p>
+
+         <!-- From "O Captain! My Captain!" -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00218" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">O CAPTAIN! MY CAPTAIN!</head>
+                        <l>O Captain! my Captain! our fearful trip is done;</l>
+                        <l>The ship has weathered every rock, the prize we sought <lb/>is won.</l>
+                        <l>The port is near, the bells I hear, the people all <lb/>exulting,</l>
+                        <l>While follow eyes the steady keel, the vessel grim <lb/>and daring;</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented3">But O heart! heart! heart!</l>
+                        <l rend="indented3">Leave you not the little spot,</l>
+                        <l rend="indented3">Where on the deck my Captain lies,</l>
+                        <l rend="indented3">Fallen cold and dead.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>O Captain! my Captain! rise up and hear the <lb/>bells;</l>
+                        <l>Rise up—for you the flag is flung—for you the <lb/>bugle trills;</l>
+                        <l>For you bouquets and ribboned wreaths—for you <lb/>the shores a-crowding;</l>
+                        <l>For you they call, the swaying mass, their eager <lb/>faces turning;</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented3">O Captain! dear father!</l>
+                        <l rend="indented3">This arm I push beneath you;</l>
+                        <l rend="indented3">It is some dream that on the deck</l>
+                        <l rend="indented3">You've fallen cold and dead.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>My captain does not answer, his lips are pale and <lb/>still,</l>
+                        <l>My father does not feel my arm, he has no pulse <lb/>nor will;</l>
+                        <l>But the ship, the ship, is anchored safe, its voyage <lb/>closed and done;</l>
+                        <l>From fearful trip, the victor ship comes in with <lb/>object won.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented3">Exult O shore, and ring O bells!</l>
+                        <l rend="indented3">But I with mournful tread</l>
+                        <l rend="indented3">Walk the spot my Captain lies,</l>
+                        <l rend="indented3">Fallen cold and dead.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Compare with this, for poetic or pathetic feeling, Brownell's long monody, and the other good verses, and how superior that man's suggestive treatment.</p>
+
+         <p>We have quoted perhaps the most effective <gap reason="illegible"/> poem in the book; but there are lines or passages in nearly all which are very striking. In the first poem, for instance, which gives its name to the volume, he describes the arming of New York when the news came of the attack on Fort <gap reason="illegible"/>. "The Lady of this teeming and turbulent city" calls forth her children as bees are called from the hive. She,</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <l>"At dead of night, at news from the South,</l>
+                     <l>Incensed, struck with clenched hand the <choice><orig>pave-<lb/>ment</orig><reg>pavement</reg></choice>,—</l>
+                     <l>A shock electric—the night sustained it,</l>
+                     <l>Till with ominous hum, our hive at daybreak poured <lb/>out its myriads."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>One of the longer poems opens thus, with a melodious verse which yet does not come under any of the rules for English prosody:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <l>"When lilacs last in the door-yard bloomed,</l>
+                     <l>And the great star early drooped in the western <lb/>sky in the night,</l>
+                     <l>I mourned—and yet shall mourn with ever <choice><orig>retur-<lb/>ning</orig><reg>returning</reg></choice> spring."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In the "Dirge for Two Veterans" are these stanzas:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l rend="indented3">"I see a sad procession,</l>
+                        <l>And I hear the sound of coming full-keyed bugles;</l>
+                        <l>All the channels of the city streets they're flooding</l>
+                        <l rend="indented3">As with voices and with tears.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented3">I hear the great drums pounding,</l>
+                        <l>And the small drums steady whirring;</l>
+                        <l>And every blow of the great convulsive drum</l>
+                        <l rend="indented3">Strikes me through and through.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented3">Now nearer blow the bugles,</l>
+                        <l>And the drums strike more convulsively;</l>
+                        <l>And the daylight o'er the pavement quite has faded,</l>
+                        <l rend="indented3">And the strong dead-march enwraps me."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>We have quoted enough to show the power which this poet has to fix his thought in the mind at a single stroke. But what cannot so well be shown by quotations is the broad effect of his poems as a whole; as he says himself,</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <l>"The words of my book nothing, the life of it <lb/>everything."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>He has the power which Crawford had in sculpture, and which Church has in painting, of producing in his own way the feeling that the American landscape produces,—a vast and vague delight in the scope of existence on this western hemisphere. This was manifest in <hi rend="italic">Leaves of Grass</hi>, but it is still more so here, where the sentiment is more concentrated by the national crisis in which the poems were written.</p>
+
+         <p>Like many of our best poets, however, he is too wilful, and does not conform himself with sufficient patience to the laws of rhythm and proportion in thought or expression. Consequently he is fitfully great, and pleases only at intervals in the details of his composition. He is often as tiresome as Wordsworth in his dull passages, and as rugged as an old English metrical romance. He is full of other faults, too, but they mostly spring from his wilfulness and impatience of rules.</p>
+
+         <p>The complaints made of his earlier poems, that they were coarse and immoral in passages, will not apply to this little volume, which is as free from reproach on this score as Mr. Harlan's hymn-book. It will do much, we are confident, to remove the prejudice against Mr. Whitman in many minds, and to secure him that place in literature during his lifetime which he is sure to hold in the next age.</p>
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+John Esten Cooke (1830-1886) was an American novelist noted for his grandiloquent writings centered on his home state of Virginia. 
+</note> 
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+Possibly referring to Marion Lumpkin Cobb, wife of Thomas Reade Rootes Cobb (1823-1862), an American lawyer, author, politician, and Confederate general, killed in the Battle of Fredericksburg.
+</note>
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+Mrs. Henry Wood (née Ellen Price) (1814-1887) was an English writer of the extremely popular 1861 novel, <hi rend="italic">East Lynne</hi>, a sensational and melodramatic story of a woman's fall from grace.
+</note>
+               <note type="editorial" xml:id="n4" target="r4" n="4">
+Refers to the English poet Martin Farquhar Tupper (1810-1889), the author of <hi rend="italic">Proverbial Philosophy</hi>, a series of didactic moral and religious verse.
+</note>
+               <note type="editorial" xml:id="n5" target="r5" n="5">
+                  <hi rend="italic">The Country Parson, or A Priest to the Temple, his Character and Rule of Life</hi> (1652), is a collection of practical advice to fellow country parsons by Welsh poet George Herbert (1593-1633). 
+</note> 
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

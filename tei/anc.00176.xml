@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00176">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">Walt Whitman and His Poems</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Walt Whitman</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00176</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Whitman, Walt">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Walt Whitman</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Walt Whitman and His Poems</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The United States Review</title>
+                  <imprint>
+                     <biblScope type="volume">5</biblScope>
+                     <date when="1855-09">September 1855</date>
+                     <biblScope type="pages">205-12</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-14">Corrected, validated</change>
+         <change who="#ts" when="2005-02-15">Minor encoding corrections</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main-authorial">WALT WHITMAN AND HIS POEMS<!--  [Review of Leaves of Grass (1855)] --> </head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+
+         <p>A<hi rend="smallcaps">N</hi> American bard at last! One of the roughs, large, proud, affectionate, eating, drinking, and breeding, his costume manly and free, his face sunburnt and bearded, his posture strong and erect, his voice bringing hope and prophecy to the generous races of young and old. We shall cease shamming and be what we really are. We shall start an athletic and defiant literature. We realize now how it is, and what was most lacking. The interior American republic shall also be declared free and independent.</p>
+
+         <p>For all our intellectual people, followed by their books, poems, novels, essays, editorials, lectures, tuitions, and criticism, dress by London and Paris modes, receive what is received there, obey the authorities, settle disputes by the old tests, keep out of rain and sun, retreat to the shelter of houses and schools, trim their hair, shave, touch not the earth barefoot, and enter not the sea except in a complete bathing-dress. One sees unmistakably genteel persons, travelled, college-learned, used to be served by servants, conversing without heat or vulgarity, supported on chairs, or walking through handsomely-carpeted parlors, or along shelves bearing well-bound volumes, and walls adorned with curtained and collared portraits, and china things, and nick-nacks. But where in American literature is the first show of America? Where are the gristle and beards, and broad breasts, and space and ruggedness and nonchalance that the souls of the people love? Where is the tremendous outdoors of these States? Where is the majesty of the federal mother, seated with more than antique grace, calm, just, indulgent to her brood of children, calling them around her regarding the little and the large and the younger and the older with perfect impartiality? Where is the vehement growth of our cities? Where is the spirit of the strong rich life of the American mechanic, farmer, sailor, hunter, and miner? Where is the huge composite of all other nations, cast in a fresher and brawnier matrix, passing adolescence, and needed this day, live and arrogant, to lead the marches of the world?</p>
+
+         <p>Self-reliant, with haughty eyes, assuming to himself all the attributes of his country, steps Walt Whitman into literature, talking like a man unaware that there was ever hitherto such a production as a book, or such a being as a writer. Every move of him has the free play of the muscle of one who never knew what it was to feel that he stood in the presence of a superior. Every word that falls from his mouth shows silent disdain and defiance of the old theories and forms. Every phrase announces new laws; not once do his lips unclose except in conformity with them. With light and rapid touch he first indicates in prose the principles of the foundation of a race of poets so deeply to spring from the American people, and become ingrained through them, that their Presidents shall not be the common referees so much as that great race of poets shall. He proceeds himself to exemplify this new school, and set models for their expression and range of subjects. He makes audacious and native use of his own body and soul. He must re-create poetry with the elements always at hand. He must imbue it with himself as he is, disorderly, fleshy, and sensual, a lover of things, yet a lover of men and women above the whole of the other objects of the universe. His work is to be achieved by unusual methods. Neither classic or romantic is he, nor a materialist any more than a spiritualist. Not a whisper comes out of him of the old stock talk and rhyme of poetry—not the first recognition of gods or goddesses, or Greece or Rome. No breath of Europe, or her monarchies, or priestly conventions, or her notions of gentlemen and ladies founded on the idea of caste, seems ever to have fanned his face or been inhaled into his lungs. But in their stead pour vast and fluid the fresh mentality of this mighty age, and the realities of this mighty continent, and the sciences and inventions and discoveries of the present world. Not geology, nor mathematics, nor chemistry, nor navigation, nor astronomy, nor anatomy, nor physiology, nor engineering, is more true to itself than Walt Whitman is true to them. They and the other sciences underlie his whole superstructure. In the beauty of the work of the poet, he affirms, are the tuft and final applause of science.</p>
+
+         <p>Affairs then are this man's poems. He will still inject nature through civilization. The movement of his verses is the sweeping movement of great currents of living people, with a general government, and state and municipal governments, courts, commerce, manufactures, arsenals, steamships, railroads, telegraphs, cities with paved streets, and aqueducts, and police and gas—myriads of travellers arriving and departing—newspapers, music, elections and all the features and processes of the nineteenth century in the wholesomest race and the only stable form of politics at present upon the earth. Along his words spread the broad impartialities of the United States. No innovations must be permitted on the stern severities of our liberty and equality. Undecked also is this poet with sentimentalism, or jingle, or nice conceits or flowery similes. He appears in his poems surrounded by women and children, and by young men, and by common objects and qualities. He gives to each just what belongs to it, neither more or less. The person nearest him, that person he ushers hand in hand with himself. Duly take places in his flowing procession, and step to the sounds of the newer and larger music, the essences of American things, and past and present events—the enormous diversity of temperature and agriculture and mines—the tribes of red aborigines—the weather-beaten vessels entering new ports, or making landings on rocky coasts—the first settlements north and south—the rapid stature and impatience of outside control—the sturdy defiance of '76, and the war and peace, and the leadership of Washington, and the formation of the Constitution—the Union always calm and impregnable—the perpetual coming of immigrants—the wharf-hemmed cities and superior marine—the unsurveyed interior—the log-house, and clearings, and wild animals, and hunters, and trappers—the fisheries, and whaling, and gold-digging—the endless gestation of new states—the convening of Congress every December, the members coming up from all climates, and from the utter-most parts—the noble character of the free American workman and workwoman—the fierceness of the people when well-roused—the ardor of their friendships—the large amativeness—the Yankee swap—the New York fireman, and the target excursion—the southern plantation life—the character of the north-east, and of the north-west and south-west—and the character of America and the American people everywhere. For these the old usages of poets afford Walt Whitman no means sufficiently fit and free, and he rejects the old usages. The style of the bard that is waited for is to be transcendent and new. It is to be indirect and not direct or descriptive or epic. Its quality is to go through these to much more. Let the age and wars (he says) of other nations be chanted, and their eras and characters be illustrated, and that finish the verse. Not so (he continues) the great psalm of the republic. Here the theme is creative and has vista. Here comes one among the well-beloved stonecutters, and announces himself, and plans with decision and science, and sees the solid and beautiful forms of the future where there are now no solid forms.</p>
+
+         <p>The style of these poems, therefore, is simply their own style, new-born and red. Nature may have given the hint to the author of the "Leaves of Grass", but there exists no book or fragment of a book, which can have given the hint to them. All beauty, he says, comes from beautiful blood and a beautiful brain. His rhythm and uniformity he will conceal in the roots of his verses, not to be seen of themselves, but to break forth loosely as lilies on a bush, and take shapes compact as the shapes of melons, or chestnuts, or pears.</p>
+
+         <p>The poems of the "Leaves of Grass" are twelve in number. Walt Whitman at first proceeds to put his own body and soul into the new versification:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I celebrate myself,</l>
+                        <l>And what I assume you shall assume,</l>
+                        <l>For every atom belonging to me, as good belongs to you."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>He leaves houses and their shuttered rooms, for the open air. He drops disguise and ceremony, and walks forth with the confidence and gayety of a child. For the old decorums of writing he substitutes new decorums. The first glance out of his eyes electrifies him with love and delight. He will have the earth receive and return his affection; he will stay with it as the bride-groom stays with the bride. The cool-breathed ground, the slumbering and liquid trees, the just-gone sunset, the vitreous pour of the full moon, the tender and growing night, he salutes and touches, and they touch him. The sea supports him, and hurries him off with its powerful and crooked fingers. Dash me with amorous wet! then he says, I can repay you.</p>
+
+         <p>By this writer the rules of polite circles are dismissed with scorn. Your stale modesties, he says, are filthy to such a man as I.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I believe in the flesh and the appetites,</l>
+                        <l>Seeing, hearing, and feeling are miracles, and each part and tag of me is a miracle.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I do not press my finger across my mouth,</l>
+                        <l>I keep as delicate around the bowels as around the head and heart."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>No sniveller, or tea-drinking poet, no puny clawback or prude, is Walt Whitman. He will bring poems fit to fill the days and nights—fit for men and women with the attributes of throbbing blood and flesh. The body, he teaches, is beautiful. Sex is also beautiful. Are you to be put down, he seems to ask, to that shallow level of literature and conversation that stops a man's recognizing the delicious pleasure of his sex, or a woman hers? Nature he proclaims inherently pure. Sex will not be put aside; it is a great ordination of the universe. He works the muscle of the male and the teeming fibre of the female throughout his writings, as wholesome realities, impure only by deliberate intention and effort. To men and women he says: You can have healthy and powerful breeds of children on no less terms than these of mine. Follow me and there shall be taller and nobler crops of humanity on the earth.</p>
+
+         <p>In the "Leaves of Grass" are the facts of eternity and immortality, largely treated. Happiness is no dream, and perfection is no dream. Amelioration is my lesson, he says with calm voice, and progress is my lesson and the lesson of all things. Then his persuasion becomes a taunt, and his love bitter and compulsory. With strong and steady call he addresses men. Come, he seems to say, from the midst of all that you have been your whole life surrounding yourself with. Leave all the preaching and teaching of others, and mind only these words of mine.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Long enough have you dreamed contemptible dreams,</l>
+                        <l>Now I wash the gum from your eyes,</l>
+                        <l>You must habit yourself to the dazzle of the light and of every moment of your <lb/>life.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Long have you timidly waded, holding a plank by the shore,</l>
+                        <l>Now I will you to be a bold swimmer,</l>
+                        <l>To jump off in the midst of the sea, and rise again and nod to me and shout, and</l>
+                        <l>laughingly dash with your hair.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I am the teacher of athletes,</l>
+                        <l>He that by me spreads a wider breast than my own proves the width of my own,</l>
+                        <l>He most honors my style who learns under it to destroy the teacher.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>The boy I love, the same becomes a man not through derived power but in his own <lb/>right,</l>
+                        <l>Wicked, rather than virtuous out of conformity or fear,</l>
+                        <l>Fond of his sweetheart, relishing well his steak,</l>
+                        <l>Unrequited love or a slight cutting him worse than a wound cuts,</l>
+                        <l>First rate to ride, to fight, to hit the bull's eye, to sail a skiff; to sing or play <lb/>on the banjo,</l>
+                        <l>Preferring scars and faces pitted with small-pox over all latherers and those that <lb/>keep out of the sun.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I teach straying from me, yet who can stray from me?</l>
+                        <l>I follow you whoever you are from the present hour;</l>
+                        <l>My words itch at your ears till you understand them.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I do not say these things for a dollar, or to fill up the time while I wait for a boat;</l>
+                        <l>It is you talking just as much as myself—I act as the tongue of you.</l>
+                        <l>It was tied in your mouth—in mine it begins to be loosened.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I swear I will never mention love or death inside a house,</l>
+                        <l>And I swear I never will translate myself at all, only to him or her who privately <lb/>stays with me in the open air."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>The eleven other poems have each distinct purposes, curiously veiled. Theirs is no writer to be gone through with in a day or a month. Rather it is his pleasure to elude you and provoke you for deliberate purposes of his own.</p>
+
+         <p>Doubtless in the scheme this man has built for himself the writing of poems is but a proportionate part of the whole. It is plain that public and private performance, politics, love, friendship, behavior, the art of conversation, science, society, the American people, the reception of the great novelties of city and country, all have their equal call upon him and receive equal attention. In politics he could enter with the freedom and reality he shows in poetry. His scope of life is the amplest of any yet in philosophy. He is the true spiritualist. He recognizes no annihilation, or death, or loss of identity. He is the largest lover and sympathizer that has appeared in literature. He loves the earth and sun, and the animals. He does not separate the learned from the unlearned, the Northerner from the Southerner, the white from the black, or the native from the immigrant just landed at the wharf. Every one, he seems to say, appears excellent to me, every employment is adorned, and every male and female glorious.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The press of my foot to the earth springs a hundred affections,</l>
+                        <l>They scorn the best I can do to relate them.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I am enamored of growing out-doors,</l>
+                        <l>Of men that live among cattle or taste of the ocean or woods,</l>
+                        <l>Of the builders and steerers of ships, of the wielders of axes and mauls, of the <lb/>drivers of horses,</l>
+                        <l>I can eat and sleep with them, week in and week out.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>What is commonest and cheapest and nearest and easiest is Me,</l>
+                        <l>Me going in for my chances, spending for vast returns,</l>
+                        <l>Adorning myself to bestow myself on the first that will take me,</l>
+                        <l>Not asking the sky to come down to my good will.</l>
+                        <l>Scattering it freely for ever."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>If health were not his distinguishing attribute, this poet would be the very harlot of persons. Right and left he flings his arms, drawing men and women with undeniable love to his close embrace, loving the clasp of their hands, the touch of their necks and breasts, and the sound of their voice. All else seems to burn up under his fierce affection for persons. Politics, religion, institutions, art, quickly fall aside before them. In the whole universe, he says, I see nothing more divine than human souls.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"When the psalm sings instead of singer,</l>
+                        <l>When the script preaches instead of the preacher,</l>
+                        <l>When the pulpit descends and goes instead of the carver that carved the <choice><orig>support-<lb/>ing</orig><reg>supporting</reg></choice> desk,</l>
+                        <l>When the sacred vessels or the bits of the eucharist, or the lath and plast, <choice><orig>procre-<lb/>ate</orig><reg>procreate</reg></choice> as effectually as the young silversmiths or bakers, or the masons in their <lb/>overalls,</l>
+                        <l>When a university course convinces like a slumbering woman and child convince,</l>
+                        <l>When the minted gold in the vault smiles like the night-watchman's daughter,</l>
+                        <l>When warrantee deeds loafe in chairs opposite, and are my friendly companions,</l>
+                        <l>I intend to reach them my hand and make as much of them as I make of men and <lb/>women."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Who then is that insolent unknown? Who is it, praising himself as if others were not fit to do it, and coming rough and unbidden among writers to unsettle what was settled, and to revolutionize, in fact, our modern civilization? Walt Whitman was born on Long-Island, on the hills about thirty miles from the greatest American city, on the last day of May, 1819, and has grown up in Brooklyn and New York to be thirty-six years old, to enjoy perfect health, and to understand his country and its spirit.</p>
+
+         <p>Interrogations more than this, and that will not be put off unanswered, spring continually through the perusal of these Leaves of Grass:</p>
+
+         <p>If there were to be selected, out of the incalculable volumes of printed matter in existence, any single work to stand for America and her times, should this be the work? </p>
+
+         <p>Must not the true American poet indeed absorb all others, and present a new and far more ample and vigorous type?</p>
+
+         <p>Has not the time arrived for a school of live writing and tuition consistent with the principles of these poems? consistent with the free spirit of this age, and with the American truths of politics? consistent with geology, and astronomy, and all science and human physiology? consistent with the sublimity of immortality and the directness of
+common-sense?</p>
+
+         <p>If in this poem the United States have found their poetic voice, and taken measure and form, is it any more than a beginning? Walt Whitman himself disclaims singularity in his work, and announces the coming after him of great successions of poets, and that he but lifts his finger to give the signal.</p>
+
+         <p>Was he not needed? Has not literature been bred in and in long enough? Has it not become unbearably artificial?</p>
+
+         <p>Shall a man of faith and practice in the simplicity of real things be called eccentric, while the disciple of the fictitious school writes without question?</p>
+
+         <p>Shall it still be the amazement of the light and dark that freshness of expression is the rarest quality of all?</p>
+
+         <p>You have come in good time, Walt Whitman! In opinions, in manners, in costumes, in books, in the aims and occupancy of life, in associates, in poems, conformity to all unnatural and tainted customs passes without remark, while perfect naturalness, health, faith, self-reliance, and all primal expressions of the manliest love and friendship, subject one to the stare and
+controversy of the world.</p>
+
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00032">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1856">Leaves of Grass</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1856)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00032</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Leaves of Grass</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Daily Times</title>
+                  <imprint>
+                     <date when="1856-11-13">13 November 1856</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-14">Encoded, validated</change>
+         
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main-authorial">LEAVES OF GRASS. <!-- [Review of Leaves of Grass (1856)] --> </head>
+  
+            <ab>
+               
+                   LEAVES OF GRASS— 
+                   
+                      F<hi rend="smallcaps">OWLER</hi> &amp; W<hi rend="smallcaps">ELLS</hi>:  
+                      New-York.  
+                   
+               
+            </ab>
+         
+
+         <p>What Centaur have we here, half man, half beast, neighing shrill defiance to all the world? What conglomerate of thought is this before us, with insolence, philosophy, tenderness, blasphemy, beauty and gross indecency tumbling in drunken confusion through the pages? Who is this arrogant young man who proclaims himself the Poet of the Time, and who roots like a pig among a rotten garbage of licentious thoughts? Who is this flushed and full-blooded lover of Nature who studies her so affectionately, and who sometimes utters her teachings with a lofty tongue? This mass of extraordinary contradictions, this fool and this wise man, this lover of beauty and this sunken sensualist, this original thinker and blind egotist, is Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi>, author of <hi rend="italic">Leaves of Grass</hi>, and, according to his own account, 'a Kosmos.'</p>
+
+         <p>Some time since there was left at the office of this paper a thin quarto volume bound in green and gold. On opening the book we first beheld, as a frontispiece, the picture of a man in his shirt sleeves, wearing an expression of settled arrogance upon his countenance. We next arrived at a title page of magnificent proportions, with letter-press at least an inch and a half in length. From this title page we learned that the book was entitled <hi rend="italic">Leaves of Grass</hi>, and was printed at Brooklyn in the year 1855. This inspected, we passed on to what seemed to be a sort of preface, only that it had no beginning, was remarkable for a singular sparseness in the punctuation, and was broken up in a confusing manner by frequent rows of dots separating the paragraphs. To this succeeded eighty-two pages of what appeared at the first glance to be a number of prose sentences printed somewhat after a biblical fashion. Almost at the first page we opened we lighted upon the confession that the author was</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi>, an American, one of the roughs, <lb/>a Kosmos,</l>
+                        <l>Disorderly, fleshy and sensual . .  . . "</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>This was sufficient basis for a theory. We accordingly arrived at the conclusion that the insolent-looking young man on the frontispiece was this same W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi>, and author of the <hi rend="italic">Leaves of Grass</hi>.</p>
+
+         <p>Then returning to the fore-part of the book, we found proof slips of certain review articles about the <hi rend="italic">Leaves of Grass</hi>. One of these purported to be extracted from a periodical entitled the <hi rend="italic">United States Review</hi>, the other was headed 'From the <hi rend="italic">American Phrenological Journal</hi>.' These were accompanied by a printed copy of an extravagant letter of praise addressed by Mr. R<hi rend="smallcaps">ALPH</hi> W<hi rend="smallcaps">ALDO</hi> E<hi rend="smallcaps">MERSON</hi> to Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi>, complimenting him on the benefaction conferred on society in the present volume. On subsequently comparing the critiques from the <hi rend="italic">United States Review</hi> and the <hi rend="italic">Phrenological Journal</hi> with the preface of the <hi rend="italic">Leaves of Grass</hi>, we discovered unmistakable internal evidence that Mr. Walt Whitman, true to his character, of a Kosmos, was not content with writing a book, but was also determined to review it; so Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi>, had concocted both those criticisms of his own work, treating it we need not say how favorably. This little discovery of our 'disorderly' acquaintance's mode of proceeding rather damped any enthusiasm with which Mr. E<hi rend="smallcaps">MERSON</hi>'s exravagant letter may have inspired us. We reflected, here is a man who sets himself up as the poet and teacher of his time; who professes a scorn of everything mean and dastardly and double-faced, who hisses with scorn as he passes one in the street whom he suspects of the taint, hypocrisy - yet this self-contained teacher, this rough-and-ready scorner of dishonesty, this rowdy knight-errant who tilts against all lies and shams, himself perpetrates a lie and a sham at the very outset of his career. It is a lie to write a review of one's own book, then extract it from the work in which it appeared and send it out to the world as an impartial editorial utterance. It is an act that the most degraded helot of literature might blush to commit. It is a dishonesty committed against one's own nature, and all the world. Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi> in one of his candid rhapsodies announces that he is 'no more modest than immodest.' Perhaps in literary matters he carries the theory farther, and is no more honest than dishonest. He likewise says in his preface: 'The great poets are known by the absence in them of tricks, and by the justification of perfect personal candor.' Where, then, can we place Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi>'s claims upon immortality?</p>
+
+         <p>We confess we turn from Mr. W<hi rend="smallcaps">HITMAN</hi> as Critic, to Mr. W<hi rend="smallcaps">HITMAN</hi> as Poet, with considerable pleasure. We prefer occupying that independent position which Mr. W<hi rend="smallcaps">HITMAN</hi> claims for man, and forming our own opinions, rather than swallowing those ready-made. This gentleman begins his poetic life with a coarse and bitter scorn of the past. We have been living stale and unprofitable lives; we have been surfeited with luxury and high living, and are grown lethargic and dull; the age is fast decaying, when, lo! the trump of the Angel Whitman brings the dead to life, and animates the slumbering world. If we obey the dictates of that trumpet, we will do many strange things. We will fling off all moral clothing and walk naked over the earth. We will disembarrass our language of all the proprieties of speech, and talk indecency broadcast. We will act in short as if the Millennium were arrived in this our present day, when the absence of all vice would no longer necessitate a virtuous discretion. We fear much, Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi>, that the time is not yet come for the nakedness of purity. We are not yet virtuous enough to be able to read your poetry aloud to our children and our wives. What might be pastoral simplicity five hundred years hence, would perhaps be stigmatized as the coarsest indecency now, and - we regret to think that you have spoken too soon.</p>
+
+         <p>The adoration of the 'Me,' the 'Ego,' the 'eternal and universal I,' to use the jargon of the Boston <hi rend="italic">Oracle</hi>, is the prevailing motive of <hi rend="italic">Leaves of Grass</hi>. Man embraces and comprehends the whole. He is everything, and everything is him. All nature ebbs and flows through him in ceaseless tides. He is 'his own God and his own Devil,' and everything that he does is good. He rejoices with all who rejoice; suffers with all who suffer. This doctrine is exemplified in the book by a panorama as it were of pictures, each of which is shared in by the author, who belongs to the universe, as the universe belongs to him. In detailing these pictures he hangs here and there shreds and tassels of his wild philosophy, till his work, like a maniac's robe, is bedizened with fluttering tags of a thousand colors. With all his follies, insolence, and indecency, no modern poet that we know of has presented finer descriptive passages than Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi>. His phrasing, and the strength and completeness of his epithets, are truly wonderful. He paints in a single line with marvellous power and comprehensiveness. The following rhapsody will illustrate his fulness of epithet:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I am he that walks with the tender and growing <lb/>night;</l>
+                        <l>I call to the earth and sea, half held by the night.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Press close bare-bosomed night! Press close <choice><orig>mag-<lb/>netic</orig><reg>magnetic</reg></choice>, nourishing night!</l>
+                        <l>Night of South winds! Night of the large few stars!</l>
+                        <l>Still nodding night! Mad, naked, Summer night!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Smile, O voluptuous cool-breathed earth!</l>
+                        <l>Earth of the slumbering and liquid trees!</l>
+                        <l>Earth of departed sunset! Earth of the mountains <lb/>misty-topt!</l>
+                        <l>
+                           <hi rend="italic">Earth of the vitreous pour of the full moon just <lb/>tinged with blue! <lb/>
+                           </hi>
+                        </l>
+                        <l>Earth of shine and dark, mottling the tide of the <lb/>river!</l>
+                        <l>Earth of the limpid gray of clouds brighter and <lb/>clearer for my sake!</l>
+                        <l>
+                           <hi rend="italic">Far-swooping elbowed earth!</hi> Rich apple-blossomed <lb/>earth!</l>
+                        <l>Smile, for your lover comes!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- The previous and following quotes, though separate in the 1856 Leaves, appear as one continuous passage in the review -->
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"You sea! I resign myself to you also…I guess <lb/>what you mean.</l>
+                        <l>I behold from the beach your crooked inviting <choice><orig>fin- 
+                           <lb/>
+                           gers</orig><reg>fingers</reg></choice>,</l> 
+                        <l>I believe you refuse to go back without feeling of me;</l>
+                        <l>We must have a turn together…I undress…hurry <lb/>me out of sight of the land.</l> 
+                        <l>Cushion me soft…<hi rend="italic">rock me in billowy drowse</hi>,</l>
+                        <l>Dash me with amorous wet…I can repay you."</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Sea of stretched ground-swells!</l>
+                        <l>Sea, breathing broad and convulsive breaths!</l>
+                        <l>Sea of the brine of life! <hi rend="italic">Sea of unshovelled and <choice><orig>al- 
+                           <lb/>
+                              ways</orig><reg>always</reg></choice>-ready graves!</hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">Howler and scooper of storms!</hi> Capricious and dainty <lb/>sea!</l>
+                        <l>I am integral with you…I too am of one phase and <lb/>of all phases."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Here are fine expressions well placed. Mr. W<hi rend="smallcaps">HITMAN</hi>'s study of nature has been close and intense. He has expressed certain things better than any other man who has gone before him. He talks well, and largely, and tenderly of sea and sky, and men and trees, and women and children. His observation and his imagination are both large and well-developed. Take this picture; how pathetic, how tenderly touched!</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Agonies are one of my changes of garments;</l>
+                        <l>I do not ask the wounded person how he feels…I <lb/>myself become the wounded person,</l>
+                        <l>My hurt turns livid upon me as I lean on a cane and <lb/>observe.</l>
+                        <l>I am the mashed fireman with breast-bone broken… <lb/>
+                           <choice><sic>trembling</sic><corr>tumbling</corr></choice> walls buried me in their debris.</l>
+                        <l>Heat and smoke I inspired…I heard the yelling <lb/>shouts of my comrades,</l>
+                        <l>I heard the distant click of their picks and shovels;</l>
+                        <l>They have cleared the beams away…they tenderly <lb/>lift me forth.</l>
+                        <l>I lie in the night air in my red shirt…the pervading <lb/>hush is for my sake,</l>
+                        <l>Painless after all I lie, exhausted but not so unhappy.</l>
+                        <l>White and beautiful are the faces around me…the <lb/>heads are bared of their fire-caps.</l>
+                        <l>The kneeling crowd fades with the light of the <lb/>torches."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>If it were permitted to us to outrage all precedent, and print that which should not be printed, we could cull some passages from the "Leaves of Grass," and place them in strange contrast with the extracts we have already made. If being a Kosmos is to set no limits to one's imagination; to use coarse epithets when coarseness is not needful; to roam like a drunken satyr, with inflamed blood, through every field of lascivious thought; to return time after time with a seemingly exhaustless prurient pleasure to the same licentious phrases and ideas, and to jumble all this up with bits of marvellously beautiful description, exquisite touches of nature, fragments of savagely uttered truth, shreds of unleavened philosophy; if to do all this is to be a Kosmos, then indeed we cede to Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi> his arrogated title. Yet it seems to us that one may be profound without being beastly; one may teach philosophy without clothing it in slang; one may be a great poet without using a language which shall outlaw the minstrel from every decent hearth. Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi> does not think so. He tears the veil from all that society by a well-ordered law shrouds in a decent mystery. He is proud of his nakedness of speech; he glories in his savage scorn of decorum. Like the priests of Belus, he wreathes around his brow the emblems of the Phallic worship.</p>
+
+         <p>With all this muck of abomination soiling the pages, there is a wondrous, unaccountable fascination about the <hi rend="italic">Leaves of Grass</hi>. As we read it again and again, and we will confess that we have returned to it often, a singular order seems to arise out of its chaotic verses. Out of the mire and slough edged thoughts and keen philosophy start suddenly, as the men of Cadmus sprang from the muddy loam. A lofty purpose still dominates the uncleanness and the ridiculous self-conceit in which the author, led astray by ignorance, indulges. He gives token everywhere that he is a huge uncultivated thinker. No country save this could have given birth to the man. His mind is Western—brawny, rough, and original. Wholly uncultivated, and beyond his associates, he has begotten within him the egotism of intellectual solitude. Had he mingled with scholars and men of intellect, those effete beings whom he so despises, he would have learned much that would have been beneficial. When we have none of our own size to measure ourselves with, we are apt to fancy ourselves broader and taller and stronger than we are. The poet of the little country town, who has reigned for years the Virgil or Anacreon<ref target="n1" xml:id="r1" n="1"/> of fifty square miles, finds, when he comes into the great metropolis, that he has not had all the thinking to himself. There he finds hundreds of men who have thought the same things as himself, and uttered them more fully. He is astonished to discover that his intellectual language is limited, when he thought that he had fathomed expression. He finds his verse unpolished, his structure defective, his best thoughts said before. He enters into the strife, clashes with his fellows, measures swords with this one, gives thrust for thrust with the other, until his muscles harden and his frame swells. He looks back upon his provincial intellectual existence with a smile; he laughs at his country arrogance and ignorant faith in himself. Now we gather from Mr. W<hi rend="smallcaps">HITMAN</hi>'s own admissions—admissions that assume the form of boasts—that he has mingled but little with intellectual men. The love of the physical—which is the key-note of his entire book—has as yet altogether satisfied him. To mix with large-limbed, clean-skinned men, to look on ruddy, fair-proportioned women, is his highest social gratification. This love of the beautiful is by him largely and superbly expressed in many places, and it does one good to read those passages pulsating with the pure blood of animal life. But those associates, though manly and handsome, help but little to a man's inner appreciation of himself. Perhaps our author among his comrades had no equal in intellectual force. He reigned triumphantly in an unquestioning circle of admirers. How easy, then, to fancy one's self a wonderful being! How easy to look around and say, 'There are none like me here. I am the coming man!' It may be said that books will teach such a man the existence of other powerful minds, but this will not do. Such communion is abstract, and has but little force. It is only in the actual combat of mind striving with mind that a man comes properly to estimate himself. Mr. W<hi rend="smallcaps">HITMAN</hi> has grown up in an intellectual isolation which has fully developed all the eccentricities of his nature. He has made some foolish theory that to be rough is to be original. Now, external softness of manner is in no degree incompatible with muscularity of intellect; and one thinks no more of a man's brains for his treading on one's toes without an apology, or his swearing in the presence of women. When Mr. W<hi rend="smallcaps">HITMAN</hi> shall have learned that a proper worship of the individual man need not be expressed so as to seem insolence, and that men are not to be bullied into receiving as a Messiah every man who sneers at them in his portrait, and disgusts them in his writings, we have no doubt that in some chastened mood of mind he will produce moving and powerful books. We select some passages exhibiting the different phases of Mr. W<hi rend="smallcaps">HITMAN</hi>'s character. We do so more readily as, from the many indecencies contained in <hi rend="italic">Leaves of Grass</hi>, we do not believe it will find its way into many families.</p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">A MODEST PROFESSION OF FAITH.</head>
+                        <l>"Nothing, not God, is greater to one than one's self is,</l>
+                        <l>And whoever walks a furlong without sympathy, <lb/>walks to his own funeral,</l>
+                        <l>Dressed in his shroud."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p> </p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">A FINE LANDSCAPE.</head>
+                        <l>"The turbid pool that lies in the Autumn forest,</l>
+                        <l>The moon that descends the steeps of the soughing <lb/>twilight,</l>
+                        <l>Toss, sparkles of day and dusk…toss on the black <lb/>stems that decay in the muck;</l>
+                        <l>Toss to the moaning gibberish of the dry limbs."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p> </p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup"> 
+                        <head type="main-authorial">A TRUTH.</head>
+                        <l>"I, too, am not a bit tamed…I, too, am <choice><orig>untransla-
+                           <lb/>
+                           table</orig><reg>untranslatable</reg></choice>;</l>
+                        <l>I sound my barbaric yawp over the roofs of the world."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p> </p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup"> 
+                        <head type="main-authorial">A DEATH-BED.</head>
+                        <l>"When the dull nights are over, and the dull days <lb/>also;</l>
+                        <l>When the soreness of lying so much in bed is over,</l>
+                        <l>When the physician, after long putting off, gives the <lb/>silent and terrible look for an answer;</l>
+                        <l>When the children come hurried and weeping, and the <lb/>brothers and sisters have been sent for;</l>
+                        <l>When medicines stand unused on the shelf, and the <lb/>camphor-smell has pervaded the rooms;</l>
+                        <l>When the faithful hand of the living does not desert <lb/>the hand of the dying,</l>
+                        <l>When the twitching lips press lightly on the forehead <lb/>of the dying;</l>
+                        <l>When the breath ceases, and the pulse of the heart <lb/>ceases;</l>
+                        <l>Then the corpse limbs stretch on the bed, and the <lb/>living look upon them,</l>
+                        <l>They are palpable as the living are palpable.</l>
+                        <l>The living look upon the corpse with their eye-sight,</l>
+                        <l>
+                           <hi rend="italic">But without eye-sight lingers a different living and looks <lb/>curiously on the corpse. <lb/>
+                           </hi>"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p> </p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup"> 
+                        <head type="main-authorial">IMMORTALITY.</head>
+                        <l>"If maggots and rats ended us, then suspicion, and <lb/>treachery and death.</l>
+                        <l>Do you suspect death? If I were to suspect death I <lb/>should die now.</l>
+                        <l>Do you think I could walk pleasantly and well-suited <lb/>towards annihilation?"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p> </p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00144" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup"> 
+                        <head type="main-authorial">THE REVOLUTION OF 1848.</head>
+                        <l>"Yet behind all, lo, a shape,</l>
+                        <l>Vague as the night, draped interminably, head, front <lb/>and form in scarlet folds,</l>
+                        <l>Whose face and eyes none may see,</l>
+                        <l>Out of its robes only this…the red robes, lifted by <lb/>the arm,</l>
+                        <l>One finger pointed high over the top, like the head of <lb/>a snake appears.</l>
+                        <l>Meanwhile corpses lie in new-made graves…bloody <lb/>corpses of young men:</l>
+                        <l>The rope of the gibbet, hangs heavily…the bullets <lb/>of princes are flying…the creatures of power <lb/>laugh aloud.</l>
+                     </lg>
+
+                     <lg type="linegroup"> 
+                        <l>And all these things bear fruits…and they are good.</l>
+                        <l>Those corpses of young men,</l>
+                        <l>Those martyrs that hang from the gibbets…those <lb/>hearts pierced by the gray lead,</l>
+                        <l>Cold and motionless as they seem…live elsewhere <lb/>with unslaughter'd vitality.</l>
+                        <l>They live in other young men, O Kings,</l>
+                        <l>They live in brothers again ready to defy you:</l>
+                        <l>They were purified by death…They were taught and <lb/>exalted.</l>
+                        <l>
+                           <hi rend="italic">Not a grave of the murdered for freedom but sows seed <lb/>for freedom…in its turn to bear seed, <lb/>
+                           </hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">Which the winds carry afar and resow, and the rains <lb/>and the snows nourish. <lb/>
+                           </hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">Not a disembodied spirit can the weapons of tyrants let <lb/>loose, <lb/>
+                           </hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">But it stalks invisibly o'er the earth…whispering, <lb/>counselling, cautioning. <lb/>
+                           </hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Since the foregoing was written—and it has been awaiting its turn at the printing press some months—Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi> has published an enlarged edition of his works, from which it is fair to infer that his first has had a ready sale. From twelve poems, of which the original book was composed, he has brought the number up to thirty, all characterized by the same wonderful amalgamation of beauty and indecency. He has, however, been in his new edition guilty of a fresh immodesty. He has not alone printed Mr. E<hi rend="smallcaps">MERSON</hi>'s private letter in an appendix, but he has absolutely printed a passage of that gentleman's note, 'I greet you at the beginning of a great career,' in gold letters on the back, and affixed the name of the writer. Now, Mr. E<hi rend="smallcaps">MERSON</hi> wrote a not very wise letter to Mr. W<hi rend="smallcaps">HITMAN</hi> on the publication of the first twelve poems—indorsing them, and so there might be some excuse for the poet's anxiety to let the public know that his first edition was commended from such a quarter. But with the additional poems, Mr. E<hi rend="smallcaps">MERSON</hi> has certainly nothing whatever to do; nevertheless, the same note that indorsed the twelve is used by Mr. W<hi rend="smallcaps">HITMAN</hi> in the coolest manner to indorse the thirty-two. This is making a private letter go very far indeed. It is as if after a man signed a deed, the person interested should introduce a number of additional clauses, making the original signature still cover them. It is a literary fraud, and Mr. W<hi rend="smallcaps">HITMAN</hi> ought to be ashamed of himself.</p>
+
+         <p>Still, this man has brave stuff in him. He is truly astonishing. The originality of his philosophy is of little account, for if it is truth, it must be ever the same, whether uttered by his lips or P<hi rend="smallcaps">LATO</hi>'s. In manner only can we be novel, and truly Mr. W<hi rend="smallcaps">HITMAN</hi> is novelty itself. Since the greater portion of this review was written, we confess to having been attracted again and again to <hi rend="italic">Leaves of Grass</hi>. It has a singular electric attraction. Its manly vigor, its brawny health, seem to incite and satisfy. We look forward with curious anticipation to Mr. W<hi rend="smallcaps">ALT</hi>. W<hi rend="smallcaps">HITMAN</hi>'s future works. We are much mistaken if, after all, he does not yet contribute something to American literature which shall awaken wonder.</p> 
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Anacreon (582 BC-485 BC) was an ancient Green lyric poet whose most popular poems were celebrations of love, wine, and poetry.
+</note>  
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

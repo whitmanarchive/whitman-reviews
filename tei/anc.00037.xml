@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00037">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00037</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Boston Banner of Light</title>
+                  <imprint>
+                     <date when="1860-06-02">2 June 1860</date>
+                     <biblScope type="volume">7</biblScope>
+                     <biblScope type="pages">4</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-22">Encoded, validated</change>
+         
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+         
+            <ab>
+               
+                   L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>
+                   
+                  By W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>. 
+                   
+                      B<hi rend="smallcaps">OSTON</hi>:  
+                      T<hi rend="smallcaps">HAYER AND</hi> E<hi rend="smallcaps">LDRIDGE</hi>.  
+                   
+               
+            </ab>
+         
+
+         <p>The people who have not yet heard of Walt Whitman are few indeed. This last enlarged collection of his poems makes a stout volume, to which the bold and tasteful publishers have given a dress altogether striking, unique and original. All sorts of things - hard and soft -have been said by the literary critics about this same Walt Whitman and his writings. One paper, in commenting upon another's indiscriminate praise of him, remarks that it is "into this gentle garden of the Muses that that unclean cub of the wilderness, Walt Whitman, has been suffered to intrude, trampling with his vulgar and profane hoofs among the delicate flowers which bloom there," &amp;c.</p>
+
+         <p>Nobody who has read Whitman's poems, can question his originality. He betrays high culture, even when he seems almost swinishly to spurn it. We think that few writers of our day, if any, whether in prose or verse, have so seized hold of the <hi rend="italic">spirit</hi> of things—no matter what, where found, or intertwisted with whatever associations—as this one before us. And the best proof of it is just that free habit of expression which all the literary poodles are happy to style "barbaric." It is time their snobbery was supplanted by strength of some sort even if it be barbaric. We have had soft flute-blowing long enough; now let us bear the jarring screech of a fife. Our poet they call <hi rend="italic">nasty</hi>, because he scorns to be <hi rend="italic">knavish</hi>; he has the right of it, beyond a question, calling a spade a spade, and a meat-axe a meat-axe; and in exercising his elephantine strength and motions, he doubtless takes a secret delight in the mere act of exercising them, and holding all napper-tandy forms and by-laws in scorn; he proudly refuses to so much as appease the prejudices of critics by respecting the commonly received statutes of the great Literary Republic.</p>
+
+         <p>This man's verse—wild, rapid, Ossianic,<ref target="n1" xml:id="r1" n="1"/> wailing, grand, humble, innocent, defiant, irregular, defective, overfull, and altogether inflexible as it is—forms, after all, the truest illustration, if not representative, of the real American Age that is, and is to be. He has searched all truth, all knowledge, all science. Even when his expression torments you, the great, surcharged soul that throbs and plays underneath, looks forth serious and awful, refusing to be satisfied with itself, unsettling all things, breaking up the heavens into new and sometimes terrific forms, and pointing down to abysmal deeps in human experience, to which even the most powerful sight of spirit has never penetrated. Above all other singers of songs—rude or rhyming—Whitman hints to you of your capacity; if you have not yet awakened to the possession of any, you cannot understand him, of course. Neither can you understand him wholly, at best; for his own writings prove that he does not, and never will entirely, understand himself. And this is the mystery that gives Life its deep meaning.</p> 
+
+         <p>The whole body of these Poems—spiritually considered—is alive with power, throbbing and beating behind and between the lines. There is more here than mere oddity, and barbaric indifference to elegant forms of speech; there is a <hi rend="italic">living soul</hi>—no matter whether its owner drove an omnibus once, or stands on State street and chaffers greedily every day for gold—and that soul insists on giving itself to its fellows, even if it has to rend the most sacred rules of speech to achieve its larger liberty. Carlyle did so, and triumphed; Whitman's way is as much his own, too. It is no way at all, to make up even literary judgment by examining the colors, and not the warp and woof. It is the texture of the stuff that tells, because it is that which is going to endure.</p> 
+
+         <p>Thus much of the Poet Whitman; we leave our readers to examine his wonderful productions—so bizarre, so fine, so entirely out of and beyond all rule—and know for themselves, as they would know a familiar friend, the spirit that lives in them. The <hi rend="italic">disjecta membra</hi>
+            <ref target="n2" xml:id="r2" n="2"/> of the man's speech we throw to the hungry critics, who are ever delighted to snap up such meaty morsels; of the soul that burns through—nay, <hi rend="italic">burns up</hi>—all the mere words, consuming the verbiage as fire licks up dried grass, we are but too eager to speak as it deserves; and with that soul all other growing souls will hasten to make themselves acquainted. Whitman comes to us—perhaps not a discoverer, but certainly a grand interpreter. One-sided and all sided—intense and indifferent—lazy and lashed into fury-spouting words and pouring out streams of rubies and diamonds—he is nothing more than the very child of nature, to whom accidentally has been given the name, W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>.</p>
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+                  <hi rend="italic">The Works of Ossian</hi> is an influential cycle of poems translated and published by James Macpherson in the 1760s.  Macpherson's claim that the poetry was of ancient Scots Gaelic origin resulted in a long running controversy over its authenticity. 
+</note> 
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+                  <hi rend="italic">Disjecta membra</hi> is Latin meaning "scattered remains" (especially literary), from Horace's phrase <hi rend="italic">disjecti membra poetæ</hi>, "limbs of a dismembered poet."
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

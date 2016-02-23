@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00091">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Some Recent Poetry</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Clarence Cook</author>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00091</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Cook, Clarence">Clarence Cook</author>
+                  <title level="a">Some Recent Poetry</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The International Review</title>
+                  <imprint>
+                     <date when="1882-02">February 1882</date>
+                     <biblScope type="volume">12</biblScope>
+                     <biblScope type="pages">222-4</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-17">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">SOME RECENT POETRY <!-- [Review of Leaves of Grass (1881&#8211;82)] --><ref target="n1" n="1" xml:id="r1"/>
+         </head>
+
+         <p>[ . . .] "Strange," said Mr. Emerson, when he was asked his opinion of "Leaves of Grass," "strange, that a man with the brain of a god should have a snout like a hog." And the story ran that Mr. Wendell Phillips, turning the pages of the book, remarked, "Here seem to be all sorts of leaves except fig leaves." This was in 1855, and as the original edition lies before us to-day we recall vividly the sensation that was made by its appearance. In the first place, it was an original-looking volume, a homespun affair, a thin quarto of ninety-five pages, printed in large type, and bearing on its title-page no name of any publisher, but only the words "Leaves of Grass. Brooklyn, New York, 1855." On the reverse the reader was informed that the book had been duly "Entered according to act of Congress in the year 1855, by Walter Whitman," etc., etc., and this was the only clew the public had to the name of the author. Not that the public greatly cared to know. The book was not "published" in the official sense. It was said that the writer of it was a printer by trade, and that he had set up the type and done all the presswork with his own hands. Perhaps he did the binding as well, for that was as primitive as the rest. Yet, though crude looking to the dapper eyes of the trade, there was a rudimentary good taste in the get-up. The title-page would have pleased Guttenberg or Faust, nor would Aldus himself have despised its large and manly aspect. It is parodied in the new issue, but had Walter Whitman had the ordering of this edition he never would have permitted Mr. Osgood to belittle the title-page with his very uncomfortable trade-monogram, which always makes us think of a <hi rend="italic">trichina</hi>, though we have no precise notion of how a trichina looks. We may add that the original edition of "Leaves of Grass" was embellished with the same portrait of the author that adorns the new Boston edition. The prose preface, however, of ten pages, double columns, is omitted, which is a pity, for it is very characteristic of the author, and shows more clearly than the book itself where the author came from intellectually. Mr. Emerson said once of certain philosophers that they had all been milking the same cow&#x97;Swedenborg; and Mr. Whitman, as no one who reads his prose preface can doubt, had been for a long time milking the New England transcendentalists. The preface reads like a selection of papers from the <hi rend="italic">Dial</hi>. Parts of it remind one of the "Manuscript Symphony of Dolon," but the most of it is an echo of Emerson himself, minus his music and his wit.</p>
+
+         <p>The book, however, was misunderstood, as was to have been expected. Mr. Emerson, who had the penetration to see what was fine and original in it, was as wrong in his judgment of one element in it as was Wordsworth in his judgment of 'Wilhelm Meister.' As Mr. Emerson himself reports: "He proceeded to abuse Goethe's 'Wilhelm Meister' heartily. It was full of all manner of fornication. It was like the crossing of flies in the air. He had never gone farther than the first part; so digusted was he that he threw the book across the room." In the marble purity of his mind Mr. Emerson was more shocked than he need have been by Mr. Whitman's plain speaking, for that, after all, is all that his much-berated coarseness amounts to. At first he could not see the wood-god for his phallus. Later, he wrote a letter to Whitman, in which he said, "I greet you at the beginning of a great career." Whitman showed that he was not quite a god, for he was so tickled with the compliment that he straightway printed it in letters of gold on the back of a new edition of his book. This was a breach of confidence, as Mr. Emerson thought, and he expressed his private indignation at the liberty taken. But what else did he expect? Had he never read Esop?</p>
+
+         <p>Still, whatever may be Mr. Whitman's personal drawbacks, and no writer ever more freely invited the public to an inspection <hi rend="italic">gratis</hi> of all his foibles, the fact remains that Mr. Emerson was right in greeting him as he did. If Whitman really does nothing more than enlarge and exaggerate the "Nature" and the first yolume of "Essays" of his master, he does it in a way to entitle himself to the award of originality as much as that master is entitled to it. The doctrines of individualism, of personal independence, of the unity of all souls, of the oneness of man with the universe, of the equal birth of good and evil, these are all here as we had heard them sweetly sung or said by the Orphic seer himself, only they were here jumbled, confused, with endless repetition, without art, without taste, without sense of proportion, and absolutely without humor. Here were scorn of the conventions of society by one who never knew them, and who was as ignorant of society as a Digger Indian; the sincerity of cows and dogs and horses, to whom Adam and his wife and the Lord God walking in the garden in the cool of the day were all as one; a primal nakedness of which the author made a great show of not being ashamed, knowing well enough that the logic of his position made shame unreasonable. And all this, with much more, was put forth in good masculine English with farmer-like shrewdness, without mincing of words or phrases; we heard the plain talk of farm-hands and mechanics, of sailors and soldiers, without the fear of women or of dandies before their eyes.</p>
+
+         <p>The new edition of "Leaves of Grass" has neither the unity nor the expression of the original book. It is not essentially altered in the main part, nor is what coarseness was once there in the least softened or expunged, but it has been gone over too much with the file, rough as it is still left; and all that Whitman has written since the first book appeared is crowded here pell-mell, without order or sequence. It would be a thousand pities were the author judged by the few passages, perhaps not two pages in all, where his frankness pushes him to say things that are really only coarse because they are said. Of indecency, of essential grossness, there is in the book really nothing. It is easy to believe the author as pure-minded, as Incapable of doing or thinking evil, as any best man among us who would blush to be seen in his shirt-sleeves by a woman. All we charge Whitman with on this score is a want of the sense of beauty and proportion, a want of taste, in short, and worst fault of all, an absolute want of humor. He is neither a true American nor a Greek. Were he the former, he would have a sense of humor; were he the latter, he would have a sense of art. But we owe him a just debt for being what he is, and for the much that he has written it would not be easy to repay him with grateful words. He and Emerson are the only poets we have thus far produced; all the rest are imitators, or make-believes, or players upon jewsharps. But Emerson sits far above Whitman by virtue of his noble art, and, little as he has produced, cannot be brought into comparison with his more prolific disciple. The original "Leaves of Grass" will remain a real contribution to the thought of America, and some of the additional pieces, "My Captain, O My Captain," "Song of the Banner at Daybreak," "Out of the Cradle, Endlessly Rocking," once read can never be forgotten.</p> 
+
+         <closer>
+            <signed rend="right">C<hi rend="smallcaps">LARENCE</hi> C<hi rend="smallcaps">OOK</hi>.</signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">This excerpt comes from the end of an article which reviews three other volumes: Dante G. Rosetti's "Ballads and Sonnets," Christina G. Rosetti's "The Pageant and Other Poems," and Oscar Wilde's "Poems."</note>
+
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

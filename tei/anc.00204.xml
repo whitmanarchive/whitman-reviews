@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00204">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="memoranda">[Review of <hi rend="italic">Memoranda During the War</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00204</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Sunderland Weekly Times</title>
+                  <imprint>
+                     <date when="1876-07-07">7 July 1876</date>
+                     <biblScope type="pages">[unknown]</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-08-01">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+        
+        
+            <ab>
+               
+                   W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>'s M<hi rend="smallcaps">EMORANDA OF THE</hi> W<hi rend="smallcaps">AR</hi>. Written on the spot, in 1863–65. Author's Publication 
+                   
+                      Camden, New Jersey,  
+                      1875–76.<ref target="n1" n="1" xml:id="r1"/> 
+                   
+               
+            </ab>
+         
+
+
+         <p>This is a little book which the Peace Society would do well to circulate at a cheap rate in tens of thousands. During the Union War, a War of Secession as some prefer to call it, Walt Whitman continued steadily through '63, '64, and '65, to visit the sick and wounded of the American armies, both on the field and in the hospitals in and around Washington city. From the first he kept a little note book for impromptu jottings in pencil to refresh his memory of names and circumstances, and what was specially wanted, &amp;c. In these he briefed cases, persons, sights, occurrences in camp, by the roadside, and not seldom by the corpses of the dead. Of the present volume (a presentation copy to a fellow-townsman lies before us<ref target="n2" n="2" xml:id="r2"/>), most of its pages are verbatim renderings from such pencillings on the spot. Some were scratched down from narratives he heard and itemized while watching, or writing, or leading somebody amid these scenes. "Future years," he says, "will never know the seething hell and the black infernal background of countless minor scenes and interiors (not the few great battles) of the Secession War. In the mushy influences of current times the fervid atmosphere and typical events of those years are in danger of being totally forgotten. The interior history of the War will not only never be written,—its practicality, minutiae of deeds and persons, will never be suggested. The actual soldier of 1862–65, North and South, with all his ways, his increditable dauntlessness, habits, practices, tastes, language, his appetite, rashness, his superb strength and animality, lawless gait, and a hundred unnamed lights and shades of camp—I say, will never be written—perhaps must not and shall not be." The present memoranda provides a few stray glimpses into that life, and into those lurid interiors of that period, never to be fully conveyed to the future. It is the hospital part of the drama that is principally here recalled, and of course but a small part of that. The revelation is at once shocking and cheering-shocking, for the man's inhumanity to man, slaves in slavery, tyranny, mutual hate, rebellion, civil war, destructions starting at noonday and at midnight still unsated, horribly obstinate and earnest death struggles, blood, fire, flame, pestilence, wide devastation; cheering, for the glints of manly and womanly virtues under emergencies, or real soldierly heroism in old and young, of patient endurance under hopeless suffering, of customs such as the common routine of life cannot possibly evoke, of disinterested self-sacrifice for the sake of others, of kind offices done under the most unfavourable circumstances. The brief, bare sketches, uncommon and unimproved, as they are, make the book truly one of surpassing human interest,—an interest peculiar to itself, and such as no other book we should read possesses, unless it be the precious record of hospital work or experience of Florence Nightingale at Scutari, but even in that case the details are nothing like so graphic, or given with such significant telling brevity. No poet of any clime—not even Shakespeare, Scott, or Southey—ever depicted the woes of war so powerfully and touchingly as Walt Whitman does, as it were, with a few hurried pencil strokes, in these memoranda. We cannot resist the temptation to quote a few lines. Here is a picture of the camp of the wounded at Chancellorville: "O heaven, what a scene is this! Is this indeed humanity—these butchers' shambles? There are several of them. There they lie, in the largest, in an open space in the woods, from five to six hundred poor fellows—the groans and screams—the odour of blood, mixed with the fresh scent of the night, the grass, the trees—that slaughter-house!—O well is it their mothers, their sisters cannot see them—cannot conceive, or never conceived, these things . . . . One man is shot by a shell, both in the arm and leg-both are amputated—here lie the rejected members. Some have their legs blown off—some bullets through the breast, some indescribably horrid wounds in the face or head, all mutilated, sickening, torn, gouged out—some in the abdomen—some mere boys—here is one his face enveloped in chalk, lying perfectly still, a bullet has perforated his abdomen—life is ebbing fast, there is no help for him. In the camp of the wounded are many rebels, badly hurt—they take their regular turns with the rest, just the same as any—the surgeons use them just the same . . . . Such is the camp of the wounded—such a fragment, a reflection afar off of the bloody scene—while over all the clear, large moon comes out at times softly, gently shining." We might fill several columns with what Mr. Whitman calls Glimpses of War's Hell-Scenes, but we prefer closing with a simple scototype regarding two brothers, one South, one North. "I staid to-night a long time by the bedside of a new patient, a young Baltimorean, aged about 19 years, W.S.P. (2nd Md. Southern), very feeble, right leg amputated, can't sleep hardly at all—has taken a great deal of morphine, which, as usual, is costing more than it comes to. Evidently very intelligent and well-bred—very affectionate—held on to my hand, and put it to his face, unwilling to let me leave. As I was lingering, soothing him in his pain, he says to me suddenly, 'I hardly think you know who I am—I don't wish to impose upon you—I am a rebel soldier.' I said I did not know that, but it made no difference . . . . Visiting him daily for about two weeks after that, while he lived (death had marked him, and he was quite alone) I loved him much, always kissed him, and he did me . . . . In an adjoining ward I found his brother, an officer of rank, a Union soldier, a brave and religious man (Col. Clifton J. Prentiss, Sixth Md. Infantry, ninth corps, wounded in one of his engagements at Petersburg, April 2nd—lingered, suffered much—died in Brooklyn, August 20, 1865). It was in the same battle both were hit. One was a strong Unionist, the other South, both fought on their respective sides, both badly wounded, and both brought together here after an absence of four years. Each died for his cause."</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">This review may have been written by Thomas Dixon.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">The "fellow-townsman" is unidentified.</note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

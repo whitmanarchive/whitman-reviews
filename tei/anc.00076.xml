@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00076">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1871">[Review of <hi rend="italic">Leaves of Grass</hi> (1871–72)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>George Saintsbury</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName><persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00076</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Saintsbury, George">George Saintsbury</author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Academy</title>
+                  <imprint>
+                     <date when="1874-10-10">10 Oct 1874</date>
+                     <biblScope type="volume">6</biblScope>
+                     <biblScope type="pages">398-400</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-06">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+            <ab>
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>
+                   
+                   
+                      (Washington) (London:  
+                      Chatto &amp; Windus) 
+                   
+               
+            </ab>
+         
+
+         <p>S<hi rend="smallcaps">EVERAL</hi> years have now passed since Walt Whitman's poetical works and claims were first brought before the notice of Englishmen of letters, yet it is more than doubtful whether, even among this class, there is any clear and decided view of his merits to be found prevailing. His poems have suffered the usual fate of such abnormal productions; it has been considered that admiration of them must be a kind of voluntary eccentricity, a gratuitous flourish in the face of respectability and orthodoxy. And it cannot be denied that he has not altogether escaped that worst of all calamities to a literary man, the admiration of the incompetent. It is true that he has been praised, with discrimination as well as with emphasis, by Mr. Swinburne; but unfortunately Mr. Swinburne's praise is mainly a passport to the favour of those who would be likely to appreciate Whitman without any passport at all. The testimony of his other panegyrists has not been a little weakened: in some by supposed national or political prejudices; in others, as already mentioned, by notorious literary incompetence.</p>
+
+         <p>It is very much to be hoped that the publication of this new edition of the 'Leaves of Grass' may be the occasion of a deeper and wider study of the American poet, a study which may be carried on purely as a matter of literature and not with any lurking intention to illustrate preconceived ideas as to the merits or demerits of Walt Whitman's principles, practice, or mode of expression.</p>
+
+         <p>The volume now before us is very different in outward appearance from the edition of fourteen years ago, which has so long caught the eye by its dissimilarity to its brother occupants of the bookshelf. The old cloth boards, deeply and mystically stamped with strange emblems, have given way to an outer coat of sober and decent green suitable to any modern English poem. Thick paper and bold type have yielded to the exigencies of increased matter. The very titles of some of the poems have made concessions to conventionality. "Enfants d'Adam" have transplanted themselves into plain English; "Proto-Leaf" has disappeared from the contents; and "A Boston Ballard the 78th year T.S.," which used to excite vague and uncomfortable chronological uncertainties, has become, to the great solace of the reader, "A Boston Ballard, 1854." Altogether the book might seem to a too-fanciful critic to have abandoned, at least in externals, its former air of youthful and exuberant provocation, and to demand, more soberly if not less confidently, the maturer consideration of the student of letters.</p>
+
+         <p>But it is still as ever far more easy to argue for or against the book than to convey a clear account of it to persons not acquainted with it. Although the contents are divided and subdivided by the headings which the author has prefixed, yet these headings convey but little idea of what comes under them, sometimes indeed have very little reference to it. Nor is the connection of the different divisions of the work and their interdependence more obvious. It may be easy to explain the meaning of "Children of Adam," or "Passage to India," and some others; but what shall we make of "Calamus," or of 'Leaves of Grass' itself? For the answers we must refer the reader to the book that it may give its own reply.</p>
+
+         <p>Moreover, the poet has in this edition availed himself of the incorporation of "Drumtaps" and other recently published matter, to dispose the whole contents of the volume into a new order, and to make many additions, alterations, and transpositions in individual poems. These changes are for the most part, as it appears to us, decided improvements, and the whole work posses at present a unity and a completeness which are no small advantage. There are few poets who require to be studied as a whole so much as Walt Whitman—quotations and even tolerably extensive selections will not do—and it is a great gain to be directed by the author himself as to the order in which he would have us conduct the study.</p>
+
+         <p>It is not difficult to point out the central thesis of Walt Whitman's poetical gospel. It is briefly this: the necessity of the establishment of a universal republic, or rather brotherhood of men. And to this is closely joined another, or rather a series of others, indicating the type of man of which this universal republic is to consist, or perhaps which it is to produce. The poet's language in treating the former of these two positions is not entirely uniform; sometimes he speaks as a federation of nations, sometimes as if mankind at large were to gravitate towards the United States, and to find in them the desired Utopia. But the constitution of the United States, at least that constitution as it ought to be, is always and uniformly represented as a sufficient and the only sufficient political means of attaining this Utopia, nay, as having to some extent already presented Utopia as a fact. Moreover, passing to the second point, the ideal man is imaged as the ideal Yankee, understanding that word of course as it is understood in America, not in Europe. He is to be a rather magnificent animal, almost entirely uncultured (this is not an unfair representation, although there are to be found certain vague panegyrics on art, and especially on music), possessing a perfect physique, well nourished and clothed, affectionate towards his kind, and above all things firmly resolved to admit no superior. As is the ideal man, so is the ideal woman to be. Now it may be admitted frankly and at once, that this is neither the creed nor the man likely to prove attractive to many persons east of the Atlantic. If it be said that the creed is a vague creed, and the man a detestable man, there will be very little answer attempted. Many wonderful things will doubtless happen "when," as the poet says, "through these States walk a hundred million of superb persons;" but it must be allowed that there is small prospect of any such procession. One is inclined for very many sound reasons, and after discarding all prejudices, to opine that whatever salvation may await the world may possibly come from quarters other than from America. Fortunately, however, admiration for a creed is easily separable from admiration for the utterances and expression of that creed, and Walt Whitman as a poet is not difficult to disengage from Walt Whitman as an evangelist and politician. The keyword of all his ideas and of all his writings is universality. His Utopia is one which shall be open to everybody; his ideal of man and woman one which shall be attainable by everybody; his favourite scenes, ideas, subjects, those which everybody, at least to some extent, can enjoy and appreciate. He cares not that by this limitation he may exclude thoughts and feelings, at any rate phases of thoughts and feeling, infinitely choicer and higher than any which he admits. To express this striving after universality he has recourse to methods both unusual and (to most readers) unwelcome. The extraordinary jumbles and strings of names, places, employments, which deface his pages, and which have encouraged the profane to liken them to auctioneers' catalogues or indexes of encyclopaedias, have no other object than to express this universal sympathy, reaching to the highest and penetrating to the lowest forms of life. The exclusion of culture, philosophy, manners, is owing also to this desire to admit nothing but what is open to every human being of ordinary faculty and opportunities. Moreover it is to this that we may fairly trace the prominence in Whitman's writings of the sexual passion, a prominence which has given rise, and probably will yet give rise, to much unphilosophical hubbub. This passion, as the poet has no doubt observed, is almost the only one which is peculiar to man as man, the presence of which denotes virility if not humanity, the absence of which is a sign of abnormal temperament. Hence he elevates it to almost the principal place, and treats of it in a manner somewhat shocking to those who are accustomed to speak of such subjects (we owe the word to Southey) enfarinhadamente. As a matter of fact, however, the treatment, though outspoken, is eminently "clean," to use the poet's own word; there is not a vestige of prurient thought, not a syllable of prurient language. Yet it would be a great mistake to suppose that sexual passion occupies the chief place in Whitman's estimation. There is according to him something above it, something which in any ecstasies he fails not to realize, something which seems more intimately connected in his mind with the welfare of mankind, and the promotion of his ideal republic. This is what he calls "robust American love." He is never tired of repeating "I am the poet of comrades"—Socrates himself seems renascent in his apostle of friendship. In the ears of a world (at least on this side the Atlantic) incredulous of such things, he reiterates the expressions of Plato to Aster, of Socrates respecting Charmides, and in this respect fully justifies (making allowance for altered manners) Mr. Symonds' assertion of his essentially Greek character, an assertion which most students of Whitman will heartily endorse. But we must again repeat that it is not so much in the matter as in the manner of his Evangel that the strength of Whitman lies. It is impossible not to notice his exquisite descriptive faculty, and his singular felicity in its use. Forced as he is, both by natural inclination and in the carrying out of his main idea, to take note of the "actual earth's equalities," he has literally filled his pages with the song of birds, the hushed murmur of waves, the quiet and multiform life of the forest and meadow. And in these descriptions he succeeds in doing what is most difficult, in giving us the actual sense or circumstance as it impressed him and not merely the impression itself. This is what none but the greatest poets have ever save by accident done, and what Whitman does constantly and with a sure hand. "You shall," he says at the beginning of his book:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l rend="indented1">"You shall no longer take things at second or third</l>
+                        <l>hand, nor look through the eyes of the dead, nor feed</l>
+                        <l>on the spectres in books<choice><sic>:</sic><corr>;</corr></choice>
+                        </l>
+                        <l rend="indented1">"You shall not look through my eyes either, nor</l>
+                        <l>take things from me:</l>
+                        <l rend="indented1">"You shall listen to all sides<choice><sic></sic><corr>,</corr></choice> and filter them from</l>
+                        <l>yourself."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>But affluent as his descriptions are, there are two subjects on which he is especially eloquent, which seem indeed to intoxicate and inspire him the moment he approaches them. These are Death and the sea. In the latter respect he is not, indeed, peculiar, but accords with all poets of all times, and especially of this time. But in his connection of the two ideas (for the one always seems to suggest the other to him), and in his special devotion to Death, he is more singular. The combined influence of the two has produced what is certainly the most perfect specimen of his work, the "Word out of the Sea" (in this edition, it has, we are sorry to see, lost its special title and become the first merely of "Sea-Shore Memories") Unfortunately it is indivisible, and its length precludes the possibility of quotation. But there is another poem almost equally beautiful, which forms part of "President Lincoln's Burial Hymn," and for this space may perhaps be found:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!-- first eight stanzas of Death Carol, When Lilacs Last in the Dooryard Bloom'd -->
+                     </relations>
+
+                     <head type="main-authorial">"DEATH-CAROL.</head>
+
+                     <lg type="linegroup">
+                        <l>Come, lovely and soothing Death,</l>
+                        <l>Undulate round the world serenely arriving, arriving,</l>
+                        <l>In the day, in the night, to all, to each,</l>
+                        <l>Sooner or later, delicate Death.</l>
+                     </lg>
+
+                     <lg type="linegroup">       
+                        <l>Prais'd be the fathomless universe,</l>
+                        <l>For life and joy, and for objects and knowledge <lb/>curious;</l>
+                        <l>And for love, sweet love. But praise! praise! praise!</l>
+                        <l>For the sure-enwinding arms of cool-enfolding Death.</l>
+                     </lg>
+
+                     <lg type="linegroup">       
+                        <l>Dark Mother, always gliding near, with soft feet,</l>
+                        <l>Have none chanted for thee a chant of fullest <choice><orig>wel-<lb/>come</orig><reg>welcome</reg></choice>?</l>
+                        <l>Then I chant it for thee—I glorify thee above all:</l>
+                        <l>I bring thee a song that when thou must indeed come, <lb/>come unfalteringly.</l>
+                     </lg>
+
+                     <lg type="linegroup">       
+                        <l>Approach, strong Deliveress!</l>
+                        <l>When it is so—when thou hast taken them, I joyously <lb/>sing the dead,</l>
+                        <l>Lost in the loving, floating ocean of thee,</l>
+                        <l>Laved in the flood of thy bliss, O Death.</l>
+                     </lg>
+
+                     <lg type="linegroup">       
+                        <l>From me to thee glad serenades,</l>
+                        <l>Dances for thee I propose, saluting thee—adornments <lb/>and feastings for thee;</l>
+                        <l>And the sights of the open landscape and the high <lb/>spread sky are fitting,</l>
+                        <l>And life and the fields and the huge and thoughtful <lb/>night.</l>
+                     </lg>
+
+                     <lg type="linegroup">       
+                        <l>The night, in silence under many a star;</l>
+                        <l>The ocean-shore, and the husky whispering wave <lb/>whose voice I know;</l>
+                        <l>And the soul turning to thee, O vast and well-veiled <lb/>death,</l>
+                        <l>And the body gratefully nestling closer to thee.</l>
+                     </lg>
+       
+                     <lg type="linegroup">
+                        <l>Over the tree-tops I float thee a song!</l>
+                        <l>Over the rising and sinking waves—over the myriad <lb/>fields and the prairies wide;</l>
+                        <l>Over the dense-packed cities all and the teeming <lb/>wharves and ways,</l>
+                        <l>I float this carol with joy, with joy to thee, O Death!"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>It is easy enough to connect this cultus of Death and the pantheism which necessarily accompanies it, with the main articles of Whitman's creed. Death is viewed as the one event of great solemnity and importance which is common to all—the one inevitable yet not commonplace incident in every life, however commonplace; and further, it must not be overlooked that Death is pre-eminently valuable in such a system as this, in the capacity of reconciler, ready to sweep away all rubbish. The cheeriest of optimists with the lowest of standards cannot pretend to assert or expect that everyone will live the ideal life—but Death pays all scores and obliterates all mistakes.</p>
+
+         <p>There remains, however, still to be considered a point not least in importance—the vehicle which Whitman has chosen for the conveyance of these thoughts. He employs, as most people who know anything at all about him, neither rhyme nor even regular metre; the exceptions to this rule occurring among his more recent poems are few and insignificant. A page of his work has little or no look of poetry about it; it is not, indeed, printed continuously, but it consists of versicles, often less in extent than a line, sometimes extending to many lines. Only after reading these for some time does it become apparent that, though rhyme and metre have been abandoned, rhythm has not; and moreover, that certain figures and tricks of language occur which are generally considered more appropriate to poetry than to prose. The total effect produced is dissimilar to any of the previous attempts which have been made to evade the shackles of the metre and rhyme, while retaining the other advantages of poetical form and diction. Whitman's style differs very much from that of such efforts as Baudelaire's 'Petits Poèms en Prose,'<ref target="n1" xml:id="r1" n="1"/> for from these all rhythm, diction, and so forth not strictly appropriate to prose is conscientiously excluded. It is more like the polymetres of the poet's namesake Walt in Richter's 'Flegeljahre,'<ref target="n2" xml:id="r2" n="2"/> except that these latter being limited to the expression of a single thought are not divided into separate limbs or verses. Perhaps the likeness which is presented to the mind most strongly is that which exists between our author and the verse divisions of the English Bible, especially in the poetical books, and it is not unlikely that the latter did actually exercise some influence in moulding the poet's work. It is hard to give a fair specimen of it in the way of quotation—that already given is not representative, being too avowedly lyrical—and the rhythm is as a rule too varying, complex, and subtle to be readily seized except from a comparison of many instances. Perhaps, however, the following stanza from "Children of Adam" may convey some idea of it:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00052" cert="absolute"/>
+                        <!-- I Sing the Body Electric, 4 -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I have <choice><sic>perceived</sic><corr>perceiv'd</corr></choice> that to be with those I like is <lb/>enough<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>To stop in company with the rest at evening is <lb/>enough<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>To be surrounded by beautiful, curious, breathing, <lb/>laughing flesh is enough;</l>
+                        <l>To pass among them, or touch any one, or rest my <lb/>arm ever so lightly round his or her neck for a <lb/>moment—what is this<choice><sic></sic><corr>,</corr></choice> then?</l>
+                        <l>I do not ask any more delight—I swim in it<choice><sic></sic><corr>,</corr></choice> as in <lb/>a sea.</l>
+                        <!-- Stanza break here in original doesn't appear to be acknowledged by reviewer -->
+                        <l>There is something in staying close to men and women, <lb/>and looking on them, and in the contact and <lb/>
+                           <choice><sic>odour</sic><corr>odor</corr></choice> of them, that pleases the soul well;</l>
+                        <l>All things please the soul—but these please the <lb/>soul well."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>It will be observed that the rhythm is many-centered, that it takes fresh departures as it goes on. The poet uses freely alliteration, chiasmus, antithesis, and especially the retention of the same word or words to begin and end successive lines, but none of these so freely as to render it characteristic. The result, though perhaps uncouth at first sight and hearing, is a medium of expression by no means wanting in excellence, and certainly well-adapted for Whitman's purposes. Strange as it appears to a reader familiarised with the exquisite versification of modern England or France, it is by no means in disagreeable contrast therewith, being at least in its earlier forms (for in some of the later poems reminiscences of the English heroic, of Longfellow's hexameters, and even of Poe's stanzas occur) singularly fresh, light, and vigorous. Nor should the language pass unmentioned—for though of course somewhat Transatlantic in construction and vocabulary, it is not offensively American. The chief blemish in the eyes of a sensitive critic is an ugly trick of using foreign words such as "Libertad" for liberty, "habitan of the Alleghanies," "to become élève of mine," "with references to ensemble," and so forth; but even this does not occur very frequently. Few books abound more in "jewels five words long;" it is hardly possible to open a page without lighting upon some happy and memorable conceit, expression, thought, such as this of the grass:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l rend="indented4">
+                           <choice><sic>"It</sic><corr>it</corr></choice> is the handkerchief of the Lord;</l>
+                        <l rend="indented1">A scented gift and <choice><sic>remembrance</sic><corr>remembrancer</corr></choice> designedly dropt,</l>
+                        <l>Bearing the owner's name someway in the corners, <lb/>that we may see and remark, and say<choice><sic></sic><corr>,</corr></choice> Whose?"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Or this of children's love to a father:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00052" cert="absolute"/>
+                        <!-- from I Sing the Body Electric, 3 -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"They did not love him by allowance<choice><sic>,</sic><corr>—</corr></choice>they loved him <lb/>with personal love<choice><sic>."</sic><corr>!</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Or again of the grass:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"And now it seems to me the beautiful uncut hair of <lb/>graves."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Such in matter and in manner are Walt Whitman's 'Leaves of Grass,' and there only remains to be added one recommendation to their study. The book, aggressive and vain-glorious as it seems, is in reality remarkably free from vituperativeness of tone. Hardly to some "eunuchs, consumptive and genteel persons" is strong language used, and after all it rests with every reader to class himself with these. Amid all the ecstatic praise of America there is no abuse of England; amid all the excitement of the poems on the War there is little personal abuse of the Secessionists. No Englishman, no one indeed, whether American or Englishman, need be deterred from reading this book, a book the most unquestionable in originality, if not the most unquestioned in excellence, that the United States have yet sent us.</p>
+
+         <closer>
+            <signed rend="right">G<hi rend="smallcaps">EORGE</hi> S<hi rend="smallcaps">AINTSBURY</hi>.</signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+                  <hi rend="italic">Petits Poèms en Prose</hi> is a collection of fifty-one prose poems by Charles Pierre Baudelaire (1821-1867).  The book was published posthumously in 1869 and gained renown as a significant text of urban writing.
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+Jean Paul (pseudonym of Johann Paul Friedrich Richter) (1763-1825) was a German novelist and humorist, whose works were popular in the early nineteenth century.  <hi rend="italic">Flegeljahre</hi> (<hi rend="italic">Adolescence</hi>), his unfinished novel, was published in 1804-5.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

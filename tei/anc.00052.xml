@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00052">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="drum">Drum Taps.—Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Drum-Taps</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00052</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Drum Taps.—Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Watson's Weekly Art Journal</title>
+                  <imprint>
+                     <date when="1865-11-04">4 November 1865</date>
+                     <biblScope type="pages">34-5</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-29">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">DRUM TAPS.—WALT WHITMAN. <!-- [Review] --></head>
+
+         <p>The appearance of Walt Whitman's new book of poems, conjointly with Ward's "Indian Hunter,"<ref target="n1" xml:id="r1" n="1"/> is not without significance. Both Whitman and Ward are representative men. In them, for the first time, the full strength of our American life receives expression—receives assertion. We have had in our Poetry and Art idealizations of loftier aspiration—imaginations of finer conceit—but they were not grounded in our soil; even though American in their reference, they were foreign to our New World; they belonged rather to some modern school of <hi rend="italic">thought</hi>, than to our modern and American <hi rend="italic">life</hi>—they were not the outgrowth of that new movement in civilization which America inaugurates.</p> 
+
+         <p>In all human organizations, whether those of personal or of national life, there is the moment of consciousness as self, as individual—a moment full of original force.</p> 
+
+         <p>This "I Am" of youth, may include more or less of meaning according to the status of organic development. The youthful self-assertion of one age implies more than the assertion of an anterior epoch. Life is an ever on- flowing tide; each successive wave strands the human consciousness upon a higher look-out. The earlier ages expressed their consciousness of life, through the imagination, by mythical rites and symbols. America now first in the world's history experiences this life as superior to all forms—as ever forming -itself never bounded by form—as the common life, common as the "leaves of grass"—as the great fraternizing element—as the all-sufficient—the vast, indomitable, sole Fact. In literature—Whitman, in art—Ward, are they who come forward to express this New-World self-assertion of ours, in all its boundless and fierce strength. Both fling aside the buskin and come down to the common ground; they state that which is, and thereby give the fact—the thing -its truest and highest idealization; for the fact—the thing—thus simply and absolutely given, is at once spiritual and material—is ideal.</p> 
+
+         <p>As an artist—that is, as one who gives a complete and harmonious externalization to his feeling—Mr. Whitman is much inferior to Mr. Ward. Still the poet may be said to be more truly artistic than if he were more ostensibly so. He sets out to assert himself—the conscious American life as superior to restrictions of time and place, as all-containing, all-sanctifying. His inartistic looseness of style and expression is quite consistent with this mood. The poet, in consequence, presents himself to the mind as a more congruous and artistic whole than if he had modeled his verse in accordance with all the unities of Art.</p> 
+
+         <p>In Whitman's last collection, we observe a much greater regard for beauty of form than the <hi rend="italic">Leaves of Grass</hi> displayed. The latter work was full of the ungoverned vigor of life-consciousness; the present exhibits a tendency to define this vigor by lines of beauty. We accordingly discover greater regularity of rhythm, and more unity of conception in the grouping of details.</p> 
+
+         <p>But our present object is to introduce an extract from Drum Taps, which may, we hope, incite the reader to a serious study of the works of its author—the most remarkable outgrowths of our New-World life. As the earlier poems were not a bouquet of garden flowers, but leaves of grass plucked by the handful from the bosom of nature, with here and there a wild blossom, fresh, juicy, wet with the dews of morning, so the recent ones—referring to that upheaving of the Great Life in human action which has marked our times—are not the elaborate martial strains of the parade-ground, but the vigorous "drums taps" of the column in march.</p> 
+
+         <p></p>
+
+         <!-- from Pioneers! O Pioneers! -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00124" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>PIONEERS!</l>
+                        <l>O PIONEERS!</l>
+                        <l></l>
+                        <l rend="indented4">1.</l>
+                        <l rend="indented2">Come, my tan-faced children,</l>
+                        <l>Follow well in order, get your weapons ready;</l>
+                        <l>Have you your pistols? have you your sharp-edged <lb/>axes?</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">2.</l>
+                        <l rend="indented2">For we cannot tarry here,</l>
+                        <l>We must march my darlings, we must bear the <lb/>brunt of danger,</l>
+                        <l>We, the youthful sinewy races, all the rest on us <lb/>depend,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">3.</l>
+                        <l rend="indented2">O you youths, western youths,</l>
+                        <l>So impatient, full of action, full of manly pride and <lb/>friendship,</l>
+                        <l>Plain I see you, western youths, see you tramping <lb/>with the foremost,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">4.</l>
+                        <l rend="indented2">Have the elder races halted?</l>
+                        <l>Do they droop and end their lesson, wearied over <lb/>there beyond the seas?</l>
+                        <l>We take up the task eternal, and the burden and <lb/>the lesson,</l>
+                        <l rend="indented4">Pioneers? O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">5.</l>
+                        <l rend="indented2">All the past we leave behind;</l>
+                        <l>We debouch upon a newer, mightier world, varied <lb/>world;</l>
+                        <l>Fresh and strong the world we seize, world of <choice><orig>la-<lb/>bor</orig><reg>labor</reg></choice> and the march,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">6.</l>
+                        <l rend="indented2">We detachments steady throwing,</l>
+                        <l>Down the edges, through the passes, up the <choice><orig>moun-<lb/>tains</orig><reg>mountains</reg></choice> steep,</l>
+                        <l>Conquering, holding, daring, venturing, as we go, <lb/>the unknown ways,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">7.</l>
+                        <l rend="indented2">We primeval forests felling,</l>
+                        <l>We the rivers stemming, vexing we, and piercing <lb/>deep the mines within;</l>
+                        <l>We the surface broad surveying, and the virgin <lb/>soil upheaving,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">8.</l>
+                        <l rend="indented2">Colorado men are we,</l>
+                        <l>From the peaks gigantic, from the great sierras <lb/>and the high plateaus,</l>
+                        <l>From the mine and from the gulley, from the <choice><orig>hunt-<lb/>ing</orig><reg>hunting</reg></choice> trail we come,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">9.</l>
+                        <l rend="indented2">From Nebraska, from Arkansas,</l>
+                        <l>Central inland race are we, from Missouri, with the <lb/>continental blood intervein'd;</l>
+                        <l>All the hands of comrades clasping, all the <choice><orig>South-<lb/>ern</orig><reg>Southern</reg></choice>, all the Northern,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">10.</l>
+                        <l rend="indented2">O resistless, restless race!</l>
+                        <l>O beloved race in all! O my breast aches with <choice><orig>ten-<lb/>der</orig><reg>tender</reg></choice> love for all!</l>
+                        <l>O I mourn and yet exalt—I am rapt with love for <lb/>all,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">11.</l>
+                        <l rend="indented2">Raise the mighty mother mistress,</l>
+                        <l>Waving high the delicate mistress, over all the <lb/>starry mistress, (bend your heads all,)</l>
+                        <l>Raise the fang'd and warlike mistress, stern, <choice><orig>impas-<lb/>sive</orig><reg>impassive</reg></choice>, weaponed mistress,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">12.</l>
+                        <l rend="indented2">See, my children, resolute children,</l>
+                        <l>By those swarms upon our rear, we must never <lb/>yield or falter,</l>
+                        <l>Ages back in ghostly millions, frowning there <choice><orig>be-<lb/>hind</orig><reg>behind</reg></choice> us urging.</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">13.</l>
+                        <l rend="indented2">On and on, the compact ranks,</l>
+                        <l>With accessions ever waiting, with the places of <lb/>the dead quickly fill'd,</l>
+                        <l>Through the battle, through defeat, moving yet <lb/>and never stopping,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">14.</l>
+                        <l rend="indented2">O to die advancing on!</l>
+                        <l>Are there some of us to droop and die? has the <lb/>hour come?</l>
+                        <l>Then upon the march we fittest die, soon and sure <lb/>the gap is fill'd,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">15.</l>
+                        <l rend="indented2">All the pulses of the world,</l>
+                        <l>Falling in, they beat for us, with the western <choice><orig>move-<lb/>ment</orig><reg>movement</reg></choice> beat;</l>
+                        <l>Holding single or together, steady moving, to the <lb/>front, all for us,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">16.</l>
+                        <l rend="indented2">Life's involv'd and varied pageants,</l>
+                        <l>All the forms and shows, all the workmen at their <lb/>work,</l>
+                        <l>All the seamen and the landsmen, all the masters <lb/>with their slaves,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">17.</l>
+                        <l rend="indented2">All the hapless silent lovers,</l>
+                        <l>All the prisoners in the prisons, all the righteous <lb/>and the wicked,</l>
+                        <l>All the joyous, all the sorrowing, all the living, all <lb/>the dying,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">18.</l>
+                        <l rend="indented2">I too with my soul and body,</l>
+                        <l>We, a curious trio, picking, wandering on our way,</l>
+                        <l>Through these shores, amid the shadows, with the <lb/>apparitions pressing,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">19.</l>
+                        <l rend="indented2">Lo! the darting bowling orb!</l>
+                        <l>Lo! the brother orbs around! all the clustering <lb/>suns and planets,</l>
+                        <l>All the dazzling days, all the mystic nights with <lb/>dreams,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">20.</l>
+                        <l rend="indented2">These are of us, they are with us,</l>
+                        <l>All for primal needed work, while the followers <lb/>there in embryo wait behind,</l>
+                        <l>We to-day's procession heading, we the route for <lb/>travel clearing,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">21.</l>
+                        <l rend="indented2">O you daughters of the West!</l>
+                        <l>O you young and elder daughters! O you mothers <lb/>and you wives!</l>
+                        <l>Never must you be divided, in our ranks you move <lb/>united,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">22.</l>
+                        <l rend="indented2">Minstrels latent on the prairies!</l>
+                        <l>(Shrouded bards of other lands! you may sleep— <lb/>you have done your work;)</l>
+                        <l>Soon I hear you coming warbling, soon you rise <lb/>and tramp amid us,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">23.</l>
+                        <l rend="indented2">Not for delectations sweet;</l>
+                        <l>Not the cushion and the slipper, not the peaceful <lb/>and the studious,</l>
+                        <l>Not the riches safe and palling, not for us the tame <lb/>enjoyment,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">24.</l>
+                        <l rend="indented2">Do the feasters gluttonous feast?</l>
+                        <l>Do the corpulent sleepers sleep? have they lock'd <lb/>and bolted doors?</l>
+                        <l>Still be ours the diet hard, and the blanket on the <lb/>ground,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">25.</l>
+                        <l rend="indented2">Has the night descended!</l>
+                        <l>Was the road of late so toilsome? did we stop <choice><orig>dis-<lb/>couraged</orig><reg>discouraged</reg></choice>, nodding on our way?</l>
+                        <l>Yet a passing hour I yield you, in your tracks to <lb/>pause oblivious,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l rend="indented4">26.</l>
+                        <l rend="indented2">Till with sound of trumpet,</l>
+                        <l>Far, far off the day-break call—hark! how loud <lb/>and clear I hear it wind;</l>
+                        <l>Swift! to the head of the army!—swift! spring to <lb/>your places,</l>
+                        <l rend="indented4">Pioneers! O pioneers!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>Modern verse has nowhere a nobler ring. This is our American war-song, good not only for the battle-field, but for the labor-field—the present, still more than the past; for ours are not the "<hi rend="italic">piping</hi> times of peace;" our American life is on the march, filing through the passes of outgrown formalism, outflanking the hosts of slavery, gaining the mountain heights of an all-comprehending vision.</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00124" cert="absolute"/>
+                        <!-- Pioneers! O Pioneers! -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Pioneers! O Pioneers!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>In our next number we shall give some extracts from <hi rend="italic">Drum Taps</hi>, illustrative of the author's great power of word-picture-making, in which, as might be expected from his close hold upon the fact of life, he stands preminent among the poets of the times.</p> 
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+                  <hi rend="italic">The Indian Hunter</hi> by John Quincy Adams Ward (1860) is a bronze sculpture of a young Native American hunter and his dog noted for its naturalist style and its American theme.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

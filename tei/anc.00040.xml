@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main"  corresp="lg1860">Walt Whitman's New Volume</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>C. C. P.</orig>
+                  <reg>unknown</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00040</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice>
+                        <orig>C. C. P.</orig>
+                        <reg>unknown</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Walt Whitman's New Volume</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Saturday Press</title>
+                  <imprint>
+                     <date when="1860-06-23">23 June 1860</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-22">Encoded, validated</change>
+         
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN'S NEW VOLUME. <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+
+         <p>
+            <hi rend="italic">Mssrs. Editors:</hi>—I do not ask a place for this letter in your columns because I feel that Mr. Whitman's poems need any justification; they justify themselves, and I have full faith that they will continue to do so long after the swarm of attacking critics are gone; nor do I hope to give more generous or appreciative praise to <hi rend="italic">Leaves of Grass</hi> than you have given in your notice of the work, but because, being a woman, and having read the uncharitable and bitter attacks upon the book, I wish to give my own view of it.</p>
+
+         <p>I have read it carefully, and in reading, have found no page which made me blush, and no sentiment which might not be expressed by a pure man.</p>
+
+         <p>In humanity or art I consider that coarse and licentious wherein the soul is made subservient to the body. I am not shocked when I read the stories of the Old Testament: I see behind the apparently gross form, great meanings. Yet I find in the novels and the versification of modern literature, a subtle sensuality which, under the semblance of virtue, destroys all that is pure and elevated in the mind, leaving it enslaved by sensation and petty circumstance.</p>
+
+         <p>In Mr. Whitman's poetry, I see a breadth of view which overlooks distinctions. To him, nothing is base when used for a great purpose; he makes all things subservient to thought, and thus dignifies by his touch.</p>
+
+         <p>I find there an admirable courage. While we truckle to our bodies, trying to cheat ourselves and one another into oblivion of the potent physical facts, while we feed with exciting novels and amorous poetry those passions we dare not own, we are shocked, for sooth, when a great, earnest, sorrowful man gives us the facts which, gilded over with poor art, we accept readily enough: and when, with manly courage, he owns that he has sinned with prostitutes and felons, (and who has not?) we despise him. Was it not Christ who said of old, "Let him who is without blame among you cast the first stone"?</p> 
+
+         <p>I find in these poems great ideas, large, cheerful, healthy views of life. No sentimentality, no weak or misplaced passion, but a wisdom which looks through all, behind all, beyond all, which sees the tendency of things, and rests content that all is well. I find a reverence so great and tender as not to despise the meanest thing, knowing that Nature has fashioned everything through ages of patient toil; a reverence which sees in the mud and slime of the pond the same fitness and beauty as in the dainty lily floating above it; which holds the 'woman just as great as the man;' and a mother. 'The melodious character of the earth, the finish beyond which philosophy cannot go and does not wish to go;' a reverence which recognizes in the distinction of sex, that great principle which asserts itself from the lowest to the highest forms of vegetable and animal life, a mystery equally holy with the mystery of birth, the mystery of death.</p> 
+
+         <p>I find there a generosity, giving without stint. Nothing is too precious, nothing too great, nothing too holy to be bestowed. The experiences which most men in their selfishness hug close, which they call 'too sacred for the eyes of the world,' Mr. Whitman, like a true poet, deals out largely. </p>
+
+         <p>And I find more than all these: I find a wonderful knowledge of history, of philosophy, of mythology, of language, of mechanics and geography, of the customs of all peoples at all times; a knowledge which could have been acquired only by hard and long-continued study. </p>
+
+         <p>I find the highest artistic merits. A measure at once original and melodious, into which the words form themselves so naturally that we forget it is measure, and are awake of the thought alone. It is like the sound of the wind or the sea, a fitting measure for the first distinctive American bard who speaks for our large-scaled nature, for the red men who are gone, for our vigorous young population. </p>
+
+         <p>Yet grand, wild, free, and natural, as is Mr. Whitman's poetry, it is not careless or hap-hazard, anymore than Niagara, the Mississippi, the prairies, or the great Western cities, are hap-hazard; it is the result of patient labor, of intense thought; for it is the highest art which most closely imitates nature. Here we see not only boldness of conception, but finish of detail. What is there so graphic in the English language that Mr. Whitman should be ashamed to place beside it the pictures of the 'Fall of Alamo,' 'The Mashed Fireman,' 'The Sinking Ship,' or any other of the hundreds of pictures scattered throughout the book. What so exquisitely delicate as to eclipse 'A Word out of the Sea.'</p> 
+
+         <p>There are few poems which I can read with so intense a thrill of exultation at the greatness of my destiny, at the exquisite harmony and balance of the universe, at the boundless love brooding over mankind; that fill me with so strong a faith in the working together of all things for good, so great forbearance toward error—yet nerve me so resolutely to action, as these poems of Walt Whitman.</p>
+
+         <closer>
+            <signed>C. C. P.</signed>
+         </closer>
+
+      </body>
+   </text>
+</TEI>

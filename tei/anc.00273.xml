@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00273">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poems">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00273</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Frank Leslie's Illustrated Newspaper</title>
+                  <imprint>
+                     <date when="1868-07-11">11 July 1868</date>
+                     <biblScope type="pages">259</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#vs" when="2009-04-29">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>A<hi rend="smallcaps">N</hi> expurgated edition of Walt Whitman's Poems has been published in London, and is now receiving some attention from the critics, who hardly know what to make of it. The Saturday Review can only understand the motive of the editor in giving it to the public as "an impatience of the feebleness, emptiness, and sentimentality so abundant in modern poetry. The feeling is one with which we do not quarrel; we only object to the form in which it finds expression. A plague of tinkling cymbals is not to be met by a counter-treatment of sounding brass."</p>
+
+         <p>It then goes on to say:</p>
+
+         <p>"An admirer of Walt Whitman has one immense advantage. There is no standard by which his idol can be measured, no known test which can be applied to prove his quality. There is, therefore, a wide field for that dogmatic assertion which is the favorite argument of the transcendental critic. You must not object that his poetry has no melody, music, or form. It is something above and beyond all requirements of that kind. You are not to raise the objection that in a great deal of what he writes there is no meaning at all, and in a great deal more the meaning, when got at, is utterly commonplace. Poetry like Walt Whitman's is not to be judged of by any one who is influenced by narrow considerations of meaning. You are not to take exception to his language, that it is a vile jargon of his own coining. A poet of this order naturally rises above the trammels of precedent in the matter of language. As to the absence of imagination, invention, fancy, art, and sundry other things more or less looked for in poetry, to complain of this in the present instance only shows that you are incapable of understanding the subject. This sort of argument always tells powerfully with the timid, with those people who are haunted by a nervous dread of being set down as dull and commonplace if they allow common sense to influence their judgment; and besides, it has the merit of being unanswerable, except by contradiction.</p>
+
+         <p>"When a man shows you something with all the outward and visible signs of a wheelbarrow, and tells you it is an Act of Parliament, it is very hard to know what to say to him; and it is just as hard to know what to say when you are offered something like the following, and told it is poetry, and poetry of a very high order. As the admirers of Walt Whitman always protest against his being judged of fragmentarily, we take the shortest poem we can find, instead of giving the queerest extract:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00416" cert="absolute"/>
+                        <!-- Of the visages of things, in full -->
+                     </relations>
+                     <head type="main-authorial">V<hi rend="smallcaps">ISAGES</hi>.</head>
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic>Of</sic><corr>OF</corr></choice> the visages of things—And of piercing through <lb/>to the accepted hells beneath.</l>
+                        <l>Of ugliness—To me there is just as much in it as there <lb/>is in beauty—And now the ugliness of human <lb/>beings is acceptable to me.</l>
+                        <l>Of detected persons—To me, detected persons are not, <lb/>in any respect, worse than undetected persons— <lb/>and are not in any respect worse than I am my- <lb/>self.</l>
+                        <l>Of criminals—To me, any judge, or any juror, is equally <lb/>criminal—and any reputable person is also—and <lb/>the President is also.</l>   
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>"Now it may be that this is not balderdash, though we must confess to a strong suspicion that it is; but if it is poetry, all we can say is, we must find some other word for Shakespeare. Walt Whitman himself is much more candid on this point than his advocates. He certainly declares himself to be a poet, but at the same time he describes the offspring of his muse as a 'barbaric yawp.' We have no very definite idea as to the precise nature of a yawp, but, whatever it may be, it can scarcely be poetry."</p> 
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">This review reprints material that appeared in the <hi rend="italic">Saturday Review</hi> on <ref target="http://www.whitmanarchive.org/criticism/reviews/poems/anc.00070.html">May 2, 1868</ref>. However, a new opening is provided and only parts of the <hi rend="italic">Saturday Review</hi> piece are reproduced.  The overall effect of the review is sufficiently different from the earlier printing to justify reproducing it in full.</note>
+            </p>
+         </div1>
+
+      </back>
+   </text>
+</TEI>

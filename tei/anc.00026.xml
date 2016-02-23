@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00026">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">"Leaves of Grass"</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Fanny Fern</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00026</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Fern, Fanny">Fanny Fern</author>
+                  <title level="a">Leaves of Grass</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Ledger</title>
+                  <imprint>
+                     <date when="1856-05-10">10 May 1856</date>
+                     <biblScope type="pages">4</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-21">Encoded, validated</change>
+         
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"LEAVES OF GRASS."<!--  [Review of Leaves of Grass (1855)] --> </head>
+
+         <p>Well baptized: fresh, hardy, and grown for the masses. Not more welcome is their natural type to the winter-bound,bed-ridden, and spring-emancipated invalid. "Leaves of Grass" thou art unspeakably delicious,after the forced, stiff, Parnassian exotics<ref target="n1" xml:id="r1" n="1"/> for which our admiration has been vainly challenged.</p>
+
+         <p>Walt Whitman, the effeminate world needed thee. The timidest soul whose wings ever drooped with discouragement, could not choose but rise on thy strong pinions.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Undrape—you are not guilty to me, nor stale nor <lb/>discarded;</l>
+                     <l>I see through the broadcloth and gingham whether <lb/>or no."</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"O despairer, here is my neck,</l>
+                     <l>You shall <hi rend="italic">not</hi> go down! Hang your whole weight <lb/>upon me."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Walt Whitman, the world needed a "Native American" of thorough, out and out breed—enamored of <hi rend="italic">women</hi> not <hi rend="italic">ladies, men</hi> not <hi rend="italic">gentlemen;</hi> something beside a mere Catholic-hating Know-Nothing; it needed a man who dared speak out his strong, honest thoughts, in the face of pusillanimous, toadeying, republican aristocracy; dictionary-men, hypocrites, cliques and creeds; it needed a large-hearted, untainted,self-reliant, fearless son of the Stars and Stripes, who disdains to sell his birthright for a mess of pottage; who does</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Not call one greater or one smaller,</l>
+                     <l>That which fills its period and place being equal to <lb/>any;"</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>who will </p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Accept nothing which all cannot have their coun- <lb/>terpart of on the same terms."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Fresh "Leaves of Grass!" not submitted by the self-reliant author to the fingering of any publisher's critic, to be arranged, rearranged and disarranged to his circumscribed liking, till they hung limp, tame, spiritless, and scentless. No. It were a spectacle worth seeing, this glorious Native American, who, when the daily labor of chisel and plane was over, him-self, with toil-hardened fingers, handled the types to print the pages which wise and good men have since delighted to endorse and to honor. Small critics, whose contracted vision could see no beauty, strength, or grace, in these "Leaves," have long ago repented that they so hastily wrote themselves down shallow by such a premature confession. Where an Emerson, and a Howitt have commended, my woman's voice of praise may not avail; but happiness was born a twin, and so I would fain share with others the unmingled delight which these "Leaves" have given me.</p>
+
+         <p>I say unmingled; I am not unaware that the charge of coarseness and sensuality has been affixed to them. My moral constitution may be hopelessly tainted or—too sound to be tainted, as the critic wills, but I confess that I extract no poison from these <hi rend="italic">Leaves</hi>—to me they have brought only healing. Let him who can do so, shroud the eyes of the nursing babe lest it should see its mother's breast. Let him look carefully between the gilded covers of books, backed by high-sounding names, and endorsed by parson and priest, lying unrebuked upon his own family table; where the asp of sensuality lies coiled amid rhetorical flowers. Let him examine well the paper dropped weekly at his door, in which virtue and religion are rendered disgusting, save when they walk in satin slippers, or, clothed in purple and fine linen, kneel on a damask <hi rend="italic">"prie-dieu."</hi>
+         </p>
+
+         <p>Sensual!—No—the moral assassin looks you not boldly in the eye by broad daylight; but Borgia-like<ref target="n2" xml:id="r2" n="2"/> takes you treacherously by the hand, while from the glittering ring on his finger he distils through your veins the subtle and deadly poison.</p>
+
+         <p>Sensual? The artist who would inflame, paints you not nude Nature, but stealing Virtue's veil, with artful artlessness now conceals, now exposes, the ripe and swelling proportions.</p>
+
+         <p>Sensual? Let him who would affix this stigma upon <hi rend="italic">Leaves of Grass,</hi> write upon his heart, in letters of fire, these noble words of its author:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"In woman I see the bearer of the great fruit, which <lb/>is immortality **** the good thereof is not <lb/>tasted by <hi rend="italic">roues,</hi> and never can be.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>Who degrades or defiles the living human body is <lb/>cursed,</l>
+                     <l>Who degrades or defiles the body of the dead is not <lb/>more cursed."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Were I an artist I would like no more suggestive subjects for my easel than Walt Whitman's pen has furnished.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"The little one sleeps in its cradle,</l>
+                     <l>I lift the gauze and look a long time, and silently <lb/>brush away flies with my hand.</l>
+                     <l>The farmer stops by the bars of a Sunday and looks <lb/>at the oats and rye.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>Earth of the slumbering and liquid trees!</l>
+                     <l>Earth of departed Sunset,</l>
+                     <l>Earth of the mountain's misty topt!</l>
+                     <l>Earth of the vitreous pour of the full moon just <choice><orig>tin-<lb/>ged</orig><reg>tinged</reg></choice> with blue!</l>
+                     <l>Earth of shine and dark mottling the tide of the <lb/>river!,</l>
+                     <l>Earth of the limpid grey of clouds brighter and <lb/>clearer for my sake!</l>
+                     <l>Far swooping elbowed earth! Rich apple-blossomed earth! <lb/>Smile, for your lover comes!"</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>I quote at random, the following passages which appeal to me:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"A morning glory at my window, satisfies me more <lb/>than the metaphysics of books.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>Logic and sermons never convince.</l>
+                     <l>The damp of the night drives deeper into my soul."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Speaking of animals, he says:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"I stand and look at them sometimes half the day <lb/>long.</l>
+                     <l>
+                        <hi rend="italic">They</hi> do not make me sick, discussing their duty to <lb/>God.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>—Whoever walks a furlong without sympathy, walks <lb/>to his own funeral dressed in his shroud.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>I hate him that oppresses me,</l>
+                     <l>I will either destroy him, or he shall release me.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>I find letters from God dropped in the street, and <lb/>every one is signed by God's name,</l>
+                     <l>And I leave them where they are, for I know that <lb/>others will punctually come forever and ever.</l>
+                  </lg><lg type="linegroup"><l>*****</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>———Under Niagara, <hi rend="italic">the cataract falling like a veil</hi> 
+                        <lb/>
+                        <hi rend="italic">over my countenance</hi>."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Of the grass he says:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"It seems to me <hi rend="italic">the beautiful uncut hair of graves</hi>."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>I close the extracts from these "Leaves," which it were easy to multiply,for one is more puzzled what to leave unculled, than what to gather, with the following sentiments; for which, and for all the good things included between the covers of his book Mr. Whitman will please accept the cordial grasp of a woman's hand: </p>
+
+         <q who="Fanny Fern" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <l>"The wife—and she is not one jot less than the <choice><orig>hus-<lb/>band</orig><reg>husband</reg></choice>,</l>
+                     <l>The daughter—and she is just as good as the son,</l>
+                     <l>The mother—and she is every bit as much as the <lb/>father."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <closer rend="right">
+            <signed>F<hi rend="smallcaps">ANNY</hi> F<hi rend="smallcaps">ERN</hi>.</signed>
+         </closer>
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+"Forced, stiff, Parnassian exotics" may refer specifically to a group of nineteenth-century French poets who stressed restraint, objectivity, technical perfection, and precise description in response to what they regarded as the more lax approach of Romantic poetry. However, Fern may refer more generally to any rigid, overly refined, and traditional poet of her time.
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+Borgia-like refers to the Spanish royal family noted for their corrupt involvement in ecclesiastical and political affairs in the 1400s and 1500s.  
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

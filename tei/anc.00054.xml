@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="drum">Mr. Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Drum-Taps</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Henry James</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00054</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="James, Henry">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Henry James</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Mr. Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Nation</title>
+                  <imprint>
+                     <date when="1865-11-16">16 November 1865</date>
+                     <biblScope type="volume">1</biblScope>
+                     <biblScope type="pages">625-6</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-29">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">MR. WALT WHITMAN.<hi rend="superscript"><ref>*</ref></hi> 
+            <!-- [Review of Drum-Taps] -->
+         </head>
+
+         <p>I<hi rend="smallcaps">T</hi> has been a melancholy task to read this book; and it is a still more melancholy one to write about it. Perhaps since the day of Mr. Tupper's "Philosophy"<ref target="n2" xml:id="r2" n="1"/> there has been no more difficult reading of the poetic sort. It exhibits the effort of an essentially prosaic mind to lift itself, by a prolonged muscular strain, into poetry. Like hundreds of other good patriots, during the last four years, Mr. Walt Whitman has imagined that a certain amount of violent sympathy with the great deeds and sufferings of our soldiers, and of admiration for our national energy, together with a ready command of picturesque language, are sufficient inspiration for a   poet. If this were the case, we had been a nation of poets. The constant  developments of the war moved us continually to strong feeling and to strong expression of it. But in those cases in which these expressions were written out and printed with all due regard to prosody, they failed to make poetry, as any one may see by consulting now in cold blood the back volumes of the "Rebellion Record."<ref target="n3" xml:id="r3" n="2"/> 
+            <hi rend="italic">Of course</hi> the city of Manhattan, as Mr. Whitman delights to call it, when regiments poured through it in the first months of the war, and its own sole god, to borrow the words of a real poet, ceased for a while to be the millionaire, was a noble spectacle, and a poetical statement to this effect is possible. <hi rend="italic">Of course</hi> the tumult of a battle is grand, the results of a battle tragic, and the untimely deaths of young men a theme for elegies. But he is not a poet who merely reiterates these plain facts <hi rend="italic">ore rotundo</hi>. He only sings them worthily who views them from a height. Every tragic event collects about it a number of persons who delight to dwell upon its superficial points—of minds which are bullied by the <hi rend="italic">accidents</hi> of the affair. The temper of such minds seems to us to be the reverse of the poetic temper; for the poet, although he incidentally masters, grasps, and uses the superficial traits of his theme, is really a poet only in so far as he extracts its latent meaning and holds it up to common eyes. And yet from such minds most of our war-verses have come, and Mr. Whitman's utterances, much as the assertion may surprise his friends, are in this respect no exception to general fashion. They are an exception, however, in that they openly pretend to be something better; and this it is that makes them melancholy reading. Mr. Whitman is very fond of blowing his own trumpet, and he has made very explicit claims for his book. "Shut not your doors," he exclaims at the outset—</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00044" cert="absolute"/>
+                        <!-- Shut not Your Doors -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Shut not your doors to me, proud  libraries,</l> 
+                        <l>For that which was lacking among you all, yet needed most, I bring;</l> 
+                        <l>A book I have made for your dear sake, O soldiers,</l> 
+                        <l>And for you, O soul of man, and you, love of comrades;</l> 
+                        <l>The words of my book nothing, the life of it everything;</l> 
+                        <l>A book separate, not link'd with the rest, nor felt by the intellect;</l> 
+                        <l>But you will feel every word, O Libertad! arm'd Libertad!</l> 
+                        <l>It shall pass by the intellect to swim the sea, the air,</l> 
+                        <l>With joy with you, O soul of man."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>These are great pretensions, but it seems to us that the following are even greater:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00176" cert="absolute"/>
+                        <!-- From Paumanok Starting I Fly like a Bird -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"From Paumanok starting, I fly like a  bird,</l> 
+                        <l>Around and around to soar, to sing the idea of all;</l> 
+                        <l>To the north betaking myself, to sing there arctic  songs,</l> 
+                        <l>To Kanada, 'till I absorb Kanada in myself—to Michigan then,</l>
+                        <l>To Wisconsin, Iowa, Minnesota, to sing their songs (they are inimitable);</l> 
+                        <l>Then to Ohio and Indiana, to sing theirs—to Missouri and Kansas and Arkansas to <lb/>sing theirs,</l> 
+                        <l>To Tennessee and Kentucky—to the Carolinas and Georgia, to sing theirs,</l> 
+                        <l>To Texas, and so along up toward California, to roam accepted everywhere;</l>  
+                        <l>To sing first (to the tap of the war-drum, if need be)</l> 
+                        <l>The idea of all—of the western world, one and inseparable,</l> 
+                        <l>And then the song of each member of these States."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Mr. Whitman's primary purpose is to celebrate the greatness of our armies; his secondary purpose is to celebrate the greatness of the city of New York. He pursues these objects through a hundred pages of matter which remind us irresistibly of the story of the college professor who, on a venturesome youth's bringing him a theme done in blank verse, reminded him that it was not customary in writing prose to begin each line with a capital. The frequent capitals are the only marks of verse in Mr. Whitman's writing. There is, fortunately, but one attempt at rhyme. We say fortunately, for if the inequality of Mr. Whitman's lines were self-registering, as it would be in the case of an anticipated syllable at their close, the effect would be painful in the extreme. As the case stands, each line starts off by itself, in resolute independence of its companions, without a visible goal. But if Mr. Whitman does not write verse, he does not write ordinary prose. The reader has seen that liberty is "libertad." In like manner, comrade is "camerado;" Americans are "Americanos;" a pavement is a "trottoir," and Mr. Whitman himself is a "chansonnier." If there is one thing that Mr. Whitman is not, it is this, for Beranger<ref target="n4" xml:id="r4" n="3"/> was a <hi rend="italic">chansonnier</hi>. To appreciate the force of our conjunction, the reader should compare his military lyrics with Mr. Whitman's declamations. Our  author's novelty, however, is not in his words, but in the form of his writing. As we have said, it begins for all the world like verse and turns out to be arrant prose. It is more like Mr. Tupper's proverbs than anything we have met. But what if, in form, it <hi rend="italic">is</hi> prose? it may be asked. Very good poetry has come out of prose before this. To this we would reply that it must first have gone into it. Prose, in order to be good poetry, must first be good prose. As a general principle, we know of no circumstance more likely to impugn a writer's earnestness than the adoption of an anomalous style. He must have something very original to say if none of the old vehicles will carry his thoughts. Of course he <hi rend="italic">may</hi> be surprisingly original. Still, presumption is against him. If on examination the matter of his discourse proves very valuable, it justifies, or at any rate excuses, his literary innovation.</p> 
+
+         <p>But if, on the other hand, it is of a common quality, with nothing new about it but its manners, the public will judge the writer harshly. The most that can be said of Mr. Whitman's vaticinations is, that, cast in a fluent and familiar manner, the average substance of them might escape unchallenged. But we have seen that Mr. Whitman prides himself especially on the substance—the life—of his poetry. It may be rough, it may be grim, it may be clumsy—such we take to be the author's argument—but it is sincere, it is sublime, it appeals to the soul of man, it is the voice of a people. He tells us, in the lines quoted, that the words of his book are nothing. To our perception they are everything, and very little at that. A great deal of verse that is nothing but words has, during the war, been sympathetically sighed over and cut out of newspaper corners, because it has possessed a certain simple melody. But Mr. Whitman's verse, we are confident, would have failed even of this triumph, for the simple reason that no triumph, however small, is won but through the exercise of art, and that this volume is an offense against art. It is not enough to be grim and rough and careless; common sense is also necessary, for it is by common sense that we are judged. There exists in even the commonest minds, in literary matters, a certain precise instinct of conservatism, which is very shrewd in detecting wanton eccentricities. To this instinct Mr. Whitman's attitude seems monstrous. It is monstrous because it pretends to persuade the soul while it slights the intellect; because it pretends to gratify the feelings while it outrages the taste. The point is that it does this <hi rend="italic">on theory</hi>, wilfully, consciously, arrogantly. It is the little nursery game of "open your mouth and shut your eyes." Our hearts are often touched through a compromise with the artistic sense, but never in direct violation of it. Mr. Whitman sits down at the outset and counts out the intelligence. This were indeed a wise precaution on his part if the intelligence were only submissive! But when she is deliberately insulted, she takes her revenge by simply standing erect and open-eyed. This is assuredly the best she can do. And if she could find a voice she would probably address Mr. Whitman as follows: "You came to woo my sister, the human soul. Instead of giving me a kick as you approach, you should either greet me courteously, or, at least, steal in unobserved. But now you have me on your hands. Your chances are poor. What the human heart desires above all is sincerity, and you do not appear to me sincere. For a lover you talk entirely too much about yourself. In one place you threaten to absorb Kanada. In another you call upon the city of New York to incarnate you, as you have incarnated it. In another you inform us that neither youth pertains to you nor 'delicatesse,' that you are awkward in the parlor, that you do not dance, and that you have neither bearing, beauty, knowledge, nor fortune. In another place, by an allusion to your 'little songs,' you seem to identify yourself with the third person of the Trinity. For a poet who claims to sing 'the idea of all,' this is tolerably egotistical. We look in vain, however, through your book for a single idea. We find nothing but flashy imitations of ideas. We find a medley of extravagances and commonplaces. We find art, measure, grace, sense sneered at on every page, and nothing positive given us in their stead. To be positive one must have something to say; to be positive requires reason, labor, and art; and art requires, above all things, a suppression of one's self, a subordination of one's self to an idea. This will never do for you, whose plan is to adapt the scheme of the universe to your own limitations. You cannot entertain and exhibit ideas; but, as we have seen, you are prepared to incarnate them. It is for this reason, doubtless, that when once you have planted yourself squarely before the public, and in view of the great service you have done to the ideal, have become, as you say, 'accepted everywhere,' you can afford to deal exclusively in words. What would be bald nonsense and dreary platitudes in any one else becomes sublimity in you. But all this is a mistake. To become adopted as a national poet, it is not enough to discard everything in particular and to accept everything in general, to amass crudity upon crudity, to discharge the undigested contents of your blotting-book into the lap of the public. You must respect the public which you address; for it has taste, if you have not. It delights in the grand, the heroic, and the masculine; but it delights to see these conceptions cast into worthy form. It is indifferent to brute sublimity. It will never do for you to thrust your hands into your pockets and cry out that, as the research of form is an intolerable bore, the shortest and most economical way for the public to embrace its idols—for the nation to realize its genius—is in your own person. This democratic, liberty-loving, American populace, this stern and war-tried people, is a great civilizer. It is devoted to refinement. If it has sustained a monstrous war, and practised human nature's best in so many ways for the last five years, it is not to put up with spurious poetry afterwards. To sing aright our battles and our glories it is not enough to have served in a hospital (however praiseworthy the task in itself), to be aggressively careless, inelegant, and ignorant, and to be constantly preoccupied with yourself. It is not enough to be rude, lugubrious, and grim. You must also be serious. You must forget yourself in your ideas. Your personal qualities—the vigor of your temperament, the manly independence of your nature, the tenderness of your heart—these facts are impertinent. You must be <hi rend="italic">possessed</hi>, and you must strive to possess your possession. If in your striving you break into divine eloquence, then you are a poet. If the idea which possesses you is the idea of your country's greatness, then you are a national poet; and not otherwise." </p>
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+         
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   "Walt Whitman's Drum-Taps." 
+                   
+                      New York.  
+                      1865.  
+                   
+               
+            </ab>
+          
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n2" target="r2" n="1">
+The English poet Martin Farquhar Tupper (1810-1889) was the author of <hi rend="italic">Proverbial Philosophy</hi>, a series of didactic moral and religious verse.  
+</note>
+               <note type="editorial" xml:id="n3" target="r3" n="2">
+G.P. Putnam's 1864 publication of <hi rend="italic">The Rebellion Record</hi> was one of several such popular "records" of the Civil War.  These records served as collections of war-related writings (including poetry and prose, but also digests of facts and events, copies of important documents, etc.), compiled into book-length volumes which were meant as a permanent record of the conflict for future generations. 
+</note> 
+               <note type="editorial" xml:id="n4" target="r4" n="3">
+Pierre-Jean de Béranger (1780-1857) was a popular and influential French poet and songwriter whose lyrics were highly critical of France's post-Napoleonic government.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

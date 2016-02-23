@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00071">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poems">Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00071</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Chambers's Journal of Popular Literature, Science, and Art</title>
+                  <imprint>
+                     <date when="1868-07-04">4 July 1868</date>
+                     <biblScope type="volume">45</biblScope>
+                     <biblScope type="pages">420-5</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-12-28">Encoded, validated</change>
+         
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN.<!--  [Review of Poems by Walt Whitman] --></head>
+
+         <p>F<hi rend="smallcaps">AINT</hi> praise may harm the prose-writer, but there is nothing which predisposes us against a poet so much as extravagant praise; if we are not very young, and have little enthusiasm to spare about anything, we especially resent it. The unreasonable laudation (now so common) makes us as unreasonably despise its object. 'As it is impossible to conceive a world without a Shakespeare, so we cannot picture it to ourselves without this new sweet singer, Jones.' Bother Jones! We that have known Keats and Shelley, and Byron, and Wordsworth and Coleridge, to be told that there has been no such poet as Jones!</p>
+ 
+         <p>Not a little ludicrous eulogy of this sort has been poured of late upon the American poet whose name stands at the head of this paper, but he is really noteworthy nevertheless. He is the first characteristic poetical writer that the United States have produced. Longfellow is but Tennyson and water; and as for the other Transatlantic bards, they have produced solitary poems of great merit, but none which might not have been written by an Englishman of genius, who had paid great attention to the
+panoramas of the Mississippi or of the Prairies which have been unfolded from time to time in Leicester Square. Whitman's very faults are national. The brag, and bluster, and self-assertion of the man are American only; the fulsome 'cracking-up' of his own nation is such as would not be ventured upon by a British bard; the frequent bathos—the use of newspaper terms and of terms which have no existence out of New York, and in which you almost hear the American nasal twang, are all characteristic. He is Yankee to the backbone; Yankee, also, it must however be added, in his outspoken independence of thought, in his audacious originality, in his perfect freedom from conventional twaddle, and in his contempt for accidental rank of all sorts. He has named half his volume <hi rend="italic">Chants Democratic</hi>, and though they are not chants, nor anything like it, they are certainly democratic. He does not write verse at all, which is fortunate, for he would certainly not be particular about his rhymes; nor does he even write blank verse; but he has invented a certain rolling changeful metre of his own, with, as his English editor<ref target="n1" xml:id="r1">∗</ref> truly remarks, 'a very powerful and majestic rhythmical sense throughout.' He sometimes furnishes long strings of detached items—very like the list of goods furnished by shops to their customers; but they are 'not devoid of a certain primitive effectiveness' by any means.</p>
+ 
+         <p>The doctrine of <hi rend="italic">nihil humanum</hi>, &amp;c. was never pushed to such extreme limits as by Walt Whitman. If a man could gain the suffrages of the human race by flattering them with the sense of their tremendous importance, this poet would be king of the world.</p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00353" cert="absolute"/>
+                        <!-- from Small the Theme of My Chant-->
+                     </relations>
+                     <lg type="linegroup">     
+                        <l>Small is the theme of the following chant, yet the <lb/>greatest—namely, ONE'S-SELF; that wondrous <lb/>thing, a simple separate person. That, for the <lb/>use of the New World, I sing.</l>
+                        <l>Man's physiology complete, from top to toe, I sing. <lb/>Not physiognomy alone, nor brain alone, is <lb/>worthy for the <choice><sic>Muse</sic><corr>MUSE</corr></choice>: I say the form complete <lb/>is worthier far. The female equally with the <lb/>male I sing.</l>
+                        <l>Nor cease at the theme of One's-self. I speak the <lb/>word of the modern, the word <choice><sic>En Masse</sic><corr>EN-MASSE</corr></choice>.</l> 
+                        <!-- reviewer italicizes "En Masse" above; not sure how to indicate this together with the sic tag -->
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+
+         <p>Such is Mr Whitman's programme. If he did not speak 'the word of the modern' quite so often, or, at least, not borrow it from the penny-a-liner, it would be better for his fame. Also, through singing 'Man's physiology complete,' he has caused Mr Rossetti to be at the trouble of preparing the present 'Bowdlerised,'<ref target="n4" xml:id="r4" n="1"/> or excised edition of his works, to suit the  squeamish tastes of the Old Country. So  please, ladies, be particular to ask for the above-mentioned edition. There is nothing in that which you may not read, or the book would not be noticed in these columns.</p>
+
+         <p>Whitman's poetry reminds us, as we have said, of no other poet, but in his prose we seem to recognise some kinship to Emerson's. Here is a fine passage from the preface to his <hi rend="italic">Leaves of Grass</hi> [the titles of his poems are unattractive, being almost always affected or unmeaning], insisting upon the importance of human act, word, thought, and the indestructibility of their results.</p>
+         <!-- 
+Followed earlier documents (8, 11, 12.xml) for marking up the following quotes from the Preface to the 1855 Leaves (since this preface is prose)--> 
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                        <!-- from the Preface to 1855 Leaves of Grass-->
+                     </relations>
+                     <p>All that a person does or thinks is of consequence. Not a move can a man or woman make that affects him or her in a day or a month, or any part of the direct lifetime, or the hour of death<choice><sic>,</sic><corr></corr></choice> but the same affects him or her onward afterward through the indirect lifetime. The indirect is always as great and real as the direct. The spirit receives from the body just as much as it gives to the body. Not one name of word or deed …<!-- reviewer here omitted "not of venereal sores or discolorations &#8230;not the privacy of the onanist -->not of the putrid veins of gluttons or <choice><sic>rum-drinkers</sic><corr>rumdrinkers</corr></choice> …not peculation, or cunning, or betrayal, or murder …no serpentine poison of those that seduce women …not the foolish yielding of women …not of the attainment of gain by discreditable means …not any nastiness of appetite …not any harshness of officers to men<choice><sic>,</sic><corr></corr></choice> or judges to prisoners<choice><sic>,</sic><corr></corr></choice> or fathers to sons<choice><sic>,</sic><corr></corr></choice> or sons to fathers<choice><sic>,</sic><corr></corr></choice> or of husbands to wives<choice><sic>,</sic><corr></corr></choice> or bosses to their boys …not of greedy looks or malignant wishes …nor any of the wiles practised by people upon themselves …ever is or ever can be stamped on the programme, but it is duly <choice><sic>realised</sic><corr>realized</corr></choice> and returned, and that returned in further performances, and they returned again. Nor can the push of charity or personal force ever be anything else than the profoundest reason, whether it bring arguments to hand or no. No specification is necessary …to add, or subtract, or divide is in vain. Little or big, learned or unlearned, white or black, legal or illegal, sick or well, from the first inspiration down the windpipe to the last expiration out of it, all that a male or female does that is vigorous<choice><sic>,</sic><corr></corr></choice> and benevolent<choice><sic>,</sic><corr></corr></choice> and clean<choice><sic>,</sic><corr></corr></choice> is so much sure profit to him or her in the unshakable order of the universe<choice><sic>,</sic><corr></corr></choice> and through the whole scope of it <choice><sic>for ever</sic><corr>forever</corr></choice>. If the savage or felon is wise<choice><sic>,</sic><corr></corr></choice> it is well …if the greatest poet or savant is wise<choice><sic>,</sic><corr></corr></choice> it is simply the same …if the President or <choice><sic>chief-justice</sic><corr>chief justice</corr></choice> is wise<choice><sic>,</sic><corr></corr></choice> it is the same …if the young mechanic or farmer is wise<choice><sic>,</sic><corr></corr></choice> it is no more or less<!-- reviewer here omitted " &#8230;If the prostitute is wise it is no more nor less" -->.  The interest will come round …all will come round. All the best actions of war and peace …all help given to relatives and strangers<choice><sic>,</sic><corr></corr></choice> and the poor<choice><sic>,</sic><corr></corr></choice> and old<choice><sic>,</sic><corr></corr></choice> and sorrowful<choice><sic>,</sic><corr></corr></choice> and young children<choice><sic>,</sic><corr></corr></choice> and widows<choice><sic>,</sic><corr></corr></choice> and the sick, and to all shunned persons …all furtherance of fugitives and of the escape of slaves …all the self-denial that stood steady and aloof on wrecks<choice><sic>,</sic><corr></corr></choice> and saw others take the seats of the boats …all offering of substance or life for the good old cause, or for a friend's sake or opinion's sake …all pains of enthusiasts scoffed at by their <choice><sic>neighbours</sic><corr>neighbors</corr></choice> …all the vast sweet love and precious suffering of mothers …all honest men baffled in strifes recorded or unrecorded …all the grandeur and good of the few ancient nations whose fragments of annals we inherit …and all the good of the hundreds of far mightier and more ancient nations unknown to us by name or date or location …all that was ever manfully begun, whether it succeeded or <choice><sic>not</sic><corr>no</corr></choice> …all that has at any time been well suggested out of the divine heart of man, or by the divinity of his mouth, or by the shaping of his great hands …and all that is well thought or done this day on any part of the surface of the globe<choice><sic>, </sic><corr> …</corr></choice>or on any of the wandering stars or fixed stars by those there as we are here …or that is henceforth to be well thought or done by you, whoever you are, or by any one—these singly and wholly inured at their time<choice><sic>,</sic><corr></corr></choice> and inure now<choice><sic>,</sic><corr></corr></choice> and will inure always<choice><sic>,</sic><corr></corr></choice> to the identities from which they sprung or shall spring.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>A fine lay-sermon, surely.</p>
+
+         <p>From common humanity our author rises to the American Citizen, with a portrait of whom he furnishes us, which will not easily be recognised by those who have only been accustomed to see English photographs of the individual in question. Other states, he says, indicate themselves by
+their deputies, but the United States always most in its common people.</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                        <!-- from the Preface to 1855 Leaves of Grass-->
+                     </relations>
+                     <p>Their manners, speech, dress, friendships—the freshness and <choice><sic>candour</sic><corr>candor</corr></choice> of their physiognomy—the picturesque looseness of their carriage<choice><sic>—</sic><corr>…</corr></choice>their deathless attachment to freedom—their aversion to anything indecorous, or soft, or mean—the practical acknowledgment of the citizens of one state by the citizens of all other states—the fierceness of their roused resentment—their curiosity and welcome of novelty—their self-esteem and wonderful sympathy—their susceptibility to a slight—the air they have of persons who never knew how it felt to stand in the presence of superiors—the fluency of their speech—their delight in music, the sure symptom of manly tenderness and native elegance of soul<choice><sic>—</sic><corr>…</corr></choice>their good temper and <choice><sic>open-handedness</sic><corr>openhandedness</corr></choice>—the terrible significance of their elections, the President's taking off his hat to them, not they to him—these<choice><sic>,</sic><corr></corr></choice> too<choice><sic>,</sic><corr></corr></choice> are unrhymed poetry. It awaits the gigantic and generous treatment worthy of it.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In the meantime, however, Walt Whitman will try his hand.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                        <!-- from Starting from Paumanok -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic>Starting</sic><corr>STARTING</corr></choice> from fish-shape Paumanok,<ref target="n2" xml:id="r2">†</ref> where I was <lb/>born,</l>
+                        <l>Well-begotten, and raised by a perfect mother;</l>
+                        <l>After roaming many lands—lover of populous <lb/>pavements;</l>
+                        <l>Dweller in Mannahatta<ref target="n3" xml:id="r3">‡</ref>, city of ships, my city— <lb/>or on southern savannas;</l>
+                        <l>Or a soldier camped, or carrying my knapsack and <lb/>gun—or a miner in California;</l>
+                        <l>Or rude in my home in Dakotah's woods, my diet <lb/>meat, my drink from the spring;</l>
+                        <l>Or withdrawn to muse and meditate in some deep <lb/>recess,</l>
+                        <l>Far from the clank of crowds, intervals passing, <lb/>rapt and happy;</l>
+                        <l>Aware of the fresh free giver, the flowing Missouri <lb/>—aware of mighty Niagara;</l>
+                        <l>Aware of the buffalo herds, grazing the plains—the <lb/>hirsute and strong-breasted bull;</l>
+                        <l>Of earths, rocks, fifth-month flowers, experienced— <lb/>stars, rain, snow, my amaze;</l>
+                        <l>Having studied the mocking-bird's tones, and the <lb/>mountain hawk's,</l>
+                        <l>And heard at dusk the unrivalled one, the hermit <lb/>thrush, from the swamp-cedars,</l>
+                        <l>Solitary, singing in the West, I strike up for a New <lb/>World.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>He even dates from the United States era; in 1856, he writes:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                        <!-- from Starting from Paumanok -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>In the Year 80 of the States,</l>
+                        <l>My tongue, every atom of my blood, formed from <lb/>this soil, this air,</l>
+                        <l>Born here of parents born here, from parents the <lb/>same, and their parents the same,</l>
+                        <l>I, now thirty-six years old, in perfect health begin,</l>
+                        <l>Hoping to cease not till death.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Creeds and schools in abeyance</l>
+                        <l>(Retiring back a while, sufficed at what they are, <lb/>but never forgotten),</l>
+                        <l>I harbour, for good or bad—I permit to speak, at <lb/>every hazard—</l>
+                        <l>Nature now without check, with original energy.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Yet he is so good as to say that former experience and instruction have not been altogether thrown away; he is grateful, only let it be distinctly understood, that he is under no slavish sense of obligation; that the gratitude must be reciprocal.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                        <!-- from Starting from Paumanok -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I conned old times;</l>
+                        <l>I sat studying at the feet of the great masters:</l>
+                        <l>Now, if eligible, O that the great masters might <lb/>return and study me!</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>If eligible? One would think he pictured himself as an investment. You must not be put off your liking, reader, by these blots. 'Whitman is a poet who bears and needs to be read as a whole, and then the volume and torrent of his power carry the disfigurements along with it and away.' He is really a fine fellow.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                        <!-- from Starting from Paumanok -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Dead poets, philosophs, priests,</l>
+                        <l>Martyrs, artists, inventors, governments long since,</l>
+                        <l>Language-shapers on other shores,</l>
+                        <l>Nations once powerful, now reduced, withdrawn, or <lb/>desolate,</l>
+                        <l>I dare not proceed till I respectfully credit what <lb/>you have left, wafted hither:</l>
+                        <l>I have perused it—own it is admirable<choice><sic></sic><corr>,</corr></choice> (moving <lb/>a while among it);</l>
+                        <l>Think nothing can ever be greater—nothing can <lb/>ever deserve more than it deserves;</l>
+                        <l>Regarding it all intently a long while, then <lb/>dismissing it,</l>
+                        <l>I stand in my place, with my own day, here.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>It is as the poet of his own day, of his own nation (as also of Humanity, though in a less degree), that Whitman is to be considered. Half a century ago, he would have been wholly unintelligible; and half a century hence, it is possible that he will be forgotten; but he will leave much seed behind him, and perhaps found a school whose pupils will be greater than their master. His messages to the Poor and Fallen (who will most certainly never receive them, by the by) are full of tenderness and fraternal love, but never of pity: why should they be pitied, who are as high as the highest, and as good as the best? Nay, even crime does not cut them off from their equality with him, or him from his sympathy with them.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                        <!-- from Starting from Paumanok -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>If you become degraded, criminal, ill, then I become <lb/>so for your sake;</l>
+                        <l>If you remember your foolish and outlawed deeds, <lb/>do you think I cannot remember my own <lb/>foolish and outlawed deeds?</l>
+                        <l>If you carouse at the table, I carouse at the opposite <lb/>side of the table;</l>
+                        <l>If you meet some stranger in the streets, and love <lb/>him or her—why, I often meet strangers in the <lb/>street, and love them.</l>
+                     </lg>
+      
+                     <lg type="linegroup">
+                        <l>Why, what have you thought of yourself?</l>
+                        <l>Is it you then that thought yourself less?</l>
+                        <l>Is it you that thought the President greater than you?</l>
+                        <l>Or the rich better off than you? or the educated <lb/>wiser than you?</l>
+                        <l>Because you are greasy or pimpled, or that you <lb/>was once drunk, or a thief,</l>
+                        <l>Or diseased, or rheumatic, or a prostitute, or are so <lb/>now;</l>
+                        <l>Or from frivolity or impotence, or that you are no <lb/>scholar, and never saw your name in print,</l>
+                        <l>Do you give in that you are any less immortal?</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Whitman does not pretend to read 'the riddle of the painful earth;' but he takes leave to admire, after his fashion, the great Cosmos;</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00119" cert="absolute"/>
+                        <!-- from A Song for Occupations -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>The sun and stars that float in the open air;</l>
+                        <l>The apple-shaped earth, and we upon it—surely the <lb/>drift of them is something grand!</l>
+                        <l>I do not know what it is, except that it is grand, <lb/>and that it is happiness,</l>
+                        <l>And that the enclosing purport of us here is not a <lb/>speculation, or bon-mot, or <choice><sic>reconnaissance</sic><corr>reconnoissance</corr></choice>,</l>
+                        <l>And that it is not something which by luck may <lb/>turn out well for us, and  without luck must be <lb/>a failure for us,</l>
+                        <l>And not something which may yet be retracted in <lb/>a certain contingency.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Yet it is Man, and not external Nature, which has his worship:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00119" cert="absolute"/>
+                        <!-- from A Song for Occupations -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>When the psalm sings instead of the singer;</l>
+                        <l>When the script preaches<choice><sic></sic><corr>,</corr></choice> instead of the preacher;</l>
+                        <l>When the pulpit descends and goes, instead of the <lb/>carver that carved the supporting desk;</l>
+                        <l>When I can touch the body of books, by night or <lb/>by day, and when they touch my body back <lb/>again;</l>
+                        <l>When a university course convinces, like a <choice><orig>slumber-<lb/>ing</orig><reg>slumbering</reg></choice> woman and child convince;</l>
+                        <l>When the minted gold in the vault smiles like the <lb/>night-watchman's daughter;</l>
+                        <l>When warrantee deeds loafe in chairs opposite, and <lb/>are my friendly companions;</l>
+                        <l>I intend to reach them my hand, and make as <lb/>much of them as I do of men and women like <lb/>you.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>The sum of all known reverence I add up in you, <lb/>whoever you are;</l>
+                        <l>The President is there in the White House for you— <lb/>it is not you who are here for him.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- Rendering the previous and following quotes as separate entities only to accommodate encoding for the reviewer's large ellipse across the column-->
+         <p> . .  . .  . .  . . .</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00119" cert="absolute"/>
+                        <!-- from A Song for Occupations -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>List close, my scholars dear!</l>
+                        <l>All doctrines, all politics and <choice><sic>civilisation</sic><corr>civilizations</corr></choice>, exsurge <lb/>from you;</l>
+                        <l>All sculpture and monuments, and anything <choice><orig>in-<lb/>scribed</orig><reg>inscribed</reg></choice> anywhere, are tallied in you;</l>
+                        <l>The gist of histories and statistics<choice><sic>,</sic><corr></corr></choice> as far back as <lb/>the records reach, is in you this hour, and <lb/>myths and tales the same;</l>
+                        <l>If you were not breathing and walking here, where <lb/>would they all be?</l>
+                        <l>The most renowned poems would be ashes, orations <lb/>and plays would be vacuums.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Whitman is practical beyond all poets before him; and, indeed, in one sense (but not in the anti-theological one), material. It delights him to contemplate the visible instruments of labour, and he sings, in minutest detail, the works which they accomplish. The axe leaps, and the solid forest, says he, gives blind utterances, and the manifold shapes arise in his mind's eye, which are hewn out of the wood.</p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!-- from Song of the Broad-Axe -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>The coffin-shape for the dead to lie within in his <lb/>shroud;</l>
+                        <l>The shape got out in posts, in the bedstead posts, <lb/>in the posts of the bride's bed;</l>
+                        <l>The shape of the little trough, the shape of the <lb/>rockers beneath, the shape of the babe's cradle;</l>
+                        <l>The shape of the floor-planks, the floor-planks for <lb/>dancers' feet;</l>
+                        <l>The shape of the planks of the family home, the <lb/>home of the friendly parents and children,</l>
+                        <l>The shape of the roof <!-- Whitman Archive has "root" here --> of the home of the happy <lb/>young man and woman, the roof over the <choice><orig>well-
+                           <lb/>
+                           married</orig><reg>well-married</reg></choice> young man and woman,</l>
+                        <l>The roof over the supper joyously cooked by the <lb/>chaste wife, and joyously eaten by the chaste <lb/>husband, content after his day's work.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>The shapes arise!</l>
+                        <l>The shape of the prisoner's place in the court-room, <lb/>and of him or her seated in the place;</l>
+                        <l>The shape of the liquor-bar leaned against by the <lb/>young rum-drinker and the old rum-drinker;</l>
+                        <l>The shape of the shamed and angry stairs, trod by <lb/>sneaking footsteps;</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- Rendering the previous quote and the following 2 quotes as separate entities only to accommodate encoding for the reviewer's large ellipse across the column-->
+         <p> . .  . .  . .  . . .</p>
+         <!-- Only one line was omitted here:  "The shape of the sly settee, and the adulterous unwholesome couple;" -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!-- from Song of the Broad-Axe -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>The shape of the gambling-board with its devilish <lb/>winnings and losings;</l>
+                        <l>The shape of the step-ladder for the convicted and <lb/>sentenced murderer, the  murderer with haggard <lb/>face and pinioned arms.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p> . .  . .  . .  . . .</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!-- from Song of the Broad-Axe -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Shapes of doors giving many exits and entrances;</l>
+                        <l>The door passing the dissevered friend, flushed and <lb/>in	haste;</l>
+                        <l>The door that admits good news and bad news;</l>
+                        <l>The door whence the son left home, confident and <lb/>puffed up;</l>
+                        <l>The door he entered again from a long and <choice><orig>scandal-
+                           <lb/>
+                           ous</orig><reg>scandalous</reg></choice> absence, diseased, broken down, without <lb/>innocence, without means.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>These picturings may be somewhat weird and fanciful, but they are expressed with power, and the conception of them is certainly original and striking. They are, however, too prolonged, and remind one of what somebody writes of the minuteness of Crabbe's verse—that he was like a broker appraising furniture.</p>
+
+         <p>Under the unsatisfactory title of 'Assimilations,' Whitman describes the influence of association upon the human mind, and, incidentally, depicts most graphically the surroundings and circumstances of the somewhat unenviable home in which he himself was reared.</p>
+ 
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref=" xxx.00226" cert="absolute"/>
+                        <!-- from There was a Child Went Forth -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>The mother at home, quietly placing the dishes on <lb/>the supper-table;</l>
+                        <l>The mother with mild words—clean her cap and <lb/>gown, a wholesome odour falling off her person <lb/>and clothes as she walks by;</l>
+                        <l>
+                           <hi rend="italic">The father, strong, self-sufficient, manly, mean,</hi>
+	                          <hi rend="italic">angered</hi>, <hi rend="italic">unjust;</hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">The blow, the quick loud word, the tight bargain, the</hi> 
+                           <lb/>
+                           <hi rend="italic">crafty lure,</hi>
+                        </l>
+                        <l>The family usages, the language, the company, the <lb/>furniture—the yearning and swelling heart,</l>
+                        <l>Affection that will not be <choice><sic>gainsayed</sic><corr>gainsaied</corr></choice>—the sense of <lb/>what is real—the thought if after all it should <lb/>prove unreal,</l>
+                        <l>The doubts of day-time and the doubts of night-time <lb/>—the curious whether and how,</l>
+                        <l>Whether that which appears so is so, or is it all <lb/>flashes and specks?</l>
+                        <l>Men and women crowding fast in the streets—if <lb/>they are not flashes and specks, what are they?</l>
+                        <l>The streets themselves, and the façades of houses, <lb/>and goods in the windows,</l>
+                        <l>Vehicles, teams, the heavy-planked <choice><sic>wharfs</sic><corr>wharves</corr></choice>—the <lb/>huge crossing at the ferries,</l>
+                        <l>The village on the highland, seen from afar at <lb/>sunset—the river between,</l>
+                        <l>Shadows, aureola and mist, light falling on roofs <lb/>and gables of white or brown, three miles off,</l>
+                        <l>The schooner near by, sleepily dropping down the <lb/>tide—the little boat slack-towed astern,</l>
+                        <l>The hurrying tumbling waves quick-broken crests <lb/>slapping,</l>
+                        <l>The strata of coloured clouds, the long bar of <lb/>maroon-tint, away solitary by itself—the spread <lb/>of purity it lies motionless in,</l>
+                        <l>The horizon's edge, the flying sea-crow, the <choice><orig>fra-<lb/>grance</orig><reg>fragrance</reg></choice> of salt-marsh and shore-mud:</l>
+                        <l>These became part of that child who went forth <lb/>every day, and who now goes, and will always <lb/>go forth every day.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In Mr Rossetti's Preface, we learn in plain prose what Walt Whitman's life has been. Walt, it appears, is merely a characteristic appellation; he was named Walter, like his father before him, who was first a farmer, afterwards a carpenter and builder (hence, doubtless, that eulogy on the axe), and an adherent to the religious principles of 'the great Quaker iconoclast, Elias Hicks,'<ref target="n5" xml:id="r5" n="2"/> of whom, if our readers have never heard, they are no worse off than we are.</p> 
+
+         <!-- Numerous quotation snippets from the preface to Poems by Walt Whitman are woven throughout the following two long paragraphs.  Did not attempt to encode them separately here. -->
+         <p>Walt—born in 1819—was schooled at Brooklyn, a suburb of New York, and began life at the age of thirteen, working as a printer, later on, as a country teacher, and then as a miscellaneous press-writer in New York.' He changed his pursuits, after the national fashion: became newspaper editor, and then builder, like his father; from 1837 to 1848, was, we fear, a rowdy, since his American biographer informs us that, during that period, 'he sounded all experiences of life, with all their passions, pleasures, and abandonments;' but in 1862, on the breaking out of the Civil War, he undertook the (gratuitous) service of nursing the wounded. He was a Northerner, of course, but the Southern sick were tended by him with equal care; 'the strongest testimony is borne to his self-devotion and kindliness;' and in a Washington hospital, when attending upon a case of gangrene, he absorbed the poison into his system, and was disabled for six months. In 1865, he obtained a clerkship in the Department of the Interior; but this was taken from him when he published his audacious <hi rend="italic">Leaves of Grass</hi>. 'He soon after, however, obtained another modest, but creditable post in the office of the Attorney-general. He still visits the hospitals on Sundays, and often on other days as well.</p>
+
+         <p>The poet is 'much above the average size, and noticeably well-proportioned…. He has light-blue eyes, a florid complexion, a fleecy beard, now gray, and a quite peculiar sort of magnetism about him in relation to those with whom he comes in contact…. He has always been carried by predilection towards the society of the common people; but is not the less for that open to refined and artistic impressions.' As 'an accessible human individual,' he is thus described by a writer in the
+<hi rend="italic">Fortnightly Review</hi>: 'Having occasion to visit New York soon after the appearance of Walt Whitman's book, I was urged by some friends to search him out…. The day was excessively hot, the thermometer at nearly 100 , and the sun blazed down as only on sandy Long Island can the sun blaze…. I saw stretched upon his back, and gazing up straight at the terrible sun, the man I was seeking. With his gray clothing, his blue-gray shirt, his iron-gray hair, his swart sunburned face and bare neck, he lay upon the brown-and-white grass—for the sun had burned away its greenness—and was so like the earth upon which he rested that he seemed almost enough a part of it for one to pass by without recognition. I approached him, gave my name and reason for searching him out, and asked him if he did not find the sun rather hot. "Not at all too hot," was his reply; and he confided to me that this was one of his favourite places and attitudes for composing "poems." He then walked with me to his home, and took me along its narrow ways to his room. A small room of about fifteen feet square, with a single window looking out on the barren solitudes of the island; a small cot; a washstand, with a little looking-glass hung over it from a tack in the wall; a pine-table, with pen, ink, and paper on it; an old line-engraving, representing Bacchus, hung on the wall—and opposite, a similar one of Silenus<ref target="n6" xml:id="r6" n="3"/>: these constituted the visible environments of Walt Whitman. There was not, apparently, a single book in the room…. The books he seemed to know and love best were the Bible, Homer, and Shakespeare: these he owned, and probably had in his pockets while we were talking. He had two studies where he read: one was the top of an omnibus; and the other a small mass of sand, then entirely uninhabited, far out in the ocean, called Coney Island…. The only distinguished contemporary he had ever met was the Rev. Henry Ward Beecher,<ref target="n7" xml:id="r7" n="4"/> of Brooklyn, who had visited him…. He confessed to having no talent for industry, and that his forte was "loafing and writing poems:" he was poor, but had discovered that he could, on the whole, live magnificently on bread and water…. On no occasion did he laugh, nor indeed did I ever see him smile.'</p>
+
+         <p>If he does not laugh, he is humorous enough in his poems, although, it may be, without being aware of it. Under the head of <hi rend="italic">Wonders</hi>—and if he has the bump of Wonder, I am afraid he has not that of Veneration—he thus discourses:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00226" cert="absolute"/>
+                        <!-- from There was a Child Went Forth-->
+                     </relations>
+                     <lg type="linegroup">      
+                        <l>The great laws take and effuse without argument;</l>
+                        <l>I am of the same style, for I am their friend,</l>
+                        <l>I love them quits and quits—I do not halt and <lb/>make salaams.</l>
+                        <l>I lie abstracted, and hear beautiful tales of things, <lb/>and the reasons of things;</l>
+                        <l>
+                           <hi rend="italic">They are so beautiful, I nudge myself to listen.</hi>
+                        </l>
+                        <l>I cannot say to any person what I hear—I cannot <lb/>say it to myself—it is very wonderful.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>The notion of nudging one's self to listen is capital, but suggests that there may be a tinge of <hi rend="italic">Irish-</hi>American in Mr Walt Whitman's otherwise pur sang (as he would term it). Here is something which, while reminding one in its form of Mr Martin Tupper,<ref target="n8" xml:id="r8" n="5"/> would, if the idea should be attributed to him, give that respectable gentleman a fit:</p>
+
+      
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00416" cert="absolute"/>
+                        <!-- from Of the visages of things-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Of detected persons—To me, detected persons are <lb/>not<choice><sic></sic><corr>,</corr></choice> in any respect<choice><sic></sic><corr>,</corr></choice> worse than undetected <choice><orig>per-<lb/>sons</orig><reg>persons</reg></choice>—and are not in any respect worse than <lb/>I am myself.</l>
+                        <l>Of criminals—To me, any judge, or any juror, is <lb/>equally criminal—and any reputable person <choice><sic></sic><corr>is </corr></choice>also— <lb/>and the President is also.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>We cannot more fitly conclude our notice of this really remarkable man than by quoting his most characteristic poem. It is from the <hi rend="italic">Leaves of Grass</hi>, and is called <hi rend="italic">Burial</hi>. It expresses very strikingly in his strange rhythm the thought that has struck most of us who have any egotism. How strange that the world should have wagged on for ages before we came into it, and how still stranger (and more audacious) that it will still continue to wag on, when we have ceased to wag.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                        <!-- To Think of Time-->
+                     </relations>
+                     <lg type="linegroup">     
+                        <l>To think of it!</l>
+                        <l>To think of time—of all that retrospection!</l>
+                        <l>To think of to-day, and the ages continued <choice><orig>hence-
+                           <lb/>
+                           forward</orig><reg>henceforward</reg></choice>!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p> . .  . .  . .  . . .</p>
+         <!-- The above device of several dots (sometimes larger dots; sometimes asterisks) across the page seems to be a common convention by reviewers to show that multiple lines were omitted.  Using the above code seems problematic because it forces two quotes where the author clearly intends one. I am wondering if there is a better way to distinguish these larger ellipses from smaller ones with code that can function within the quote tags. -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                        <!-- To Think of Time-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>To think that the sun rose in the east! that men <lb/>and women were flexible, real, alive! that <lb/>everything was alive!</l>
+                        <l>To think that you and I did not see, feel, think, <lb/>nor bear our part!</l>
+                        <l>To think that we are now here, and bear our part!</l>
+
+                        <l>Not a day passes—not a minute or second, without <lb/>an accouchement!</l>
+                        <l>Not a day passes—not a minute or second, without <lb/>a corpse!</l>
+                        <l>The dull nights go over, and the dull days also;</l>
+                        <l>The soreness of lying so much in bed goes over;</l>
+                        <l>The physician, after long putting off, gives the <lb/>silent and terrible lookfor an answer;</l>
+                        <l>The children come hurried and weeping, and the <lb/>brothers and sisters are sent for;</l>
+                        <l>Medicines stand unused on the shelf (the <choice><orig>camphor- 
+                           <lb/>
+                           smell</orig><reg>camphor-smell</reg></choice> has long pervaded the rooms);</l>
+                        <l>The faithful hand of the living does not desert the <lb/>hand of the dying;</l>
+                        <l>The twitching lips press lightly on the forehead of <lb/>the dying;</l>
+                        <l>The breath ceases, and the pulse of the heart ceases;</l>
+                        <l>The corpse stretches on the bed, and the living 
+	look upon it;</l>
+                        <l>It is palpable as the living are palpable.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>The living look upon the corpse with their <choice><orig>eye- 
+                           <lb/>
+                           sight</orig><reg>eye-sight</reg></choice>,</l>
+                        <l>But without eyesight lingers a different living, and <lb/>looks curiously on the corpse.</l>
+
+                        <l>To think that the rivers will flow, and the snow <lb/>fall, and the fruits ripen, and act upon others <lb/>as upon us now—yet not act upon us!</l>
+                        <l>To think of all these wonders of city and country,  <lb/>and others taking great interest in them—and <lb/>we taking no interest in them!</l>
+
+                        <l>To think how eager we are in building our houses! <lb/>To think others shall be just as eager, and we quite <lb/>indifferent!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The poet considers the universalness of this thing called Death</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                        <!-- To Think of Time-->
+                     </relations>
+                     <lg type="linegroup"> 
+                        <l>Slow-moving and black lines creep over the whole <lb/>earth…they never cease…they are the <choice><orig>burial- 
+                           <lb/>
+                           lines</orig><reg>burial-lines</reg></choice>;
+                        </l>
+                        <l>He that was President was buried, and he that is <lb/>now President shall surely be buried.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>But the particular illustration which Walt Whitman characteristically selects of Burial is by no means that of the President, but of an old Broadway stage-driver. It is so graphic, that it might be a sketch by Dickens, and yet it has a weird sort of rhythm about it that separates it from prose of any sort:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                        <!-- To Think of Time, 4, in full -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Cold dash of waves at the ferry-wharf—posh and <lb/>ice in the river, half-frozen mud in the streets, a <lb/>gray discouraged sky overhead, the short last <lb/>day-light of Twelfth-month;</l>
+                        <l>A hearse and stages—other vehicles give place— <lb/>the funeral of an old Broadway stage-driver, <lb/>the <choice><sic>cortège</sic><corr>cortege</corr></choice> mostly drivers.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Steady the trot to the cemetery, duly rattles the <lb/>death-bell, the gate is passed, the new-dug <lb/>grave is halted at, the living alight, the hearse <lb/>uncloses,</l>
+                        <l>The coffin is passed out, lowered and settled, the <lb/>whip is laid on the coffin, the earth is swiftly <lb/>shovelled in,</l>
+                        <l>The mound above is flatted with the spades—silence<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>A minute, no one moves or speaks—it is done;</l>
+                        <l>He is decently put away—is there anything more?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>He was a good fellow, <choice><sic>free-mouthed</sic><corr>free-mouth'd</corr></choice>, <choice><orig>quick-tem-
+                           <lb/>
+                           <!-- 1867 edition has "quick-temper'd" in previous line; seems too complex to encode with orig tag above -->
+                           pered</orig><reg>quick-tempered</reg></choice>, not bad-looking, able to take his own <lb/>part, witty, sensitive to a slight, ready with <lb/>life or death for a friend, fond of women, <lb/>gambled, ate hearty, drank hearty, had known <lb/>what it was to be flush, grew low-spirited <lb/>toward the last, sickened, was helped by a <lb/>contribution, died, aged forty-one years—and <lb/>that was his funeral.</l>
+                        <l>Thumb extended, finger uplifted, apron, cape, gloves, <lb/>strap, wet-weather clothes, whip carefully <lb/>chosen, boss, spotter, starter, hostler, somebody <lb/>loafing on you, you loafing on somebody, <choice><orig>head-<lb/>way</orig><reg>headway</reg></choice>, man before and man behind, good day's <lb/>work, bad day's work, pet stock, mean stock, <lb/>first out, last out, turning-in at night;</l>
+                        <l>To think that these are so much and so nigh to <lb/>other drivers—and he there takes no interest <lb/>in them!</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+         
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   
+                     <hi rend="italic">Poems by Walt Whitman</hi>. Selected and edited by William Michael Rossetti 
+                   
+                      Hotten:  
+                      Piccadilly.  
+                   
+               
+            </ab>
+          
+
+         <ab>
+            <hi rend="superscript">†</hi>'Paumanok is the native name of Long Island, state of New York. It presents a fish-like shape on the map.'</ab>
+
+         <ab>
+            <hi rend="superscript">‡</hi>'Mannahatta, or Manhattan, is (as many readers will know) New York.'</ab>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n4" target="r4" n="1">
+Thomas Bowdler (1754-1825) was an English physician who famously published an expurgated edition of William Shakespeare's work entitled <hi rend="italic">Family Shakspeare</hi> (1818) which he considered to be more appropriate than the original for family reading.
+</note>
+               <note type="editorial" xml:id="n5" target="r5" n="2">
+Elias Hicks (1748-1830) was an advocate of abolition and a liberal Quaker preacher.  He became the head of one of the two factions of the first major schism within the Religious Society of Friends. 
+</note> 
+               <note type="editorial" xml:id="n6" target="r6" n="3">
+Silenus is a figure from Greek mythology.  He was the teacher and faithful companion of the wine-god Dionysus.  When intoxicated, Silenus was said to possess special knowledge and the power of prophecy.
+</note>
+               <note type="editorial" xml:id="n7" target="r7" n="4">
+The influential Protestant spokesman Henry Ward Beecher (1813-1887) was noteworthy for his oratorical skills and his efforts as a social reformer and abolitionist.
+</note>
+               <note type="editorial" xml:id="n8" target="r8" n="5">
+The English poet Martin Farquhar Tupper (1810-1889) was best known for <hi rend="italic">Proverbial Philosophy,</hi> didactic moral and religious verse.
+</note>  
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

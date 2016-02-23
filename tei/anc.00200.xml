@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00200">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="rivulets">Walt Whitman's Poems</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Two Rivulets</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00200</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman's Poems</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Daily Tribune</title>
+                  <imprint>
+                     <date when="1876-02-19">19 February 1876</date>
+                     <biblScope type="pages">4</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-01">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN'S POEMS.<!-- [Review of Two Rivulets] --></head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+         <head type="sub">EXTRACTS FROM "TWO RIVULETS."</head>
+
+         <p>Herewith are presented, in advance of their publication, sufficiently copious extracts from Walt Whitman's new volume of poems, "Two Rivulets," to give a fair and pretty full summary of it. The book is an intertwining of the author's characteristic verse, alternated throughout with prose; and hence the name. In the Preface he says:</p>
+
+         <!-- From the Preface to Two Rivulets -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00489" cert="absolute"/>
+                     </relations>
+
+                     <p>At the eleventh hour, under grave illness, I gather up the pieces of prose and poetry left over since publishing a while since my first and main volume, "Leaves of Grass"—pieces, here, some new, some old—nearly all of them (somber as many are, making this almost Death's book) composed in by-gone atmospheres of perfect health—and preceded by the freshest collection, the little "Two Rivulets," now send them out, embodied in the present Melange, partly as my contribution and outpouring to celebrate, in some sort, the feature of the time, the first Centennial of our New World Nationality—and then as chyle and nutriment to that moral, Indissoluble Union, equally representing All, and the mother of many coming Centennials.</p>
+
+                     <p>For some reason—not explainable or definite to my own mind, yet secretly pleasing and satisfactory to it—I have not hesitated to embody in, and run through the volume, two altogether distinct veins or strata—Politics for one, and for the other, the pensive thought of Immortality. The pictures from the hospitals during the war I have also decided to include. Though they differ in character and composition from the rest of my pieces, yet I feel that they ought to go with them, and must do so.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>At the outset comes this prelude, or sonata:</p>
+
+         <!-- From "Two Rivulets" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00495" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <l>Two Rivulets side by side,</l>
+                        <l>Two blended, parallel, strolling tides,</l>
+                        <l>Companions, travelers, gossiping as they journey.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>For the Eternal Ocean bound,</l>
+                        <l>These ripples, passing surges, streams of Death and Life,</l>
+                        <l>Object and Subject, hurrying, whirling by,</l>
+                        <l>The Real and Ideal.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Alternate ebb and flow the Days and Nights,</l>
+                        <l>Strands of a Trio twining, Present, Future, Past.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>In You, whoe'er you are, my book perusing,</l>
+                        <l>In I myself—in all the World—these ripples flow,</l>
+                        <l>All, all, toward the mystic Ocean tending.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>(O yearnful waves! the kisses of your lips!</l>
+                        <l>Your breast so broad, with open arms, O firm, expanded shore!)</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And, on a well-known theme this second verse:</p>
+
+         <!-- From "Or from that Sea of Time" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00493" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <l>Or, from that Sea of Time,</l>
+                        <l>Spray, blown by the wind—a double windrow-drift of <lb/>weeds and shells.</l>
+                        <l>(O little shells, so curious-convolute! so limpid-cold and <lb/>voiceless!</l>
+                        <l>Yet will you not, to the tympans of temples held,</l>
+                        <l>Murmurs and echoes still bring up—Eternity's music, <lb/>faint and far</l>
+                        <l>Wafted inland, sent from Atlantica's rim—strains for the <lb/>Soul of the Prairies.</l>
+                        <l>Whisper'd reverberations—chords for the ear of the <lb/>West, joyously sounding</l>
+                        <l>Your tidings old, yet ever new and untranslatable;)</l>
+                        <l>Infinitesimals out of my life, and many a life,</l>
+                        <l>(For not my life and years alone I give—all, all I give;)</l>
+                        <l>These thoughts and Songs—waifs from the deep—here, <lb/>cast high and dry.</l>
+                        <l>Washed on America's shores.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Then here is what Whitman terms his own poems:</p>
+
+         <!-- From "Or from that Sea of Time" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00493" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <l>Currents of starting a Continent new,</l>
+                        <l>Overtures sent to the solid out of the liquid,</l>
+                        <l>Fusion of ocean and land—tender and pensive waves,</l>
+                        <l>(not safe and peaceful only—waves rous'd and ominous <lb/>too,</l>
+                        <l>Out of the depths, the storm's abysms—Who knows <lb/>whence? Death's waves,</l>
+                        <l>Raging over the vast, with many a broken spar and <choice><orig>tat-<lb/>ter</orig><reg>tattered</reg></choice>'d sail.)</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>He says in a concluding part of the preface:</p>
+
+         <!-- From the Preface to Two Rivulets -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00489" cert="absolute"/>
+                     </relations>
+                     <p>Without being a scientist, I have thoroughly adopted the conclusions of the great savans and experimentalists of our time and of the last hundred years, and they have interiorly tinged the chyle of all my verse for purposes beyond. Following the modern spirit, the real poems of the present, ever solidifying and expanding into the future, must vocalize the vastness and splendor and reality with which scientism has invested man and the universe (all that is called creation), and must henceforth launch humanity into new orbits, consonant with that vastness, splendor, and reality (unknown to the old poems), like new systems of orbs, balanced upon themselves, revolving in limitless space, more subtle than the stars. Poetry, so largely hitherto and even at present wedded to children's tales, and to mere amorousness, upholstery, and superficial rhyme, will have to accept, and, while not denying the past nor the themes of the past, will be revivified by this tremendous innovation, the kosmic spirit, which must henceforth, in my opinion, be the background and underlying impetus, more or less visible, of all first-class songs.</p>
+
+                     <p>Only (for me, at any rate, in all my prose and poetry), joyfully accepting modern science, and loyally following it without the slightest hesitation, there remains ever recognized still a higher fact, the eternal soul of man (of all else too), the spiritual, the religious—which it is to be the greatest office of t scientism, in my opinion, and of future poetry also, to free from fables, crudities, and superstitions, and launch forth in renewed faith and scope a hundred fold. To me the worlds of religiousness, of the conception of the Divine, and of the ideal, though mainly latent, are just as absolute in humanity and the universe as the worlds of chemistry or anything in the objective world. To me, the crown of savantism is to be, that it surely opens the way for a more splendid theology, and for ampler and diviner songs. No year, nor even century, will settle this. There is a phase of the real, lurking behind the real, which it is all for. There is also in the intellect of man, in time, far in prospective recesses, a judgment, a last appellate court, which will settle it.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "Eidolons" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00030" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">EIDÓLONS.</head>
+	                       <l rend="indented2">I met a Seer,</l>
+                        <l>Passing the hues and objects of the world,</l>
+                        <l>The fields of art and learning, pleasure, sense,</l>
+	                       <l rend="indented2">To glean Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Put in thy chants, said he,</l>
+                        <l>No more the puzzling hour, nor day—nor segments, parts,</l>
+		                      <l rend="indented4">put in,</l>
+                        <l>Put first before the rest, as light for all, and <choice><reg>entrance-song</reg><orig>entrance-<lb/>
+song</orig></choice> of all,</l>
+	                       <l rend="indented2">That of Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Ever the dim beginning;</l>
+                        <l>Ever the growth, the rounding of the circle;</l>
+                        <l>Ever the summit, and the merge at last, (to surely start</l>
+		                      <l rend="indented4">again,)</l>
+	                       <l rend="indented2">Eidólons! Eidólons!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Ever the mutable!</l>
+                        <l>Ever materials, changing, crumbling, re-cohereing!</l>
+                        <l>Ever the ateliers, the factories divine,</l>
+	                       <l rend="indented2">Issuing Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Lo! I or you!</l>
+                        <l>Or woman, man, or State, known or unknown;</l>
+                        <l>We seeming solid wealth, strength, beauty build,</l>
+	                       <l rend="indented2">But really build Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">The ostent evanescent;</l>
+                        <l>The substance of an artist's mood or savan's studies</l>
+		                      <l rend="indented4">long,</l>
+                        <l>Or warrior's, martyr's, hero's toils,</l>
+	                       <l rend="indented2">To fashion his Eidólon.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Of every human life,</l>
+                        <l>(The units gather'd, posted—not a thought, emotion,</l>
+		                      <l rend="indented4">deed, left out;)</l>
+                        <l>The whole or large or small summ'd, added up,</l>
+	                       <l rend="indented2">In its Eidólon.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">The old, old urge;</l>
+                        <l>Based on the ancient pinnacles, lo! newer, higher <choice><reg>pinnacles</reg><orig>pin-<lb/>
+nacles</orig></choice>;</l>
+                        <l>From science and the Modern still impell'd,</l>
+	                       <l rend="indented2">The old, old urge, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">The present, now and here,</l>
+                        <l>America's busy, teeming, intricate whirl,</l>
+                        <l>Of aggregate and segregate, for only thence releasing,</l>
+		                      <l rend="indented4">To-day's Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">These, with the past,</l>
+                        <l>Of vanish'd lands—of all the reigns of kings across the</l>
+		                      <l rend="indented4">sea,</l>
+                        <l>Old conquerors, old campaigns, old sailors' voyages,</l>
+	                       <l rend="indented2">Joining Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Densities, growth, façades,</l>
+                        <l>Strata of mountains, soils, rocks, giant trees,</l>
+                        <l>Far-born, far-dying, living long, to leave,</l>
+	                       <l rend="indented2">Eidólons everlasting.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Exalté, rapt, extatic,</l>
+                        <l>The visible but their womb of birth,</l>
+                        <l>Of orbic tendencies to shape and shape and shape,</l>
+	                       <l rend="indented2">The mighty Earth-Eidólon.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">All space, all time,</l>
+                        <l>(The stars, the terrible perturbations of the suns,</l>
+                        <l>Swelling, collapsing, ending—serving their longer, shorter</l>
+		                      <l rend="indented4">use,)</l>
+	                       <l rend="indented2">Fill'd with Eidólons only.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">The noiseless myriads!</l>
+                        <l>The infinite oceans where the rivers empty!</l>
+                        <l>The separate, countless free identities, like eyesight;</l>
+	                       <l rend="indented2">The true realities, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Not this the World,</l>
+                        <l>Nor these the Universes—they the Universes,</l>
+                        <l>Purport and end—ever the permanent life of life,</l>
+	                       <l rend="indented2">Eidólons, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Beyond thy lectures learn'd professor,</l>
+                        <l>Beyond thy telescope or spectroscope observer keen—</l>
+		                      <l rend="indented4">beyond all mathematics,</l>
+                        <l>Beyond the doctor's surgery, anatomy—beyond the chemist with his <choice><reg>chemistry</reg><orig>chem-<lb/>
+istry</orig></choice>,</l>
+	                       <l rend="indented2">The entities of entities, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Unfix'd yet fix'd;</l>
+                        <l>Ever shall be—ever have been and are,</l>
+                        <l>Sweeping the present to the infinite future,</l>
+	                       <l rend="indented2">Eidólons, Eidólons, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">The prophet and the bard,</l>
+                        <l>Shall yet maintain themselves—in higher stages yet,</l>
+                        <l>Shall mediate to the Modern, to Democracy—interpret</l>
+		                      <l rend="indented4">yet to them,</l>
+	                       <l rend="indented2">God, and Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">And thee, My Soul!</l>
+                        <l>Joys, ceaseless exercises, exaltations!</l>
+                        <l>Thy yearning amply fed at last, prepared to meet</l>
+	                       <l rend="indented2">Thy mates, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Thy Body permanent,</l>
+                        <l>The Body lurking there within thy Body,</l>
+                        <l>The only purport of the Form thou art—the real I <choice><reg>myself</reg><orig>my-<lb/>
+self</orig></choice>,</l>
+	                       <l rend="indented2">An image, an Eidólon.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented2">Thy very songs, not in thy songs;</l>
+                        <l>No special strains to sing—none for itself;</l>
+                        <l>But from the whole resulting, rising at last and floating,</l>
+	                       <l rend="indented2">A round, full-orb'd Eidólon.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "Thoughts for the Centennial" (Two Rivulets) -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00489" cert="absolute"/>
+                     </relations>
+                     <head type="main-authorial">THOUGHTS FOR THE CENTENNIAL.</head>
+
+                     <p>I need not add to the multiform and swelling pæans, the self-laudation, the congratulatory voices, and the bringing to the front, and domination to-day of material wealth, products, goods, inventive smartness &amp;c., (all very well may-be). But just for a change I feel like presenting a reflection or two like these:</p>
+
+                     <p>1. Of most foreign countries, small or large, from the remotest times known, down to our own, each has contributed after its kind, directly or indirectly, at least one undying song to help vitalize and increase the valor, wisdom, and elegance of humanity, from the points of view attained by it up to date. The stupendous epics of India, the Holy Bible itself, the Homeric canticles, the Nibelungen, the Cid Campeador, the Inferno, Shakespeare's dramas of the passions and of the feudal lords, Burns's songs, Goethe's in Germany, Tennyson's poems in England, Victor Hugo's in France, and many more, are the widely various, yet integral, signs or landmarks (in certain respects the highest set up by the human mind and soul, beyond science, invention, political amelioration, &amp;c.), narrating in subtlest, best ways, the long, long routes of history, and giving identity to the stages arrived at by aggregate humanity, and the conclusions assumed in its progressive and varied civilizations. . . . Where is America's art-rendering, in anything like the spirit worthy of herself and the modern, to these characteristic immortal monuments?</p>
+
+                     <p>2. So far, in America, our democratic society (estimating its various strata, in the mass, as one), possesses nothing—nor have we contributed any characteristic music, the finest tie of nationality—to make up for that glowing, blood-throbbing, religious, social, emotional, artistic, indefinable, indescribably beautiful charm and hold which fused the separate parts of the old feudal societies together in their wonderful interpretation, in Europe and Asia, of love, belief and loyalty, running one way like a living weft—and picturesque responsibility, duty and blessedness, running like a warp the other way. (In the Southern States, under slavery, much of the same.) . . In coincidence, and as things now exist in the States, what is more terrible, more alarming than the total want of any such fusion and mutuality of love, belief and rapport of interest, between the comparatively few successful rich and the great masses of the unsuccessful, the poor? . . As a mixed political and social question, is not this full of dark significance? Is it not worth considering as a problem and puzzle in our democracy--an indispensable want to be supplied?</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Whitman gives his own portrait from life in the book—a large, bending, gray-haired man, "looking at you"—and the picture is illustrated by the following verse:</p>
+
+         <!-- From "Out from Behind this Mask" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00236" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <l>Out from behind this bending rough-cut Mask,</l>
+                        <l>(All straighter, liker Masks rejected—this preferr'd,)</l>
+                        <l>This common curtain of the face, contain'd in me for <lb/>me, in you for you, in each for each,</l>
+                        <l>(Tragedies, sorrows, laughter, tears—O heaven!</l>
+                        <l>The passionate, teeming plays this curtain hid!)</l>
+                        <l>The glaze of God's serenest, purest sky,</l>
+                        <l>This film of Satan's seething pit,</l>
+                        <l>This heart's geography's map—this limitless small <choice><orig>conti-<lb/>nent</orig><reg>continent</reg></choice>—this soundless sea,</l>
+                        <l>Out from the convolutions of this globe,</l>
+                        <l>This subtler astronomic orb than sun or moon—than <lb/>Jupiter, Venus, Mars;</l>
+                        <l>This condensation of the Universe—(nay, here the only <lb/>Universe,</l>
+                        <l>Here the Idea—all in this mystic handful wrapt;)</l>
+                        <l>These burin'd eyes, flashing to you, to pass to future <lb/>time,</l>
+                        <l>To launch and spin through space revolving, sideling— <lb/>from these to emanate,</l>
+                        <l>To You, who'er you are—a Look.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "Freedom" (Two Rivulets) -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00550" cert="absolute"/>
+                     </relations>
+                     <head type="main-authorial">FREEDOM.</head>
+
+                     <p>It is not only true that most people entirely misunderstand freedom, but I sometimes think I have not yet met one person who rightly understands it. . . . The whole universe is absolute law. Freedom only opens entire activity and license under the law. To the degraded or undeveloped—and even to too many others—the thought of freedom is a thought of escaping from law—which, of course, is impossible.</p>
+
+                     <p>More precious than all worldly riches is Freedom—freedom from the painful constipation and poor narrowness of ecclesiasticism; freedom in manners, habiliments, furniture, from the silliness and tyranny of local fashions—entire freedom from party rings and mere conventions in politics—and, better than all, a general freedom of one's self from the tyrannic domination of vices, habits, appetites, under which nearly every man of us (often the greatest bawler for freedom) is enslaved.</p>
+
+                     <p>Can we attain such enfranchisement—the true democracy and the hight of it? While we are from birth to death subjects of irresistible law, inclosing every movement and minute, we yet escape by a paradox, into true free will. Strange as it may seem, we only attain to freedom by a knowledge of, and implicit obedience to law. Great—unspeakably great—is the will! the free soul of man! At its greatest, understand and obeying the laws, it can then, and then only, maintain true liberty . . . . . For there is to the highest, that law as absolute as any—more absolute than any—the law of liberty. The shallow, as intimated, consider liberty a release from all law, from every constraint. The wise seee in it, on the contrary, the potent law of laws, namely, the fusion and combination of the conscious will, or partial individual law, with those universal, eternal, unconscious ones, which run through all time, pervade history, prove immortality, give moral purpose to entire objective world, and the last dignity to human life.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "To a Locomotive in Winter" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00273" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">TO A LOCOMOTIVE IN WINTER.</head>
+                        <l>Thee for my recitative!</l>
+                        <l>Thee in the driving storm even as now—the snow—the <lb/>Winter-day declining;</l>
+                        <l>Thee in thy panoply, thy measured dual throbbing, and <lb/>thy beat convulsive;</l>
+                        <l>Thy black cylindric body, golden brass and silvery steel;</l>
+                        <l>Thy ponderous side-bars, parallel and connecting rods, <lb/>gyrating, shuttling at thy sides;</l>
+                        <l>Thy metrical, now swelling pant and roar—now tapering in the distance;</l>
+                        <l>Thy great protruding head-light fix'd in front;</l>
+                        <l>Thy long, pale, floating vapor-pennants, tinged with delicate purple;</l>
+                        <l>The dense and murky clouds out-belching from thy <lb/>smoke-stack;</l>
+                        <l>Thy knitted frame—thy springs and valves—the <choice><orig>tremu-<lb/>lous</orig><reg>tremulous</reg></choice> twinkle of thy wheels;</l>
+                        <l>Thy train of cars behind, obedient, merrily-following,</l>
+                        <l>Through gale or calm, now swift, now slack, yet steadily <lb/>careering;</l>
+                        <l>Type of the modern! emblem of motion and power! pulse <lb/>of the continent!</l>
+                        <l>For once, come serve the Muse and merge in verse, even <lb/>as here I see thee,</l>
+                        <l>With storm, and buffeting gusts of wind, and falling <lb/>snow;</l>
+                        <l>By day, thy warning, ringing bell to sound its notes,</l>
+                        <l>By night, thy silent signal lamps to swing.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Fierce-throated beauty!</l>
+                        <l>Roll through my chant with all thy lawless music! thy <lb/>swinging lamps at night;</l>
+                        <l>Thy piercing, madly-whistled laughter! thy echoes, <choice><orig>rous-<lb/>ing</orig><reg>rousing</reg></choice> all!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Law of thyself complete, thine own track firmly holding;</l>
+                        <l>(No sweetness debonair of tearful harp or glib piano <lb/>thine,)</l>
+                        <l>Thy trills of shrieks by rocks and hills return'd,</l>
+                        <l>Launch'd o'er the prairies wide—across the lakes,</l>
+                        <l>To the free skies, unpent, and glad, and strong.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+
+         <!-- From Two Rivulets -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00489" cert="absolute"/>
+                     </relations>
+                     <head type="main-authorial">NEW POETRY—PROSE GRANDER THAN VERSE.</head>
+
+                     <p>In my opinion the time has arrived to essentially break down the barriers of form between prose and poetry. I say the latter is henceforth to win and maintain its character regardless of rhyme, and the measurement-rules of iambic, spondee, dactyl, etc., and that even if rhyme and those measurements continue to furnish the mediums for inferior writers and themes, (especially for persiflage and the comic, as there seems henceforward, to the perfect taste, something inevitably comic in rhyme, merely in itself and anyhow,) the truest and greatest poetry, (while subtly and necessarily always rhythmic, and distinguishable easily enough,) can never again, in the English language, be expressed in arbitrary and rhyming meter, any more than the greatest eloquence, or the truest power and passion. . . . In my opinion, I say, while admitting that the venerable and heavenly forms of chiming versification have in their time played great and fitting parts, that the pensive complaint, the ballads, wars, amours, legends of Europe, &amp;c., have, many of them, been inimitably rendered in rhyming verse—that there have been very illustrious poets, whose shapes the mantle of such verse has beautifully and appropriately enveloped—and though the mantle has fallen, with perhaps added beauty, on some of our own age—it is, not withstanding, certain to me, that the day of such conventional rhyme is ended. In America, at any rate, and as a medium of highest esthetic practical or spiritual expression, present or future it palpably fails, and must fail to serve. The muse of the prairies, and the peaks of Colorado, dismissing the literary as well as social etiquette of over-sea feudalism and caste, joyfully enlarging, adapting itself to comprehend the size of the whole people, with the free play, emotions, pride, passions, experiences, that belong to them, body and soul—to the general globe, and all its relations in astronomy, as the savans portray them to us—to the modern, the busy nineteenth century, (as grandly poetic as any, only different), with steamships, railroads, factories, electric telegraphs, cylinder presses—to the thought of the solidarity of nations, the brotherhood and sisterhood of the entire earth—to the dignity and heroism of the practical labor of farms, factories, foundries, workshops, mines, or on shipboard, or on lakes and rivers—resumes that other medium of expression, more flexible, more eligible—soars to the freer, vast, diviner heaven of prose.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The volume, in its 350 pages, comprises, besides the "Two Rivulets," from which the foregoing extracts are taken, the prose essay, "Democratic Vistas," and the poetical pieces already published under the same name of "Passage to India." Quite a large part of the book is occupied with Whitman's "Memoranda During the War," in the army hospitals, or down at the front, being given verbatim from the original notes of the time, "blotch'd here and there with more than one blood stain, hurriedly written, sometimes at the clinique, not seldom amid the excitement of uncertainty or defeat or of action, or of getting ready for it, or a march." He says, as he introduces these little note-book mementoes of the war:</p>
+
+         <!-- From "Memoranda During the War" (Two Rivulets) -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00502" cert="absolute"/>
+                     </relations>
+                     <p>Vivid as life they recall and identify the long hospital wards, with their myriad-varied scenes of day or night; the graphic incidents of field or camp; the night before the battle with many solemn yet cool preparations; the changeful exaltations and depressions of those four years, North and South; the convulsive memories (left but a word, a broken sentence serve to recall them); the clews already quite vanished, like some old dream, and yet the list significant enough to soldiers; the scrawled, worn slips of paper that came up by bushels from the Southern prisons, Salisbury or Andersonville, by the hands of exchanged prisoners; the clank of crutches on the pavements or floors of Washington, or up and down the stairs of Paymasters' offices; the grand review of home-bound veterans at the close of the war, cheerily marching day after day by the President's bouse, one brigade succeeding another until it seemed as if they would never end; the strange squads of Southern deserters (<hi rend="italic">escapees</hi>, I called them); that little <hi rend="italic">génre</hi> group, unrock'd amid the mighty whirl, I remember passing in a hospital corner, of a dying Irish boy, a Catholic priest, and an impoverished altar; four years compressing centuries of native passion, first-class pictures, tempests of life and death, an inexhaustible mine for the histories, drama, romance, and even philosophy of centuries to come; indeed, the vertebra of poetry and art (or personal character too) for all future America (far more grand, in my opinion, to the hands capable of it, than Homer's siege of Tory or the French wars of Shakespeare); and looking over all, in my remembrance, the tall form of President Lincoln, with his face of deep-cut lines, with the large, kind, canny eyes, the complexion of dark brown, and the tinge of weird melancholy saturating all.</p>
+
+                     <p>More and more, in my recollections of that period, and through its varied, multitudinous oceans and murky whirls, appear the central resolution and sternness of the bulk or the average American people, animated in soul by a definite purpose, though sweeping and fluid as some great storm—the common people, emblemized in thousands of specimens of first-class heroism, steadily accumulating, (nor regiment, no company, hardly a file of men, North or South, the last three years, without such first-class specimens.)</p>
+
+                     <p>I know not how it may have been, or may be, to others—to me the main interest of the war, I found (and still, on recollection, find), in those specimens, and in the ambulance, the hospital, and even the dead on the field. To me, the points illustrating the latent personal character and eligibilities of these States, in the two or three millions of Americans young and middle-aged men, North and South, embodied in armies--and especially the one-third or one-fourth of their number, stricken by wounds or disease at some time in the course of the contest—were of more significance even than the political interests involved.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>We also add a few hitherto unpublished forthcoming pieces from "Leaves of Grass." On the new title page of that volume appears the following verse, signed by Whitman's autograph:</p>
+
+         <!-- From "Come, said my Soul" (Leaves of Grass, 1876) -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00596" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <l>Come, said my Soul,</l>
+                        <l>Such verses for my Body let us write (for we are one),</l>
+                        <l>That should I after death invisibly return,</l>
+                        <l>Or, long, long hence, in other spheres,</l>
+                        <l>There to some group of mates, the chants resuming</l>
+                        <l>(Tallying Earth's soil, trees, winds, tumultuous waves),</l>
+                        <l>Ever with pleased smile I may keep on,</l>
+                        <l>Ever and ever yet the verses owing—as, first-I here and <lb/>now,</l>
+                        <l>Singing for Soul and Body, set to them my name.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "After an Interval" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00455" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">AFTER AN INTERVAL.</head>
+                        <l>(<hi rend="italic">Nov</hi>. 22, 1875, <hi rend="italic">midnight</hi>—<hi rend="italic">Saturn and Mars in conjunction</hi>.)</l>
+                        <l>After an interval, reading, here in the midnight,</l>
+                        <l>With the great stars looking on—all the stars of Orion <lb/>looking,</l>
+                        <l>And the silent Pleiades—and the duo looking of Saturn <lb/>and ruddy Mars;</l>
+                        <l>Pondering, reading my own songs, after a long interval <lb/>(sorrow and death familiar now),</l>
+                        <l>Ere closing the book, what pride! what joy! to find them,</l>
+                        <l>Standing so well the test of death and night!</l>
+                        <l>And the duo of Saturn and Mars!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "When the Full-Grown Poet Came" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00399" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">WHEN THE FULL-GROWN POET CAME.</head>
+                        <l>When the full-grown poet came,</l>
+                        <l>Out spake pleas'd Nature (the round impassive Globe, <lb/>with all its shows of day and night), saying, He is <lb/>mine;</l>
+                        <l>But out spake too the Soul of Man, proud, jealous and <choice><orig>un-<lb/>reconciled</orig><reg>unreconciled</reg></choice>, Nay, he is mine alone;</l>
+                        <l>—Then the full-grown Poet stood between the two, and <lb/>took each by the hand,</l>
+                        <l>And to-day and ever so stands, as blender, uniter, tightly <lb/>holding hands,</l>
+                        <l>Which he will never release until he reconciles the two,</l>
+                        <l>And wholly and joyously blends them.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "The Beauty of the Ship" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00454" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">THE BEAUTY OF THE SHIP.</head>
+                        <l>When, staunchly entering port,</l>
+                        <l>After long ventures, hauling up, worn and old,</l>
+                        <l>Better'd by sea and wind, torn by many a fight,</l>
+                        <l>With the original sails all gone, replaced, or mended,</l>
+                        <l>I only saw, at last the beauty of the ship.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The following are extracts from "Two Rivulets:"</p>
+
+         <!-- From "By Broad Potomac's Shore" (Two Rivulets) -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00284" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">A SONG BY THE POTOMAC.</head>
+                        <l>By broad Potomac's shore—again, old tongue!</l>
+                        <l>(Still uttering—still ejaculating—canst never cease this <lb/>babble?)</l>
+                        <l>Again, old heart so gay—again to you, your sense, the <lb/>full flush Spring returning;</l>
+                        <l>Again the freshness and the odors—again Virginia's <choice><orig>Sum-<lb/>mer</orig><reg>Summer</reg></choice> sky, peliucid blue and silver</l>
+                        <l>Again the forenoon purple of the hills,</l>
+                        <l>Again the deathbed grass, so noiseless, soft and green,</l>
+                        <l>Again the blood-red roses blooming.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Perfume this book of mine, O blood-red roses!</l>
+                        <l>Lave subtly with your waters every line, Potomac!</l>
+                        <l>Give me of you, O Spring, before I close, to put between <lb/>its pages!</l>
+                        <l>O foresoon purple of the hills, before I close, of you!</l>
+                        <l>O smiling earth—O Summer sun, give me of you!</l>
+                        <l>O deathless grass, of you!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "As a Strong Bird on Pinions Free" (later titled "Thou Mother with Thy Equal Brood")(Two Rivulets) -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00267" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">SHIP OF DEMOCRACY.</head>
+                        <l>Sail—sail thy best, ship of Democracy!</l>
+                        <l>Of value is they freight—'tis not the Present only,</l>
+                        <l>The past is also stored in thee!</l>
+                        <l>Thou holdest not the venture of thyself alone—not of <lb/>thy western continent alone;</l>
+                        <l>Earth's <hi rend="italic">resume</hi> entire floats on thy keel, O ship—is <lb/>steadied by thy spars;</l>
+                        <l>With thee Time voyages in trust—the antecedent nations <lb/>sink or swim with thee;</l>
+                        <l>With all their ancient struggles, martyrs, heroes, epics, <lb/>wars, thou bear'st the other continents;</l>
+                        <l>Theirs, theirs as much as thine, the destination-port <lb/>triumphant;</l>
+                        <l>—Steer, steer with good strong band and wary eye, O <lb/>helmsman—thou carryest great companions,</l>
+                        <l>Venerable, priestly Asia sails this day with thee,</l>
+                        <l>And royal, feudal Europe sails with thee.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00061">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="drum">Walt Whitman And His 'Drum Taps'</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Drum-Taps</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>John Burroughs</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00061</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Burroughs, John">John Burroughs</author>
+                  <title level="m" type="main">Walt Whitman And His 'Drum Taps'</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Galaxy</title>
+                  <imprint>
+                     <date when="1866-12-01">1 December 1866</date>
+                     <biblScope type="volume">2</biblScope>
+                     <biblScope type="pages">606-15</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-29">Encoded, validated</change>
+         
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN AND HIS "DRUM TAPS." <!-- [Review of Drum-Taps] --></head>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>C<hi rend="smallcaps">ONSIDERING</hi> the amount of adverse criticism that has been aimed at Walt Whitman for the last ten years, and the apparent security with which the public rests in the justness of its verdict concerning him, it certainly cannot be damaging to the cause of literature in America, where discussion and agitation in all things are the need of every hour, for us to set up a claim, in a mild way, illustrated by his recent publication called "Drum Taps," more favorable to this rejected and misinterpreted poet.</p> 
+  
+         <p>Moreover, the beautiful benevolence he has shown during the war in nourishing the sick and wounded soldiers, and his great love and humanity as exhibited in this little volume, entitle him, on grounds of justice alone, to more respect and consideration than he has hitherto received at the hands of his countrymen. He has been sneered at and mocked and ridiculed; he has been cursed and caricatured and persecuted, and instead of retorting in a like strain, or growing embittered and misanthropic, he has preserved his serenity and good nature under all, and illustrated the doctrine of charity he has preached by acts of the most pure and disinterested benevolence. Walt Whitman was born on Long Island, N. Y., in the Spring of 1819, and boasts that his tongue and every atom of his blood was formed from this soil, this air. "Born here of parents born here, from parents the same and their parents' parents the same," and hence, physiologically, is American to the very marrow of his bones.</p> 
+
+         <p>On his father's side, his stock is English; on his mother's, Holland Dutch. From his father he inherits his large frame and muscular build—his antecedents here being a race of farmers and mechanics, silent, good-natured, playing no high part in society, politics or the church, and noted chiefly for strength and size. His early life was passed partly in Brooklyn and partly in the country about forty miles east of Brooklyn, where he lived much in presence of the sea. Between the ages of seventeen and twenty he seems to have been mostly engaged in teaching country schools in his native town and vicinity. It was about this time that he began writing for the press. His first productions, mostly sketches, appeared in the "Democratic Review," from which they were copied into some of the newspapers. Between the ages of twenty and thirty, he was variously occupied as writer and editor on the press of New York and Brooklyn, sometimes going into the country and delivering political addresses. During this period he was on familiar terms of acquaintance with William Cullen Bryant, and the two were in the habit of taking long walks, which, of course, were equivalent to long talks, in and about Brooklyn. In 1850 he went to New Orleans in the capacity of editor, where he remained a year. On his trip to and from that city he made it a point to penetrate various parts of the West and Southwest, particularly to explore the Mississippi and its tributaries, searching, one might say, for hints and models to be used in the making of his poems.</p> 
+  
+         <p>He does not seem to have conceived the idea of writing "Leaves of Grass" till after his thirtieth year. How he was led to adopt this style of expression, thoroughly versed as he was in the literature of the day, is uncertain. The most probable explanation is, that he felt hampered by the old forms and measures, and saw that if America ever came to possess a style of her own it would be in the direction of more freedom and scope—a feeling in which many of his contemporaries are beginning to share. For three or four years before he began to write in this vein, and while his loaf was leavening, as it were, he was a diligent student of the critical literature of the age, delving into foreign magazines and quarterly reviews, and collecting together a vast amount of matter, bearing upon poetry and literature generally, for further use and study. It is quite probable that this course of reading had some influence in determining his own course as a poet, and that he knew well beforehand wherein the head and front of his offending would lie. It has not been with his eyes shut that he set himself squarely against the popular taste and standards, and wrote for an audience of which he did not count upon the present existence of a single member. It cannot be said with the same force of any other writer, living or dead, that he must "wait to be understood by the growth of the taste of himself."</p> 
+
+         <p>When "Leaves of Grass" was written and published, the author was engaged in putting up small frame houses in the suburbs of Brooklyn, partly with his own hands and partly with hired help. The book was still-born. To a small job printing office in that city belongs the honor, if such, of bringing it to light. Some three score copies were deposited in a neighboring book store, and as many more in another book store in New York. Weeks elapsed and not one was sold. Presently there issued requests from both the stores that the thin quarto, for such it was, should be forthwith removed. The copies found refuge in a well-known phrenological publishing house in Broadway, whose proprietors advertised it and sent specimen copies to the journals and to some distinguished persons. The journals remained silent, and several of the volumes sent to the distinguished persons were returned with ironical and insulting notes. The only attention the book received was, for instance, the use of it by the collected <hi rend="italic">attachés</hi> of a leading daily paper of New York, when at leisure, as a butt and burlesque—its perusal aloud by one of the party being equivalent to peals of  ironical laughter from the rest.</p> 
+
+         <p>A small but important occurrence seems to have turned the tide. This was the appearance of a letter from the most illustrious literary man in America, brief, but containing a magnificent eulogium of the book. A demand arose, and before many months all the copies of the thin quarto were sold. At the present date, a curious person, poring over the shelves of second-hand book stalls in side places of the city, may light upon a copy of this quarto, for which the stall-keeper will ask him treble its first price. "Leaves of Grass," considerably added to, and printed in the new shape of a handy 16mo. of about 350 pages, again appeared in 1857. This edition also sold. The newspaper notices of it both here and in Great Britain were numerous, and nearly all of them scoffing, bitter and condemnatory. The most general charge made was that it had passages of serious indelicacy.</p> 
+
+         <p>For the third time, now much enlarged and in a really beautiful typography and accompaniments, these "Leaves" were issued in Boston as a 12mo. of 456 pages, in 1860. This is their last appearance. An edition of several thousand was taken up, but the business panic of the year, joined with the war, broke down the publishing house that had the book in hand, and the stereotype plates were locked up in chancery. We understand, however, that a new edition is now (August) in the hands of the printer and will shortly be given to the public. This edition will include "Drum Taps," and show many changes, both in the text and arrangement of the other poems, and indicate much more clearly the purpose or idea of the poet than any edition heretofore published. The entire carrying out of his plan, however, still contemplates the addition of a series of short pieces, like those called "Calamus," expressive of the religious sentiment and aspiration of man.</p> 
+
+         <p>The full history of the book, if it could ever be written, would be a very curious one. No American work has ever before excited at once such diametrically opposite judgments, some seeing in it only matter for ridicule and contempt; others, eminent in the walks of literature, regarding it as a great American poem. Its most enthusiastic champions are young men, and students and lovers of nature; though the most pertinent and suggestive criticism of it we have ever seen, and one that accepted it as a whole, was by a lady—one whose name stands high on the list of our poets. Some of the poet's warmest personal friends, also, are women of this mould. On the other hand, the most bitter and vindictive critic of him of whom we have heard was a Catholic priest, who evoked no very mild degree of damnation upon his soul; if, indeed, we except the priestly official at the seat of government who, in administering the affairs of his department, on what he had the complacency to call Christian principles, took occasion, for reason of the poet's literary heresies alone, to expel him from a position in his office. Of much more weight than the opinion of either of these Christian gentlemen is the admiration of that Union soldier we chanced to hear of, who by accident came into possession of the book, and without any previous knowledge of it or its author, and by the aid of his mother wit alone, came to regard it with feelings akin to those which personal friendship and intercourse alone awaken; carrying it in his knapsack through three years of campaigning on the Potomac, and guarding it with a sort of jealous affection from the hands of his comrades.</p> 
+
+         <p>It certainly is an astounding book; but if one will face it fairly, it is by no means so hopeless as it would seem. If the book as a whole means anything, it means power, health, freedom, democracy, self-esteem, a full life in the open air, an escape from the old forms and standards, and a declaration for new and enlarged modes, not only in letters, but in life. In other words, "Leaves of Grass" is the expression in literature of a perfectly healthy, unconventional man; not an abstract, or an intellectual statement of him merely, but the full rendering of a human personality for better or for worse. The poet celebrates himself, that is, uses himself, as an illustration of the character upon which his book is predicated, and which he believes to be typical of the American of the future. This character he has mapped out in bold, strong lines, and in its interest has written his poems. Hence it is not for the man of to-day he has spoken; he has discarded the man of today as effete—has rejected his models and standards, and spoken for what he believes to be the man of the future. He must, therefore, have been well prepared for the reception he has met with. Is it to be expected that current conventionalities will endorse him who seeks their overthrow? If we see correctly, the book is also a terrible reaction against the petty, dainty, drivelling ways into which literature has fallen.</p> 
+
+         <p>But to return to our account of the poet himself. Contrary to the hasty opinions of the critics, who mistook the personal element in his poems and their <hi rend="italic">un</hi>literary spirit (the spirit of nature and life is always unliterary) as evidence of the want of culture in their author, he is a man deeply learned in all the great literatures of the world. The Greek dramatists he has read as few moderns have, and knows Homer to his finger ends. The sects and commentators have not spoilt for him that greatest of books, the Bible, which he always has near. And his mastery of the German metaphysicians has not barred his mind to the enjoyment of the other extreme of literature; the stores of ballad poetry, as the Spanish songs of the "Cid,"<ref target="n1" xml:id="r1" n="1"/> and Walter Scott's "Border Minstrelsy,"<ref target="n2" xml:id="r2" n="2"/> which last is a source of never-failing delight to him. Considering how the critics have fathered him on Emerson, it is valuable to know that he did not make the acquaintance of Emerson's mind till after the publication of the first edition of his poems. Going, as was his wont, to spend a long Summer day by the sea-shore on Coney Island, in those years a place entirely uninhabited, he carried with him in the basket that contained his dinner, three volumes of "Emerson's Essays," which a friend had recommended to him. There, on that solitary beach fronting the sea, he that day, for the first time, read Emerson.</p> 
+
+         <p>But he has been a reader of men and of things, and a student of America, much more than of books. Fond of cities, he has gone persistently into all their haunts and by-places, not as a modern missionary and reformer, but as a student and lover of men, finding beneath all forms of vice and degradation the same old delicious, yearning creatures, after all.</p> 
+
+         <p>Lethargic during an interview, passive and receptive, an admirable listener, never in a hurry, with the air of one who has plenty of leisure, always in  perfect repose, imple and direct in manners, a lover of plain, common people, "meeter of savage and gentleman on equal terms," temperate, chaste, sweet-breathed, tender and affectionate, of copious friendship, preferring always to meet as flesh and blood, and with a large, summery, motherly soul that shines in all his ways and looks, he is by no means the "rough" people have been so willing to believe. Fastidious as a high caste Brahmin in his food and personal neatness and cleanliness, well dressed, with a gray, open throat, a deep, sympathetic voice, a kind, genial look, the impression he makes upon you is that of the best blood and breeding. He reminds one  of the first men—the beginners; has a primitive, out-door look—not so much from being in the open air as from the texture and quality of his make—a look as of the earth, the sea, or the mountains, and "is usually taken," says a late champion of his cause, "for some great mechanic, or stevedore, or seaman, or grand laborer of one kind or another." His physiognomy presents very marked features—features of the true antique pattern, almost obsolete in modern faces—seen in the strong, square bridge of his nose, his high arching brows, and the absence of  all bulging in his forehead, a face approximating in type to the statued Greek. He does not mean intellect merely, but life; and one feels that he must arrive at his results rather by sympathy and absorption than by hard intellectual processes; by the effluence of power rather than by direct and total application of it. In keeping with this, his poems do not have the character of carefully elaborated specimens—of gems cut and polished by the intellect, but are warm and vascular, like living organisms.</p> 
+
+         <p>In the matter of health he is an exception to most known instances. He presents the rare phenomenon of a man giving himself to intellectual labor without suffering the slightest detriment to his physical powers; never knowing dyspepsia, nervousness, ennui, and an entire stranger to headache until his presence in the army hospitals, and his stopping too long consecutively after the battles of the Wilderness, with a collection of gangrened wounds, had inoculated his system with a malignant virus. And this robust bodily health, as we have said, is one key to his poems. The peculiar quality of them—a quality as of the open air, the woods, the shore, we believe to be more or less attributable to this source. The absence of all pettiness, dallying and sentimentalism, follows from a like cause.</p> 
+  
+         <p>We need not praise him for his patriotism, yet was there ever such a lover of country? He has trailed its entire geography through his poems, courteously saluted every city, great and small, celebrated every phase of its life, the habits of its people, their trades, tools, employments, etc.; has tallied in his poems its vast mass movements, and has not merely predicted, but unhesitatingly counted upon, a future greatness for it absolutely unparalleled in the history of the world.</p> 
+  
+         <p>Soon after the breaking out of the Rebellion, he was drawn to the seat of war to look after a wounded brother<ref target="n3" xml:id="r3" n="3"/>—a captain in one of the New York regiments -and since that time has been engaged in field and hospital in nourishing the sick and wounded soldiers. Up to a very recent date he was still quietly but steadily occupied in the same ministrations among the few worst specimens that lingered in the hospitals about Washington.</p>
+
+         <p>His theory seems to have been that what the soldiers—many of them becoming worse, and even dying of sheer home-sickness—most needed, was a fresh, cheerful countenance, a strong, hopeful voice, and the atmosphere and presence of a loving and healthy friend. Hence he went among them purely in the spirit of love, distributing small gifts—sometimes of money, books, or papers, sometimes of fruits, delicacies, or special food—now reading aloud to a listening group, now soothing by his presence the worst, and, may be, last moments of some poor sufferer. Many soldiers can be found who aver that he saved their lives out and out. His mere presence was tonic and invigorating.</p> 
+
+         <p>The book called "Drum Taps," which is the result of the poet's experience in the army and in the hospitals, and to which we propose to devote the remainder of this article, is a little volume of less than a hundred pages, full of warlike passion, singularly blended with as much sadness, perhaps, as was ever printed in a like space. </p>
+
+         <p>Those who know Walt Whitman will not be surprised at his calmness and good nature under the treatment awarded to his previous book, and that he should still display the same confidence in himself, and determination to "fight it out on that line" that he evinced at first.</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00208" cert="absolute"/>
+                        <!-- As I Lay with My Head in Your Lap Camerado -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I am more resolute because all have denied me that I could ever have been had all <lb/>accepted  me<choice><sic>;</sic><corr>,</corr></choice> I heed not, and have never heeded<choice><sic>,</sic><corr></corr></choice> either experience, cautions, majorities, <lb/>nor ridicule<choice><sic>.</sic><corr>,</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>Yet, on the whole, the sadness and solemnity of "Drum Taps" contrasts strongly with the flushed, exultant, arrogant, fore-noon spirit of "Leaves of Grass." Here the thought is of death and suffering, and of the desolation of hearts.</p>
+  
+         <p>Though his themes are mostly suggested by our recent war, yet it is evidently not the purpose of the poet to give descriptions of battles and of great campaigns, or to celebrate great leaders and brilliant achievements; but rather to give the human aspects of anguish that follow in the train of war. He has looked deeper into the matter than the critics are willing to believe. He perhaps feels that the permanent condition of modern society is that of peace; that war, as a business, as a means of growth, has served its time, and that, notwithstanding the vast difference between ancient and modern warfare, both in the spirit and in the means, Homer's pictures are essentially true yet, and no additions to them can be made. War can never be to us what it was to Greece, Rome, and, indeed, to the nations of all ages down to the present; never the main fact—the paramount condition, tyrannizing over all the affairs of national and individual life; but only an episode, a passing interruption; and the poet who in our day would be as true to his nation and times as Homer was to his, must treat of it from the standpoint of peace and progress, and even benevolence. Vast armies rise up in a night and disappear in a day—half a million of men, inured to battle and to blood, go back to the avocations of peace without a moment's confusion or delay—indicating clearly the tendency that prevails.</p> 
+
+         <p>Also, in obedience to the true democratic spirit, which is the spirit of the times, the attention of the poet is not drawn to the army as a unit—as a tremendous power wielded by a single will, but to the private soldier, the man in the ranks, from the farm, the shop, the mill, the mine, still a citizen engaged in the sacred warfare of peace. Always and always the individual, this is the modern doctrine, as opposed to slavery and caste and the results of the feudal world.</p> 
+  
+         <p>Hence those of the poet's friends who expected to find in this little volume all the "pomp and circumstance of glorious war" have been disappointed. Apostrophizing the genius of America, he says:</p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00211" cert="absolute"/>
+                        <!-- Lo, Victress on the Peaks -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>No poem proud<choice><sic></sic><corr>,</corr></choice> I chanting bring to thee<choice><sic>—</sic><corr>,</corr></choice>nor mastery's rapturous verse<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>   
+                        <l>But a <choice><sic>little book</sic><corr>cluster</corr></choice> containing night's darkness and blood-dripping wounds,</l>  
+                        <l>And psalms of the dead.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>His aim does not permit of the slightest expression of partisan or sectional feeling, or any exultation over a fallen foe. Under the head of "Reconciliation" are these lines:</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00206" cert="absolute"/>
+                        <!-- Reconciliation -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Word over all, beautiful as the sky<choice><sic>:</sic><corr>,</corr></choice>
+                        </l>
+                        <l>Beautiful that war<choice><sic>,</sic><corr></corr></choice> and all its deeds of carnage<choice><sic>,</sic><corr></corr></choice> must in time be utterly lost<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>That the hands of the sisters Death and Night incessantly<choice><sic>,</sic><corr></corr></choice> softly wash again, and ever <lb/>again, this soil'd world;</l>
+                        <l>For my enemy is dead<choice><sic>—</sic><corr>,</corr></choice>a man divine as myself is dead<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>I look where he lies<choice><sic>,</sic><corr></corr></choice> white-faced and still<choice><sic>,</sic><corr></corr></choice> in the coffin—I draw near<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>
+                           <choice><sic>I</sic><corr></corr></choice> 
+                           <choice><sic>bend</sic><corr>Bend</corr></choice> down and touch lightly with my lips the white face in the coffin.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The following lines express with great vividness and force the feeling in which all true patriots shared during the second year of the war:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00192" cert="absolute"/>
+                        <!-- Year that Trembled and Reel'd Beneath Me -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Year that trembled and reel'd beneath me!</l>
+                        <l>Your <choice><sic>Summer</sic><corr>summer</corr></choice> wind was warm enough<choice><sic>—</sic><corr>,</corr></choice>yet the air I breathed froze me<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>A thick gloom fell through the sunshine and darken'd me<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>Must I change my triumphant songs? said I to myself<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>Must I indeed learn to chant the cold dirges of the baffled?</l>
+                        <l>And sullen hymns of defeat?</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The poem on page 71 is so full of an overmastering pathos; and displays so well the poet's peculiar method and spirit, that we give it entire:</p>
+     
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00300" cert="absolute"/>
+                        <!-- Pensive on Her Dead Gazing quoted in full except for line 3, which is missing -->
+                        <!-- Cannot find this passage in Project Gutenberg e-text to verify -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Pensive, on her dead gazing, I heard the Mother of All,</l> 
+                        <l>Desperate, on the torn bodies, on the forms covering the battle-fields gazing;</l>   
+                        <l>As she call&#x92;d to her earth with mournful voice while she stalk&#x92;d:</l>   
+                        <l>Absorb them well, O my earth, she cried—I charge you, lose not my sons! lose not an <lb/>atom;</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>And you streams, absorb them well, taking their dear blood;</l>   
+                        <l>And you local spots, and you airs that swim above lightly,</l>   
+                        <l>And all you essences of soil and growth—and you, my rivers&#x92; depths;</l>   
+                        <l>And you, mountain sides—and the woods where my dear children&#x92;s blood, trickling, <lb/>redden&#x92;d;</l>
+                     </lg>
+  
+                     <lg type="linegroup">
+                        <l>And you trees, down in your roots, to bequeath to all future trees,</l>
+                        <l>My dead absorb—my young men&#x92;s beautiful bodies absorb—and their precious, precious, <lb/>precious blood;</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Which holding in trust for me, faithfully back again give me, many a year hence,</l>   
+                        <l>In unseen essence and odor of surface and grass, centuries hence;</l>   
+                        <l>In blowing airs from the fields, back again give me my darlings—give my immortal <lb/>heroes;</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Exhale me them centuries hence—breathe me their breath—let not an atom be lost;</l>
+                        <l>O years and graves! O air and soil! O my dead, an aroma sweet!</l>   
+                        <l>Exhale them perennial, sweet death, years, centuries hence.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+ 
+         <p>Or again in this:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00205" cert="absolute"/>
+                        <!-- Look Down Fair Moon -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Look down<choice><sic>,</sic><corr></corr></choice> fair moon<choice><sic>,</sic><corr></corr></choice> and bathe this scene<choice><sic>;</sic><corr>,</corr></choice>
+                        </l> 
+                        <l>Pour softly down night's nimbus floods, on faces ghastly, swollen, purple<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>  
+                        <l>On the dead<choice><sic>,</sic><corr></corr></choice> on their backs<choice><sic>,</sic><corr></corr></choice> with their arms toss'd wide,</l>    
+                        <l>Pour down your unstinted nimbus<choice><sic>,</sic><corr></corr></choice> sacred moon.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The following exquisite stanza illustrates the poet's power to give a human 
+interest to inanimate objects, and his biblical largeness and freedom in the use 
+of metaphors:</p> 
+     
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00424" cert="absolute"/>
+                        <!-- Bathed in War's Perfume -->
+                        <!-- Cannot find this passage in Project Gutenberg e-text to verify -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Bathed in war's perfume—delicate flag!</l>
+                        <l>O to hear you call the sailors and the soldiers! flag like a beautiful woman!</l>
+                        <l>O to hear the tramp, tramp, of a million answering men! O the ships they arm with <lb/>joy!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>O to see you leap and beckon from the tall masts of ships!</l>
+                        <l>O to see you peering down on the sailors on the decks!</l>
+                        <l>Flag like the eyes of women.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>We invite the reader's careful consideration of one more piece, in which the poet's subtle art and large range of sympathies are perhaps best seen—the poem  commemorating the death of Lincoln, beginning, "When lilacs last in the door-yard bloomed." This poem must not be dismissed with a single perusal—a caution, indeed, which may well be observed in reference to the whole book. For, let it be understood, we are dealing with one of the most tyrannical and exacting of bards—one who steadfastly refuses to be read in any but his own spirit. It is only after repeated readings and turning to him again and again, that the atmosphere he breathes is reached. "You must Summer and Winter with people to know them," says an old proverb, which is especially true of this poet. The piece referred to is like intricate and involved music, with subtle, far-reaching harmonies. By that curious indirect method which is always the method of nature, the poet makes no reference to the mere facts of Lincoln's death—neither describes it, or laments it, or dwells upon its unprovoked atrocity, or its political aspects, but quite beyond the possibilities of the art of the ordinary versifier, he seizes upon three beautiful facts of nature which he weaves into a wreath for the dead President's tomb. The central thought is of death, but around this he curiously twines, first the early blooming lilacs which the poet may  have plucked the day the dark shadow came; next the song of the hermit thrush, the most sweet and solemn of all our songsters, heard at twilight in the dusky cedars; and with these the evening star, which, as many may remember, night after night in the early part of that eventful Spring, hung low in the west with unusual lustre and brightness. These are the premises whence he starts his solemn chant.</p> 
+  
+         <p>The poem may disappoint on the first perusal. The treatment of the subject is so unusual—so unlike the direct and prosy style to which our ears have been educated—that it seems to want method and purpose. It eludes one; it hovers and hovers and will not be seized by the mind, though the soul feels it. But it presently appears that this is precisely the end contemplated by the poet. He would give as far as possible the analogy of music, knowing that in that exalted condition of the sentiments at the presence of death in a manner so overwhelming, the mere facts or statistics of the matter are lost sight of, and that it is not a narrative of the great man's death, done into rhyme, however faultless, or an eulogy upon his character, however just and discriminating, that offers an opportunity for the display of the highest poetic art, or that would be the most fitting performance on an occasion so august and solemn. Hence the piece has little or none of the character of the usual productions on such occasions. It is dramatic, yet there is no procession of events or development of plot, but a constant interplay—a turning and re-turning of images and sentiments, so that the section in which is narrated how the great shadow fell upon the land occurs far along in the piece. It is a poem that may be slow in making admirers, yet it is well worth the careful study of every student of literature.</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!-- When Lilacs Last in the Dooryard Bloom'd lines 33-54 -->
+                        <!-- Cannot find this passage in Project Gutenberg e-text to verify -->
+
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Coffin that passes through lanes and streets,</l>   
+                        <l>Through day and night, with the great cloud darkening the land,</l>   
+                        <l>With the pomp of the inloop&#x92;d flags, with the cities draped in black,</l>
+                        <l>With the show of the States themselves, as of crape-veil&#x92;d women, standing,</l>   
+                        <l>With processions long and winding, and the flambeaus of the night,</l>   
+                        <l>With the countless torches lit—with the silent sea of faces, and the unbared heads,</l>   
+                        <l>With the waiting depot, the arriving coffin, and the sombre faces,</l>   
+                        <l>With dirges through the night, with the thousand voices rising strong and solemn;</l>
+                        <l>With all the mournful voices of the dirges, pour&#x92;d around the coffin,</l>   
+                        <l>The dim-lit churches and the shuddering organs—Where amid these you journey,</l>   
+                        <l>With the tolling, tolling bells&#x92; perpetual clang;</l>   
+                        <l>Here! coffin that slowly passes,</l>   
+                        <l>I give you my sprig of lilac.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>(Nor for you, for one, alone;</l>   
+                        <l>Blossoms and branches green to coffins all I bring:</l>   
+                        <l>For fresh as the morning—thus would I carol a song for you, O sane and sacred death.</l>   
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>All over bouquets of roses,</l>   
+                        <l>O death! I cover you over with roses and early lilies;</l>
+                        <l>But mostly and now the lilac that blooms the first,</l>   
+                        <l>Copious, I break, I break the sprigs from the bushes;</l>   
+                        <l>With loaded arms I come, pouring for you,</l>   
+                        <l>For you, and the coffins all of you, O death.)</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- The previous and following quotes in the review imply one continuous passage when actually are separate (so encoded here as two separate quotes) -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!-- When Lilacs Last in the Dooryard Bloom'd lines 72-89 -->
+                        <!-- Cannot find this passage in Project Gutenberg e-text to verify -->
+
+                     </relations>
+                     <lg type="linegroup">
+                        <l>O how shall I warble myself for the dead one there I loved?</l>   
+                        <l>And how shall I deck my song for the large sweet soul that has gone?</l>   
+                        <l>And what shall my perfume be, for the grave of him I love?</l>   
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Sea-winds, blown from east and west,</l>
+                        <l>Blown from the eastern sea, and blown from the western sea, till there on the prairies <lb/>meeting:</l>   
+                        <l>These, and with these, and the breath of my chant,</l>   
+                        <l>I perfume the grave of him I love.</l>
+                     </lg> 
+   
+                     <lg type="linegroup">
+                        <l>O what shall I hang on the chamber walls?</l>   
+                        <l>And what shall the pictures be that I hang on the walls,</l>
+                        <l>To adorn the burial-house of him I love?</l>   
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Pictures of growing spring, and farms, and homes,</l>   
+                        <l>With the Fourth-month eve at sundown, and the gray smoke lucid and bright,</l>   
+                        <l>With floods of the yellow gold of the gorgeous, indolent, sinking sun, burning, <choice><orig>expand-<lb/>ing</orig><reg>expanding</reg></choice> the air;</l> 
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>With the fresh sweet herbage under foot, and the pale green leaves of the trees <choice><orig>pro-<lb/>lific</orig><reg>prolific</reg></choice>;</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>In the distance the flowing glaze, the breast of the river, with a wind-dapple here and <lb/>there;</l>   
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>With ranging hills on the banks, with many a line against the sky, and shadows;</l>   
+                        <l>And the city at hand, with dwellings so dense, and stacks of chimneys,</l>   
+                        <l>And all the scenes of life, and the workshops, and the workmen homeward returning.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The poem reaches, perhaps, its height in the matchless invocation to Death:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!-- When Lilacs Last in the Dooryard Bloom'd lines 136-159 -->
+                        <!-- Cannot find this passage in Project Gutenberg e-text to verify -->
+
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Come, lovely and soothing Death,</l>   
+                        <l>Undulate round the world, serenely arriving, arriving,</l>   
+                        <l>In the day, in the night, to all, to each,</l>   
+                        <l>Sooner or later, delicate Death.</l> 
+                     </lg>  
+   
+                     <lg type="linegroup">
+                        <l>Prais&#x92;d be the fathomless universe,</l> 
+                        <l>For life and joy, and for objects and knowledge curious;</l>   
+                        <l>And for love, sweet love—But praise! O praise and praise</l>  
+                        <l>For the sure-enwinding arms of cool-enfolding Death,</l>   
+                     </lg>
+   
+                     <lg type="linegroup">
+                        <l>Dark Mother, always gliding near, with soft feet,</l>   
+                        <l>Have none chanted for thee a chant of fullest welcome?</l>
+                        <l>Then I chant it for thee—I glorify thee above all;</l>   
+                        <l>I bring thee a song that when thou must indeed come, come unfalteringly.</l>   
+                     </lg>
+   
+                     <lg type="linegroup">
+                        <l>Approach, strong Deliveress!</l>   
+                        <l>When it is so—when thou hast taken them, I joyously sing the dead,</l>   
+                        <l>Lost in the loving, floating ocean of thee,</l>
+                        <l>Laved in the flood of thy bliss, O Death.</l>   
+                     </lg>
+
+                     <lg type="linegroup">   
+                        <l>From me to thee glad serenades,</l>   
+                        <l>Dances for thee I propose, saluting thee—<choice><sic>dornments</sic><corr>adornments</corr></choice> and feastings for thee;</l>   
+                        <l>And the sights of the open landscape, and the high-spread sky, are fitting,</l>   
+                        <l>And life and the fields, and the huge and thoughtful night.</l> 
+                     </lg>
+
+                     <lg type="linegroup">  
+                        <l>The night, in silence, under many a star;</l>   
+                        <l>The ocean shore, and the husky whispering wave, whose voice I know;</l>   
+                        <l>And the soul turning to thee, O vast and well-veil&#x92;d Death,</l>   
+                        <l>And the body gratefully nestling close to thee.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The gravity and seriousness of this book and its primitive untaught ways are entirely new in modern literature. With all our profuse sentimentalism, there is no deep human solemnity—the solemnity of a strong, earnest affectionate, unconventional man—in our literature. There are pathos and tears and weeds of mourning; but we would indicate an attitude or habit of the soul which is not expressed by melancholy—which is no sudden burst, or fit, or spasm—which is not inconsistent with cheerfulness and good nature, but which is always coupled with these—a state or condition induced by large perceptions, faith, and deep human sympathies. It may be further characterized as impatient of trifles and dallyings, tires even of wit and smartness, dislikes garrulity and fiction and  all play upon words, and is but one remove from silence itself. The plainness and simplicity of the biblical writers afford the best example.</p> 
+  
+         <p>Contemplation, without love or sympathy, of the foibles, follies, and fashions  of men and women and of their weaknesses and oddities begets the punning, scoffing, caricaturing habit we deprecate; contemplation of the laws and movements of society, the shows and processes of nature and issues of life and death, begets the rugged faith and sweet solemnity we would describe in "Drum Taps."</p> 
+  
+         <p>The reader perceives that the quality of these poems is not in any word, or epithet, or metaphor, or verbal and labial felicity whatever; but in the several atmospheres they breathe and exhale. The poet does not aim to load his pages with sweets—he makes no bouquets, distils no perfumes—whatever flower-scents there are, are lost in a smell as of the earth, the shore, the woods. Fine writing, with him, goes for naught. He seeks neither to please nor startle, nor even convince any more than nature does; and beauty follows, if at all, never as the aim, always as the result. There are none of the generally sought for, and, when found, much applauded, delicate fancies or poetical themes—but a large and loving absorption of whatever the earth holds. And this leads us to our final remark upon this subject, in making which we mean discredit to none.</p> 
+  
+         <p>It seems to us that Walt Whitman possesses almost in excess, a quality in which every current poet is lacking. We mean the faculty of being in entire sympathy with nature, and the objects and shows of nature, and of rude, abysmal man; and appalling directness of utterance therefrom, without any intermediate agency or modification.</p> 
+
+         <p>The influence of books and works of art upon an author may be seen in all respectable writers. If knowledge alone made literature, or culture genius, there would be no dearth of these things among the moderns. But we feel bound to say that there is something higher and deeper than the influence or perusal of any or all books, or all other productions of genius—a quality of information which the masters can never impart, and which all the libraries do not hold. This is the absorption by an author, previous to becoming so, of the spirit of nature, through the visible objects of the universe, and his affiliation with them subjectively and objectively. The calm, all-permitting, wordless spirit of nature yet so eloquent to him who hath ears to hear! The sunrise, the heaving sea, the woods and mountains, the storm and the whistling winds, the gentle Summer day, the Winter sights and sounds, the night and the high dome of stars—to have really perused these, especially from childhood onward, till what there is in them so impossible to define finds its full mate and echo in the mind—his only is the lore which breathes the breath of life into all the rest. Without it, literary productions may have the superb beauty of statues, but with it only can they have the beauty of life.</p> 
+
+         <closer>
+            <signed rend="right">J<hi rend="smallcaps">OHN</hi> B<hi rend="smallcaps">URROUGHS</hi>.</signed>
+         </closer>
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+"Song of my Cid" is an epic poem of the mid-12th century and the earliest surviving work of Spanish literature.
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+Walter Scott's (1771-1832) <hi rend="italic">Border Minstrelsy</hi> was his 1802-1803 collection of border ballads.
+</note>
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+The wounded brother refers to George Washington Whitman (1829-1901), Walt's younger brother who enlisted at the outbreak at the Civil War and was wounded at Fredricksburg. 
+</note> 
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00221">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">"Leaves of Grass"</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Walter Lewin</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00221</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Lewin, Walter">Walter Lewin</author>
+                  <title level="a">"Leaves of Grass"</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Murray's Magazine</title>
+                  <imprint>
+                     <date when="1887-09">September 1887</date>
+                     <biblScope type="pages">327-39</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-06">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"Leaves of Grass." <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>T<hi rend="smallcaps">WO</hi> volumes contain all of Whitman's writings that the matured judgment of their author has approved for preservation; and one of these is only a miscellany of prose essays and diary jottings. The other, <hi rend="italic">Leaves of Grass</hi>, has been Whitman's life-work. In the poems or chants with which it is filled, Whitman has endeavoured to embody human life as he has gathered the facts from his personal experience. It has grown with his growth. From a book of 107 pages it has developed into the compact work of to-day. As long ago as 1871 he announced that the fifth edition, then issuing from the press, was "the final one." He under-estimated his powers of expansion. His life and his book are so interwoven, that it is premature to write "finis" to the latter until the former is accomplished. Each year brings new experience and consolidates that which has come before. Every sincere and capable writer puts himself into his books, impressing even quotations and translations with his personality, but <hi rend="italic">Leaves of Grass</hi> contains more than this. It is a unique autobiography. Many persons have written down the story of their lives, so far as, in their old age, they could recollect it. Looking back upon their career as a whole, they necessarily give to the record the impress of their later judgment. Usually such works are filled with incidents, though, here and there,—notably in the case of John Stuart Mill<ref target="n1" n="1" xml:id="r1"/>—they present a photograph of the mind. Walt Whitman did not wait until his later years to begin his autobiography. Life seemed a wondrous experience to him, worth putting on record while it was passing. He jotted down what he saw and heard and felt, while the events were still fresh and alive and in instant relation to himself. In <hi rend="italic">Leaves of Grass</hi> Whitman has bodied forth a biography of the human soul; of his own ostensibly, of all souls really, for the experience of the individual is simply the experience of the race in miniature. <hi rend="italic">Leaves of Grass</hi> is a record of the soul's voyage through life; a gathering of experience, of joy and sorrow, of feeling, emotion and thought. This gives to the book its power and charm and also, in some aspects and to some persons, makes it repellant.</p>
+	
+         <p>A want of concentrative force, even a disposition to indolence, may be traced through the career of our author. He himself confessed to a friend that he had "no talent for industry." During his early years we find too many changes of occupation and scene, printing, editing, writing, publishing, teaching, joinering, house-building; one time in New York, another in New Orleans, then back again or up and down the country. This erratic temperament displays itself in the scrappy character of much of his literary work. Yet he was the reverse of an idle man. He always earned his bread. If his worldly gains were small, there was compensation in the modesty of his wants. He said he could, on the whole, live magnificently on bread and water.</p>
+	
+         <p>Whitman's admirers have certainly no right to complain that his energies were not centered on trade or other fortune making. All those years of miscellaneous occupation and variety of scene were his apprenticeship. The "many a good day or half-day" on Long Island, of which he tells, riding, boating, walking, "absorbing fields, shores, marine incidents, characters, the bay-men, farmers, pilots, fishermen," by-and-by took form in poetry. So also did the city scenes in which he mingled; his jaunts on New York omnibuses, and intercourse with the drivers—"Broadway Jack," "Old Elephant," "Yellow Joe," and the rest—and with the toilers in the workshops and with the loungers in the streets. "I suppose the critics will laugh heartily," he writes, "but the influence of those Broadway omnibus jaunts, and drivers, and declamations, and escapades, undoubtedly entered into the gestation of <hi rend="italic">Leaves of Grass</hi>." He visited hospitals, alms-houses and prisons, attended political gatherings, frequented taverns, and was the friend of publicans and sinners. He was a good observer and a good hearer, and his curiosity was unbounded. He would take nothing from another's report, but must see and hear and feel for himself. The gods had provided a banquet of life, and he would taste of every dish, whether it were sweet or bitter. To a weaker spirit than his, it might have been a perilous thing to do. That which we call experience is the soul's vision of itself in the mirror of the world; the spectacle may well frighten those who dare not to discover, even to themselves, what they really are; but the strong, seeing their defects, aspire to perfection. To the well-constituted mind variety brings health, rough contact invigorates, the experiences of the world, smooth and rugged, yield pure benefit.</p>
+	
+         <p>What precisely Whitman did during this period I do not know and am not interested to discover. The mere knowledge of a man's deeds may easily mislead the judgment. Did he <hi rend="italic">do</hi> this or that? What does it signify? The vital questions are, What were his opportunities? what use did he make of them? how would he have behaved under other conditions? Whitman was never on trial with felons, yet he confessed himself as much a felon as those who were:</p>
+
+         <!-- From "You Felons on Trial in Courts" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00239" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">			
+                        <l>"You felons on trial in courts,</l>
+                        <l>You convicts in prison cells; you sentenced assassins chain'd and <lb/>handcuff'd with iron,</l>
+                        <l>Who am I, too, that I am not on trial or in prison?</l>
+                        <l>Me, ruthless and devilish as any, that my wrists are not chain'd with <lb/>iron or my ankles with iron?</l>
+                        <l>∗∗∗∗∗</l>
+                        <l>O, admirers! praise me not—compliment me not—you make me <lb/>wince,</l>
+                        <l>I see what you do not, I know what you do not."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>This bit of experience will find a responsive echo in many minds. Have we not all felt, some time in our lives, when we have been made confidants of some secret wrong or have witnessed the exposure of evil-doers, how equally guilty in all but the mere deed we also were? Nay, have we not felt we were in some sort worse than those others, because, being guilty, we were praised as innocent, or at least escaped due chastisement, merely because we did not make our guilt manifest in an act? Worthy John Bradford<ref target="n2" n="2" xml:id="r2"/>, when he saw a criminal carried to execution, used to say, "There, but for the grace of God, goes John Bradford."  If it were not for the grace of God, or, if you prefer, the fortunate chance or the want of opportunity to do ill, not a few on-lookers, not a few reputed saints, would be standing side by side with the felons on trial in the courts.</p>
+	
+         <p>Nevertheless, this acknowledgement of kinship in sin or in the possibility of sin, is only a half statement of the truth that sin itself is lesser or stunted virtue, just as darkness is only light too thinly spread for human eyes to perceive. Men never turn themselves from the good, though they do not keep it continually in view; and, though they stumble and hesitate, their look and movement are always onward.</p>
+	
+         <p>How Whitman emerged from his experiences must be shown in his life, yet it is worth while to note that he is not blamed for these experiences, but for making a record of them. While others have been superficial and circumspect in what they wrote, he has striven to be thorough, and great has been the disgust that what every one secretly knew and was thinking of or timidly hinting, he should boldly declare. Such unaccustomed thoroughness caused an outcry; but he felt that, if he was to depict man at all, his presentment must be entire.</p>
+	
+         <p>Yet Whitman's honest bluntness is not without a touch of bravado, I think. It comes primarily from an intellectual conviction that in nature there are no indecencies, and to this conviction he resolves to give the fullest utterance. For his part, nothing being improper, nothing shall be suppressed. Mr. Lowell's remark that Fielding "had the courage to be absolutely sincere if he had not always the tact to see where sincerity was out of place"<ref target="n3" n="3" xml:id="r3"/> may be not inaptly applied to Whitman. There is much, too, in the way a thing is treated, and Whitman's touch, it must be admitted, is not delicate. His speech is open but not quite spontaneous; not as free and natural, for example, as the language of Fielding in some of his books. He is aware that he is doing rather a daring thing. He must wonder a little what the effect will be upon his readers. In other words, his expression of himself is conscious. Perhaps in our age this is unavoidable. Thackeray<ref target="n4" n="4" xml:id="r4"/> lamented that the condition of the time prevented him from using absolutely sincere expressions, and possibly he would have been a happier man and a healthier writer if he had had the liberty he craved. It is related that when Bayard Taylor<ref target="n5" n="5" xml:id="r5"/> was a child, his mother, who had been a Quakeress, tried so constantly to impress upon him the wickedness of profane swearing, that his imagination became centered on oaths, and he was filled with an uncontrollable desire to swear. So he went into the fields, beyond hearing, and there gave vent to all the oaths he had ever heard or could invent, in as loud a voice as possible. After this he felt happy. The human race may have been in a like predicament until Whitman relieved it, for a time, by his bold utterance. At any rate, I think thereby he relieved himself and, having written the section of his book called "Children of Adam," was free for the efficient performance of work more generally acceptable and useful. And, after all, the chief point is whether the statement he makes is true or false.</p>
+	
+         <p>Out of his experience Whitman constructed his book. <hi rend="italic">Leaves of Grass</hi> was begun on the shores of Long Island in 1853, the author being then thirty-four years old. He set it in type himself in the printing-office of a friend. It contained twelve pieces in verse and a preface in prose. In 1855 it appeared. A thousand copies were printed. Some were sent to newspapers and to public men, and afforded a certain amount of amusement to the recipients. The style was curious, and some of the ideas seemed odd and uncouth. Emerson, however, chancing upon a copy, discerned its value. He alone, of all the persons who saw the work, perceived that there was something worthy in it. He thought he discerned the signs of genius in its early dawn, and wrote straightway to the author to tell him that in his book he had found "incomparable things said incomparably well. . . . The solid sense of the book is a sober certainty. It has the best merits, namely, of fortifying and encouraging." Few if any copies of the book were sold.</p>
+	
+         <p>The second edition was issued in 1856, a much thicker volume than the first. It contained some of the pieces which are now gathered together in the section called "Children of Adam," and these changed the scornful laughter of the critics into angry denunciation. The sharp controversy to which they gave rise has not yet wholly subsided. The prose preface had disappeared or rather had taken poetical form. Since then several editions have appeared with varying but for the most part small fortune. One publisher failed; others grew timid and withdrew. The current edition issued in 1881, is the only one which, commercially, has proved a marked success.</p>
+	
+         <p>When the fourth edition was published, Whitman had gathered an important, new experience to be woven into poems. The Civil War had taken place. His brother having been wounded in an early engagement, he went to the front to nurse him. Once there, his sympathy with suffering was too strong to permit him to return. It is on record that he was careful to have his name on the roll of volunteers eligible for service, but he was not drafted. In the hospitals he found work as useful and as arduous, and needing as much courage as service in the army itself. But it was congenial, for his heart was more in saving than in slaying. It is said that during the war he personally tended or in some way aided not fewer than 100,000 wounded soldiers. Some of these services seem slight enough. A passing kindly word or touch or smile; but the suffering and lonely men appreciated such tokens of love. To not a few the last earthly vision was of that countenance glowing with tenderness. Whitman's aim was not to supplant but to suplement the doctors and nurses by giving aid which they had not the time, even if they had the understanding to give. He knew that more was needed than medical and surgical skill; that to these soldiers on beds of sickness, often of death, far from their friends, the power of a touch of home-tenderness would be magical. Hence, in many instances he gave true and substantial aid by pressing a hand or by a kiss or a smile or a word of cheer as he passed the bed; or he would write a letter to wife or mother, or give a little money or tobacco or an orange, or receive a message from the dying. Humane persons in different parts of the country sent him money and stores to carry on his work, and not a little came from his own pocket. A small volume called <hi rend="italic">Drum Taps</hi>, issued in 1865, is Whitman's record of his war-experiences. To it he appended a few pathetic pieces referring to the death of President Lincoln. All are now incorporated with <hi rend="italic">Leaves of Grass</hi>.</p>
+	
+         <p>In connection with these experiences, nothing is more significant than the expansion of Whitman's sentiment towards death. Already in his "Song of Myself" he had said, "As to you, Death, and you bitter hug of mortality, it is idle to try and alarm me . . . And, as to you, Life I reckon you are the leavings of many deaths, (no doubt I have died myself ten thousand times before)." But in the war and the tragedy of President Lincoln's death at its close, that which before had been perceived by the intellect has fused itself, by experience, into the life. He has faced death, mingled with it, borne it daily through four terrible years, and now he can sing his glowing chants of "heavenly death." The poet of life will, henceforward, be the poet of death also. Here, as I think, is Whitman's real advance beyond his predecessors. Others have treated death as a "dread monster," an enemy, or, like Emerson, have steadily ignored it. Even Goethe said, "Death is something so strange that, notwithstanding all experience, one thinks it impossible for it to seize a beloved object; and it always presents itself as something incredible and unexpected.["] No doubt Spinoza was right when he said, "A free man thinks of nothing less than of death, and his wisdom is not a meditation upon death but upon life."<ref target="n6" n="6" xml:id="r6"/> But Whitman has demonstrated the power of a free man to find the blessedness of death as well as the blessedness of life. He alone hails it lovingly as a friend:—</p>
+
+         <!-- From "When Lilacs Last in the Dooryard Bloom'd" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Come lovely and soothing death,</l>
+                        <l>Undulate round the world, serenely arriving, arriving,</l>
+                        <l>In the day, in the night, to all, to each,</l>
+                        <l>Sooner or later delicate death.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Prais'd be the fathomless universe,</l>
+                        <l>For life and joy, and for objects and knowledge curious,</l>
+                        <l>And for love, sweet love—but praise!  praise!  praise!</l>
+                        <l>For the sure-enwinding arms of cool-enfolding death.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Dark mother always gliding near with soft feet,</l>
+                        <l>Have none chanted for thee a chant of fullest welcome?</l>
+                        <l>Then I chant it for thee, I glorify thee above all,</l>
+                        <l>I bring thee a song that when thou must indeed come, come <lb/>unfalteringly."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Towards the close of the war Whitman contracted blood-poisoning in the hospital, and thus, at 45 years of age, was stricken with the first serious illness of his life. He never quite recovered, although after a short interval he resumed his ministrations. When the war was over he obtained, successively, two offices under the American Government. From the first he was dismissed, because he was the author of <hi rend="italic">Leaves of Grass</hi>, and Mr. Harlan, the head of his department, did not approve of the book; and to the second, under the Attorney-General, he was appointed because of his dismissal from the first. Here he remained until 1873, when, at length, the hardship and sickness of the war time, followed as it was by too frugal living that he might have more to dispose in charity, laid him low with paralysis.</p>
+	
+         <p>Whitman bore sickness and destitution in the same calm spirit with which he had met the many previous changes of his life. No longer able to be an active helper in the world, his time henceforth, for several years, was spent away from cities; and in the abounding life of the country he formed new ties of fellowship with animals, trees and flowers. Some of the best passages in his note books and poems relate to this period, and very touching are these records of the poet's simple life when, broken in health by labours of love among his fellow-men, he sought rest and, as far as might be, to renew the vigour he had lost. Nature is always tender to a noble spirit, and she treated him well.</p>
+	
+         <p>The enjoyment Whitman derives from nature apart from man, is sensuous and something more. Nature is health-giving and restful, and appeals to his sense of beauty, but it also touches his spiritual sense. In the birds, insects, animals and trees he feels the presence of the same soul which he himself shares. "I have a positive conviction," he says, "that some of these birds fly and flirt about here for my especial benefit." For the sea he had a peculiar regard. Mr. Conway<ref target="n7" n="7" xml:id="r7"/>, who bathed with him, noticed that he fairly hugged the water. Passages throughout his works indicate this affection. He speaks of "the soothing rustle of the waves." He relates that when a boy he had a wish to write a poem about the sea-shore, "that suggestive dividing line, the solid marrying the liquid." But afterwards he felt that instead of making this his theme, it should be, rather, "an invisible influence" pervading his work. It is interesting to observe that the restful unrest and the vastness of the sea do typify his poems.</p>
+	
+         <p>If Whitman does not deliberately claim to be <hi rend="italic">the Poet of the Modern</hi>, assuredly he would not repudiate the title. He really accepts the mission when he says, "the modern man I sing;" and when, throughout his prose as well as his poetry, he proclaims how ample are the materials to his hand in the affairs of to-day, for the making of poems. Dr. Bucke, his intimate friend and truly able biographer, who plays Boswell to Whitman's Johnson, reports: "He said to me one day that he considered the most distinguishing feature of his own poetry to be 'its <hi rend="italic">modernness</hi>—the taking up in their own spirit of all that specially differentiates our era from others, particularly our democratic tendencies.'"<ref target="n8" n="8" xml:id="r8"/> Hitherto feudalism or the system of the past had been the theme of poets. They sang of chivalry, of wars, warriors, and kings, nor does he discard these:</p>
+
+         <!-- From "Starting from Paumanok" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"In the name of the States, shall I scorn the antique?</l>
+                        <l>Why these are the children of the antique to justify it."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>Nevertheless, Whitman's own theme shall be America, the type of the modern, built on the antique; and by America he means, not the actuality of to-day so much as the ideal world of energy, freedom, and advancement. Yet he believed that "this teeming nation of nations" was "essentially the greatest poem." Accordingly, he writes of America. Others have glorified man in his hour of repose; he will do this and more. The workman at the bench and the farmer in the field seem to him not less beautiful than the struggle and adventure chronicled by Shakespeare. The life of "the average man, in average circumstances," might, he believed, be "still grand—heroic." "We owe to genius," said Emerson, "always the same debt, of lifting the curtain from the common and showing us that divinities are sitting disguised in the seeming gang of gypsies and pedlars."<ref target="n9" n="9" xml:id="r9"/> Man as a worker and the implements of his work are proper subjects for song:</p>
+
+         <!-- From "Song of the Exposition" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00117" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Ah little recks the labourer,</l>
+                        <l>How near his work is holding him to God,</l>
+                        <l>The loving Labourer through space and time."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>Goethe affirmed that "at bottom no real object is unpoetical if the poet knows how to use it properly." Thoreau found the spirit of music in the telegraph-pole<ref target="n10" n="10" xml:id="r10"/>, but it remained for Whitman to write a poem—strikingly picturesque—"To a Locomotive in Winter," a "Song of the Broad Axe," and a "Song of Occupations," in which he says</p>
+
+         <!-- From "A Song for Occupations" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00119" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"In the labour of engines and trades and the labour of the fields I <lb/>find the developments,</l>
+                        <l>And find the eternal meanings."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>The chief difference between the poets of Chivalry and this poet of the Modern is a difference in their choice of illustrations. The former extolled honour and courage as displayed in battle; Whitman also extols honour and courage, but finds it here to-day in the street and the workshop, and he considers these spheres for the exercise of virtue the most appropriate for celebration in the poetry of the living present. There were poets of the Modern before Whitman, though none of them sang on principle, so to speak, as he does. In truth, he fills an undue proportion of his books, not in singing the modern, but in singing about singing it. I think it was Mr. Ernest Rhys who first drew a comparison between Whitman and Burns<ref target="n11" n="11" xml:id="r11"/>. Burns was truly a "poet of the Modern" when in "The Cottar's Saturday Night," lifting the curtain from the common-place, he actually did, without any theories or announcements, sing "the modern man." Whitman, however, for the first time, treats man <hi rend="italic">working</hi>, as a subject for poems.</p>
+	
+         <p>I do not advise any one to read <hi rend="italic">Leaves of Grass</hi> except as a whole. It would not be understood. Passages are easy to find which, when detached, seem foolish or offensive but which in their proper place contribute to the harmony of the structure. When one of the editions was in preparation a friend of Whitman urged him to omit certain passages, saying, "What in the world do you want to put in that stuff for that nobody can read?" Whitman replied, "Well, John, if you need to ask that question it is evident, at any rate, that the book was not written for you;" a fitting answer to other objectors.</p>
+	
+         <p>Nevertheless, John's difficulty was not unnatural. It does take time to find the key to this poetry, and the first impression is likely to be the least favourable. Startling departures from literary conventionalities must be overcome. The initial trouble is the peculiar form—a kind of rhythmic prose. It seems calculated to obscure rather to elucidate the author's meaning. If Whitman's sense of the ludicrous had been more keen, there are passages in his book which he would by no means have admitted. He is an exceedingly literal man, a fact which makes his work precise and careful; but had he been something of a humourist his language and his grouping of facts would not have been quite what they are.</p>
+	
+         <p>Tested by scholastic rules, I suppose <hi rend="italic">Leaves of Grass</hi> would not be called poetry at all. It does not obey the laws of prosody, yet musicians have affirmed that it does obey the laws of music. When, however, the key of the meaning is found, the propriety of the form is felt; it almost seems as though no other form would have served. A comparison between <hi rend="italic">Leaves of Grass</hi> and the finest Whitman's prose, shows that the former stands upon a level altogether higher than the latter. Here, as in all works of true power, the thought has created its own befitting form.</p>
+	
+         <p>
+            <hi rend="italic">Leaves of Grass</hi> expresses a triune doctrine of Unity, Beauty, and Progression. It represents human nature as everywhere the same, and not human nature only, but animals, plants and what are called inanimate things also; it affirms that everything in its own place is beautiful, and that there is a tendency, through all, toward an unseen but certain goal. The "comradeship" insisted upon so untiringly by Whitman is the corollary. That which we feel to be akin to us stimulates sympathy; and if all things belong thus one to another, universal brotherhood must result. Furthermore, if all things, however lowly, have their appropriate place and task, contempt is out of the question. To us, henceforth, there can be nothing "common or unclean."</p>
+	
+         <p>The poems of Whitman's earlier period are full of city life, and breathe the spirit of fellowship which characterized those ferry boat and omnibus jaunts and the familiar intercourse of the streets. They are, in essence, poems of comradeship and sexual love. In majestic chants he presents a vivid picture of this wonderful life of the world, its contrasts and antagonisms on the surface and the oneness underneath. He notes the sights and sounds of a great city—the carter, the factory girl, the president, the boatman, the conductor, all attending to their various avocations. While here the slave is sold in the market, there the infant is baptized in the Church; in one place a drunken prostitute curses a jeering crowd, while, not far off, a convert is "making his first profession." The singer is singing in the organ loft, and the children "ride home from their Thanksgiving dinner," even while, elsewhere, "the lunatic is carried at last to the asylum a confirmed case." Thus, pain and pleasure mingling, life proceeds, while a man of large heart watches it with the eyes of a poet, and perceives the kinship of one with another and of himself with all. "The known universe," he says, "has one complete lover, and that is the greatest poet." This is the Comradeship of which he speaks so often, and his ministrations to the outcast men and women in the city streets and the prisons, and to the wounded soldiers in the war-hospitals, testify to the sincerity of his belief in comradeship. "We believe only as deep as we live." He not only wrote but lived "the evangel poem of comrades and of love." His sympathy extends to those whom society excludes. They too are members of the human family, having claims upon him,—claims all the greater because of the greater need. Let others cast stones if they choose; he will treat them, not with the partiality and prejudice of men, but in the spirit of nature:</p>
+
+         <!-- From "To a Common Prostitute" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00261" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Not till the sun excludes you, do I exclude you,</l>
+                        <l>Not till the waters refuse to glisten for you and the leaves to rustle <lb/>for you, do my words refuse to glisten and rustle for you."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>He sees through the husk of sin to the soul beyond, and is filled with pity. The surpassing tenderness, without a trace of morbidness, of the piece called "The City Dead House," lingers long in the memory, and the lesson of charity it instills will not be readily effaced.</p>
+	
+         <p>Whitman, I have said, preaches <hi rend="italic">Beauty</hi> also; the universal fitness of things. He does not choose the good and discard the evil, but, shutting his eyes to nothing, he sees that the law of the universe is benefit. Failure! Evil! these are the reverse side, and as appropriate in their place as success and virtue in theirs:</p>
+
+         <!-- From "To Think of Time" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00266" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"How perfect the earth and the minutest thing upon it!</l>
+                        <l>What is called good is perfect, and what is called evil is just as perfect."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>"The chief end I purpose to myself in all my labours," wrote Dean Swift, "is to vex the world rather than divert it."<ref target="n12" n="12" xml:id="r12"/> In the person of the "Autocrat of the Breakfast Table,"<ref target="n13" n="13" xml:id="r13"/> we have still amongst us a very different type of man, whose purpose is to divert the world rather than to vex it. Yet Swift to vex the world, and Holmes to entertain it, alike expose the weakness and folly of mankind. They discover to their fellow-men the unsavoury realities of human life, Swift the low aims and hypocrisy of men, and Holmes their defects of speech and manners. The method of Whitman is different. He does not show humanity to be either hideous or ridiculous. Swift and, in more superficial fashion, Holmes, regard man as vile, and expose the faults they see, with a desire, perhaps, for their removal. The bulk of persons seem to regard man as vile, and strive not so much to remove the vileness as to hide it. Whitman looks deeper and sees only the beautiful. </p>
+	
+         <p>The other feature of Whitman's doctrine is <hi rend="italic">Progression</hi>, the eternal onward march of the soul. Life is a development, onward, "for ever and for ever, longer than soil is brown and solid, longer than water ebbs and flows":</p>
+
+         <!-- From "Song of Myself" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"This day, before dawn, I ascended a hill and look'd at the crowded <lb/>heaven,</l>
+                        <l>And I said to my spirit, <hi rend="italic">When we become the enfolders of these orbs,</hi> 
+                           <lb/>
+                           <hi rend="italic">and the pleasure and knowledge of everything in them, shall we be</hi> 
+                           <lb/>
+                           <hi rend="italic">fill'd and satisfied then?</hi>
+                        </l>
+                        <l>And my spirit said '<hi rend="italic">No</hi>.'"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>To show to man the dignity of his calling, that his path through life is fair and that he has a noble destiny, is the best service which can be rendered to virtue. When these truths are understood, grossness in thought or deed becomes impossible. Such a doctrine as Whitman's leaves no room for doubt or misgiving. It summons men to put forth their best powers. It demands nothing less than perfect manhood and womanhood. To the key-note which it strikes, the chord in the human heart that will respond is nobility,—the love of divine things and the high aim.</p>
+	
+         <p>In any final estimate of <hi rend="italic">Leaves of Grass</hi>, it is necessary to take into account the fact that, in spite of peculiarities of style and thought, and of relentless opposition encountered from the first, the book has steadily made its way. Many, whose opinion cannot be despised, have thought well of it. Emerson, as we have seen, admired it at the beginning. A quarter of a century later, George Eliot, being induced, with some difficulty, to read it, found that it contained what was "good for her soul." Mr. Swinburne, in the days when he was himself a poet, wrote friendly greetings to Whitman, but he has recanted, and scolds him now like Dr. Peter Bayne. Among Whitman's personal friends were Bryant and Longfellow. Thoreau, after visiting him with Alcott in 1856, came to the conclusion that "We ought to rejoice greatly in him . . . he is a great fellow." No success or reputation ever gets itself established unless it is rooted in character. Whitman, like his book, is strong. It is himself that speaks, not the echo of another. Abraham Lincoln, seeing him pass, said, "Well, <hi rend="italic">he</hi> looks like a man!" and it may be added, such a man purifies the age in which he lives.</p>
+
+         <closer>
+            <signed rend="right">W<hi rend="smallcaps">ALTER</hi> L<hi rend="smallcaps">EWIN</hi>.</signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">Refers to John Stuart Mill's <hi rend="italic">Autobiography</hi>, published in 1873.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">John Bradford (1510–1555) was an English Protestant reformer best known for these words, spoken when he was imprisoned in the Tower of London and saw a criminal going to execution.</note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="3">The source of this quotation has not been identified.</note>
+
+               <note type="editorial" target="r4" xml:id="n4" n="4">William Makepeace Thackeray (1811–1863), English novelist, best known for his satirical novel <hi rend="italic">Vanity Fair</hi>.</note>
+
+               <note type="editorial" target="r5" xml:id="n5" n="5">American writer (1825–1878) who wrote for newspapers, travel books, novels, poetry, and critical essays.</note>
+
+               <note type="editorial" target="r6" xml:id="n6" n="6">Goethe, <hi rend="italic">Gespräche mit Goethe</hi>, Leipzig, Band 1 und 2: 1836, Band 3: 1848, S. 743; Spinoza, Ethics, Part IV, "Of Human Bondage or the Strength of the Emotions," Proposition LXVII.</note>
+
+               <note type="editorial" target="r7" xml:id="n7" n="7">Moncure Conway (1832–1907) was an author, preacher, and ardent abolitionist.</note>
+
+               <note type="editorial" target="r8" xml:id="n8" n="8">Unlocated.</note>
+
+               <note type="editorial" target="r9" xml:id="n9" n="9"> Emerson, Ralph Waldo. <hi rend="underline">Society and Solitude</hi>. The Complete Works of Emerson 7. New York: AMS Press, 1968. 176.</note>
+
+               <note type="editorial" target="r10" xml:id="n10" n="10">Goethe quote from <hi rend="italic">Conversations of Goethe, with Eckermann and Soret</hi>, trans. John Oxenford (London: George Bell &amp; Sons, 1906). On 3 September 1851 Thoreau wrote: "As I went under the new telegraph-wire, I heard it vibrating like a harp high overhead. It was as the sound of a far-off glorious life, a supernal life, which came down to us, and vibrated the lattice-work of this life of ours." On 12 September 1851 Thoreau wrote: "At the entrance of the Deep Cut, I heard the telegraph-wire vibrating like an æolian harp. It reminded me suddenly,—reservedly, with a beautiful paucity of communication, even silently, such was its effect on my thoughts,—it reminded me, I say, with a certain pathetic moderation, of what finer and deeper stirrings I was susceptible, which grandly set all argument and dispute aside, a triumphant though transient exhibition of the truth. It told me by the faintest imaginable strain, it told me by the finest strain that a human ear can hear, yet conclusively and past all refutation, that there were higher, infinitely higher, planes of life which it behooved me never to forget. As I was entering the Deep Cut, the wind, which was conveying a message to me from heaven, dropped it on the wire of the telegraph which it vibrated as it passed. I instantly sat down on a stone at the foot of the telegraph-pole, and attended to the communication. It merely said: 'Bear in mind, Child, and never for an instant forget, that there are higher planes, infinitely higher planes, of life than this thou art now travelling on. Know that the goal is distant, and is upward, and is worthy all your life's efforts to attain to.' And then it ceased, and though I sat some minutes longer I heard nothing more." <hi rend="italic">The Writings of Henry David Thoreau</hi>, Journal II, 1850-September 15,1851, ed. Bradford Torrey (Boston: Houghton Mifflin, 1906), 450, 496-97.</note>
+
+               <note type="editorial" target="r11" xml:id="n11" n="11">See Ernest Rhys's Introduction to <hi rend="italic">Leaves of Grass: The Poems of Walt Whitman</hi> (London: Walter Scott, 1886), xxviii-xxix</note>
+
+               <note type="editorial" target="r12" xml:id="n12" n="12">From a letter that Jonathan Swift wrote to Alexander Pope, 29 September 1725. Swift, Jonathan. <hi rend="underline">The Correspondence of Jonathan Swift</hi>. Ed. Harold Williams. Vol. III. London: Oxford UP, 1963. 102-105.</note>
+
+               <note type="editorial" target="r13" xml:id="n13" n="13">A collection of essays by Oliver Wendell Holmes (1809–1894).</note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00124">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="boughs">The Gospel According to Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">November Boughs</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Oscar Wilde</reg>
+               </choice>
+            </author>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+               <persName xml:id="el">Elizabeth Lorang</persName><persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00124</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Wilde, Oscar">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Oscar Wilde</reg>
+                     </choice>
+                  </author>
+                  <title level="a">The Gospel According to Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Pall Mall Gazette</title>
+                  <imprint>
+                     <date when="1889-01-25">25 January 1889</date>
+                     <biblScope type="pages">3</biblScope>
+
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-09-26">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-09">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">
+            <hi rend="italic">THE GOSPEL ACCORDING TO WALT WHITMAN</hi>.<hi rend="superscript"><ref>*</ref></hi>
+            <!--  [Review of November Boughs] -->
+         </head>
+
+         <!-- from A Backward Glance O'er Travel'd Roads -->
+
+         <p>"No one will get at my verses who insists upon viewing them as a literary performance, or as aiming mainly towards art and æstheticism. <hi rend="italic">Leaves of Grass</hi> has been chiefly the outcropping of my own emotional and other personal nature—an attempt from first to last to put a <hi rend="italic">Person</hi>, a human being (myself, in the latter half of the nineteenth century, in America) freely, fully and truly on record. I could not find any similar personal record in current literature that satisfied me." In these words Walt Whitman gives us the true attitude we should adopt towards his work, having indeed a much saner view of the value and meaning of that work than either his eloquent admirers or noisy detractors can boast of possessing. His last book, <hi rend="italic">November Boughs</hi> as he calls it, published in the winter of the old man's life, reveals to us, not indeed a soul's tragedy, for its last note is one of joy and hope and noble and unshaken faith in all that is fine and worthy of such faith, but certainly the drama of a human soul, and puts on record with a simplicity that has in it both sweetness and strength the  record of his spiritual development and of the aim and motive both of the manner and the matter of his work. His strange mode of expression is shown in these pages to have been the result of deliberate and self-conscious choice. The "barbaric yawp," which he sent over "the roofs of the world" so many years ago, and which wrung from Mr. Swinburne's lips such lofty panegyric in song and such loud clamorous censure in prose, appears here in what will be to many an entirely new light. For in his very rejection of art Walt Whitman is an artist. He tried to produce a certain effect by certain means and he succeeded. There is much method in what many have termed his madness, too much method indeed some may be tempted to fancy.</p>
+
+         <p>In the story of his life, as he tells it to us, we find him at the age of sixteen beginning a definite and philosophical study of literature:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00410" cert="absolute"/>
+                        <!-- from A Backward Glance O'er Travel'd Roads -->
+                     </relations>
+                     <p>Summers and falls, I used to go off, sometimes for a week at a stretch, down in the country, or to Long Island's seashores—there in the presence of outdoor influences, I went over thoroughly the Old and New Testaments, and absorb'd (probably to better advantage for me than in any library or indoor room—it makes such difference <hi rend="italic">where</hi> you read) Shakspere, Ossian, the best translated versions I could get of Homer, Æschylus, Sophokles, the old German Nibelungen,<ref target="n2" xml:id="r2" n="1"/> the ancient Hindoo poems, and one or two other masterpieces, Dante's among them. As it happen'd I read the latter mostly in an old wood. The Iliad I read first thoroughly on the peninsula of Orient, north-east end of Long Island, in a sheltered hollow of rocks and sand, with the sea on each side. (I have wondered since why I was not overwhelmed by those mighty masters. Likely because I read them, as described, in the full presence of Nature, under the sun, with the far-spreading landscapes and vistas, or the sea rolling in.)</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Edgar Allan Poe's amusing bit of dogmatism that, for our occasions and for our day, there can be no such thing as a long poem, fascinated him: "The same thought had been haunting my mind before," he says, "but Poe's argument, though short, work'd the sum out and proved it to me:" and the English translation of the Bible seems to have suggested to him the possibility of a poetic form which while retaining the spirit of poetry would still be free from the trammels of rhyme and of a definite metrical system. Having thus to a certain degree settled upon what one might call the <hi rend="italic">technique</hi> of Whitmanism, he began to brood upon the nature of that spirit that was to give life to the strange form. The central point of the poetry of the future seemed to him to be necessarily "an identical body and soul," a personality in fact, which personality he tells us frankly, "after many considerations and ponderings I deliberately settled should be myself." However for the true creation and revealing of this personality, at first only dimly felt, a new stimulus was needed. This came from the Civil War. After describing the many dreams and passions of his boyhood and early manhood he goes on to say:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00410" cert="absolute"/>
+                        <!-- from A Backward Glance O'er Travel'd Roads -->
+                     </relations>
+                     <p>These, however, and much more might have gone on and come to naught (almost positively would have come to naught) if a sudden, vast, terrible, direct and indirect stimulus for new and national declamatory expression had not been given to me. It is certain, I say, that, although I had made a start before, only from the occurrence of the Secession War, and what it showed me as by flashes of lightning, with the emotional depths it sounded and arous'd (of course, I don't mean in my own heart only, I saw it just as plainly in others, in millions) that only from the strong flare and provocation of that war's sights and scenes the final reasons-for-being of an autochthonic and passionate song definitely came forth. I went down to the war-fields of Virginia, lived thenceforward in camp, saw great battles and the days and nights afterwards—partook of all the fluctuations, gloom, despair, hopes again aroused, courage evoked—death readily risked—the <hi rend="italic">cause</hi> too—along and filling those agonistic and lurid following years, the real parturition years of the henceforth homogeneous Union. Without those three or four years and the experiences they gave, "Leaves of Grass" would not now be existing.</p> 
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Having thus obtained the necessary stimulus for the quickening and awakening of the personal self, some day to be endowed with universality, he sought to find new notes of song, and passing beyond the mere passion for expression—he aimed at "Suggestiveness" first. "I round and finish little, if anything; and could not, consistently with my scheme. The reader will have his or her part to do, just as much as I have had mine. I seek less to state or display any theme  of thought, and more to bring you, reader, into the atmosphere of the theme or thought—there to pursue your own flight." Another "impetus word" is Comradeship, and other "word-signs" are Good Cheer, Content, and Hope. Individuality, especially, he sought for:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00410" cert="absolute"/>
+                        <!-- from A Backward Glance O'er Travel'd Roads -->
+                     </relations>
+                     <p>I have allowed the stress of my poems from beginning to end to bear upon American individuality and assist it—not only because that is a great lesson in Nature, amid all her generalizing laws, but as a counterpoise to the levelling tendencies of Democracy—and for other reasons. Defiant of ostensible literary and other conventions, I avowedly chant "the great pride of a man in himself," and permit it to be more or less a <hi rend="italic">motif</hi> of nearly all my verse. I think this pride indispensable to an American. I think it not inconsistent with obedience, humility, deference, and self-questioning.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>∗∗∗</p>
+
+         <p>A new theme also was to be found in the relation of the sexes, conceived in a natural, simple, and healthy form, and he protests against poor Mr. William Rossetti's attempt to Bowdlerize and expurgate his song.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00410" cert="absolute"/>
+                        <!-- from A Backward Glance O'er Travel'd Roads -->
+                     </relations>
+                     <p>From another point of view "Leaves of Grass" is avowedly the song of Sex, and Amativeness, and even Animality—though meanings that do not usually go with these words are behind all, and will duly emerge; and all are sought to be lifted into a different light and atmosphere. Of this feature intentionally palpable in a few lines, I shall only say the espousing principle of those lines so gives breath to my whole scheme that the bulk of the pieces might as well have been left unwritten were those lines omitted…Universal as are certain facts and symptoms of communities there is nothing so rare in modern conventions and poetry as their normal recognizance. Literature is always calling in the doctor for consultation and confession, and always giving evasions and swathing suppressions in place of that "heroic nudity" on which only a genuine diagnosis can be built. And in respect to editions of "Leaves of Grass" in time to come (if there should be such) I take occasion now to confirm those lines with the settled convictions and deliberate renewals of thirty years, and to hereby prohibit, as far as mine can do so, any elision of them.</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>∗∗∗</p>
+
+         <p>But beyond all these notes and moods and motives is the lofty spirit of a grand and free acceptance of all things that are worthy of existence. "I desired," he says, "to formulate a poem whose every thought or fact should indirectly or directly be or connive at an implicit belief in the wisdom, health, mystery, or beauty of every process, every concrete object, every human or other existence, not only consider'd from the point of view of all, but of each." His two final utterances are that really great poetry is always the result of a national spirit, and not the privilege of a polished and select few; and that the sweetest and strongest songs yet remain to be sung.</p>
+
+         <p>Such are the views contained in the opening essay, "A Backward Glance o'er Travel'd Roads," as he calls it: but there are many other essays in this fascinating volume, some on poets such as Burns and Lord Tennyson, for whom Walt Whitman has a profound admiration: some on old actors and singers, the elder Booth, Forrest, Alboni, and Mario being his special favourites: others on the native Indians, on the Spanish element in American nationality, on Western slang, on the poetry of the Bible, and on Abraham Lincoln. But Walt Whitman is at his best when he is analyzing his own work, and making schemes for the poetry of the future. Literature to him has a distinctly social aim. He seeks to build up the masses by "building up grand individuals." And yet literature itself must be preceded by noble forms of life. "The best literature is always the result of something far greater than itself—not the hero but the portrait of the hero. Before there can be recorded history or poem there must be the transaction." Certainly  in Walt Whitman's views there is a largeness of vision, a healthy sanity, and a fine ethical purpose. He is not to be placed with the professional <hi rend="italic">littérateurs</hi> of his country, Boston novelists, New York poets, and the like. He stands apart, and the chief value of his work is in its prophecy not in its performance. He has begun a prelude to larger themes. He is the herald to a new era. As a man he is the precursor of a fresh type. He is a factor in the heroic and spiritual evolution of the human being. If Poetry has passed him by, Philosophy will take note of him.</p> 
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+        
+            <ab><hi rend="superscript">∗</hi>
+               
+                   "November Boughs." 
+                  By Walt Whitman. 
+ 
+                      (Paisley; and Paternoster-row. London:  
+                      Alexander Gardner.  
+                      1880.)  
+                   
+               
+            </ab>
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n2" target="r2" n="1">
+ The "old German Nibelungen" refers to the <hi rend="italic">Nibelungenlied</hi> (<hi rend="italic">Song of the Nibelungs</hi>), a Middle High German epic poem written around 1200.
+</note>  
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

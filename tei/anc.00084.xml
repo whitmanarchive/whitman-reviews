@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00084">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">"Leaves of Grass"</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00084</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">"Leaves of Grass"</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Liberty</title> 
+                  <imprint>
+                     <date when="1881-11-26">26 November 1881</date>
+                     <biblScope type="volume">1</biblScope>
+                     <biblScope type="pages">3</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="project">Transcribed in part from an electronic copy, The Walt Whitman Archive</note>
+               <note type="project">Transcribed in part by Todd Stabley</note>
+               <!-- Transcript on Whitman Archive rendered last section of this review with a project note indicating 97 line extract from Whitman; this section was actually comprised of several smaller extracts -->
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-13">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"Leaves of Grass." <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head>
+
+         <p>Liberty has received from the publishers, and joyfully welcomes Leaves of Grass, the collective title of Walt Whitman's poems. It is a convenient, compact, and tastefully "got up" volume of 382 pages, and contains a number of hitherto unpublished poems, besides those of the earlier editions. "Leaves of Grass" have lost nothing of their original native simplicity, freshness, and vigor from being more carefully arranged and placed in a more artistic, though it may be a more conventional vase. The book will be more readily purchased and read, at any rate; and that is the main point. The titles of some of the poems have been changed, and the table of contents newly arranged and made much more convenient for reference to special passages.</p>
+
+         <p>We have not discovered that the book has lost anything of its characteristic outspoken independence, nor that any concession has been made to Mrs. Grundy.<ref target="n1" xml:id="r1" n="1"/> It still retains all its naked truthfulness and purity, like its prototype in marble, the Greek Slave.</p>
+
+         <p>Walt Whitman is preeminently, above all and before all, the poet of innovation, the poet of change, the poet of growth, the poet of evolution. There is not a drop of stagnant blood in his veins. Every fibre of him quivers with life, energy, and fire. His spirit is at the same time the spirit of content and discontent. He is satisfied with whatever is and as it is—for <hi rend="italic">to-day</hi>, but not for <hi rend="italic">to-morrow</hi>, nor that for <hi rend="italic">any future to-morrow</hi>.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- from Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Urge and urge and urge,</l>
+                        <l>Always the procreant urge of the world.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>That seems to him to be the key-note of the universe.</p>
+
+         <p>A study, "By Blue Ontario's Shore," affords a good idea of what he himself considers his mission, and shows how thoroughly one in purpose that mission is with Liberty's. He shall speak for himself from that poem.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!-- from By Blue Ontario's Shore -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>By Blue Ontario's shore,</l>
+                        <l>As I mused of these warlike days and of peace return'd, and the <lb/>dead that return no more,</l>
+                        <l>A Phantom gigantic superb, with stern visage accosted me,</l>
+                        <l>
+                           <hi rend="italic">Chant me the poem</hi>/ it said,<hi rend="italic"> that comes from the sould of America,</hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">Chant me the carol of victory, and strike up the marches of <choice><orig>Lib-
+                            
+                           <lb/>
+                           
+                           ertad</orig><reg>Libertad</reg></choice>, marches more powerful yet,</hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">And sing me before you go the song of the throes of Democracy.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The poet, in responding, commences with a striking bit of individual self-assertion, of which we can quote but a few lines:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!-- from By Blue Ontario's Shore -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>A Nation announcing itself,</l>
+                        <l>I myself make the only growth by which I can be appreciated,</l>
+                        <l>I reject none, accept all, then reporduce all in my own forms.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>We are powerful and tremendous in ourselves,</l>
+                        <l>We are executive in ourselves,</l>
+                        <l>We are sufficient in the variety of ourselves,</l>
+                        <l>We are the most beautiful to ourselves and in ourselves,</l>
+                        <l>Nothing is sinful to us outside of ourselves,</l>
+                        <l>Whatever appears, whatever does not appear, we are beautiful or <lb/>sinful in ourselves only.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>(O mother—O sisters dear!</l>
+                        <l>If we are lost, no victor else has destroy'd us,</l>
+                        <l>It is by ourselves we go down to eternal night.)</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Have you thought there could be but a single supreme?</l>
+                        <l>There can be any number of supremes . .  . . </l>
+                        <l>All is eligible to all,</l>
+                        <l>All is for individuals, all is for you.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Produce great Persons, the rest follows.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Then comes this attack upon Authority and conservatism:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!-- from By Blue Ontario's Shore -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Piety and Conformity to them that like,</l> 
+                        <l>Peace, obesity, allegiance, to them that like,</l> 
+                        <l>I am he who tauntingly compels men, women, nations,</l> 
+                        <l>Crying, Leap from your seats and contend for your lives;</l>
+                        <l>I am he who walks the States with a barb'd tongue, questioning <lb/>every one I meet,</l> 
+                        <l>Who are you that wanted only to be told what you knew before?</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Somewhat changing the theme:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!-- from By Blue Ontario's Shore -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I listened to the Phantom by Ontario's shore,</l> 
+                        <l>I heard the voice arising demanding bards,</l>
+                        <l>By them all native and grand, by them alone can these States be <lb/>fused into the compact organism of a Nation.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>To hold men together by paper and seal or by compulsion is no <lb/>account,</l>
+                        <l>That only holds men together which aggregates all in a living <choice><orig>princi-<lb/>ple</orig><reg>principle</reg></choice>, as the hold of the limbs of the body or the fibres of plants.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- Two stanzas were omitted here by the reviewer without indication; previous and following quotes appear in the review as continuous text -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!-- from By Blue Ontario's Shore -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Of these States the poet is the equable man,</l>
+                        <!-- Fifteen lines and a numbered section break were omitted here by the reviewer without indication; previous and following quotes appear in the review as continuous text  -->
+                        <l>For the great Idea, the idea of perfect and free individuals,</l>
+                        <l>For that, the bard walks in advance, leader of leaders,</l>
+                        <l>The attitude of him cheers up slaves and horrifies foreign despots.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Without extinction is Liberty, without retrograde is Equality,</l>
+                        <l>They live in the feelings of young men and the best women,</l>
+                        <l>(Not for nothing have the indomitable heads of the earth been <lb/>always ready to fall for Liberty.)</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>For the great Idea,</l> 
+                        <l>That, O my brethren, that is the mission of poets.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>A few lines to show what he claims for himself:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!-- from By Blue Ontario's Shore -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Give me the pay I have served for,</l> 
+                        <l>Give me to sing the songs of the great Idea, take all the rest.</l> 
+                        <l>I have loved the earth, sun, animals, I have despised riches,</l>
+                        <!-- Five lines were omitted here by the reviewer without indication; previous and following quotes appear in the review as continous text  -->
+                        <l>Claim'd nothing to myself which I have not carefully claim'd for <lb/>others on the same terms,</l>
+                        <l>I am willing to wait to be understood by the growth of the taste of <lb/>myself,</l> 
+                        <l>Rejecting none, permitting all.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>We must find room for our poet's creed of Individualism, and close therewith our quotations from this remarkable book:</p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!-- from By Blue Ontario's Shore -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I swear I begin to see the meaning of these things,</l> 
+                        <l>It is not the earth, it is not America who is so great,</l> 
+                        <l>It is I who am great or to be great, it is you up there, or any one,</l> 
+                        <l>It is to walk rapidly through civilizations, governments, theories,</l> 
+                        <l>Through poems, pageants, shows, to form individuals.</l> 
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Underneath all, individuals,</l> 
+                        <l>I swear nothing is good to me now that ignores individuals,</l> 
+                        <l>The only government is that which makes minute of individuals,</l> 
+                        <l>The whole theory of the universe is directed unerringly to one single <lb/>individual—namely to you.</l>
+                        <l>(Talk as you like, he only suits these States whose manners favor <lb/>the audacity and sublime turbulence of the States.)</l> 
+                        <l>Underneath the lessons of things, spirits, Nature, governments, <choice><orig>own-<lb/>erships</orig><reg>ownerships</reg></choice>, I swear I perceive other lessons,</l> 
+                        <l>Underneath all to me is myself, to you yourself, (the same <choice><orig>monoto-<lb/>nous</orig><reg>monotonous</reg></choice> old song.)</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- Fifteen lines were omitted here by the reviewer without indication; previous and following quotes appear in the review as continous text  -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!-- from By Blue Ontario's Shore -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I am for those that have never been master'd,</l>
+                        <l>For men and women whose tempers have never been master'd,</l>
+                        <l>For those whom laws, theories, conventions, can never master.</l>
+                        <l>I am for those who walk abreast with the whole earth,</l>
+                        <l>Who inaugurate one to inaugurate all.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>I will not be out-faced by irrational things,</l>
+                        <l>I will penetrate what it is in them that is sarcastic upon me,</l>
+                        <l>I will make cities and civilizations defer to me,</l>
+                        <l>This is what I have learnt from America—it is the amount, and it I <lb/>teach again.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>(Democracy, while weapons were everywhere aim'd at your breast,</l>
+                        <l>I saw you serenely give birth to immortal children, saw in dreams <lb/>your dilating form,</l>
+                        <l>Saw you with spreading mantle covering the world.)</l>
+                     </lg>
+
+                     <lg type="linegroup">  
+                        <l>I will confront these shows of the day and night,</l> 
+                        <l>I will know if I am to be less than they,</l> 
+                        <l>I will see if I am not as majestic as they,</l> 
+                        <l>I will see if I am not as subtle and real as they,</l> 
+                        <l>I will see if I am to be less generous than they,</l> 
+                        <l>I will see if I have no meaning, while the houses and ships have <lb/>meaning,</l> 
+                        <l>I will see if the fishes and birds are to be enough for themselves, and <lb/>I am not to be enough for myself.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+  
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Mrs. Grundy is a character from Thomas Morton's play <hi rend="italic">Speed the Plough</hi> (1798); by the nineteenth century her name and character had become shorthand for conventional propriety. 
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00039">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Leaves of Grass</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>Juliette H. Beach</orig>
+                  <reg>Calvin Beach</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00039</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Beach, Calvin">
+                     <choice>
+                        <orig>Juliette H. Beach</orig>
+                        <reg>Calvin Beach</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Leaves of Grass</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Saturday Press</title>
+                  <imprint>
+                     <date when="1860-06-02">2 June 1860</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-22">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"LEAVES OF GRASS." <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+
+         <p>The suspense is ended. The 'Distinctive American Poem'—the only one (God be thanked!) The country has yet produced—has appeared.</p> 
+
+         <p>Lying before me as I write is an early copy of 'Leaves of Grass.' I have awaited its advent with some little anxiety, for I had been forced to extend to the later effusions of its author, a degree of admiration. I could not shut my eyes to their wild, rough beauty nor close my soul to the truths they expressed. Defiant of all precedent, scornful of all the conventionalisms of art, there was in them all a rude, grand sweep, as natural, and as musical too, as the breaking of the waves upon the shore, or the singing of the winds at night through the forest.</p>
+
+         <p>So when yesterday the looked-for volume reached me, you may be assured that it was eagerly opened. In the few hours that I have had the work, I have found time to read but little of it. That little, however, has sufficed! I lack inclination now for its further perusal.</p> 
+
+         <p>After this frank confession, do not think that I purpose a review of the work. I have no such intention. I write simply to express my unqualified disgust with the portions I have read. Whether those portions are the best, or the worst, or an average, I do not know nor care to know. I opened the book at random, as one does a new book when leisure is wanting, and read what the pages before me held.</p> 
+
+         <p>I make no quotations from those pages. I would offer neither to The Press, nor its readers, the offence of spreading before them even the daintiest lines those pages of filth contain. Until such time as the novels of de Kock find place upon parlor tables, and the obscene pictures, which boys in your city slily offer for sale upon the wharves, are admitted to albums, or grace drawing-room walls, quotations from <hi rend="italic">Enfans d'Adam</hi> would be an offence against decency too gross to be tolerated.</p> 
+
+         <p>I am not at all squeamish. Not easily shocked either. I adore the beautiful, and grow impassioned as I drink in the voluptuous in art or poesy. Amorous poetry, so far from being to me offensive, is delightful, and the soft, liquid lines of tender love, and the deep strains of a burning passion, seem to me alike fit hymns for man to offer up. But Walt Whitman's poems are not amorous; they are only beastly. They express far more truthfully the feelings of brute nature than the sentiments of human love.</p> 
+
+         <p>Walt Whitman assumes to regard woman only as an instrument for the gratification of his desires, and the propagation of the species. To him all women are the same, with but this difference, the more sensual have the preference, as they promise greater indulgence. His exposition of his thoughts shows conclusively that with him the congress of the sexes is a purely animal affair, and with his ridiculous egotism he vaunts his prowess as a stock-breeder might that of the pick of his herd.</p> 
+
+         <p>It is bad enough, I submit, for a person to be so utterly brutalized. There needs not the further degradation of publishing his brutality. A true man regards the intimate relations he may sustain toward the woman who holds his affections as something too holy to be lightly talked of, too sacred to be bruited abroad. To the true man, the congress of the sexes is a sacrament, a holy secret locked in the breasts of two persons, which it were gross profanation to expose to the gaze of any beside. To such an one, all women are not the same nor is capacity for beastly indulgence the distinguishing trait of the chosen one. But it is unnecessary for me to dilate upon this. All will feel what I might say in this connection.</p> 
+
+         <p>Walt Whitman has had a narrow escape from being a great poet. He combines in him all the requisites but one; but that one is indispensable. He has strength, he has beauty, but he has no soul. Intellect, I grant, wide in its scope, and powerful in its grasp. Yet with all this, I doubt if, when the Judgment-Day comes, Walt Whitman's name will be called. He certainly has not enough soul to be saved. I hardly think he has enough to be damned.</p> 
+
+         <p>Walt Whitman has done his work. He has shown to the world that one may have the form and presence of a man, may possess an intellect whose scope and power entitle him to high place among the gifted ones of earth, and yet in those finer qualities which most intimately connect man with higher intelligences, be utterly wanting, and at the poor level of "the beasts that perish."</p> 
+
+         <p>He has done this, and the world has now no further need of him. It accepts the revolting lesson, as it must, but it does not need the teacher longer. If Walt has left within him any charity, will he not now rid the taught and disgusted world of himself? Not by poison, or the rope, or pistol, or by any of the common modes of suicide, because some full man, to whom life has become a grievous burden, may at a later day be compelled to choose between death by the same means and a hateful life, and with the pride of noble manhood turn shuddering to live on, rather than admit so much of oneness as would be implied by going to death as did Walt Whitman. But let him search the coast of his island home until he finds some cove where the waves are accustomed to cast up the carrion committed to them, and where their bloated bodies ride lazily upon the waters which humanity never disturbs, and casting himself therein find at last the companionship for which, in death as in life, he is best fitted.</p> 
+
+         <p>Let him do this act of reparation, and the world may kindly extend to him the charity of forgetfulness—the highest boon it now can bestow.</p>
+
+         <closer rend="right">
+            <signed>J<hi rend="smallcaps">ULIETTE</hi> H. B<hi rend="smallcaps">EACH</hi>.<ref target="n1" n="1" xml:id="r1"/>
+            </signed>
+         </closer>
+
+         <note>
+            <hi rend="italic">Albion. N. Y.</hi>, May 19, 1860.</note>
+
+      </body>
+      <back>
+
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">The review of <hi rend="italic">Leaves of Grass</hi> that appeared in the New York <hi rend="italic">Saturday Press</hi> on June 2, 1860, was signed "Juliette H. Beach," but it had really been written by her husband, Calvin Beach. Expecting a favorable response, the editor of the <hi rend="italic">Saturday Press</hi>, Henry Clapp, Jr., had forwarded a copy of Whitman's book to Juliette Beach for review. Her husband, however, angered that Clapp had sent the book to his wife, appropriated it and wrote a scathing review, which was published in his wife's name. In a letter to Clapp dated June 7, 1860, Juliette Beach explained the nature of the mistake and expressed her regret at not having had the opportunity to publish her own favorable opinion of <hi rend="italic">Leaves of Grass</hi>. In an attempt to undo some of the damage, Clapp printed a notice titled "Correction" in the subsequent issue of his newspaper, alongside three positive commentaries on <hi rend="italic">Leaves of Grass</hi> by women.</note>
+
+            </p>
+
+         </div1>
+
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00186">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Henry P. Leland</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00186</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Leland, Henry P.">Henry P. Leland</author>
+                  <title level="a">Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Saturday Press</title>
+                  <imprint>
+                     <date when="1860-06-16">16 June 1860</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-23">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <note type="newspaper-editorial">
+            <p>[From the Philadelphia City Item]</p>
+         </note>
+         <head type="main-authorial">WALT WHITMAN. <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+         <head type="sub">BY HENRY P. LELAND.</head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>If ever there was a period when poetry needed a Luther now is the time. The vine long unpruned has run itself to waste; graceful lines, spiral tendrils, flaunting leaves, but very little fruit. The reformer and the vine-dresser are at hand—do you think we will let him go on unmolested? Never; there will be a hard fight. We are attached to old abuses, we love the shadow of the vine, and smoke the pipe of peace under it, watching those exquisite twistings and turnings of branch and tendril. The fevered lips of the poor are parched-there are no grapes to cool their system. Ma foi, why don't they send to Malaga?<ref target="n1" n="1" xml:id="r1"/> We gain our living pointing out to each other the exquisite ground-and-lofty tumblings of agile creepers, running here, there, everywhere. Hang your grapes!</p>
+
+         <p>Hang your reformers! They have sent the exquisite refinement and easy-flowing lines of the renaissance-period flying, they would revive a task for Nature;—teach us to walk instead of dancing the pas rococo of blessed Louis Quatorze;—revere and respect cocked-hats and small clothes of the Revolution, and neglect the tunic and toga. They would have us quit bragging about the exquisite beauty of Homer as we read it in the vernacular and woundily vowing how impossible it is to read Quevredo<ref target="n2" n="2" xml:id="r2"/>, or Dante, Racine, or Goethe in a translation; they would have us believe that their marrow has been long since collected and digested by those ignorant of everything save English, and that we are now crowing over a bag of bones! This is woful!</p>
+	
+         <p>Here is a man—W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>—coming smack at our aesthetical vine with a large knife—a bowie-knife. What is it best to do? Those old-world conquerors, the Romans, carried just such tools, and Americans of all nations now extant, are the only ones daring to wield such close-quarter reasons. Suppose we out rapiers, on guard, carte and tierce—now for the salute: by way of compliment let us ask him to thrust first at us; we drop our point by reversing the nails downward—with a circular motion; draw our right foot close by our left, stretch both hands; raise our right arm, and with our left-hand take off our hat gracefully. The devil! The man has rushed by us—made one drop—and the vine is good for nothing—but grapes!</p>
+	
+         <p>He has placed before us his poems. And what collective name has he given them? Something sounding—something like 'Songs of the Faineant,' 'Lays of other Lands,' 'Seaside Dreams,' or the 'Muse's Meanderings!' Not a bit of it; but plain 'Leaves of Grass'—something cows eat and milkmaids wipe their shoes on. Then he has entitled his poems 'Proto-Leaf,' 'Chants Democratic,' 'Enfans D'Adam,' 'Poem of Joys,' 'Messenger Leaves,' 'Calamus,' 'So Long,' etc. etc. And here we have his portrait—a head of Homer painted by Hans Hemling<ref target="n3" n="3" xml:id="r3"/>—a good deal of primitive grit toned down by Flemish caution. A face for open air and the woods and psalms of muscle.</p>
+	
+         <p>He sings very little for the opera, but for oyster-men and clam-diggers, and Western hunters and raftsmen, and farmers and red-cheeked matrons, and omnibus-drivers and mechanics; and for all true Americans, he whistles like an oriole of a warm May morning. He sits down by you familiarly, but not 'famillioniarely,' and tells you of Rocky Mountains, primeval forests, Southern bayoux, Northern lakes, Western prairies, Eastern rock-bound sea-shores, far-stretching prairies, scenes of sunlight, and fresh blowing air. He is great on politics, and the duties we owe our country. He advocates cleanliness, fresh air and exercise; he proves that because a man may be thrashed in a fight it is no reason that he was in the wrong. He is Consuelo for the poor man, the friendless, the outcast—he picks them up from the gutter and sets them up straight. If he has a dime in his pocket he evidently gives the poor devil ten cents of it. Certainly he is lacking in one of the chiefest of our attributes—making money. He tells you he is as good as you are, and that you are as good as he is—and evidently does not worry his great soul about trifles.</p>
+	
+         <p>If you intend to sail in the same fleet with his clipper, you must first be careened over and scrape off the barnacles of old books, before you up sail for blue water.</p>
+	
+         <p>He is the people's Poet, and spite of a belief that poetry only can be appreciated by the few, he goes in for giving it to the oi polloi. It's a fact that—</p>
+	
+         <q>
+            <p>'When coarser souls are wrapped in sleep'—<ref target="n4" n="4" xml:id="r4"/>
+            </p>
+         </q>
+
+         <p>we may out with a mandolin and sing to Leonores and Josephines—but we have to make it up next morning and we do sleep sometimes; so the poetic element in uneducated people as in the educated, sometimes and somewheres exist. Not a fierce revolution in this world's history but may be regarded as a grand psalm in the Book of Time, sung by the poets of deeds—the people.</p>
+	
+         <p>This poet has a peculiarity. He calls a tom-cat a tom-cat; therein we differ from him. It is a well received truth that in our day it is politic to look at a great many things as they are not. We crowd to see La Dame aux Camelias, to hear the Traviata, but we do not call the French girl, or her Francesca Italianizata sister, by their old Anglo-Saxon name.<ref target="n5" n="5" xml:id="r5"/> The farthingale and silkworm cover a multitude of sins, and elegant language many a vile, voluptuous thought. We may not be Spartans;—it seems the prayer of Whitman that we may not degenerate into Sybarites, and to prevent this he uses the crash-towel of bold words.<ref target="n6" n="6" xml:id="r6"/>
+         </p>
+	
+         <p>America must make her distinctive mark. Already over our Past falls the bridal-veil of Romance, wedding it to the Future, though its thin cloud, its exquisite beauty and loveliness seem more bewitching than when it was our Present. In the Revolution of 1776 lie undelivered the subjects for a thousand poems to which the Iliad of Homer will be but as a rushlight to a conflagration. To the glories of our Past and the beauty of our Present, Walt Whitman awakes us; rough, bold, and free, he bursts out in the roaring old song that might have cheered the Old Continentals bivouacked for battle. And the words will thrill many a heart even in our day, clad though the body may be in homespun in far Western homes; grimmed [sic] though it may be by coal-dust and machinery, or wearing out life toiling away where brown earth, blue skies, pure air, green fields, and all God's gifts to man are driven ruthlessly aside that we may give more room for Mammon.</p>
+
+         <p>Before we condemn the book, let us read it. Before we cry out 'Eccentricity!' let us investigate our own centre, and the teapot we are making such a tempest in. There are two thousand roses to a drachm of the otto, there are untold thousands of poems in this duodecimo<ref target="n7" n="7" xml:id="r7"/>; you are given ideas! Now attention! present arms! Fire Words!!</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">Malaga, Spain, was once a major Moorish city and port, famed for its figs and wine. In 1487 the city fell to Isabella and Ferdinand, the Christian conquerors.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">Quevredo is a misspelling of the name of the sixteenth-century Spanish poet Francisco de Quevedo.</note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="3">Probably a reference to Hans Memling (c. 1430-1494), a Flemish painter whose name has been known to be mispelled Hemling and Memlinc.</note>
+
+               <note type="editorial" target="r4" xml:id="n4" n="4">Bulwer Lytton, "Night and Love."</note>
+
+               <note type="editorial" target="r5" xml:id="n5" n="5">Alexandre Dumas' novel <hi rend="italic">La Dame aux Camélias</hi> (1848) was the basis of Verdi's opera <hi rend="italic">La Traviata</hi> (1853). The novel involves a courtesan who becomes part of the fashionable world of Paris. She has the opportunity to escape her debts if she becomes the mistress of Count de Varville, but she chooses instead to escape to the country with Armand Duval, her impoverished lover. In self-sacrificing fashion, she gives up her lover for the sake of his family. They are only reunited in a tragic death scene.</note>
+
+               <note type="editorial" target="r6" xml:id="n6" n="6">"Crash" is a kind of coarse linen often used in towels and known for its roughness.</note>
+
+               <note type="editorial" target="r7" xml:id="n7" n="7">Otto is the essential oil and drachm is one eighth of an ounce.</note>
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

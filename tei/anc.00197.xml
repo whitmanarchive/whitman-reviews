@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00197">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poems">American Poets [Part 1]</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>John Charles Earle</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="br">Beverley Rilett</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00197</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Earle, John Charles">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>John Charles Earle</reg>
+                     </choice>
+                     <title level="a">American Poets [Part 1]</title>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Dublin Review</title>
+                  <imprint>
+                     <date when="1874-04-04">4 April 1874</date>
+                     <biblScope type="pages">302-26</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#br" when="2012-02-23">changed author name "Anonymous" to "Earle, John Charles" and changed title of review from "American Poets" to "American Poets [Part 1]" according to Wellesley Index to Victorian Periodicals)</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-25">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">American Poets [Part 1]<ref target="n1" n="1" xml:id="r1"/>
+            <!--  [Review of Poems by Walt Whitman] -->
+         </head>
+
+         <p>W<hi rend="smallcaps">E</hi> have many examples in history of a national literature built up in a dialect, but America seems to stand alone in possessing a distinct literature composed in the mother tongue. The war of independence, the final separation of the two countries, the lapse of nearly a century since the latter event, the great difference between the natural scenery of the United States and England, the composite character of their population, and the ever-increasing influx of Germans and other foreigners, have all operated in directions wide of ours as to the forms of the expression of thought, yet have, nevertheless, left the higher literature, and particularly the romance and poetry, of the Republic, absolutely identical with our own as to language. But in spite of this identity of language, the poetry of America is strictly national. It has a flavour of its own, like an American apple. It differs as completely from English poetry as a prairie from a moor, an acacia mimosa from a sensitive plant, sassafras and maple from birch and oak, or a squatter in a log-hut from a farm labourer in a cottage. Though it is, like the poets who produced it, the offspring of England, it has grown up under foreign skies, unlike its parent as the Mississippi is unlike the Thames and the Alleghany mountains differ from the Snowdon range. In the aboriginal Indian traditions, in particular, American poets have sources of originality so abundant that we have nothing that can be compared with it among ourselves. The Celtic and Gaelic legends, which gleam brightly through the pages of Ossian and the "Irish Melodies," are faint in comparison with the Indian traditions that blaze through the "Song of Hiawatha."
+</p>	
+
+         <p>It is to scenery, principally, that poets in general are indebted for their hold on the minds of others. Important as it is that they should be melodious, should sound the depths of the human heart, and depict exactly the lights and shades of character, it is to scenery, or, in other words, to nature, that they owe their most striking images and illustrations. The American poet has a rich treasury of poetic imagery in his native land. In variety and grandeur, it can hardly be equalled. It is as marked as the imagery of Hafiz, Saadi, and the Sanscrit drama, and has many more elements of strength. For distinctness and beauty it stands beside the imagery of Sicily in the Idyllia of Theocritus; of Mantua and Cremona in the Bucolics of Maro; of Castile and Navarre in the Spanish ballads translated by Lockhart; of Windsor Forest in Pope and Shelley's "Alastor"; of the Rhine and the Hartz Mountains in the songs of Goethe and the lyrics of Schiller.<ref target="n2" n="2" xml:id="r2"/> "The Americans," says Walt Whitman, "of all nations at any time upon the earth have probably the fullest poetical nature. The United States themselves are essentially the greatest poem. In the history of the earth hitherto, the largest and most stirring appear tame and orderly to their ampler largeness and stir. Here at last is something in the doings of man that corresponds with the broadcast doings of the day and night. Here is not merely a nation, but a teeming nation of nations. Here is action untied from strings, necessarily blind to particulars and details, magnificently moving in vast masses."</p>
+	
+         <p>Let us take a few pictures of American scenery drawn by master-hands. They will be found to have a <hi rend="italic">cachet</hi> all their own.<ref target="n3" n="3" xml:id="r3"/>
+         </p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">The original list of publications reviewed ran: <hi rend="italic">Lars. A Pastoral of Norway</hi>. By Bayard Taylor, author of Goethe's Faust, translated in the original metres. London: Strahan &amp; Co. 1873; <hi rend="italic">Poems by Walt Whitman</hi>. Selected and edited by William Michael Rossetti. London: John Camden Hotten. 1868. <hi rend="italic">Songs of the Sierras</hi>. By Joaquin Miller. London: Longman &amp; Co. 1871; <hi rend="italic">Hans Breitmann's Ballads</hi>. (Three series.) London: Trübner &amp; Co. 1871; <hi rend="italic">Southern Poems of the War</hi>. Baltimore: Murphy &amp; Co. London: Trübner &amp; Co. 1869; <hi rend="italic">The Poet at the Breakfast Table</hi>. By Oliver Wendell Holmes. London: Routledge &amp; Sons. 1872; <hi rend="italic">The Pennsylvania Pilgrimage, and other poems</hi>. By John Greenleaf Whittier. Boston: Osgood &amp; Co. London: Sampson Low &amp; Co. 1872; <hi rend="italic">John Greenleaf Whittier's Poetical Works</hi>. Complete edition. London: Macmillan &amp; Co. 1873.</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">Hafiz (c. 1300–1388) was a Persian lyric poet (see note 34 above). His lyrical poetry is highly acclaimed. Hafiz enlivened the conventional imagery of the ghazal, a form of love poetry in rhyming couplets, comparable to the sonnet. Some critics note that his poetry is homoerotic. Sa'di (1184-1283/1291?) is one of the major Persian poets of the medieval period. He is recognized for the quality of his writing and for his social thought. Theocritus created Ancient Greek bucolic poetry, which flourished in the third century B.C. Publius Vergilius Maro (70 BC–19 BC), later called Virgilius, and known in English as Virgil or Vergil, was a Latin poet, the author of the <hi rend="italic">Eclogues</hi>, the <hi rend="italic">Georgics</hi>, and the <hi rend="italic">Aeneid</hi>. The last of these is an epic poem of twelve books that became the Roman Empire's national epic. Scottish writer and editor John Gibson Lockhart is the author of <hi rend="italic">Ancient Spanish Ballads; Historical and Romantic</hi> (1856).</note> 
+
+               <note type="editorial" target="r3" xml:id="n3" n="3">The article focuses on descriptive poetry quoting from Taylor's "Lars," William Gilmore Simms, Alfred Street "Grey Forest Eagle," Arthur Cleveland Coxe, "Old Churches," Emerson, Longfellow, Francis Green, "Chicadee," Philip Pendelton Cooke, and "Alice of Monmouth" by Edmund Stedman. On page 306, the reviewer writes "Now, if we were amind, we could quote from fifty poets of the Union, passages as true as pictures by Teniers, Claude or Salvator Rosa to the scenery of their Country," including "The Chants Democratic" by Whitman. The article then continues with a history of American poetry, beginning with the Puritans, ending with a discussion of Lydia Huntley Sigourney, Bryant, Longfellow, Taylor, and Holmes. It records a who's who of American poets (Whitman does not appear, although Poe does, 310). It excerpts a couple of poems from the "Catholic World" of May 1868.</note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00078">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="rivulets">The Genius of Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Two Rivulets</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>W. Hale White</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00078</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="White, W. Hale">W. Hale White</author>
+                  <title level="a">The Genius of Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Secular Review</title>
+                  <imprint>
+                     <date when="1880-03-20">20 March 1880</date>
+                     <biblScope type="pages">180-2</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-10-25">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-06">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">THE GENIUS OF WALT WHITMAN.<!-- [Review of Two Rivulets] --></head>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>I<hi rend="smallcaps">T</hi> is rather remarkable that Walt Whitman's last book, "The Two Rivulets," should have received so little recognition in this country. There has been no English edition, and so far as the present writer knows, nothing has been said about it in any of the Reviews. Yet this book contains, perhaps, the best defence of Democracy which has been offered of late years, some of the truest poetry, and not a few arrowy sayings, which, if they have not pierced the core of the great problems which have eternally troubled humanity, have at any rate penetrated them profoundly.</p>
+
+         <p>"The Two Rivulets" consists of prose and verse. The prose is made up of an essay called "Democratic Vistas," and of memoranda written during the great Civil War of the States. The author was a volunteer in the hospitals, and he tells us his experiences in the wards and in the camps. The verse, with one or two exceptions, is unmetrical and unrhymed, in the same style as the "Leaves of Grass." No man more clearly than Whitman has seen the seamy side of Republicanism, as it is presented in the United States. At times his faith in the people has apparently been altogether shattered, and passages might be cited which, taken by themselves, would lead us to believe that he is without hope. He sees "the chaotic confusion of labour in the Southern States, the growing and alarming spectacle of countless squads of vagabond children, the hideousness and squalor of certain quarters of the cities; the advent of late years, with increasing frequency, of these pompous, nauseous, outside shows of vulgar wealth," and what he calls his "darkest dread," the decay of the "simple, unsophisticated conscience, the primary moral element." "Our triumphant modern civilisee," he proclaims, "with his all-schooling and his wondrous appliances, will still show himself but an amputation while this deficiency remains."</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00524" cert="absolute"/>
+                        <!-- from Democratic Vistas -->
+                     </relations>
+                     <p>"The underlying principles of the States are not honestly believed in (for all this hectic glow and these melodramatic screamings), nor is humanity itself believed in. What penetrating eye does not everywhere see through the mask? The spectacle is appalling. We live in an atmosphere of hypocrisy throughout. The men believe not in the women, nor the women in the men. A scornful superciliousness rules in literature. The aim of all the litté<!-- no photocopy to check, but guessing the previous character should be e acute (&#233;) -->rateurs is to find something to make fun of. A lot of churches, sects, &amp;c., the most dismal phantasms I know, usurp the name of religion. Conversation is a mass of badinage. From deceit in the spirit, the mother of all false deeds, the offspring is already incalculable. An acute and candid person in the Revenue department at Washington, who is led by the course of his employment to regularly visit the cities, north, south, and west, to investigate frauds, has talked much with me (1869, 1870) about his discoveries. The depravity of the business classes of our country is not less than has been supposed, but infinitely greater. The whole of the official services of America, national, State, and municipal, in all their branches and departments, except the Judiciary, are steeped, saturated, in corruption, bribery, falsehood, maladministrations; and the Judiciary is tainted. The great cities reek with respectable as much as non-respectable robbery and scoundrelism. In fashionable life, flippancy, tepid amours, weak infidelism, small aims, or no aims at all, only to kill time… I say that our New World Democracy, however great a success in uplifting the masses out of their sloughs, in materialistic-development products, and in a certain highly deceptive, superficial, popular intellectuality, is so far an almost complete failure in its social aspects, in any superb, general-personal character, and in really grand, religious, moral, literary and æsthetic results."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Nevertheless, on the whole, his doubts are over-mastered, and, as against any other form of government, he decides for self-government. He believes</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+                     <relations>
+                        <work ref="xxx.00524" cert="absolute"/>
+                        <!-- from Democratic Vistas -->
+                     </relations>
+                     <p>"the ulterior object of political and all other government (having, of course, provided for the police, the safety of life, property, and for the basic statute and common law, and their administration, always first in order) to be among the rest, not merely to rule and to repress disorder, but to develop, to open up to cultivation, to encourage the possibilities of all beneficent and manly outcroppage, and of that aspiration for independence and the pride and self-respect latent in all characters (or if there be exceptions, we cannot, fixing our eyes on them alone, make theirs the rule for all). I say the mission of government henceforth, in civilised lands, is not repression alone, and not authority alone, not even of law, nor by that favourite standard of the eminent writer (Carlyle), the rule of the best men, the born heroes and captains of the race (as if such ever, or one time out of a hundred, get into the big places, elective or dynastic!), but higher than the highest arbitrary rule, to train communities through all their grades, beginning with individuals and ending there again, to rule themselves."</p>
+
+                     <p>"What Christ appeared for in the moral-spiritual field for humankind—namely, that in respect to the absolute soul there is, in the possession of such by each single individual, something so transcendent, or incapable of gradations (like life), that, to that extent, it places all beings on a common level, utterly regardless of the distinctions of intellect, virtue, or station, or any height or lowliness whatever, is tallied in like manner, in this other field, by Democracy's rule, that men, the nation, as a common aggregate of living identities, affording in each a separate and complete subject for freedom, worldly thrift, and happiness, and for a fair chance for growth, and for protection in citizenship, &amp;c. must to the political extent of the suffrage or vote, if no further, be placed, in each and in the whole, on one broad, primary, universal, common platform."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Walt Whitman's creed in this matter has been largely shaped by the war. He found the average American in the United States' armies, under pressure of want, disease, danger, and at one time in presence of failure, to be nobler than a mere glance at the outside of political life would have reported him to be. He records with joy that once, when he stood by the bedside of a Pennsylvania soldier, who lay conscious of approaching death, yet perfectly calm "and with noble spiritual manner," an old surgeon observed that "he had not seen yet the first case of man or boy that met the approach of dissolution with cowardly qualms or terror." He insists on the grandeur of the great uprising of the people for the sake of an idea, and the equally grand spectacle of the peaceful disbanding of the gigantic armies, and their absorption, without a word, into the ranks of the citizens. Lastly, he is convinced that, whatever follies Democracy may commit, owing mainly to its indifference, there resides in it a power of enthusiastic self-assertion on all great occasions when appeal is fairly made to it.</p>
+
+         <p>This is but a poor and brief account of Whitman's argument. The subject is one too large for discussion in a couple of columns; but those who care for it, if they turn to the "Democratic Vistas," will assuredly find that Whitman's plea is not school logic nor mere vapouring, but that it is <hi rend="italic">from himself</hi>, and that every line has life in it.</p>
+
+         <p>After reading Whitman's poetry, we are apt to condemn nine-tenths of modern poetry as nothing but jingle. Some of his verses, like "After the Sea Ship," for example, are merely expressive of nature—that is to say, a natural phenomenon, commonplace enough, is selected, described, and set in a frame. But we recognise a peculiar charm—the charm of the picture, the secret of all art, and we say to ourselves, the man who takes anything which lies around us unnoticed, and holds it up to us as something worthy of admiration; who signalises its special beauty; who gives it voice; who acts as the tongue of the dumb world to us, is one of our greatest benefactors. Whitman never leaves the Present for the Past, in order to find his romance. He is utterly free from that miserable modern sentimentality which discerns nothing in our own time worth seeing, but must take all its subjects from a century, or ten centuries, or twenty centuries ago; a sentimentality morally pernicious, because, under its influence, life passes away like a dream, all the messages of the Present lying entirely disregarded. To Whitman the nineteenth century is emphatically the century for him; and he is not afraid even to write an ode to a locomotive. The poetry of the present epoch is infected with a scepticism worse than anything ever condemned by council or synod. It parades before us a weak despair, an insistence on the irreconcileable in nature, the parting of friends never to meet again, the obliteration of the landscape by the advancing ugliness of cities, the insolubility of the riddles of life, death, and the infinite. The trick, for trick it is, is easy enough. Every man with the least capacity for anything beyond the pleasures of the senses is full enough of such stuff as this; but he ought to consider himself bound not to speak it. Unless he can help his fellow creatures to courage and to faith, let him hold his tongue. Whitman refuses to be cowed even by death.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00217" cert="absolute"/>
+                        <!-- from When Lilacs Last in the Dooryard Bloom'd -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l rend="indented4">"O what shall I hang on the chamber walls?</l>
+                        <l>And what shall the pictures be that I hang on the walls,</l>
+                        <l>To adorn the burial house of him I love?</l>
+                        <l>Pictures of growing spring, and farms, and homes,</l>
+                        <l>With the fourth-month eve at sundown, and the <choice><sic>grey</sic><corr>gray</corr></choice> smoke <lb/>
+                           <choice><sic>lurid</sic><corr>lucid</corr></choice> and bright,</l>
+                        <l>With floods of the yellow gold<choice><sic>,</sic><corr></corr></choice> 
+                           <choice><sic>and</sic><corr>of</corr></choice> the gorgeous, indolent, <lb/>sinking sun<choice><sic></sic><corr>,</corr></choice> burning, expanding the air;</l>
+                        <l>With the fresh sweet herbage under foot, and the pale<choice><sic>,</sic><corr></corr></choice> green <lb/>leaves of the trees prolific,</l>
+                        <l>In the distance the flowing glaze, the breast of the river, <lb/>with a wind-dapple here and there;</l>
+                        <l>With ranging hills on the banks, with many a line against <lb/>the sky, and shadows;</l>
+                        <l>And the city at hand, with dwellings so dense, and stacks of <lb/>chimneys,</l>
+                        <l>And all the scenes of life, and the workshops, and the <choice><orig>work-<lb/>men</orig><reg>workmen</reg></choice> homeward returning."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>He believes that thought will be its own cure; that if we are afflicted by doubt, we must not hesitate—least of all must we stop short and hide ourselves in a fiction; but that we must go forward.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00496" cert="absolute"/>
+                        <!-- from Passage to India -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"O my brave soul!</l>
+                        <l>O farther, farther sail!</l>
+                        <l>O daring joy, but safe! Are they not all the seas of God?</l>
+                        <l>O farther, farther, farther sail!"</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>The reader of "The Two Rivulets" will notice, what was so obvious in the <hi rend="italic">Leaves of Grass</hi>, a determination to make men satisfied with their own lives. Whitman does not teach that life is to be reckoned by a few consummate moments, to which we are to look back, or for which we are to wait. He sings the sweetness of common occupations. He knows that in mere life itself there is something, there is much that is good, and that we must find our happiness in the common day's work, relationships, and visitations, unless we wish our existence to be excavated, a mere hollow reminiscence or anticipation.</p>
+
+         <p>Finally, he holds that it is possible for man, even in his last extremity, to preserve his serenity, and still to hope. It is almost murder to mutilate his exquisite "Prayer of Columbus" by not quoting it entire; but nevertheless, the closing verses must be given by way of illustrating the sublimity of his faith:—</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00263" cert="absolute"/>
+                        <!-- from Prayer of Columbus -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"One effort more—my altar this bleak sand;</l>
+                        <l>That <choice><sic>thou</sic><corr>Thou</corr></choice>, O God, my life hast lighted,</l>
+                        <l>With ray of light, steady, ineffable, vouchsafed of <choice><sic>thee</sic><corr>Thee</corr></choice>
+                        </l>
+                        <l>(Light rare, untellable—lighting the very light!</l>
+                        <l>Beyond all signs, descriptions, languages<choice><sic></sic><corr>!</corr></choice>)<choice><sic>!</sic><corr></corr></choice>
+                        </l>
+                        <l>For that, O God—be it my latest word<choice><sic>,</sic><corr>—</corr></choice>here on my knees,</l>
+                        <l>Old, poor, and paralysed—I thank thee.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"My terminus near,</l>
+                        <l>The clouds already closing in upon me,</l>
+                        <l>The voyage balk'd, the course disputed, lost,</l>
+                        <l>I yield my ships to <choice><sic>thee</sic><corr>Thee</corr></choice>
+                           <choice><sic>,</sic><corr>.</corr></choice>
+                        </l>
+                        <!-- Stanza break here in original -->
+                        <l>Steersman unseen! henceforth the helms are <choice><sic>thine</sic><corr>Thine</corr></choice>;</l>
+                        <l>Take <choice><sic>thou</sic><corr>Thou</corr></choice> command—what to my petty skill <choice><sic>thy</sic><corr>Thy</corr></choice> 
+                           <choice><orig>naviga-<lb/>tion</orig><reg>navigation</reg></choice>?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"My hands, my limbs, grow nerveless;</l>
+                        <l>My brain feels rack'd, bewilder'd;</l>
+                        <l>Let the old timbers part<choice><sic>,</sic><corr>—</corr></choice>I will not part<choice><sic>;</sic><corr>!</corr></choice>
+                        </l>
+                        <l>I will cling fast to <choice><sic>thee</sic><corr>Thee</corr></choice>, O God, though the waves buffet <lb/>me—</l>
+                        <l>Thee, <choice><sic>thee</sic><corr>Thee</corr></choice>, at least, I know.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Is it the prophet's thought I speak, or am I raving?</l>
+                        <l>What do I know of life? <choice><sic>What</sic><corr>what</corr></choice> of myself?</l>
+                        <l>I know not even my own work, past or present;</l>
+                        <l>Dim, <choice><sic>ever shifting</sic><corr>ever-shifting</corr></choice> guesses of it spread before me,</l>
+                        <l>Of nearer, better worlds<choice><sic>;</sic><corr>,</corr></choice> their mighty parturition</l>
+                        <l>Mocking, perplexing me."</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"And these things I see suddenly—what mean they?</l>
+                        <l>As if some miracle, some hand divine unseal'd my eyes<choice><sic>:</sic><corr>,</corr></choice>
+                        </l>
+                        <l>Shadowy, vast shapes<choice><sic></sic><corr>,</corr></choice> smile through the air and sky<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>And on the distant waves sail countless ships<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>And anthems in new tongues I hear saluting me."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>  
+
+         <p>In this "Prayer of Columbus" Whitman has reached the highest point of self-negation—a point which it seems sometimes impossible to attain. It is almost beyond us to be able to say: "I am perfectly content if only the evolution goes on which my existence has helped. Whatever may happen to me—whether I live or die; whether our immortality be a truth or a figment—I am altogether resigned and happy." It is clear that this must be the goal of our ethics; and, until we have overcome even to that end, we shall be the victims of unceasing despairs. Till then we build on illusions, which for a moment seem to possess reality, and presently vanish, mocking our hopes.</p>
+
+         <p>If a motto were to be chosen for "The Two Rivulets," and for Walt Whitman generally, it should be that noble sentence from the preface to "The Hesperus" of Jean Paul:—</p>
+
+         <q who="Jean Paul">
+            <floatingText>
+               <body>
+                  <div1 type="extract">
+<!-- from Hesperus -->
+                     <p>"The stones and rocks, which two veiled shapes, necessity and sin, like Deucalion and Pyrrha, throw behind them at the good, shall become new men.</p>
+
+                     <p>"And on the western gate of this century stands written:</p>
+
+                     <q>
+                        <floatingText>
+                           <body>
+                                 <l>'Here is the road to Virtue and Wisdom.'</l>
+                              
+                           </body>
+                        </floatingText>
+                     </q>
+
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Just as on the western gate of Cherson<ref target="n1" xml:id="r1" n="1"/> stood the sublime inscription—</p>
+
+         <q who="unknown">
+            <floatingText>
+               <body>
+                  
+                     <l>'Here leads the way to Byzantium.</l>
+                     <l>Infinite Providence, thou wilt make the day dawn.'"</l>
+                  
+               </body>
+            </floatingText>
+         </q>
+
+         <closer>
+            <signed rend="right">W. H<hi rend="smallcaps">ALE</hi> W<hi rend="smallcaps">HITE</hi>.</signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Cherson, also known as Chersonesus, was a Greek colony in 6th century BC, located in the southwestern part of Crimea.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

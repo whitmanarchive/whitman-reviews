@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00206">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Walt Whitman. The Man and His Book—Some New Gems for His Admirers</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00206</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman. The Man and His Book—Some New Gems for His Admirers</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Boston Post</title>
+                  <imprint>
+                     <date when="1881-11-02">2 November 1881</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-02">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN. <!--  [Review of Leaves of Grass (1881&#8211;82)] --></head> 
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+         <head type="sub">The Man and His Book—Some New Gems for His Admirers.</head>
+
+         <p>The "good grey poet" but a few days since left Boston, where he has been for some weeks past staying and busying himself with revising the proof-sheets of the new edition of his famous book, "Leaves of Grass," which is soon to be issued by James R. Osgood &amp; Co. of this city. Mr. Whitman, though now nearly 68 years of age, is still hale and vigorous, both in body and mind. The shock of paralysis which he sometime ago experienced still causes him some inconvenience, but does not prevent his moving about, and his striking face and imposing figure, in its somewhat odd dress, has become quite familiar to people of the West End, where he has resided. All who came in contact with the venerable poet were charmed by his cheery kindness, his wit and humor and his intelligent conversation. He has by no means ceased to write, and during the last two or three weeks of his stay in Boston produced several new pieces, which will appear for the first time in the new edition of his poems. Mr. Whitman is eminently the poet of passing events. He does not seek for a grand subject for his muse, but being of a poetic nature he sees the poetry that exists in events almost commonplace. They suggest a poetic thought, and he gives it expression in his own peculiar style. In fact, the most of his short poems are but the expression of a single thought. As an illustration of Mr. Whitman's grasping an idea, may be instanced his poem, entitled, "The Sobbing of the Bells," first published in the P<hi rend="smallcaps">OST</hi>. Mr. Whitman was awakened by the tolling of the bells announcing the death of President Garfield. He appreciated the pathos of the event, and rising, wrote the few lines which so beautifully expressed the sentiment, and which have already become famous. Mr. Whitman's poems have been severely criticized, but much of the criticism is due to a failure to understand. Whether his peculiar style of expression is to be commended or not may be a question, but the beauty of the thoughts expressed cannot be denied. Among the new poems to appear in the volume we take the privilege of quoting a few. The following lines, suggested by hearing a regimental band in the wilds of the far west, is another illustration of Mr. Whitman's ability to see the poetry of ordinary events:</p>
+
+         <!-- From "Italian Music in Dakota" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00257" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  	
+                        <head type="main-authorial">ITALIAN MUSIC IN DAKOTA.</head>
+                        <l>["The Seventeenth—the finest Regimental band I <lb/>ever heard."]</l>
+                        <l>Through the soft evening air enwinding all,</l>
+                        <l>Rocks, woods, fort, cannon, pacing sentries, endless <lb/>wilds,</l>
+                        <l>In dulcet streams, in flutes' and cornets' notes,</l>
+                        <l>Electric, pensive, turbulent, artificial,</l>
+                        <l>(Yet strangely fitting even here, meaning unknown <lb/>before.</l>
+                        <l>Subtler than ever, more harmony, as if born here,<lb/>related here,</l>
+                        <l>Not to the city's fresco'd rooms, not to the audience<lb/>of the opera house.</l> 
+                        <l>Sounds, echoes, wandering strains, as really here at <lb/>home,</l>
+                        <l>Sonnambula's innocent love, trios with Norma's <choice><orig>an-<lb/>guish</orig><reg>anguish</reg></choice>,</l>
+                        <l>And thy ecstatic chorus Pelinto;)</l>
+                        <l>Ray'd in the limpid yellow slanting sundown,</l>
+                        <l>Music, Italian music in Dakota.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>While nature, sovereign of this gnarl'd realm,</l>
+                        <l>Lurking in hidden barbaric grim recesses,</l>
+                        <l>Acknowledging rapport however far remove'd,</l>
+                        <l>(As some old root or soul of earth its last-born <lb/>flower or fruit),</l>
+                        <l>Listens well pleas'd.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Another, a bit of description, is in a style well adapted to the grand scene described.</p>
+
+         <!-- From "Spirit That Form'd This Scene" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00289" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">SPIRIT THAT FORM'D THIS SCENE.</head>
+                        <l>[Written in Platte Canon, Colorado.]</l>
+                        <l>Spirit that form'd this scene,</l>
+                        <l>These tumbled rock piles grim and red,</l>
+                        <l>These reckless heaven-ambitious peaks,</l>
+                        <l>These gorges, turbulent clear streams, this naked<lb/>freshness.</l>
+                        <l>These tormices wild arrays, for reasons of their own,</l>
+                        <l>I know thee, savage spirit—we have communed <choice><orig>to-<lb/>gether</orig><reg>together</reg></choice>,</l>
+                        <l>Mine too such wild arrays, for reasons of their own;</l>
+                        <l>Was't charged against my chants they had forgotten <lb/>art?</l>
+                        <l>To fuse within themselves its rules precise and <choice><orig>deli-<lb/>catesse</orig><reg>delicatesse</reg></choice>?</l>
+                        <l>The lyrist's measure'd beat, the wrought out temple's <lb/>grace—columns and plish'd arch forgot?</l>
+                        <l>but thou that revelest here—spirit that form'd this<lb/>scene,</l>
+                        <l>They have remember'd thee.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In four lines Mr. Whitman catches a thought that embalms philosophy in poetry. It is this:</p>
+
+         <!-- From "Roaming in Thought" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00156" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">ROAMING IN THOUGHT.</head>
+                        <l>[After reading Hegel.]</l>
+                        <l>Roaming in thought over the Universe, I saw the <lb/>little that is good steadily hastening towards <lb/>immortality,</l>
+                        <l>And the vast all that is call'd Evil I saw hastening <lb/>to merge itself and become lost and dead.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Two other poems of exceptional merit and both new, we quote: The first is:</p>
+
+         <!-- From "The Dalliance of the Eagles" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00155" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">THE DALLIANCE OF THE EAGLES.</head>
+                        <l>Skirting the river road, (my forenoon walk, my <lb/>rest,)</l>
+                        <l>Skyward in air a sudden muffled sound, the dalliance <lb/>of the eagles,</l>
+                        <l>The rushing amorous contact high in space together,</l>
+                        <l>The clinching interlocking claws, a living, fierce, <lb/>gyrating wheel,</l>
+                        <l>Four beating wings, two beaks, a swirling mass <lb/>tight grappling,</l>
+                        <l>In tumbling turning clustering loops, straight <choice><orig>down-<lb/>ward</orig><reg>downward</reg></choice> falling,</l>
+                        <l>Till o'er the river pois'd, the twain yet one, a <choice><orig>mo-<lb/>ment</orig><reg>moment</reg></choice>'s lull,</l>
+                        <l>A motionless still balance in the air, then parting, <lb/>talons loosening,</l>
+                        <l>Upward again on slow-firm pinions slanting, their <lb/>separate diverse flight,</l>
+                        <l>She hers, he his, pursuing.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The second like the one previously quoted is inspired by bird life, and its force is apparent:</p>
+
+         <!-- From "To the Man-of-War Bird" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00134" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">TO THE MAN-OF-WAR BIRD.</head>
+                        <l>Thou who hast slept all night upon the storm,</l>
+                        <l>Waking renew'd on thy prodigious pinions.</l>
+                        <l>(Burst the wild storm? above it thou ascended'st,</l>
+                        <l>And rested on the sky, thy slave that cradled thee),</l>
+                        <l>Now a blue point, far, far in heaven floating.</l>
+                        <l>As to the light emerging here on deck I watch thee,</l>
+                        <l>(Myself a speck, a point on the world's floating <lb/>vast)</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Far, far at sea,</l>
+                        <l>After the night's fierce drifts have strewn the shore <lb/>with wrecks,</l>
+                        <l>With reappearing day as now so happy and serene,</l>
+                        <l>The rosy and elastic dawn, the flashing sun,</l>
+                        <l>The limpid spread of air cerulean,</l>
+                        <l>Thou also reappearest.</l>
+                        <l>Thou born to match the gale (thou art all wings)</l>
+                        <l>To cope with heaven and earth and sea and <choice><orig>hurri-<lb/>cane</orig><reg>hurricane</reg></choice>,</l>
+                        <l>Thou ship of air that never furl's thy sails,</l>
+                        <l>Days, even weeks untired and onward, through <lb/>spaces, realms gyrating.</l>
+                        <l>At dusk that look'st on Senegal, at morn America,</l>
+                        <l>That sport'st amid the lightning flash and thunder <lb/>cloud,</l>
+                        <l>In them, in thy experiences, had'st thou my soul,</l>
+                        <l>What joys! what joys were thine!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Mr. Whitman still braves the criticism adverse to certain passages of his poems which has been made. He has expunged none of the lines, except to gain conciseness. That the public is gradually coming to appreciate Walt Whitman and recognize his worth as a poet is evident, and the new edition of his works will be gladly welcomed.</p>
+
+      </body>
+   </text>
+</TEI>

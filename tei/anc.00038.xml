@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00038">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>George Searle Phillips</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00038</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Phillips, George Searle">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>George Searle Phillips</reg>
+                     </choice>
+                  </author>
+                  <title level="a">Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New-York Illustrated News</title>
+                  <imprint>
+                     <date when="1860-06-02">2 June 1860</date>
+                     <biblScope type="volume">2</biblScope>
+                     <biblScope type="pages">60</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-15">Encoded, validated</change>
+         
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN. <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>In pursuance of our plan to give the patrons of the I<hi rend="smallcaps">LLUSTRATED</hi> N<hi rend="smallcaps">EWS</hi> illustrated information in regard to all the new sensations of the day, whether in politics, art or literature, we present here a finely-executed portrait of W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>, the new American poet, the recent publication of a superb edition of whose poems "Leaves of Grass" is bringing him permanently before the American people as one of the most remarkable men of this day and generation.</p>
+
+         <p>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> was born in Brooklyn, Long Island, May 31, 1818, and is yet a resident of the "City of Churches."  He is a printer by trade, as many other men distinguished in the annals of this country have been; and, by the force of his own native genius, has risen from the case to become one of the great lights and leaders of literature—a poet whose broad and vigorous power and uncommon felicity of illustration is acknowledged wherever the English language is spoken.  His first appearance before the public was in 1855, when he issued a small and unprepossessing edition of his "Leaves of Grass," previous to which, however, he had contributed some poems to the press, which attracted attention by their power and originality.  On sending a copy of the first edition of his poems to Ralph Waldo Emerson, who is acknowledged to be the foremost man in modern literature, he received the following letter in reply:</p>
+
+         <q who="Ralph Waldo Emerson" type="printed">
+            <floatingText type="letter">
+               <body>
+                  <div1 type="letter">
+
+<!-- Guidelines state, "Except on title pages, line breaks <lb/> are not encoded."  -->
+                     <p>C<hi rend="smallcaps">ONCORD</hi>, Mass.,
+  July 21, 1855.</p>
+
+                     <p>D<hi rend="smallcaps">EAR</hi> S<hi rend="smallcaps">IR</hi>:—I am not blind to the worth of the wonderful gift of "Leaves of Grass."  I find it the most extraordinary piece of wit and wisdom that America has yet contributed.  I am very happy in reading it, as great power makes us happy.  It meets the demand I am always making of what seemed the sterile and stingy nature, as if too much handiwork, or too much lymph in the temperament, were making our western wits fat and mean.</p>
+
+                     <p>I give you joy of your free and brave thought.  I have great joy in it.  I find incomparable things said incomparably well, as they must be.  I find the courage of treatment which so delights us, and which large perception only can inspire.</p>
+
+                     <p>I greet you at the beginning of a great career, which yet must have had a long foreground somewhere, for such a start.  I rubbed my eyes a little to see if this sunbeam were no illusion; but the solid sense of the book is a sober certainty.  It has the best merits, namely, of fortifying and encouraging.</p>
+
+                     <p>I did not know, until I last night saw the book advertised in a newspaper, that I could trust the name as real and available for a post-office.  I wish to see my benefactor, and have felt much like striking my tasks and visiting New York to pay you my respects.</p>
+
+                     <closer>
+                        <signed rend="right">
+                           R. W. EMERSON.</signed>
+                     </closer>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>.</p>
+
+         <p>This letter of the highest praise, from one of the greatest minds in the world, called the attention of many literary people to these new poems, and they were largely bought up.  In 1856 he issued another and somewhat enlarged edition, which were speedily disposed of.  An interim of four years has elapsed, and having had ample leisure in the meantime for composition of new pieces, he now comes before the public with a superb edition of his work, containing about twice as much matter as the first edition, the success of which has already been great, and must be enormous.</p>
+
+         <p>There is a great career in store for Walt Whitman, and we shall watch his future with interest.  An interesting review of his work was given in the last number of the I<hi rend="smallcaps">LLUSTRATED</hi> N<hi rend="smallcaps">EWS</hi>.</p>
+
+         <p>The "Leaves of Grass" is published by Thayer &amp; Eldridge, of Boston, and the book—take it altogether—is, perhaps, the most magnificent specimen of typography ever issued by the American Press.</p>
+
+
+      </body>
+   </text>
+</TEI>

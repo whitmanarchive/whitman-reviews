@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00080">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Whitman's "Leaves of Grass"</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00080</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Whitman's "Leaves of Grass"</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Critic</title>
+                  <imprint>
+                     <date when="1881-11-05">5 November 1881</date>
+                     <biblScope type="pages">302-3</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-01-12">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Whitman's "Leaves of Grass."<hi rend="superscript"><ref>*</ref></hi> 
+            <!--  [Review of Leaves of Grass (1881&#8211;82)] -->
+         </head>
+
+         <p>P<hi rend="smallcaps">RACTICALLY</hi>, but not actually, this is the first time that Mr. Whitman has issued his poems through a publishing house instead of at his private cost. The two volumes called Leaves of Grass and the Two Rivulets, which he had printed and himself sold at Camden, N. J., are now issued in one, under the former title, without special accretions of new work, but not without a good deal of re-arrangement in the sequence of the poems. Pieces that were evidently written later, and intended to be eventually put under Leaves of Grass now find their place; some that apparently did well enough where they were have been shifted to other departments. On the whole, however, the changes have been in the direction of greater clearness as regards their relation to the sub-titles. It is not apparent, however, that the new book is greatly superior to the old in typography, although undeniably the fault of the privately printed volumes, a variation in types used, is no longer met with. The margins are narrower, and the look of the page more commonplace. The famous poem called 'Walt Whitman' is now the 'Song of Myself.' It still maintains: </p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- Song of Myself 136 -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>I too am not a bit tamed, I too am untranslatable; </l>
+                        <l>I sound my barbaric yawp over the roofs of the world.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>It still has the portrait of Whitman when younger, standing in a loose flannel shirt and slouched hat, with one hand on his hip, the other in his pocket. 'Eidolons' has been taken from the second volume and placed, for good reasons that the reader may not be ready to understand, among the first pieces gathered under the sub-title 'Inscriptions.' It ends with the 'Songs of Parting,' under which the last is 'So Long,' a title that a foreigner and perhaps many an American might easily consider quite as untranslatable as Mr. Whitman proclaims himself to be. The motive for the publication seems to be to take advantage of that wider popularity which is coming somewhat late in life to him whom his admirers like to call 'the good gray poet.'</p>
+
+         <p>One great anomaly of Whitman's case has been that while he is an aggressive champion of democracy and of the working-man, in a broad sense of the term working-man, his admirers have been almost exclusively of a class the farthest possibly removed from that which labors for daily bread by manual work. Whitman has always been truly caviare to the multitude. It was only those that knew much of poetry and loved it greatly who penetrated the singular shell of his verses and rejoiced in the rich, pulpy kernel. Even with connoisseurs, Whitman has been somewhat of an acquired taste, and it has always been amusing to note the readiness with which persons who would not or could not read him, raised a cry of affectation against those who did. This phenomenon is too well known in other departments of taste to need further remark; but it may be added that Mr. Whitman has both gained by it and lost. He has gained a vigorousness of support on the part of his admirers that probably more than outbalances the acrid attacks of those who consider his work synonymous with all that is vicious in poetical technique, and wicked from the point of morals. As to the latter, it must be confessed that, according to present standards of social relations, the doctrines taught by Whitman might readily be construed, by the overhasty or unscrupulous, into excuses for foul living: for such persons do not look below the surface, nor can they grasp the whole idea of Whitman's treatment of love. However fervid his expressions may be, and however scornful he is of the miserable hypocrisies that fetter but also protect the evilly disposed, it is plain that the idea he has at heart is that universal love which leaves no room for wickedness because it leaves no room for doing or saying unkind, uncharitable, unjust things to his fellow-man. With an exuberance of thought that would supply the mental outfit of ten ordinary poets, and with a rush of words that is by no means reckless, but intensely and grandly labored, Whitman hurls his view of the world at the heads of his readers with a vigor and boldness that takes away one's breath.</p>
+
+         <p>This century is getting noted among centuries for singular departures in art and literature. Among them all, there is none bolder or more original than that of Whitman. Perhaps Poe in his own line might be cited as an equal. It is strange, and yet it is not strange, that he should have waited so long for recognition, and that by many thousands of people of no little culture his claims to being a poet at all are either frankly scouted or else held in abeyance. Literature here has remarkably held aloof from the vital thoughts and hopes of the country. It seems as if the very crudity of the struggle here drove people into a petty dilettante atmosphere of prettiness in art and literature as an escape from the dust and cinders of daily life. Hence our national love for 'slicked up' pictures, for instance, by which it is often claimed in Europe that promising geniuses in painting, there, have been ruined for higher work. Hence our patronage of poets that have all the polish of a cymbal, but all a cymbal's dry note and hollowness. Hence, at one time, our admiration for orators that were ornate to the verge of inanity. Into this hot-house air of literature Walt Whitman bounded, with the vigor and suppleness of a clown at a funeral. Dire were the grimaces of the mourners in high places, and dire are their grimaces still.</p>
+
+         <p>There were plenty of criticisms to make, even after one had finished crying Oh! at the frank sensuality, the unbelievable nakedness of Walt. Everything that decent folk covered up, Walt exhibited, and boasted of exhibiting! He was proud of his nakedness and sensuality. He cried, Look here, you pampered rogues of literature, what are you squirming about, when you know, and everybody knows, that things are just like this, always have been, always will be? But it must be remembered that this was what he wrote, and that he did with a plan, and by order from his genius. It has never been heard of him that he was disgusting in talk or vile in private life, while it has been known that poets celebrated for the lofty tone of their morality, for the strictness of their Christianity, the purity of their cabinet hymns, can condescend in private life to wallow in all that is base. That is the other great anomaly of Whitman. He rhapsodizes of things seldom seen in print with the enthusiasm of a surgeon enamoured of the wonderful mechanism of the body. But he does not soil his conversation with lewdness. If evil is in him, it is in his book.</p>
+
+         <p>Whitman's strength and Whitman's weakness lie in his lack of taste. As a mere external sign, look at his privately printed volumes. For a printer and typesetter, reporter and editor, they do not show taste in the selection and arrangement of the type. A cardinal sin in the eyes of most critics is the use of French, Spanish, and American-Spanish words which are scattered here and there, as if Whitman had picked them up, sometimes slightly incorrectly, from wandering minstrels, Cubans, or fugitives from one of Walker's raids. He shows crudely the American way of incorporating into the language a handy or a high-sounding word without elaborate examination of its original meaning, just as we absorb the different nationalities that crowd over from Europe. His thought and his mode of expression is immense, often flat, very often monotonous, like our great sprawling cities with their endless scattering of suburbs. Yet when one gets the 'hang' of it, there is a colossal grandeur in conception and execution that must finally convince whoever will be patient enough to look for it. His rhythm, so much burlesqued, is all of a part with the man and his ideas. It is apparently confused; really most carefully schemed; certainly to a high degree original. It has what to the present writer is the finest thing in the music of Wagner - a great booming movement or undertone, like the noise of heavy surf. His crowded adjectives are like the medival writers of Irish, those extraordinary poets who sang the old Irish heroes and their own contemporaries, the chiefs of their clans. No Irishman of to-day has written a nobler lament for Ireland, or a more hopeful, or a more truthful, than has Walt Whitman. Yet it is not said that he has Irish blood. Nor is there to be found in our literature another original piece of prose so valuable to future historians as his notes on the war. Nor is there a poet of the war-time extant who has so struck the note of that day of conflict as Whitman has in 'Drum Taps.' He makes the flesh creep. His verses are like the march of the long lines of volunteers, and then again like the bugles of distant cavalry. But these are parts of him. As he stands complete in Leaves of Grass, in spite of all the things that regard for the decencies of drawing-rooms and families may wish away, he certainly represents, as no other writer in the world, the struggling, blundering, sound-hearted, somewhat coarse, but still magnificent vanguard of Western civilization that is encamped in the United States of America. He avoids the cultured few. He wants to represent, and does in his own strange way represent, the lower middle stratum of humanity. But, so far, it is not evident that his chosen constituency cares for, or has even recognized him. Wide readers are beginning to guess his proportions.</p>
+
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+
+         
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   Leaves of Grass 
+                  By Walt Whitman. 
+                   
+                      Boston:  
+                      James R. Osgood &amp; Co.  
+                   
+               
+            </ab>
+          
+
+      </body>
+   </text>
+</TEI>

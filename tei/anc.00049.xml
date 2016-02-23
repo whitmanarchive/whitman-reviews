@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00049">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">A Hoosier's Opinion Of Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>William Dean Howells</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00049</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Howells, William Dean">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>William Dean Howells</reg>
+                     </choice>
+                  </author>
+                  <title level="a">A Hoosier's Opinion Of Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Saturday Press</title>
+                  <imprint>
+                     <date when="1860-08-11">11 August 1860</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2005-11-29">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <note type="newspaper-editorial">[From the Ashtabula (Ohio) 'Sentinel,' July 18]</note>
+
+         <head type="main-authorial">A HOOSIER'S OPINION OF WALT WHITMAN. <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+
+         <p>Who is W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>?</p> 
+
+         <p>The person himself states his character, and replies to this question in the following general terms:</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- Song of Myself 136 -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>'Walt Whitman, an American, one of the roughs, a kosmos,</l>
+                        <l>Disorderly, fleshy, sensual, eating, drinking, breeding;</l>
+                        <l>No sentimentalist—no stander above men or women or apart <lb/>from them,</l>
+                        <l>No more modest than immodest.'</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>This is frank, but not altogether satisfactory. From the journals therefore, and from talk of those who know him, we gather that W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> lives in Brooklyn, that he has been a printer, and an omnibus-driver, that he wears a red flannel shirt, and habitually stands with his hands in his pockets; that he is not chaste nor clean, despising with equal scorn the conventional purity of linen, and the conventional rules of verse; that he is sublime and at the same time beastly; that he has a wonderful brain and an unwashed body. Five years ago, he gave to light the first edition of the 'L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>,' which excited, by its utter lawlessness, the admiration of those who believe liberty to mean the destruction of government, and disgusting many persons of fine feelings. We remember to have seen a brief criticism of the book in dear dead <hi rend="italic">Putnam</hi>, by a critic who seemed to have argued himself into a complete state of uncertainty, and who oracularly delivered an opinion formed upon the model of the judge's charge in Bardell and Pickwick.<ref target="n1" xml:id="r1" n="1"/> R<hi rend="smallcaps">ALPH</hi> W<hi rend="smallcaps">ALDO</hi> E<hi rend="smallcaps">MERSON</hi>, however, took by the horns this bull that had plunged into the china-shop of poetical literature, threatening all the pretty Dresden ornaments, and nice little cups with gold bands on them, and pronounced him a splendid animal—and left people to infer that he was some such inspired brute as Jove infurried <hi rend="italic">(sic)</hi>, when he played Europa that sad trick.<ref target="n2" xml:id="r2" n="2"/>
+         </p> 
+
+         <p>But presently the bull—being a mere brute—was forgotten, and the china-shop was furnished forth anew with delicate wares—new-fashioned dolls, bubble-thin goblets, and dainty match-safes.</p> 
+
+         <p>Nearly a year ago, the bull put his head through the N<hi rend="smallcaps">EW</hi> Y<hi rend="smallcaps">ORK</hi> S<hi rend="smallcaps">ATURDAY</hi> P<hi rend="smallcaps">RESS</hi> enclosure, and bellowed loud, long, and unintelligibly.</p> 
+
+         <p>The mystery of the thing made it all the more appalling.</p> 
+
+         <p>The Misses Nancy of criticism hastened to scramble over the fence, and on the other side, stood shaking their fans and parasols at the wretch, and shrieking, 'Beast! Beast!'</p> 
+
+         <p>Some courageous wits attempted to frighten the animal away by mimicry, and made a noise as from infant bulls.</p> 
+
+         <p>The people in the china-shop shut and bolted their doors.</p> 
+
+         <p>Several critics petted and patted the bull; but it was agreed that while his eyes had a beautiful expression, and his breath was fragrant with all the meadow-sweetness of the world, he was not at all clean, and in general, smelt of the stables, and like a bull.</p> 
+
+         <p>But after all, the question remained,—'What does he mean by it?'</p> 
+
+         <p>It remains yet—now when he stands again in front of the china-shop, with his mouth full of fresh leaves of grass, lilies, clover-heads, butter-cups, daisies, cockles, thistles, burrs, and hay, all mingled in a wisp together.</p> 
+
+         <p>He says: </p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- Song of Myself 136 -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>'I celebrate myself,</l>
+                        <l>And what I assume you shall assume,</l>
+                        <l>For every atom belonging to me, as good belongs to you.'</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And so proceeds, metreless, rhymeless, shaggy, coarse, sublime, disgusting, beautiful, tender, harsh, vile, elevated, foolish, wise, pure, and nasty, to the four hundred and fifty-sixth page, in a book most sumptuously printed and bound.</p>
+
+         <p>If you attempt to gather the meaning of the whole book, you fail utterly.</p>
+
+         <p>We never saw a man yet who understood it all. We who have read it all, certainly do not. </p>
+
+         <p>Yet there are passages in the book of profound and subtle significance, and of rare beauty; with passages so gross and revolting, that you might say of them, as the Germans say of bad books—<hi rend="italic">Sie lassen sich nicht lesen</hi>. </p>
+
+         <p>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> is both overrated and underrated. It will not do to condemn him altogether, not to commend him altogether. You cannot apply to him the tests by which you are accustomed to discriminate in poetry. </p>
+
+         <p>He disregards and defies precedent, in the poetic art. It remains for T<hi rend="smallcaps">IME</hi>, the all-discerning, to announce his wisdom or his folly to the future. </p>
+
+         <p>Only this: If he is indeed 'the distinctive poet of America,' then the office of poet is one which must be left hereafter to the shameless and the friendless. for W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> is not a man whom you would like to know. You might care to see him, to hear him speak, but you must shrink from his contact. He has told too much. The secrets of the soul may be whispered to the world, but the secrets of the body should be decently hid. W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> exults to blab them. </p>
+
+         <p>Heine,<ref target="n3" xml:id="r3" n="3"/> in speaking of the confidences of Sterne,<ref target="n4" xml:id="r4" n="4"/> and of Jean Paul,<ref target="n5" xml:id="r5" n="5"/> says that the former showed himself to the world naked, while the latter merely had holes in his trousers. W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> goes through his book, like one in an ill-conditioned dream, perfectly nude, with his clothes over his arm. </p>
+
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+The "judge's charge in Bardell and Pickwick" refers to Charles Dickens's <hi rend="italic">The Pickwick Papers</hi> (1837), in which Mr. Pickwick is sued by his landlady, Mrs. Bardell, for his breach of promise to marry her.
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+Jove's trick on Europa refers to the myth in which Zeus disguised himself as a tame, white-colored bull and kidnapped Europa.
+</note>  
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+Heinrich Heine (1797-1856) remarked in "The Romantic School": "Like Laurence Sterne, Jean Paul too, has laid bare his personality in his writings. He has likewise revealed his human foibles, but with a certain helpless timidity, particularly as far as sex is concerned. Laurence Sterne shows himself to his public completely unclothed; he is stark naked. Jean Paul, on the other hand, has only holes in his trousers."
+</note>  
+               <note type="editorial" xml:id="n4" target="r4" n="4">
+The English novelist and humorist Laurence Sterne (1713-1768) was most famous for his novel published in nine volumes, <hi rend="italic">Tristram Shandy</hi> (1759-67).
+</note>
+               <note type="editorial" xml:id="n5" target="r5" n="5">
+Jean Paul (pseudonym of Johann Paul Friedrich Richter) (1763-1825) was a German novelist and humorist, whose works were popular in the early 19th century.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

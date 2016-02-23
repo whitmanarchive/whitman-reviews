@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+               <orig>D. W.</orig>
+                  <reg>unknown</reg>
+            </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00029</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice>
+                        <orig>D. W.</orig>
+                        <reg>unknown</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">Canadian Journal</title>
+                  <imprint>
+                     <biblScope type="volume">n.s. 1</biblScope>
+                     <date when="1856-11">November 1856</date>
+                     <biblScope type="pages">541-51</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-06-24">Encoded, validated</change>
+         <change who="#ts" when="2006-02-15">Corrected encoding for ellipses</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+
+        
+            <ab>
+               
+                   
+                     <hi rend="italic">Bothwell: A Poem in six parts</hi>
+                   
+                 By W. Edmonstoune Aytoun, D. C. L., Author of "Lays of the Scottish Cavaliers, &amp;c,"<ref target="n1" xml:id="r1" n="1"/> 
+                  
+                   
+                      W. Blackwood and Sons.  
+                      Edinburgh and London,  
+                      1856.  
+                   
+               
+            </ab>
+         
+
+        
+            <ab>
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>
+                   
+                   
+                      Brooklyn, New York,  
+                      1855.  
+                   
+               
+            </ab>
+         
+
+         <p>In the works named above we have two not unmete representatives of the extremes of the Old and of the New World poetic ideal: "Bothwell," the product of the severely critical, refined, and ultra-conservative author of the Lays of the "Scottish Cavaliers;" and "Leaves of Grass," the wild, exuberant, lawless offspring of Walt Whitman, a Brooklyn Boy, "One of the Roughs!"</p>
+
+         <note type="project" rend="bracketed">…</note>
+
+         <p>In contrast with this we have named the effusions of the Brooklyn Bard. If the accredited author of "Firmilian" has now shown us what a poem ought to be, assuredly Walt Whitman is wide of the mark. Externally and internally he sets all law, decorum, prosody and propriety at defiance. A tall, lean, sallow, most republican, and Yankee-looking volume, is his "Leaves of grass; full of egotism, extravagance, and spasmodic eccentricities of all sorts; and heralded by a sheaf of double-columned extracts from Reviews—not always the least curious of its singular contents. Here, for example, is a protest against the intrusion of the British muse on the free soil of the States of the Union, which must surely satisfy the most clamant demand for native poetics and republican egotism:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>"What very properly fits a subject of the British crown, may fit very ill an American freeman. No fine romance, no inimitable delineation of character, no grace of delicate illustrations, no rare picture of shore or mountain or sky, no deep thought of the intellect, is so important to a man as his opinion of himself is; everything receives its tinge from that. In the verse of all those undoubtedly great writers, <hi rend="italic">Shakespeare, just as much as the rest,</hi> there is the air which to America is the air of death. The mass of the people, the laborers and all who serve, are slag, refuse. The countenances of kings and great lords are beautiful; the countenances of mechanics are ridiculous and deformed. What play of Shakespeare represented in America, is not an insult to America, to the marrow in its bones? How can the tone—never silent in their plots and characters—be applauded, unless Washington should have been caught and hung, and Jefferson was the most enormous of liars, and common persons, North and South, should bow low to their betters, and to organic superiority of blood? Sure as the heavens envelop the earth, if the Americans want a race of bards worthy of 1855, and of the stern reality of this republic, they must cast around for men essentially different from the old poets, and from the modern successions of jinglers and snivellers and fops."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>—and here accordingly is something essentially different from all poets, both old and new.</p>
+
+         <p>The poet, unnamed on his title page, figures on his frontispiece, and unmistakeably utters his own poem:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"I celebrate myself,</l>
+                     <l>And what I assume, you shall assume;</l>
+                     <l>For every atom belonging to me as good belongs to you.</l>
+                     <l>I loafe, and invite my soul;</l>
+                     <l>I lean and loafe at my ease—</l>
+                     <l>Observing a spear of Summer grass."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Such is the starting point of this most eccentric and republican of poets; of whom the republican critic above quoted, after contrasting with him Tennyson, as "The bard of ennui, and the aristocracy and their combination into love, the old stock love of playwrights and romancers, Shakespeare, the same as the rest."—concludes by confessing his inability to decide whether Walt Whitman is "to prove the most lamentable of failures, or the most glorious of triumphs, in the known history of literature."</p>
+
+         <p>Assuredly, the Brooklyn poet is no commonplace writer. That he is startling and <hi rend="italic">outré,</hi> no one who opens his volume will doubt. The conventionalities, and proprieties, and modesties, of thought, as well as of language, hold him in no restraint; and hence he has a vantage ground from which he may claim such credit as its licence deserves. But, apart from this, there are unmistakeable freshness, originality, and true poetic gleams of thought, mingled with the strange incoherencies of his boastful rhapsody. To call his "Leaves" poems, would be a mistake; they resemble rather the poet's first jottings, out of which the poem is to be formed; the ore out of which the metal is to be smelted; and, in its present form, with more of dross than sterling metal in the mass.</p>
+
+         <p>To find an extractable passage is no easy task. Here a fine suggestive fancy ends in some offensive pruriency; there it dwindles into incomprehensible aggregations of words and terms, which—unless Machiavelli was right in teaching that words were given us to conceal our thoughts,—are mere clotted nonsense! Were we disposed to ridicule: our selections would be easy enough; or gravely to censure: abundant justification is at hand. We rather cull—not without needful omissions—the thoughts that seem to have suggested the quaint title of "Leaves of Grass".</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Loafe with me on the grass…loose the stop from your throat,</l>
+                     <l>Not words, not music or rhyme I want: not custom or lecture, not even the best,</l>
+                     <l>Only the lull I like, the hum of your valved voice.</l>
+                  </lg><lg type="linegroup"><l> . .  . .  . .  . . .</l></lg>
+               </body>
+            </floatingText>
+          
+         </q>
+
+        
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>I know that the hand of God is the elderhand of my own,</l>
+                     <l>And I know that the spirit of God is the eldest brother of my own,</l>
+                     <l>And that all the men ever born are also my brothers…and the women <lb/>my sisters and lovers,</l>
+                     <l>And that a kelson of the Creation is love;</l>
+                     <l>And limitless are leaves, stiff or drooping in the fields.</l>
+                     <l>A child said, what is the Grass? fetching it to me with full hands;</l>
+                     <l>How could I answer the child?…I do not know what it is any more than he.</l>
+                     <l>I guess it must be the flag of my disposition, out of hopeful green <lb/>stuff woven.</l>
+                     <l>Or I guess it is the handkerchief of the Lord,</l>
+                     <l>A scented gift and remembrancer designedly dropped,</l>
+                     <l>Bearing the owner's name some way in the corners, that we may see and <lb/>remark, and say Whose?</l>
+                     <l>Or I guess the grass is itself a child…the produced babe of the vegetation.</l>
+                     <l>Or I guess it is a uniform hieroglyphic,</l>
+                     <l>And it means, Sprouting, alike in broad zones and narrow zones,</l>
+                     <l>Growing among black folks as among white,</l>
+                     <l>Kanuck, Tuckahoe, Congressmen, Cuff,</l>
+                     <l>I give them the same, I receive them the same.</l>
+                     <l>And now it seems to me the beautiful uncut hair of graves.</l>
+                  </lg> <lg type="linegroup"><l> . .  . .  . .  . . .</l></lg>
+         <lg type="linegroup"><l> . .  . .  . .  . . .</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+        
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>All truths wait in all things,</l>
+                     <l>They neither hasten their own delivery nor resist it,</l>
+                     <l>They do not need the obstetric forceps of the surgeon,</l>
+                     <l>The insignificant is as big to me as any,</l>
+                     <l>Logic and sermons never convince,</l>
+                     <l>The damp of the night drives deeper into my soul.</l>
+                  </lg><lg type="linegroup"><l> . .  . .  . .  . . .</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>I believe a leaf of grass is no less than the journeywork of the stars,</l>
+                     <l>And the pismire is equally perfect, and a grain of sand, and the egg of <lb/>the wren,</l>
+                     <l>And the tree-toad is a chef-d' uvre for the highest,</l>
+                     <l>And the running blackberry would adorn the parlors of heaven,</l>
+                     <l>And the narrowest hinge in my hand puts to scorn all machinery,</l>
+                     <l>And the cow crunching with depressed head surpasses any statue,</l>
+                     <l>And a mouse is miracle enough to stagger sextillions of infidels."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>This passage is far from being the most characteristic of the poem, and even in it we have stopped abruptly for one line more, and…Yet this will show that the punctuation is as odd as any other feature of the work; for the whole is full of conceits which speak fully as much of coarse vain-glorious egotism as of originality of genius. Any man may be an original, whether in the fopperies of the dress he puts on himself or on his poem. We are not, therefore, disposed to rate such very high, or to reckon Walt Whitman's typographical whims any more indicative of special genius, than the shirt-sleeves and unshaven chin of his frontispiece. If they indicate any thing specially, we should infer that he is a compositor by trade, and, for all his affectations of independence, could not keep "the shop" out of his verse. But that he sets all the ordinary rules of men and poets at defiance is visible on every page of his lank volume; and if readers judge thereby that he thinks himself wiser than all previous men and poets—we have no authority to contradict them. That some of his thoughts are far from vain or common place, however, a few gleanings may suffice to prove; culled in the form, not of detached passages but of isolated ideas—line, or fragments of lines:—</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"The friendly and flowing savage…Who is he?</l>
+                     <l>Is he waiting for civilization or past it and mastering it?"</l>
+                  </lg><lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"The welcome ugly face of some beautiful soul."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"The clock indicates the moment…but what does eternity indicate?"</l>
+                  </lg><lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+         
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Afar down I see the huge first Nothing, the vapor from the nostrils of death,</l>
+                     <l>I know I was even there…I waited unseen and always,</l>
+                     <l>And slept while God carried me through the lethargic mist,</l>
+                     <l>And took my time…and took no hurt from the foetid carbon."</l>
+                  </lg> <lg type="linegroup"><l>―――</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+        
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"See ever so far…there is limitless space outside of that,</l>
+                     <l>Count ever so much…there is limitless time around that.</l>
+                     <l>Our rendezvous is fitly appointed…God will be there and wait till we come."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>These doubled and quadrupled points, let us add, pertain to the original, whatever their precise significance may be. Here again is a grand idea, not altogether new; and rough in its present setting, as the native gold still buried in Californian beds of quartz and debris. Nevertheless it is full of suggestive thought, and like much else in the volume—though less than most,—only requires the hand of the artist to cut, and polish, and set, that it may gleam and sparkle with true poetic lustre:—</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"A slave at auction!</l>
+                        <l>I help the auctioneer…the sloven does not half know his business.</l>
+                        <l>Gentlemen look on this curious creature,</l>
+                        <l>Whatever the bids of the bidders they cannot be high enough for him,</l>
+                        <l>For him the globe lay preparing quintillions of years without one animal or <lb/>plant,</l>
+                        <l>For him the revolving cycles truly and steadily rolled.</l>
+                        <l>In that head the allbaffling brain,</l>
+                        <l>In it and below it the making of the attributes of heroes.</l>
+                        <l>Examine these limbs, red, black or white…they are very cunning in tendon <lb/>and nerve;</l>
+                        <l>They shall be stript that you may see them.</l>
+                        <l>Exquisite senses, lifelit eyes, pluck, volition,</l>
+                        <l>Flakes of breastmuscle, pliant backbone and neck, flesh not flabby, good <lb/>sized arms and legs,</l>
+                        <l>And wonders within there yet.</l>
+                        <l>Within there runs his blood…the same old blood…the <lb/>same red running blood</l>
+                        <l>There swells and jets his heart…There all passions and desires…all <lb/>reachings and aspirations:</l>
+                        <l>Do you think they are not there because they are not expressed in parlors <lb/>and lecture-rooms?</l>
+                        <l>This is not only one man…he is the father of those who shall be fathers in <lb/>their turns,</l>
+                        <l>In him the start of populous states and rich republics,</l>
+                        <l>Of him countless immortal lives with countless embodiments and enjoyments.</l>
+                        <l>How do you know who shall come from the offspring of his offspring through <lb/>the centuries?</l>
+                        <l>Who might you find you have come from yourself?"</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Great is life…and real and mystical…wherever and whoever,</l>
+                        <l>Great is death…sure as life holds all parts together, death holds all parts  <lb/>together;</l>
+                        <l>Sure as the stars return again after they merge in the light, death is greater <lb/>than life."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Such are some of the "Leaves of Grass," of the Brooklyn poet who describes himself in one of them as:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"Walt Whitman, an American, one of the roughs, a Kosmos!"</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>But if the reader—recognising true poetry in some of these,—should assume such a likeness running through the whole as pertains to the blades of Nature's Grass, we disclaim all responsibility if he find reason to revise his fancy. In the two very diverse volumes under review it seems to us that we have in the one the polish of the artist, which can accomplish so much when applied to the gem or rich ore; in the other we discern the ore, but overlaid with the valueless matrix and foul rubbish of the mine, and devoid of all the unveiling beauties of art. Viewed in such aspects these poems are characteristic of the age. From each we have striven to select what appeared most worthy of the space at command, and best calculated to present them to the reader in the most favorable point of view consistent with truth. And so we leave the reader to his own judgment, between the old-world stickler for authority, precedent, and poetical respectability, and the new-world contemner of all authorities, laws, and respectabilities whatsoever. Happily for us, all choice is not necessarily limited to these. The golden mean of poesie does not, we imagine, lie between such extremes. There are not a few left, both in England and in America, for whom old Shakspeare is still respectable enough, and poetical enough,—aye and free enough too, in spite of all the freedom which has budded and bloomed since that year 1616, when his sacred ashes were laid beneath the chancel stone whose curse still guards them from impious hands. Nevertheless we have faith in the future. We doubt not even the present. When a greater poet than Shakespeare does arrive we shall not count him an impossibility.</p>
+
+         <closer rend="right">
+            <signed>D.W.</signed>
+         </closer>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+William Edmondstoune Aytoun (1813-1865) was an influential Scottish poet famed for his parodies and light verse that served as a model for later Scottish satirists.  <hi rend="italic">Firmilian, or the Student of Badajoz, a Spasmodic Tragedy</hi> (1854) was a humorous critique of the spasmodic school.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

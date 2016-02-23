@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02004">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" corresp="lg1860">New Books</title>
+                <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+                <title level="a" type="sub">a machine readable transcription</title>
+                
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="al">Ashley Lawson</persName>
+                    <persName xml:id="kb">Kyle Barton</persName>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2012</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>anc.02004</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+                <availability>
+                    <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author key="unknown">
+                            <choice><orig>unsigned</orig>
+                                <reg>unknown</reg></choice>
+                        </author>
+                        <title level="a">New Books</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Boston Saturday Evening Gazette</title>
+                        <imprint>
+                            <biblScope type="volume">[unknown]</biblScope>
+                            <date xml:id="dat1" cert="high" when="1860-05-26">26 May 1860</date>
+                            <biblScope type="pages">2</biblScope>
+                        </imprint>
+                    </monogr>
+</biblStruct>
+            </sourceDesc>
+            
+        </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+        
+        <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+            <change when="2012-09-25" who="#jc">blessed</change>
+            <change when="2012-03-05" who="#al">checked and corrected</change>
+            <change when="2012-03-02" who="#kb">transcribed, encoded</change>
+        </revisionDesc>
+        
+        
+    </teiHeader>
+    
+    <text type="ancillary">
+        <body>
+            <lg type="poem">
+            <head type="main-authorial">NEW BOOKS.</head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            
+                <l>Look here, Walt Whitman, what made you write this book, these Leaves of Grass, full of good thoughts, bad thoughts, naughty thoughts, noble thoughts.</l>
+                
+                <l>Ideas politic, impolitic, incomprehensible, insane, inexpressive, impure, invigorating, infuscatable, and infoliate.</l>
+                
+                <l>Did you do it to make pennies, dimes, dollars, eagles, spondulics, rhino,</l>
+                
+                <l>That Walt Whitman&#8212;human Walt, might row, ride, riot, regale, recuperate, refocilate&#8212;</l>
+                
+                <l>At Hull, Hingham, Nahant, Newport, Rye, Niagara, Shirley, Long Island, Cohasset, Bergen Point, Cape May, or the Mountains called White?</l>
+                
+                <l>Perhaps you did, but then again perhaps you didn’t, for the didn’t is resumptive in this world.</l>
+                
+                <l>And you are anti-resumptive, reticular, responsive and restringent.</l>
+                
+                <l>You’ve made a book, it can’t be rubbed out for it is a fact.</l>
+                
+                <l>Rub out the stars, Declaration of Independence, habeas corpus, magna charta, squatter sovereignty, little Giant, old Abe.</l>
+                
+                <l>Rub out sun, moon, clouds, streams, Board of Aldermen, Japanese Embassy, lapstreak, shell, canoe,</l>
+                
+                <l>Rub out Boston Common, Battery, Girard College, Old Man of the Mountain, Franklin street, horse railroads, Baltimore Convention,</l>
+                
+                <l>But rub out Leaves of Grass&#8212;456 pages, electro-typed, beautiful print, fine type, elegant binding, seemly, comely, white paper&#8212;published by Thayer &#38; Eldridge,&#8212;it cannot be did.</l>                
+            </lg>
+        </body>
+    </text>
+</TEI>
+
+            

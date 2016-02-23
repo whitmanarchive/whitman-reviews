@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00134">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="fancy">The "Second Annex to 'Leaves of Grass'"</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Good-bye My Fancy</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Sidney Morse</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00134</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Morse, Sidney">Sidney Morse</author>
+                  <title level="a">The "Second Annex to 'Leaves of Grass'"</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Conservator</title>
+                  <imprint>
+                     <date when="1891-09">September 1891</date>
+                     <biblScope type="volume">2</biblScope>
+                     <biblScope type="pages">51-2</biblScope>
+
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-13">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">The "Second Annex to 'Leaves of Grass.'"<hi rend="superscript"><ref>*</ref></hi>
+         </head>
+         <!-- <head type="sub">[Review of Good-Bye My Fancy]</head> -->
+
+        <div1 type="section"> <p>In one way Walt Whitman may be said to be very unlike his poet-compeers, ancient or modern—in his inability in any sort to efface, in prose or poem, his own  personality. It is all a part of him. His life is in it all: 'tis what he is, thinking, seeing, hearing, feeling—more outwardly than inwardly, perhaps. He has no characters; is never dramatic. He is always on the march—</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                        <!-- From Song of Myself -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I tramp a perpetual journey;"—</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>going somewhere—seeing somewhat, hailing, greeting, saluting—reverencing, too, in the good sense of the term. One may not care for this or that so-called poem—think it no poem, for that matter; but take his book, with its accumulating "annexes," for all in all, and you cannot well get away from it, are glad to have it around, lying near handy; and are more apt than otherwise to light on a line, or many lines, that go to the spot, as he himself might say, and yield full satisfaction. In reading Emerson's verse to others, I have at times found a disturbance from the thought and beauty of it all (with a secret wish that I had not begun to read and a vow that I would never do the like again), by my auditor's smile or half sneer at the author's sometimes forced rhymes or prosy lines; as though that were the point, and mattered at all. To hear a poem only with the outer ear is not to hear it at all—nine times in ten. And the tenth time, more than likely, there is no poem to hear. Reading Whitman aloud is even more difficult. Not for the faulty rhyme—for the absence of any intention of that sort eliminates that difficulty—but for the same inability of average mortals to detect beneath the strange in form, or the supposed want of proper poetic form, the breathing of a poet-spirit. Lowell voices in the best way it can be voiced this limitation, or to my mind wrong poetic notion, in his "Fable for Critics:"</p>
+
+         <q who="James Russell Lowell" type="printed">
+            <floatingText>
+<!-- from A Fable for Critics -->
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Then comes Emerson first, whose rich words, every one,</l>
+                        <l>Are like gold nails in temples to hang trophies on;</l>
+                        <l>Whose prose is grand verse, while his verse, the Lord knows,</l>
+                        <l>Is some of it pr——No, 'tis not even prose."</l>
+                     </lg> 
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The critic could hear the poem underneath Emerson's prose, because</p>
+
+         <q who="Emerson" type="printed">
+            <floatingText>
+<!-- from Merlin -->
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Aye climb for his rhyme,"</l>
+                     </lg> 
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>closes the finer ear to the revelation.</p>
+
+         <q who="James Russell Lowell" type="printed">
+            <floatingText>
+<!-- from A Fable for Critics -->
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"In the worst of his poems are mines of rich matter.</l>
+                        <l>But thrown in a heap with a crash and a clatter."</l>
+                     </lg> 
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And beyond, amid, or underneath the "crash" and the "clatter" there is no vibratory soul-music. And yet—</p>
+
+         <q who="James Russell Lowell" type="printed">
+            <floatingText>
+<!-- from A Fable for Critics -->
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Now, it is not one thing nor another alone</l>
+                        <l>Makes a poem, but rather the general tone,</l>
+                        <l>The something pervading, uniting the whole,</l>
+                        <l>The before unconceived, unconceivable soul."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>When the critic in the next line intimates that this "something pervading, uniting the whole" may be lost "just in moving this trifle or that," and so you</p>
+
+         <q who="James Russell Lowell" type="printed">
+            <floatingText>
+<!-- from A Fable for Critics -->
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Take away, as it were, a chief limb of the statue."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>he is intent on the perfection of the artificer or builder, so seeking the poem's life, loses it. Lost to him because of faulty form; but for another, willing the "unconceivable soul" should build its own form, not dictatory, not outwardly measuring, there may abide all the force and beauty of a spiritual or poetical vision; the glimpsing of that which, after all, for the most part, lies beyond the ken of sight, or power of words or painter's brush to report,—"the unconceived, unconceivable soul." Poetry is ever suggestion; never "a twice-told tale of God." There is Lowell's "Foot-Path."</p>
+
+         <q who="James Russell Lowell" type="printed">
+            <floatingText>
+<!-- from The Foot Path -->
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"It mounts athwart the windy hill</l>
+                        <l rend="indented1">Through shallow slopes of upland bare,</l>
+                        <l>And fancy climbs with footfall still</l>
+                        <l rend="indented1">Its narrowing curves that end in air."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>What lies beyond?</p>
+
+         <q who="James Russell Lowell" type="printed">
+            <floatingText>
+<!-- from The Foot Path -->
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"What Nature for her poets hides,</l>
+                        <l>'Tis wiser to divine than clutch."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The "prying, peeping critic" here takes to his heels; the poet comes joyously forward, and modestly:</p>
+
+         <q who="James Russell Lowell" type="printed">
+            <floatingText>
+<!-- from The Foot Path -->
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"The bird I list hath never come</l>
+                        <l rend="indented1">Within the scope of mortal ear;</l>
+                        <l>My prying step would make him dumb,</l>
+                        <l rend="indented1">And the fair tree, his shelter, sear.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>"Behind the hill, behind the sky,</l>
+                        <l rend="indented1">Behind my inmost thought, he sings;</l>
+                        <l>No feet avail; to hear it nigh,</l>
+                        <l rend="indented1">The song itself must lend the wings."</l>
+                     </lg>
+                  </lg> <lg type="linegroup"><l>∗∗∗∗∗</l></lg>
+               </body>
+            </floatingText>
+         </q>
+
+        
+
+         <q who="James Russell Lowell" type="printed">
+            <floatingText>
+<!-- from The Foot Path -->
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>I know not, and will never pry,</l>
+                        <l rend="indented1">But trust our human heart for all;</l>
+                        <l>Wonders that from the seeker fly</l>
+                        <l rend="indented1">Into an open sense may fall.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The culture, the skill, the art, that close this "open sense," turns the poet blind from his vision.</p>
+ 
+         <p>Art lies in knowing how little is needed. A new vista, and the work is done. This is the "open secret" in all true civilizing—to get rid of the superfluous and be not only content but well supplied with little. Neither too much, nor too much finish. Whitman speaks of "the last polish and intellectual 'cuteness of Emerson," but just whether to like it or not, I don't make out. To my reading the "polish" and the "'cuteness" both go to rendering best things in smallest compass. In this respect Whitman does not himself, certainly, err. He owns up for himself: "I have probably not been enough afraid of careless touches from the first—and am not now—nor of parrot-like repetitions, nor platitudes and commonplace." And yet, perhaps again, he would have spent it all or very much of it had he faltered for such "intellectual "'cuteness" or to give a "last polish." One may with profit to himself do considerable editing, abbreviating or omitting altogether phrases and lines. But solely, as I think, it is their redundancy that is disturbing—this however, in his longer poems, wherein one at times loses himself in nothing special or tires of too much "cataloguing." Whitman says, "Perhaps I am too democratic for such avoidances." (Of this much talk of the "democratic" there may be something to say another time. Just now to say that it sometimes reminds me of my Sunday-school teacher's encomium of the universal, democratic, paternal idea of "the good God, who knows and has numbered every hair on your head, even the hairs of your eyebrows, and each drop of blood in your entire system." But it always seemed to me there was no small "waste of powder" in such exactitude: as though a few hairs more or less, or drops of blood, much mattered—to the soul of me!)</p>
+ 
+         <p>To leave preface just at the end and come to the book—most welcome is this 'Second Annex.' No, you had "not better withhold." There is no "old age" nor "paralysis" here that tires, or makes me sorrow that you have kept and given forth these</p>
+
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00379" cert="absolute"/>
+                        <!-- From Preface Note to 2d Annex, concluding L. of G.1891. -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Last droplets of and after spontaneous rain."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>"This little cluster" brings fragrant memories and old-age excellencies—"from sane, completed, vital, capable old age." Well, I agree (and it please me)—"The final proof of song or personality [and I have but stumbled on this now after penning the above] is a sort of matured, accreted, superb, evoluted, almost divine, impalpable diffuseness and atmosphere or invisible magnetism, dissolving and embracing all—and not any special achievement of passion, pride, metrical form, epigram, plot, thought, or what is called beauty." You have done well to "improve to-day's opportunity;" but do not "wind up"—till you do wind up. All these last little chants, songs, greetings, come with especial flavor of friendliness, as do all the bits of reminiscence. Especially have I enjoyed "Old Actors, Singers, Shows, etc."—you say in "New York;" but I had my hearing of most of those you mention elsewhere. The sad thing of it all is the "sooner or later inevitably wending to the flies or exit-door—vanishing to sight and ear—and never materializing on this earth's stage again!" Why things cannot stay and be and remain on and on, when once they come—that is the question. And the answer is, "Perhaps, most likely, they do—and will, forever!"</p>
+
+         <p>The two poems that always appear to my mental view when I think of or turn Leaves of Grass are: "The Song of the Open Road" and "The Mystic Trumpeter." That they are so much different from or superior to others in the same volume, I do not presume to say; but they for some reason have fixed themselves in among my likings, and I turn the leaves sometimes with a sort of half fearing they may have some way escaped their rootings, and are no longer there. I am sorry the book is not now before me, that I may refresh myself with lines that it would also be here a pleasure to quote. But here at hand is "When the Full-Grown Poet Came"—a short poem, but one that holds philosophy for all—poet or non-poet—if such there be—equally concerned with the same reconciliation and harmony. I will read it again for myself and write it out as I read:</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00399" cert="absolute"/>
+                        <!-- From When the Full-grown Poet Came -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"When the full-grown poet came,</l>
+                        <l>Out spake pleased Nature (the round, impassive globe, with all its shows of <lb/>day and night),</l>
+                        <l>Saying, <hi rend="italic">He is mine</hi>;</l>
+                        <l>But out spake, too, the Soul of man, proud, jealous and unreconciled, <hi rend="italic">Nay,</hi> 
+                           <lb/>
+                           <hi rend="italic">he is mine alone</hi>;</l>
+                        <l>—Then the full-grown poet stood between the two, and took each by the <lb/>hand;</l>
+                        <l>And to-day and ever so stands, as blender, uniter, tightly holding hands,</l>         
+                        <l>Which he shall never release until he reconciles the two,</l>
+                        <l>And wholly and joyously blends them."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <closer>
+            <signed rend="right">
+               <hi rend="italic">Sidney Morse</hi>.</signed>
+         </closer></div1>
+
+        <div1 type="section"> <milestone unit="undeclared" rend="horbar-short-left"/>
+
+       
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   "Good-Bye, my Fancy!" 
+                  Walt Whitman.
+                   
+                      1891.  
+                   
+               
+            </ab></div1>
+          
+
+      </body>
+   </text>
+</TEI>

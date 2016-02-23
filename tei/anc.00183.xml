@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00183">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00183</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Saturday Press</title>
+                  <imprint>
+                     <date when="1860-06-02">2 June 1860</date>
+                     <biblScope type="pages">4</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-19">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <note type="newspaper-editorial">[From the Albion, May 1860.]</note>
+
+         <p>Messrs. Thayer &amp; Eldridge have published a third edition of <hi rend="italic">Leaves of Grass</hi>, in which we recommend our reader endeavor to find the following passages: </p>
+
+         <q who="anonymous" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <head type="main-authorial">1.</head>
+                        <l>I happify myself.</l>
+                        <l>I am considerable of a man. I am some. You <lb/>also are some. We all are considerable, all <lb/>are some.</l>
+                        <l>Put all of you and all of me together, and agitate <lb/>our particles by rubbing us all up into <lb/>eternal smash, and we should still be some.</l>
+                        <l>No more than some, but no less.</l>
+                        <l>Particularly some, some particularly, some in <lb/>general, generally some, but always some <lb/>without mitigation. Distinctly, some.</l>
+                        <l>O ensemble! O quelque-chose!</l>
+                     </lg>
+
+                     <lg type="linegroup"> 
+                        <head type="main-authorial">2.</head>
+                        <l>Some punkins, perhaps. </l>
+                        <l>But perhaps squash, long-necked squash, <choice><reg>crooked-necked</reg><orig>crook- 
+                           <lb/>ed-necked</orig></choice> squash, cowcumber, beets, <choice><orig>pars-<lb/>nip</orig><reg>parsnip</reg></choice>, carrot, turnip, white turnip, yellow <choice><orig>tur-<lb/>nip</orig><reg>turnip</reg></choice>, or any sort of sass, long sass, or short <lb/>sass.</l>
+                        <l>Or potatoes. Men, Irish potatoes; women, <lb/>sweet potatoes.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">3.</head>
+                        <l>Yes, Women.</l>
+                        <l>I luxuriate in Women.</l>
+                        <l>They look at me, and my eyes start out of my <lb/>head; they speak to me, and I yell with <choice><orig>de-<lb/>light</orig><reg>delight</reg></choice>; they touch me, and the flesh crawls <lb/>off my bones.</l>
+                        <l>Women lay in wait for me, they do. Yes, Sir.</l>
+                        <l>They rush upon me, seven women laying hold of <lb/>one man; and the divine efflux that thrilled <lb/>all living things before the nuptials of the <lb/>saurious overflows, surrounds, and <choice><orig>inter-<lb/>penetrates</orig><reg>interpenetrates</reg></choice> their souls, and they say, Walt, <lb/>why don't you come and see us? You <lb/>know we'd be happy to have you.</l>
+                        <l>O mes sœurs!</l>
+                        <l> . .  . .  . . </l>
+                        <l> . .  . .  . . </l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">57.</head>
+                        <l>Of beauty.</l>
+                        <l>Of excellence, of purity, of honesty, of truth.</l>
+                        <l>Of the beauty of flat-nosed, pock-marked, pied <lb/>Congo niggers!</l>
+                        <l>Of the purity of nastiness, the sweetness of <choice><orig>fecu-<lb/>lence</orig><reg>feculence</reg></choice>, the fragrance of pig-sties, and the <choice><orig>in-<lb/>effable</orig><reg>ineffable</reg></choice> sweet perfume of Cow Bay in the <lb/>Summer!</l>
+                        <l>Of the chastity of courtesans, the honesty and <lb/>general incorruptibility of aldermen, of</l>
+                        <l>common-councilmen, of sub-treasurers, of</l>
+                        <l>postmasters, of post office clerks, of <choice><orig>Mem-<lb/>bers</orig><reg>Members</reg></choice> of the House of Representatives, and <lb/>of Government officials generally, and lobby <lb/>members in particular.</l>
+                        <l>Of the truth of theatrical advertisements, of a <lb/>prima donna's speech on her benefit night, <lb/>of your salutation when you say 'I am <lb/>happy to see you, sir,' of the Cherry <choice><orig>Pic-<lb/>toral</orig><reg>Pictoral</reg></choice> Certificates, of the Olive Tar <choice><orig>corre-<lb/>spondence</orig><reg>correspondence</reg></choice>, of the recorded virtues of <choice><orig>Schei-<lb/>dam</orig><reg>Scheidam</reg></choice> Schnapps. </l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">58.</head>
+                        <l>I glorify schnapps. I celebrate gin.</l>
+                        <l>In beer I revel and wallow. I shall liquor.</l>
+                        <l>Ein lager! </l>
+                        <l>I swear there is no nectar like lager. I swim in <lb/>it, I float upon it, it heaves me up to heaven, <lb/>it bears me beyond the stars, I tread upon <lb/>the air, I sail upon the ether, I spread <choice><reg>myself</reg><orig>my-
+                           <lb/>self</orig></choice> abroad, I stand self-poised in <choice><orig>illimit-<lb/>able</orig><reg>illimitable</reg></choice> space, I look down, I see you, I am no <lb/>better than you, you also shall mount with <lb/>me.</l>
+                        <l>Zwei lager!</l>
+                        <l>Encore!</l>
+                        <l> . .  . .  . . </l>
+                        <l> . .  . .  . . </l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">798.</head>
+                        <l>Once I knew a man.</l>
+                        <l>Not that man.</l>
+                        <l>But another man.</l>
+                        <l>A man I once knew. He was great, 'was glorious, <lb/>nev'r washed his hair, n'r combed his face, <lb/>—'mean combed face n'r washed hair; had  <lb/>big han's—dirty—'n big feet-dirty, —red 'n <lb/>freckled, 'cause did n't wear hat, n'r coat, <lb/>n'r shoes, but went bear headed 'n bare <choice><orig>foot-<lb/>ed</orig><reg>footed</reg></choice>, 'n shirt 'n pants like free 'n in-in- <lb/>in-'pen't cita'n these 'nited States.</l>
+                        <l>'Swear he was glorious.</l>
+                        <l> . .  . .  . . </l>
+                        <l> . .  . .  . . </l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">1003.</head>
+                        <l>O my soul!</l>
+                        <l>O your soul, which is no better than my soul, <lb/>and no worse, but just the same!</l>
+                        <l>O soul in general! Loafe! Proceed through <lb/>space with a hole in your trousers!</l>
+                        <l>O pendant shirt-flap! O dingy, unwashed, <choice><orig>flut-<lb/>tering</orig><reg>fluttering</reg></choice> linen!</l>
+                        <l>O tattered flag of freedom! not national <choice><orig>free-<lb/>dom</orig><reg>freedom</reg></choice>, nor any of that sort of infernal <choice><orig>non-<lb/>sense</orig><reg>nonsense</reg></choice>, but individual freedom, freedom to <lb/>do just as you d—n please!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">1004.</head>
+                        <l>By golly, there is nothing in this world so <choice><orig>unut-<lb/>terably</orig><reg>unutterably</reg></choice> magnificent as the inexplicable <choice><orig>com-<lb/>prehensibility</orig><reg>comprehensibility</reg></choice> of inexplicableness.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">1005.</head>
+                        <l>Of mud.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">1006.</head>
+                        <l>O triangles, O hypotheneuses, O centres, <choice><orig>circum-<lb/>ferences</orig><reg>circumferences</reg></choice>, diameters, radiuses, arcs, sines, <lb/>cosines, tangents, parallelograms and <choice><orig>paral-<lb/>lelopipedons</orig><reg>parallelopipedons</reg></choice>.</l>
+                        <l>O myself! O yourself.</l>
+                        <l>O my eye!</l>
+                        <l> . .  . .  . . </l>
+                        <l> . .  . .  . . </l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">1247.</head>
+                        <l>These things are not in Webster's Dictionary— <lb/>Unabridged, Pictorial.</l>
+                        <l>Nor yet in Worcester's. Wait and get the best.</l>
+                        <l>Neither in the New York Directory; for that is <lb/>full of blunders. I know it, although it has <lb/>not yet been printed.</l>
+                        <l>You also know it; for has not the name <choice><orig>collec-<lb/>tor</orig><reg>collector</reg></choice> vexed your wife's soul, and your pale <lb/>daughter's? and the plump-armed girls in <lb/>the kitchen?</l>
+                        <l>And what came of his vexing but spelling of <lb/>your name wrong, and putting you in East <lb/>Thirteenth, when you lived in West Thirty <lb/>First Street!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">1248.</head>
+                        <l>These things have come up out of the ages.</l>
+                        <l>Out of the ground that you crush with your <lb/>boot-heel.</l>
+                        <l>Out of the muck that you have shoveled away <lb/>into the compost.</l>
+                        <l>Out of the offal that the slow, lumbering cart, <lb/>blood-dabbled and grease dropping, bears <lb/>away from the slaughter-house, a <choice><reg>white-armed</reg><orig>white- 
+                           <lb/>armed</orig></choice> boy sitting on top of it, shouting Hi! <lb/>and flogging the horse on the raw with the <lb/>bridle.</l>
+                        <l>That muck has been many philosophers; that <lb/>offal was once gods and mages.</l>
+                        <l>And I swear that I don't see why a man in gold <lb/>spectacles and a white cravat stuck up in a <lb/>library, stuck up in a pulpit, stuck up in a <lb/>professor's chair, stuck up in a Governor's <lb/>chair, or in the President's chair, should be <lb/>of any more account than a possum or a <lb/>tumble-bug.</l>
+                        <l>Libertad, and the divine average!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <head type="main-authorial">1249.</head>
+                        <l>I tell you the truth. Salut!</l>
+                        <l>I am not to be bluff'd off. No, Sir.</l>
+                        <l>I am large, hairy, obscene, sprawling, big in the <lb/>shoulders, narrow in the flank, strong in the <lb/>knees, and of an inquiring and <choice><orig>communica-<lb/>tive</orig><reg>communicative</reg></choice> disposition.</l>
+                        <l>Also instructive in my propensities, given to <choice><orig>con-<lb/>templation</orig><reg>contemplation</reg></choice>, and able to lift anything that is <lb/>not too heavy.</l>
+                        <l>Listen to me, and I will do you good.</l>
+                        <l>Loafe with me, and I will do you better.</l>
+                        <l>And if any man dares to make fun of me, I shall <lb/>be after him with a particularly sharp stick.</l>
+                        <l>Vale!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The above was written, and almost all in type, before we were aware that any similar notice had been taken of the book to which it refers; for until within a day or two, our knowledge of Walt Whitman was limited to what we had heard in casual conversation. But our attention is just now called to a little pamphlet-collection of notices of the previous editions of 'Leaves of Grass,' and by that we find that we have been forestalled in two instances. Had we known this we should have written otherwise; but as it is, we let our squib go. We admit that although there is no verse in Mr. Whitman's book, there is some poetry—a little—of an exquisite and peculiar cast, which flecks the surface of a very copious and strong expression of sympathy with and close observation of external nature. But the latter is not necessarily poetry, even when written by a poet of transcendant powers. Witness the description of the horse in Shakspeare's 'Venus and Adonis,' which is an enumeration of points better suited to Tattersall's books<ref target="n1" n="1" xml:id="r1"/> than to a work of fancy and imagination. As to these 'Leaves of Grass,' nine-tenths of them are covered with words that have no more meaning, coherency, or perceptible purpose than the columns in a spellingbook; while the indecency—an indecency not born of prurience, but of the absolute refusal to recognize such a distinction as decent and indecent—is monstrous beyond precedent, and were it not before our eyes, beyond belief. Yet for the one-tenth that we have excepted we shall keep the book, and read it, not without a strange interest in the man who could draw such a slender thread of truth and purity through such a confused mass of folly, feculence, and falsehood.</p>
+
+         <p>Messrs. Thayer &amp; Eldridge have printed the book in very handsome style.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">Tattersalls is "Europe's Largest Bloodstock Auctioneers and the world's oldest, dating back to 1766."  See <ref target="http://www.tattersalls.com">tattersalls.com</ref>.</note>
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

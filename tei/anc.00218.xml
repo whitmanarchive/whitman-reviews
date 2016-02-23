@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00218">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">Elmina</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>Elmina</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00218</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice>
+                        <orig>Elmina</orig>
+                        <reg>unknown</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Iconoclast</title>
+                  <imprint>
+                     <date when="1882-11-11">11 November 1882</date>
+                     <biblScope type="pages">[unknown]</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-08-06">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <byline>ELMINA.</byline>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+         <head type="sub">Suggestions and Advice to Mothers.</head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+         <head type="sub">NO. XIX.</head>
+
+         <note type="newspaper-editorial">Written for The Iconoclast.</note>
+	
+         <p>To-day my soul is full of the love of the body. "Out of the fullness of the heart the mouth speaketh;" and so to-day, O mothers, I ask you to listen to the wonders and the beauties of the body.</p>
+
+         <!-- From "I Sing the Body Electric" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00052" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"For it the globe lay preparing quintillions of <lb/>years, without one animal or plant,</l>
+                        <l>For it the revolving cycles truly and steadily <lb/>rolled.∗∗∗∗</l>
+                        <l>If anything is sacred the human body is sacred,</l>
+                        <l>And the glory and sweet of a man is the token <lb/>of manhood untainted,</l>
+                        <l>And in man or woman a clean, strong, <choice><reg>firm-fibred</reg><orig>firm- 
+                           <lb/>fibred</orig></choice> body is more beautiful than the <lb/>most beautiful face."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>Nurture, cherish and love your bodies, for in them lies the seed of the mind, and on them depends the quality and beauty and strength of the mind. For years and years has this love and worship of the body been growing and developing in the foremost minds of the race. To-day America's new Poet is singing strong, sweet, heart-invigorating songs to his brothers and his sisters. To-day ears are opening, one by one, to these tuneful melodies, and hearts are thrilling in throbbing responses to the echoes of truths so sweet, so simple, and so harmonious, that the wonder is how for all the years past we have let them be sung in vain and unheeded.</p>
+	
+         <p>Many are the books I have read and recommended to the world of seekers for knowledge, truth and wisdom; but now I come with one that has but a doubtful fame as the world goes, but one whose words thrill, enthuse, and stir with a responsive echo such as few poets have been enabled to arouse by their works. This wonderful book is "Leaves of Grass!"</p>
+	
+         <p>Be not startled that I—Elmina, the Quaker Infidel—ask you to take into your homes a volume that has been tabooed, ridiculed and condemned by so many. I do it with a full knowledge of its innate worth and purity. Alone here in the early mornings have I sat conning its entrancing pages—rising refreshed and invigorated as from a draught of freshest water from some wild mountain torrent, a new life in every limb, and a new spirit in every thought. Take, O mothers, a page of Walt Whitman for your morning prayer, and you will begin the day with strong, pure aspirations, and a heart attuned to all that is good, true and beautiful—all that is vigorous, natural and elevating.</p>
+
+         <!-- From "Song of Myself" No. 3 Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Clear and sweet is my soul, and clear and <lb/>sweet is all that is not my soul.</l>
+                        <l>∗∗∗∗∗</l>
+                        <l>While they discuss, I am silent and go and <lb/>bathe and admire myself.</l>
+                        <l>Welcome is every organ and attribute of me, <lb/>and of any man hearty and clean.</l>
+                        <l>Not an inch, or a particle of an inch is vile, <lb/>and none shall be less familiar than the <lb/>rest."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>I feel that I can not do better justice to the book than to give an extract from a lecture on it delivered by one who has himself the soul of a poet, and the heart of a man who loves his race—George Chainey, the lecturer of Paine Hall.<ref target="n1" n="1" xml:id="r1"/> This one on "Leaves of Grass" I heard him give myself, while I was in Boston, and it determined me to buy the book; and now I feel that I want every mother in the land to own the volume and love it. To own it and read it will be to love it. I wish I had room to quote all of Chainey's lecture, but a part must suffice.</p>
+	
+         <p>"Whitman found that he had to chant the glory of the body as well as that of the soul. To him the two are identical.</p>
+
+         <!-- From "Starting from Paumanok" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00047" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Behold, the body includes and is the <choice><orig>mean-<lb/>ing</orig><reg>meaning</reg></choice>, the main concern, and includes and <lb/>is the soul.</l>
+                        <l>Whoever you are, how superb and how divine <lb/>is your body or any part of it!</l>
+                        <l>I believe in the flesh and the appetites.</l>
+                        <l>Seeing, hearing, feeling, are miracles, and each <lb/>part and tag of me is a miracle.</l>
+                        <l>Divine am I inside and out, and I make holy <lb/>whatever I touch or am touched from.</l>
+                        <l>The scent of these arm-pits aroma finer than <lb/>prayer.</l>
+                        <l>This head more than churches, bibles, and all <lb/>the creeds,</l>
+                        <l>If I worship any particular thing, it shall be <lb/>some of the spread of my own body."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>"In his sight, no part or passion of the body is to be slighted or regarded as vulgar. In doing this, he finds it impossible to leave out of his poems the element of sex. I know of nothing that we need to pay such heed to as to what he has to say on this subject. Never will the world be saved from its sickness, pain, and despair, until we take up this element of human life, and treat it as frankly, purely, and reverently as he has. As he says:</p>
+
+         <!-- From "A Woman Waits for Me" Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00053" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Sex contains all.</l> 
+                        <l>Bodies, souls, meanings, proofs, purities, <choice><orig>deli-<lb/>cacies</orig><reg>delicacies</reg></choice>, results, promulgations.</l>
+                        <l>Songs, commands, health, pride, the maternal <lb/>mystery, the seminal milk.</l>
+                        <l>All hopes, benefactions, bestowals.</l> 
+                        <l>All the passions, loves, beauties, delights of <lb/>the earth,—</l>
+                        <l>These are contained in sex as parts of itself, <lb/>and justifications of itself."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>"Of course, in the treatment of such a subject there must be expressions used that impure minds will prostitute to impure purposes. The fairest, purest, and most beautiful things on this earth are so violated. As Hamlet said to Ophelia, 'Be thou as chaste as ice, as pure as snow, thou shalt not escape calumny.' We all know that depraved passions sometimes break down all the barriers of virtue, and do violence to the most maidenly chastity. It is the same low order of morals that thus seeks to drag into the mire the noblest thought and purest purpose of the best benefactors of humanity. The spirit and purpose of Whitman are clearly revealed in the only reply he has yet made to his maligners and persecutors. He tells us that this subject of sex has hitherto been treated of only in two ways. The first, the conventional one of total repression and silence of good folks, creating the feeling that what can not be spoken of must be vile, and so, by covering over disease and depletion, increasing the world's woe. The second is the coarse, vulgar way of speaking of these things that obtains current in many masculine circles, wherein men lose their respect for women, and hold in low esteem their own manhood through learning to take delight in vulgar stories.</p>
+	
+         <p>"Alas! we all know that this is true. Thus, the parlor and the barroom have formed a partnership for the propagation of vice. The first doubt lodged in my mind against the claims of the Christian Church and ministry was the first time I spent an evening in the company of three ministers. I expected innocently that the conversation would be on the subject of religion and touching the advancement of the Church. To my surprise and horror, they spent the whole time in regaling one another with smutty yarns. I never was made to blush so much for the company I found myself in before or since. I soon found, however, that this was quite a common practice in the ministerial profession. At camp-meetings, while one or two of their number are thundering at better men and women than themselves to repent or go to hell, the rest are secluded in their private tent, regaling one another in this fashion.</p>
+	
+         <p>"Thinking what he might do to reform these perverted tendencies, Whitman concluded that the time had come for a full and frank statement, in loftiest and most earnest manner, of the relation of sex to the health, sanity, and purity of the human race. He desired to connect it with the highest ethical expression of nature and humanity. How nobly and grandly he has done this, none but those who read and love his poems can feel."</p>
+	
+         <p>I could give you a long array of worthy names indorsing and eulogizing this beautiful work, but instead of the names I give you from the book itself.</p>
+
+         <!-- From "Song of Myself" No. 44-45 Leaves of Grass 1881-82 -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"A child said, What is the grass? fetching it, <lb/>to me with full hands;</l>
+                        <l>How could I answer the child? I do not <lb/>know what it is any more than he.</l>
+                        <l>I guess it must be the flag of my disposition, <lb/>out of hopeful green stuff woven.</l>
+                        <l>∗∗∗∗∗</l>
+                        <l>Or I guess the grass is itself a child, the <choice><orig>pro-<lb/>duced</orig><reg>produced</reg></choice> babe of the vegetation.</l>
+                        <l>Or I guess it is a uniform hieroglyphic,</l>
+                        <l>And it means, sprouting alike in broad zones <lb/>and narrow zones,</l>
+                        <l>Growing among black folks as among white,</l>
+                        <l>Kanuck, Tuckahoe, Congressman, Cuff, I give <lb/>them the same, I receive them the same.</l>
+                        <l>And now it seems to me the beautiful uncut hair of <lb/>graves.</l>
+                        <l>Tenderly will I use you, curling grass,</l>
+                        <l>It may be you transpire from the breasts of <lb/>young men;</l>
+                        <l>It may be if I had known them I would have <lb/>loved them;</l>
+                        <l>It may be you are from old people, or from <lb/>offspring taken soon out of their mother's <lb/>laps;</l>
+                        <l>And here you are the mother's laps."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>I shall be glad to fill orders for this book of books. Grander and purer than all Bibles—a book that shall make lovely women and stalwart men, and sweet, happy, healthful babes.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+
+               <note type="editorial" target="r1" xml:id="n1" n="1">George Chainey published <hi rend="italic">This World</hi> in Boston in the early 1880s. Chainey became involved in opposing the suppression of <hi rend="italic">Leaves of Grass</hi> and discussed the matter on July 1, July 6, and November 4, 1882.</note>
+
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

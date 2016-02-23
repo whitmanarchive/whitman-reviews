@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00092">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1881">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00092</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+
+               <monogr>
+                  <title level="j">The Mace: A Weekly Record of the Glasgow Parliamentary Debating Association</title>
+                  <imprint>
+                     <date when="1882-03-21">21 March 1882</date>
+                     <biblScope type="pages">[unknown]</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-10-31">added head</change>
+         <change who="#ts" when="2006-01-17">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <p>The Modern Poet has been found at last.  We waited long for him but now he is in the midst of us.</p> 
+
+         <q who="Swinburne">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+<!-- from Songs Before Sunrise -->
+                     <lg type="linegroup"> 
+                        <l>Sweet smelling of pine leaves and grasses,</l> 
+                        <l>And blown as a tree through and through</l> 
+                        <l>By winds of the keen mountain-passes,</l> 
+                        <l>And tender as sun-smitten dew</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText> 
+         </q>
+
+         <p>his words have come to us across the Atlantic, and in them the first authentic message from the New World to the Old.  Need it be said that we speak of Walt Whitman?  We are far from slighting the claims of Emerson, Hawthorne, Poe, Longfellow, Bryant, Lowell, and a host of others, but it must be admitted that little or nothing distinctively American has sprung from the best of them.  Let us for a moment look at America.  The great Western Continent is like a Medea&#x92;s cauldron<ref target="n1" xml:id="r1" n="1"/> into which along, with the best blood of Europe, Asia and Africa, contributed by annual streams of hundreds of thousands of immigrants, are shredded all the creeds, philosophies, customs and opinions on the face of the earth, Which will find the late of Jason&#x92;s uncle, and which of his father, which will be rejuvenated and which will perish out of these mingled traditions French, German, English, Norwegian, Russian, Chinese, in short, of every nation, this is the great problem to be solved, this is the theme which in its entirety no philosopher but Herbert Spencer, no poet but Walt Whitman has ever grappled with.  The destinies of our own and of every other country bid fair to be decided in the ultimate outcome of the cauldron, whatever it may be.  Is it to be wondered at then that we welcome eagerly the only two men who have seriously set themselves to the task of foreseeing that and telling us frankly as much as they have got foresight of?  We now concern ourselves only with the poet, however.  His life is as strange as his poetry.  At present he is a man of about fifty years of age, still strong and stalwart in spite of a severe stroke of paralysis which prostrated him a year or two ago.  He earns his living by the sale of his works, being his own publisher and printer.  His leisure is spent in loafing about in a Guernsey shirt and Panama hat among the artizans of Brooklyn and Paumanok and New York, whose society he prefers to any other, but he is accessible to all who want to see him from the highest to the lowest.  He seems to have taken up and laid down again a hundred different occupations, having been among other things a pioneer in the backwoods, a tramway conductor in New York, a soldier in the great civil war, a hospital nurse, a newspaper correspondent, and a bookseller.  He is said to have written several tales and verses which fell dead from the press before he betook himself to the composition of his great work, his only book indeed, "Leaves of Grass."  This has employed his whole energy during the last fifteen years.  The plan of it enables him to alter and add to it from time to time at his pleasure.  The title should speak for itself, yet it may be as well to explain it.  Whitman, claiming only to be the poet of common experiences, typifies them naturally under the commonest of common things-grass.  Each though is, as it were, a leaf or blade therof which he offers to the reader.  But cannot the reader find such thoughts for himself?  That is the very conclusion to which the poet would lead him.  What then, to enter into particulars, is our author&#x92;s subject-matter?  The question should rather be, What is not?  He sings of all things with the enthusiasm and yet impartiality of nature herself.  He is at once the most egotistic and most universal of bards.  He invariably speaks in the first person singular but never of the first person singular.  It is of you and me and every one, good, bad, and indifferent he talks.  He tells us that he loves us and proves it by narrating as parts of his own being our inmost thoughts and feelings, joys and sorrows.  Our very crimes he does not shrink from.  Sins that we would hide from sun and moon he brings into the glaring light of noonday, but not to condemn—far from it—to shield us, rather, from the world&#x92;s scorn by showing them to be natural, and as belonging to himself as much as to anybody.  If his book had had a motto it should have been, "Nihil humani a me alienum puto."<ref target="n2" xml:id="r2" n="2"/>  Let it not be supposed that Walt Whitman makes nothing of vice and misery.  No one suffers from the sense of them more than he does.  But his horror and hatred of sin are always associated with pity and love for the sinner.  He regards wickedness—as it should be regarded everywhere—as disease, and nothing more.  Had it been so treated for the last thousand years it might have been eradicated from the earth by this time.  Whitman celebrates the body equally with the soul (in fact he observes no absolute distinction between the two), and woman equally with man.  He carries the doctrine of liberty, equality and fraternity to hitherto undreamed-of issues.  He believes in harmonies where theologians catch nothing but discords.  Far from looking upon this immeasurable universe as the stakes, as it were, of an eternal game of Whist,<ref target="n3" xml:id="r3" n="3"/> in which God and the Soul are partners against the Flesh and the Devil, he takes it to be a field in which all forces on the one side and on the other, contend together in friendly rivalry.  He represents Satan as one of the persons of the Godhead.  He chants of the Holy Spirit as</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00005" cert="absolute"/>
+                        <!-- from Chanting the Square Deific -->
+                     </relations>
+                     <lg type="linegroup"> 
+                        <l>Including all life on earth, touching, including God, including Saviour and Satans,</l> 
+                        <l>Essence of forms, life of the real identities, permanent, positive,</l> 
+                        <l>Life of the great round world, the sun and stars, and of man&#x97;the general Soul.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText> 
+         </q>
+ 
+         <p>In the deepest sense of the expression , a sense in which Pope, its originator, would never have dared to use it, he believes that "whatever is, is right," knowing that in order to [have] one thing being otherwise all the past must have been different throughout infinity and eternity.  He accepts and simultaneously rejects every form of religion and philosophy; accepts it as a sufficient embodiment of thought for the times which developed it, but rejects it as inadequate for any other time.  He gives us song after song of love and friendship such as have never been sung by mortal man before.  He does what no other poet could do—he makes you feel as if, in spite of his never having met you, he were your bosom friend, such as one has dreamt of in school-days, and his words then become sacred to you as a private letter.  When we add that our poet tackles astronomy, geology, physiology, chemistry, and in short all the sciences with the same ardour, and that yet he disdains not to sing of the butcher, the baker, and candlestick-maker, the sailor and soldier, and every other individual high or low, beast, man, insect, flower, or stone, we are scarcely sure that we have given even a shadow of an idea of the versatility of genius, and the boundless sympathies and intentions of the man.  We recommend our readers to discover as soon as possible how incomplete and inaccurate this notice is by reading Walt Whitman&#x92;s volume for themselves.  We would as soon attempt to write the topography of the globe as to give a minute description of "Leaves of Grass."  We have kept to the last a statement, all-important in the case of a Tennyson or a Virgil, but hardly worth mentioning in that of a Walt Whitman, namely, that our author writes in a style neither prose nor verse, the pauses, periods, and rhythms, of which are peculiarly his own.  We finish with a quotation.</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00100" cert="absolute"/>
+                        <!-- from I Dream'd in a Dream -->
+                     </relations>
+                     <head type="main-authorial">I DREAMED IN A DREAM</head>
+                     <lg type="linegroup">
+                        <l>I dreamed in a dream I saw a city invincible to the attacks of the whole of the rest of the earth,</l> 
+                        <l>I dreamed that was the new city of Friends,</l> 
+                        <l>Nothing was greater there than the quality of robust love, it led the rest.</l>
+                        <l>It was seen every hour in the actions of the men of that city</l> 
+                        <l>And in all their looks and words.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText> 
+         </q>
+ 
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Medea's cauldron is a reference to the story of Greek myth, Medea and Aeson, in which Jason (Aeson's son) asks Medea to increase the length of his infirm father's life.  Medea concocts a potion combining various ingredients that return Aeson to youthfulness.  
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+The line <hi rend="italic">Nihil humani a me alienum puto</hi> translates from Latin to "I am a human being: I regard nothing of human concern as foreign to my interests" and is from the Roman playwright Terence's <hi rend="italic">The Self-Tormenter</hi>.
+</note>
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+Whist is a trick-taking card game which was widely popular in the eighteenth and nineteenth centuries.  Later, it was displaced by Bridge as the most popular card game.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

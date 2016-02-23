@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00043">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+   <title level="m" type="main" corresp="lg1860">Leaves of Grass</title>
+   <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+<title level="m" type="sub">a machine readable transcription</title>
+
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+     <persName xml:id="el">Elizabeth Lorang</persName>
+     <persName xml:id="vs">Vanessa Steinroetter</persName>
+     <persName xml:id="ts">Todd Stabley</persName>
+     <persName xml:id="no">Natalie O'Neal</persName>
+</respStmt>
+<sponsor>Center for Digital Research in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+
+<idno>anc.00043</idno>
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>P.O. Box 884100</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>kprice@unlnotes.unl.edu</addrLine>
+<addrLine>Ed-Folsom@uiowa.edu</addrLine>
+<addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+ <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<biblStruct>
+<analytic>
+   <author key="unknown">
+      <choice><orig>unsigned</orig>
+         <reg>unknown</reg></choice>
+   </author>
+   <title level="a">Leaves of Grass</title>
+</analytic>
+<monogr>
+<title level="j">The Literary Gazette</title>
+<imprint>
+<date when="1860-07-07">7 July 1860</date>
+<biblScope type="volume">106</biblScope>
+<biblScope type="pages">798-9</biblScope>
+</imprint>
+</monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+
+<revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+<change when="2009-10-03" who="#el">updated TEI header</change>
+<change when="2007-12-18" who="#el">added note to revisionDesc</change>
+<change when="2007-12-18" who="#el">moved bracketed descriptive title to sub title</change>
+<change when="2007-12-18" who="#el">changed author's name in sourceDesc to last name, first</change>
+<change when="2007-12-18" who="#el">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+<change when="2007-07-18" who="#vs">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+<change when="2005-11-22" who="#ts">Encoded, validated</change>
+</revisionDesc>
+</teiHeader>
+
+<text type="ancillary">
+<body>
+
+<head type="main-authorial">LEAVES OF GRASS.<hi rend="superscript"><ref>&#8727;</ref></hi> <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+
+<p>N<hi rend="smallcaps">OT</hi> the least surprising thing about this book is its title. Had it been called "Stenches from the Sewer," "Garbage from the Gutter," or "Squeals from the Sty," we could have discerned the application. But "leaves"&#8212;which, we take it, is the Transatlantic for blades&#8212;"of grass" have nothing of irreligion or indecency about them. Mr. Walt Whitman&#8212;for it is with that choice spirit we are now dealing&#8212;might as well let them alone.</p> 
+
+<p>It is, for reasons we shall presently specify, rather a difficult matter to give the class of readers for whom we write, any adequate notion of this remarkable volume. Let them, however, imagine a Mormon, a medical student, and Miss Eugenie Plummer combining to draw up a treatise in the style of "Proverbial Philosophy," and they will have a faint idea of the last production of Mr. Walt Whitman.</p> 
+
+<p>The folly of the work is its least defect. The gregarious qualities of birds of a feather furnish matter for a very common aphorism, and we therefore see no reason to question the correctness of the subjoined assertion:&#8212;</p>
+
+<q who="Walt Whitman">
+<floatingText>
+<body>
+<lg type="poem">
+<relations>
+<work ref="xxx.00048" cert="absolute"/>
+</relations>
+<lg type="linegroup">
+<l>"The wild gander leads his flock through the cool night,</l>
+<l><hi rend="italic">Ya-honk!</hi> he says, and sounds it down to me like an <lb/>invitation;</l>
+<l>The pert may suppose it meaningless, but I listen close,</l>
+<l>I find its purpose and place up there toward the wintry <lb/>sky."</l>
+</lg>
+</lg>
+</body>
+</floatingText>
+</q>
+
+<p>The following forms the conclusion of a pretty long rhapsody of the author concerning himself. We extract it because it is more decent and not more foolish than the rest of the volume:&#8212;</p>
+
+<q who="Walt Whitman">
+<floatingText>
+<body>
+<lg type="poem">
+<relations>
+<work ref="xxx.00048" cert="absolute"/>
+</relations>
+<lg type="linegroup">
+<l>"I too am not a bit tamed&#8212;I too am untranslatable,</l>
+<l>I sound my barbaric yawp over the roofs of the world.</l>
+</lg>
+
+<lg type="linegroup">
+<l>The last scud of day holds back for me,</l>
+<l>It flings my likeness, after the rest, and true as any, <lb/>on the shadowed wilds,</l>
+<l>It coaxes me to the vapor and the dusk.</l>
+</lg>
+
+<lg type="linegroup">
+<l>I depart as air&#8212;I shake my white locks at the run-away <lb/>sun,</l>
+<l>I effuse my flesh in eddies, and drift it in lacy jags.</l>
+</lg>
+
+<lg type="linegroup">
+<l>I bequeath myself to the dirt to grow from the grass I <lb/>love,</l>
+<l>If you want me again, look for me under your boot-soles.</l>
+</lg>
+
+<lg type="linegroup">
+<l>"You will hardly know who I am, or what I mean,</l>
+<l>But I shall be good health to you nevertheless,</l>
+<l>And filter and fibre your blood.</l>
+</lg>
+
+<lg type="linegroup">
+<l>Failing to fetch me at first, keep encouraged,</l>
+<l>Missing me one place, search another,</l>
+<l>I stop somewhere waiting for you."</l>
+</lg>
+</lg>
+</body>
+</floatingText>
+</q> 
+
+<p>It is related of poor crazy Nat Lee that when a small poet asked him if it was not very easy to write like a madman, he replied, "No; but it is very easy indeed to write like a fool, as you do." Doubtless Mr. Walt Whitman imagines he is writing like a madman, when, as a matter of fact, he is only writing like Nat Lee's friend.</p> 
+
+<p>He tells us that the world is not devout enough&#8212;that he understands "Him who was crucified;" and in general tries to impress upon us that he is an apostle of no mean pretensions. But his creed, so far as we understand it, consists in a peculiarly coarse materialism. He tells us pretty roundly that he worships his own body, and people who would like to learn a great number of particulars about Mr. Walt Whitman's body, may find them in Mr. Walt Whitman's book.</p> 
+
+<p>Throughout the work there is a tone of consistent impurity which reaches its climax in some compositions entitled "Enfans d'Adam"&#8212;a designation which we can only explain by imagining it to contain some allusion to the Adamites, of which interesting, though as we had supposed, extinct sect, Mr. Walt Whitman is a very fair representative. For the downright foulness of some of these passages we do not believe that a parallel could be found even by ransacking the worst classical poets from Aristophanes to Ausonius, and we are rather surprised that with John Lord Campbell on the woolsack,<ref target="n2" xml:id="r2" n="1"/> and a certain act of his still unrepealed on the statute-book, Mr. Walt Whitman should have found a London vendor for his uncleanly work.</p> 
+
+<p>This is more decided language than we generally employ, and our readers may ask us for some justification of it. Let us remind them of Lord Macaulay's description of Wycherley,<ref target="n3" xml:id="r3" n="2"/> which we can certainly apply to Walt Whitman. "His indecency is protected against the critics as a skunk is protected against the hunters. It is safe because it is too filthy to handle, and too noisome even to approach." There are certain criminals whom even literary judges must try with closed doors, and our readers must deduce from our verdict that "the evidence is unfit for publication." We say, then, deliberately, that of all the writers we have ever perused, Mr. Walt Whitman is the most silly, the most blasphemous, and the most disgusting; if we can think of any stronger epithets, we will print them in a second edition.</p> 
+
+<milestone unit="undeclared" rend="horbar-full" />
+
+
+<ab><hi rend="superscript">&#8727;</hi>
+ <hi rend="italic">Leaves of Grass</hi> 
+ 
+ (Boston:  
+ Thayer and Eldridge,  
+ year 85 of the States&#8212;1860&#8211;61.  
+ London:  
+ Tr&#252;bner.)  
+ 
+</ab>
+ 
+
+</body>
+<back>
+<div1 type="notes">
+<p>
+<note type="editorial" xml:id="n2" target="r2" n="1">
+The Woolsack is the seat from which the Lord Chancellor presided in the House of Lords of the Parliament of the United Kingdom.  The Woolsack is a large, wool-stuffed cushion, meant to signify the England's prosperity.  
+</note>
+<note type="editorial" xml:id="n3" target="r3" n="2">
+Lord Macaulay's description of Wycherley refers to Thomas Babington Macaulay (1800-1859), who was an English poet, historian and Whig politician.  William Wycherley (1641-1716) was an English playwright whose plays juxtaposed deep-seated Puritanism with an ardent physical nature.  In 1841 Macaulay offered a scathing assessment of William Wycherley's work.
+</note>  
+</p>
+</div1>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00241">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00241</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Daily National Intelligencer</title>
+                  <imprint>
+                     <date when="1860-07-14">14 July 1860</date>
+                     <biblScope type="volume">14, 956</biblScope>
+                     <biblScope type="pages">[unknown]</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-08-16">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+         
+            <ab>
+               
+                   L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>
+                   
+                  By W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>. 
+                   
+                      Boston,  
+                      Thayer &amp; Eldridge.  
+                      1860 Washington, Philp &amp; Solomons.
+            </ab>
+         
+
+         <p>Every body knows how the critical soul of Jeffrey was vexed within him by Wordsworth's "Excursion," on the first appearance of that poem in 1814, and by the "White Doe of Rylston," which saw the light a year afterwards.<ref target="n1" xml:id="r1" n="1"/>  The former production he greeted with the exclamation, "This will never do!" and the opening words of his critique on the latter were graduated to a point no finer than to say, "This, we think, has the merit of being the very worst poem we ever saw imprinted in a quarto volume."  If the Aristarch of "Scotch Reviewers" were still in the flesh, and felt called, in the spirit of the Rhadamanthine motto which he placed at the head of the Edinburgh Review,<ref target="n2" xml:id="r2" n="2"/> to let no offender against the canons of criticism escape unpunished, we are pretty sure that in proceeding to pronounce sentence on Walt Whitman he would don the black cap with as much <hi rend="italic">insouciance</hi> as Lord Braxfield when it became the pleasing duty of that model judge to administer the last rites of the law to a prisoner arraigned on some charge of sedition against the King's Government.  "Ye're a vera clever chiel man," was the soothing address once made by this ornament of the Scottish Themis to an eloquent criminal at his bar, "but ye wad be nane the waur o' a hanging:" and if such was the festive wit and humor which marked trials for political offences in Scotland as late as 1794, it is unnecessary to add that the year of grace 1814 was any thing but a year of grace to such "English bards" as fell into the clutches of the Edinburgh reviewer.</p>
+
+         <p>We do not know that Jeffrey would have pronounced "The Leaves of Grass" to be the <hi rend="italic">worst</hi> poem ever honored with exquisite typography, imprinted on paper of irreproachable quality, but we are pretty certain he would have conceded to it the merit of being the strangest-born among all the intellectual freaks of nature he had ever been called to inspect and analyze.</p>
+
+         <p>Such of our readers as are blessed with good memories may recognise in Walt Whitman a former acquaintance, for the "Leaves of Grass" which he here presents to us, pressed and dried in a new herbarium, first disclosed their verdant honors four or five years ago, and were then duly brought by us to the notice of the "discerning public."  We then undertook at some length to characterize this singular production by saying that Walt Whitman, who describes himself as</p>
+
+         <!-- From "Walt Whitman" (Later: "Song of Myself") Leaves of Grass 1860-61 -->
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>——an American, one of the roughs, a kosmos,</l>
+                        <l>Disorderly, fleshy, sensual, &amp;c.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>was the "poet of pantheism," and that the book which he has here given us, in the shape of runic rhymes and bardic symbols, was incapable of classification under any of the forms previously recognised in the world of letters.  Unique in his literary style, Walt is, like a genuine disciple of Spinoza,<ref target="n3" xml:id="r3" n="3"/> perfectly indifferent with regard to the matter that enters into the composition of his book.  Things good and things bad, things decent and things indecent, things pretty to the eye and things ugly, things sweet to the taste and things bitter, things fragrant to the nostrils and things noisome, things smooth to the touch and things rough, are to him all one and the same.  Accordingly the reader will find in this "poem" an inventory (expressed in a style something like a cross between Butler's Hudibras<ref target="n4" xml:id="r4" n="4"/> and an auctioneer's advertisement) of all things good and bad, decent and indecent, pretty and ugly, sweet and bitter, fragrant and noisome, smooth and rough, enumerated in categories designed to exhaust the sensations of humanity and hold the mirror up to the universe at large.</p>
+
+         <p>M. Jourdain,<ref target="n5" xml:id="r5" n="5"/> in the play of Racine, was surprised to learn from his erudite master in philosophy that for more than forty years he had been talking prose without knowing it.  It were no great wonder, after the success of Walt Whitman, if many persons who have never talked any thing but the most unmitigated nonsense should congratulate themselves on the discovery that they have all the while been Miltons in disguise.</p>
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+William Wordsworth (1770-1850) published <hi rend="italic">The Excursion</hi> in 1814, a collection of philosophical monologues in poetic form.  It was to be the second part of an ultimately never completed three-part poem entitled <hi rend="italic">The Recluse</hi>.  "White Doe of Rylston" was a long narrative poem published in 1815.
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+                  <hi rend="italic">The Edinburgh Review</hi>, an influential nineteenth-century British periodical, took for its motto a line from Publilus Syrus: "judex damnatur ubi nocens absolvitur" ("The judge is condemned when the guilty is acquitted"). 
+</note>
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+Benedict de Spinoza (1632-1677) was a Dutch-Jewish philosopher, an important exponent of seventeenth-century Rationalism.
+</note>  
+               <note type="editorial" xml:id="n4" target="r4" n="4">
+Samuel Butler (1612-1680) published a three-part satirical poem on Puritanism entitled <hi rend="italic">Hudibras</hi> (1663, 1664 and 1678).
+</note>   
+               <note type="editorial" xml:id="n5" target="r5" n="5">
+The character Monsieur Jourdain appears in a play by Molière (1622 - 1673) <hi rend="italic">Le Bourgeois Gentilhomme</hi>.
+</note> 
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

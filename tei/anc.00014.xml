@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00014">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">An English and American Poet</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Walt Whitman</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               <persName xml:id="fe">Franklin E. Menius Jr.</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00014</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Whitman, Walt">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Walt Whitman</reg>
+                     </choice>
+                  </author>
+                  <title level="a">An English and American Poet</title>
+               </analytic>
+               <monogr>
+                  <title level="j">American Phrenological Journal</title>
+                  <imprint>
+                     <date when="1855-10">October 1855</date>
+                     <biblScope type="volume">22</biblScope>
+                     <biblScope type="issue">4</biblScope>
+                     <biblScope type="pages">90-1</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2005-04-26">Corrected, validated</change>
+         <change who="#fe" when="2004-10-25">Encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">AN ENGLISH AND AN AMERICAN POET.<!--  [Review of Leaves of Grass (1855)] --> </head>
+         <note type="newspaper-editorial">
+            <p>[We have received from a correspondent the following comparative and critical review of two poems recently published, both of which may be had at this office, or by mail, postage prepaid, at prices annexed.]</p>
+         </note>
+         
+         <ab>L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>: Poems by W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> Brooklyn:  1855.  1 vol.  quarto.  Price $1 25.</ab>
+
+           <ab>M<hi rend="smallcaps">AUD</hi>, and other Poems By A<hi rend="smallcaps">LFRED</hi> T<hi rend="smallcaps">ENNYSON</hi>.  London: 1855. Price $1 25.</ab>
+
+         <p>It is always reserved for second-rate poems immediately to gratify. As first-rate or natural objects, in their perfect simplicity and proportion, do not startle or strike, but appear no more than matters of course, so probably natural poetry does not, for all its being the rarest, and telling of the longest and largest work. The artist or writer whose talent is to please the connoisseurs of his time, may obey the laws of his time, and achieve the intense and elaborated beauty of parts. The perfect poet cannot afford any special beauty of parts, or to limit himself by any laws less than those universal ones of the great masters, which include all times, and all men and women, and the living and the dead. For from the study of the universe is drawn this irrefragable truth, that the law of the requisites of a grand poem, or any other complete workmanship, is originality, and the average and superb beauty of the ensemble. Possessed with this law, the fitness of aim, time, persons, places, surely follows. Possessed with this law, and doing justice to it, no poet or any one else will make anything ungraceful or mean, any more than any emanation of nature is.</p>
+
+         <p>The poetry of England, by the many rich geniuses of that wonderful little island, has grown out of the facts of the English race, the monarchy and aristocracy prominent over the rest, and conforms to the spirit of them. No nation ever did or ever will receive with national affection any poets except those born of its national blood. Of these, the writings express the finest infusions of government, traditions, faith, and the dependence or independence of a people, and even the good or bad physiognomy, and the ample or small geography. Thus what very properly fits a subject of the British crown may fit very ill an American freeman. No fine romance, no inimitable delineation of character, no grace of delicate illustrations, no rare picture of shore or mountain or sky, no deep thought of the intellect, is so important to a man as his opinion of himself is; everything receives its tinge from that. In the verse of all those undoubtedly great writers, Shakspeare just as much as the rest, there is the air which to America is the air of death. The mass of the people, the laborers and all who serve, are slag, refuse. The countenances of kings and great lords are beautiful; the countenances of mechanics are ridiculous and deformed. What play of Shakspeare, represented in America, is not an insult to America, to the marrow in its bones? How can the tone never silent in their plots and characters be applauded, unless Washington should have been caught and hung, and Jefferson was the most enormous of liars, and common persons,north and south, should bow low to their betters, and to organic superiority of blood? Sure as the heavens envelop the earth, if the Americans want a race of bards worthy of 1855, and of the stern reality of this republic, they must cast around for men essentially different from the old poets, and from the modern successions of jinglers and snivellers and fops.</p>
+
+         <p>English versification is full of these danglers, and America follows after them. Every body writes poetry, and yet there is not a single poet. An age greater than the proudest of the past is swiftly slipping away, without one lyric voice to seize its greatness, and speak it as an encouragement and onward lesson. We have heard, by many grand announcements, that he was to come, but will he come?</p>
+
+         <q who="Alexander Smith">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"A mighty Poet whom this age shall choose</l>
+                        <l>To be its spokesman to all coming times.</l>
+                        <l>In the ripe full-blown season of his soul,</l>
+                        <l>He shall go forward in his spirit's strength,</l>
+                        <l>And grapple with the questions of all time,</l>
+                        <l>And wring from them their meanings. As King Saul</l>
+                        <l>Called up the buried prophet from his grave</l>
+                        <l>To speak his doom, so shall this Poet-king</l>
+                        <l>Call up the dread past from its awful grave</l>
+                        <l>To tell him of our future. As the air</l>
+                        <l>Doth sphere the world, so shall his heart of love—</l>
+                        <l>Loving mankind, not peoples. As the lake</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Reflects the flower, tree, rock, and bending heaven,</l>
+                        <l>Shall he reflect our great humanity;</l>
+                        <l>And as the young Spring breathes with living breath</l>
+                        <l>On a dead branch, till it sprouts fragrantly</l>
+                        <l>Green leaves and sunny flowers, shall he breathe life</l>
+                        <l>Through every theme he touch, making all Beauty</l>
+                        <l>And Poetry forever like the stars."—<hi rend="italic">Alexander Smith</hi>.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>The best of the school of poets at present received in Great Britain and America is Alfred Tennyson. He is the bard of ennui and of the aristocracy, and their combination into love. This love is the old stock love of playwrights and romancers, Shakspeare the same as the rest. It is possessed of the same unnatural and shocking passion for some girl or woman, that wrenches it from its manhood, emasculated and impotent, without strength to hold the rest of the objects and goods of life in their proper positions. It seeks nature for sickly uses. It goes screaming and weeping after the facts of the universe, in their calm beauty and equanimity, to note the occurrence of itself, and to sound the news, in connection with the charms of the neck, hair, or complexion of a particular female.</p>
+
+         <p>Poetry, to Tennyson and his British and American eleves, is a gentleman of the first degree, boating, fishing, and shooting genteelly through nature, admiring the ladies, and talking to them, in company, with that elaborate half-choked deference that is to be made up by the terrible license of men among themselves. The spirit of the burnished society of upper-class England fills this writer and his effusions from top to toe. Like that, he does not ignore courage and the superior qualities of men, but all is to show forth through dandified forms. He meets the nobility and gentry half-way. The models are the same both to the poet and the parlors. Both have the same supercilious elegance, both love the reminiscences which extol caste, both agree on the topics proper for mention and discussion, both hold the same undertone of church and state, both have the same languishing melancholy and irony, both indulge largely in persiflage, both are marked by the contour of high blood and a constitutional aversion to anything cowardly and mean, both accept the love depicted in romances as the great business of a life as a poem, both seem unconscious of the mighty truths of eternity and immortality, both are silent on the presumptions of liberty and equality, and both devour themselves in solitary lassitude. Whatever may be said of all this, it harmonizes and represents facts. The present phases of high-life in Great Britain are as natural a growth there, as Tennyson and his poems are a natural growth of those phases. It remains to be distinctly admitted that this man is a real first-class poet, infused amid all that ennui and aristocracy.</p>
+
+         <p>Meanwhile a strange voice parts others aside and demands for its owner that position that is only allowed after the seal of many returning years has stamped with approving stamp the claims of the loftiest leading genius. Do you think the best honors of the earth are won so easily, Walt Whitman? Do you think city and country are to fall before the vehement egotism of your recitative of yourself?</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>"I am the poet of the body,</l>
+                     <l>And I am the poet of the soul.</l>
+                     <l>The pleasures of heaven are with me, and the pains of hell <lb/>are with me,</l>
+                     <l>The first I graft and increase upon myself…the latter I <lb/>translate into a new tongue.</l>
+                     <l>I am the poet of the woman the same as the man,</l>
+                     <l>And I say it is as great to be a woman as to be a man,</l>
+                     <l>And I say there is nothing greater than the mother of men.</l>
+                     <l>I chant a new chant of dilation or pride,</l>
+                     <l>We have had ducking and deprecating about enough,</l>
+                     <l>I show that size is only development."</l>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>It is indeed a strange voice! Critics and lovers and readers of poetry as hitherto written, may well be excused the chilly and unpleasant shudders which will assuredly run through them, to their very blood and bones, when they first read Walt Whitman's poems. If this is poetry, where must its foregoers stand? And what is at once to become of the ranks of rhymesters, melancholy and swallow-tailed, and of all the confectioners and upholsterers of verse, if the tan-faced man here advancing and claiming to speak for America and the nineteenth hundred of the Christian list of years, typifies indeed the natural and proper bard?</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"The friendly and flowing savage. Who is he?</l>
+                        <l>Is he waiting for civilization, or past it and mastering it?</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Is he some south-westerner raised outdoors? Is he Canadian?</l>
+                        <l>Is he from the Mississippi country? or from Iowa, Oregon, <lb/>or California? or from the mountains? or prairie-life or <lb/>bush-life? or from the sea? </l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Wherever he goes men and women accept and desire him,</l>
+                        <l>They desire he should like them and touch them and speak <lb/>to them and stay with them. </l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Behaviour lawless as snow-flakes—words simple as grass— <lb/>uncombed head and laughter and naivete; </l>
+                        <l>Slowstepping feet and the common features, and the com <lb/>mon modes and emanations, </l>
+                        <l>They descend in new forms from the tips of his fingers,</l>
+                        <l>They are wafted with the odor of his body or breath… <lb/>they fly out of the glance of his eyes." </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>
+Not a borrower from other lands, but a prodigal user of his own land is Walt Whitman. Not the refined life of the drawing-room—not dancing and polish and gentility, but some powerful uneducated person, and some harsh identity of sound, and all wild free forms, are grateful to him. A thrill of his own likeness strikes him as the spotted hawk wheels noisily near his head at nightfall, and he is fain to say,
+</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I too am not a bit tamed—I too am untranslatable;</l>
+                        <l>I sound my barbaric yawp over the roofs of the world."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>
+He is sterile on the old myths, and on all the customary themes of romantic and classical writers, but pregnant with the deductions of the geologist, the astronomer, the great antiquary, the chemist, the phrenologist, the spiritualist, the mathematician, and with the ideas and practice of American politics. Individuals and personal incidents are not given by him at second-hand: he himself assumes and becomes any character, one after another—the child uttering fancies about the grass—the curious meditator reclining on a bank of a summer forenoon, and holding a long colloquy of love with his own soul—the friendly mate and companion of people—now riding from the fields atop of the load of hay on its way to the barn—or in the most crowded rush of a great city—or hunting alone over the mountains or far in the wilds—sailing in the Yankee clipper under her three skysails—one of a chowder-party with boatmen or clam-diggers—giving shelter to the runaway slave—beholding the marriage of the trapper to the red girl in the far west—or bathing with bathers by the sea-side—absorbing all pleasures and all pains—learning lessons of animals and birds—merged in any affair or person—in the carpenter dressing his plank—the pilot who seizes the kingpin of the wheel—the driver who drives the dray of the stone-yard—the spinning girl advancing forward and retreating backward—the canal-boy on the tow-path—the pavior with his wooden beetle—the drover singing out to his drove—the Wolverine setting traps by the Huron—the Missourian crossing the plains with his wares and his cattle—the flatboatman making fast at night near the shores of cottonwood and pekan-tree—the hunter and trapper resting after their day's sport in the hut of adobe—the mourning widow looking out on the winter midnight—the Yankee or the Texan—the Georgian, the lumberer of Maine, the Kentuckian, Ohian, Louisianian, or Californian—mechanic, author, artist or shoolboy—thinker of the thoughts of all men in all ages—appreciator of the nearest and readiest, and traveller from the most distant and diverse.
+</p>
+
+         <p>The theory and practice of poets have hitherto been to select certain ideas or events or personages, and then describe them in the best manner they could, always with as much ornament as the case allowed. Such are not the theory and practice of the new poet. He never presents for perusal a poem ready-made on the old models, and ending when you come to the end of it; but every sentence and every passage tells of an interior not always seen, and exudes an impalpable something which sticks to him that reads, and pervades and provokes him to tread the half-invisible road where the poet, like an apparition, is striding fearlessly before. If Walt Whitman's premises are true, then there is a subtler range of poetry than that of the grandeur of acts and events, as in Homer, or of characters, as in Shakspeare—poetry to which all other writing is subservient, and which confronts the very meanings of the works of nature and competes with them. It is the direct bringing of occurrences and persons and things to bear on the listener or beholder, to re-appear through him or her; and it offers the best way of making them a part of him and her as the right aim of the greatest poet.</p>
+
+         <p>Of the spirit of life in visible forms—of the spirit of the seed growing out of the ground—of the spirit of the resistless motion of the globe passing unsuspected but quick as lightning along its orbit—of them is the spirit of this man's poetry. Like them it eludes and mocks criticism, and appears unerringly in results. Things, facts, events, persons, days, ages, qualities, tumble pell-mell, exhaustless and copious, with what appear to be the same disregard of parts, and the same absence of special purpose, as in nature. But the voice of the few rare and controlling critics, and the voice of more than one generation of men, or two generations of men, must speak for the inexpressible purposes of nature, and for this haughtiest of writers that has ever yet written and printed a book. He is to prove either the most lamentable of failures or the most glorious of triumphs, in the known history of literature. And after all we have written we confess our brain-felt and heart-felt inability to decide which we think it is likely to be.</p>
+
+      </body>
+   </text>
+</TEI>

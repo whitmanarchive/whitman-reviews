@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00122">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="boughs">"November Boughs"</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">November Boughs</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00122</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2008 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">"November Boughs"</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The San Francisco Chronicle</title>
+                  <imprint>
+                     <date when="1889-01-13">13 January 1889</date>
+                     <biblScope type="pages">7</biblScope>
+
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-09">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"November Boughs." <!-- [Review] --></head>
+
+         <p>The best things in "November Boughs," by Walt Whitman, are a few sonnets and prose articles. The bulk of the book will prove tedious to all except his admirers, and nothing that he might write will daunt this loyal band. Those who have established the cult of any author always go to the extreme of hero-worship. This is seen in the Browning societies of England and this country, and it finds equal expression in the Whitman coterie. The very uncouthness of Whitman appears to give pleasure to these people, and they are never tired of praising what has been called his "heroic nudity." In the first article in this volume, written at 70, Whitman attempts again to justify "Leaves of Grass." To use a phrase of Henry James, "he regards himself too seriously," and it makes one smile to read the frequent references to Goethe, Milton and other bards with whom Walt compares himself. What he says about his motive in writing this work which has called down on him so much orthodox condemnation is honestly and plainly stated, but we think he values the poem too highly and that it cannot in any sense be taken as the voice of a representative American of the latter half of this century. Whitman has always seemed very un-American in many of his traits, notably in his acceptance of gifts from friends and in his lack of ambition. That he has many genuine poetic ideas, even in his old age, is evident to any one who reads this collection of his later writings, but these ideas seldom find adequate expression. The mannerisms, both of his prose and his verse, check all perfect development, and one can only fancy what they might have been put in rhythmical verse or prose. The book has a good portrait of Whitman taken in his seventieth year.</p> 
+
+       
+            <ab>
+               
+                   
+                      [Philadelphia:  
+                      David McKay. For sale by J.W. Roberts &amp; Co., 10 Post street.] 
+                   
+               
+            </ab>
+         
+
+      </body>
+   </text>
+</TEI>

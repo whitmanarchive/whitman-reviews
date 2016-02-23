@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.01073">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" corresp="fancy">Walt Whitman's Good-bye</title>
+                <title level="m" type="sub">[Review of <hi rend="italic">Good-bye, My Fancy</hi>]</title>
+                <title level="a" type="sub">a machine readable transcription</title>
+                <author><choice><orig>unsigned</orig>
+                    <reg>unknown</reg></choice></author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kb">Kyle Barton</persName>
+                    <persName xml:id="al">Ashley Lawson</persName>
+                    <persName xml:id="jc">Janel Cayer</persName>
+                    <persName xml:id="kp">Ken Price</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>anc.01073</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+                <availability>
+                    <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author key="unknown">
+                            <choice><orig>unsigned</orig>
+                                <reg>unknown</reg></choice>
+                        </author>
+                        <title level="a">Walt Whitman's Good-bye</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Pall Mall Gazette</title>
+                        <imprint>
+                            <biblScope type="volume">53</biblScope>
+                            <date when="1891-12-12">12 December 1891</date>
+                            <biblScope type="pages">3</biblScope>
+                        </imprint>
+                    </monogr>
+</biblStruct>
+            </sourceDesc>
+            </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+        <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+            <change when="2012-10-31" who="#jc">fixed typos and other minor encoding issues</change>
+            <change when="2012-10-30" who="#kp">blessed</change>
+            <change when="2012-09-19" who="#jc">blessed</change>
+            <change when="2011-12-05" who="#al">checked and corrected</change> 
+            <change when="2011-11-10" who="#kb">transcribed, encoded</change> 
+        </revisionDesc>
+        </teiHeader>
+    <text type="ancillary">
+        <body>
+            <head type="main-authorial">WALT WHITMAN'S GOOD-BYE.</head>
+            <p>"Why do folks dwell so fondly on the last words, advice, appearance, of the departing? Those last words are not samples of the best, which involve vitality at its full, and balance, and perfect control and scope. But they are valuable beyond measure to confirm and endorse the varied train, facts, theories, and faith of the whole preceding life." So says Walt Whitman in a foot-note to the little volume which he has just put forth ("Good-bye, my Fancy." 2d. Annex to "Leaves of Grass." Philadelphia: David McKay). We may hope that the aged poet will still be with us for many a long day, but this collection of scraps of all kinds&#8212;verses, essays, thoughts, speeches, recollections&#8212;have something of the interest of last words. Here is his poetical good bye:&#8212;</p>
+           
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>Good-bye my Fancy!</l>
+                            <l>Farewell dear mate, dear love!</l>
+                            <l>I'm going away, I know not where,</l>
+                            <l>Or to what fortune, or whether I may ever see you again,</l>
+                            <l>So good-bye my Fancy! . .  . . </l>
+                            <l>Yet let me not be too hasty,</l>
+                            <l>Long indeed have we lived, slept, filter'd, become really blended into one;</l>
+                            <l>Then if we die we die together, (yes, we'll remain one,)</l>
+                            <l>If we go anywhere we'll go together to meet what happens,</l>
+                            <l>May-be we'll be better off and blither, and learn something,</l>
+                            <l>May-be it is yourself now really ushering me to the true songs (who knows?)</l>
+                            <l>May-be it is you the mortal knob really undoing, turning&#8212;so now finally</l>
+                            <l>Good-bye&#8212;and hail! my Fancy.</l>
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+           
+            <p>In another poem&#8212;"A Twilight Song"&#8212;Whitman celebrates the unknown heroes of the War:&#8212;</p>
+            
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <l>A special verse for you&#8212;a flash of duty long neglected&#8212;your mystic roll strangely gather'd here,</l>
+                            <l>Each name recall'd by me from out the darkness and death's ashes,</l>
+                            <l>Henceforth to be, deep, deep within my heart recording, for many a future year,</l>
+                            <l>Your mystic roll entire of unknown names, or North or South,</l>
+                            <l>Embalm'd with love in this twilight song.</l>
+                        </lg>
+                    </body>
+                </floatingText>
+            </q>
+            
+            <p>In some "last saved items" the poet gives us some of his characteristic ideas in prose:&#8212;</p>
+                <q who="Walt Whitman" type="extract">
+                    <floatingText>
+                        <body>
+            <p>In its highest aspect, and striking its grandest average, essential Poetry expresses and goes along with essential Religion. . . . The philosophy of Greece taught normality and the beauty of life.  Christianity teaches how to endure illness and death. I have wonder'd whether a third philosophy fusing both, and doing full justice to both, might not be outlined. . . . It will not be enough to say that no Nation ever achiev'd materialistic, political, and money-making successes, with general physical comfort, as fully as the United States of America are to-day achieving them. I know very well that those are the indispensable foundations&#8212;the <hi rend="italic">sine qua non</hi> of moral and heroic (poetic) fruitions to come. For if those pre-successes were all&#8212;if they ended at that&#8212;if nothing more were yielded than so far appears&#8212;a gross materialistic prosperity only&#8212;America, tried by subtlest tests, were a failure&#8212;has not advanced humanity a bit further than other nations. . . . Essentially my own printed records, all my volumes, are doubtless but offhand utterances from Personality, spontaneous, following implicitly the inscrutable command, dominated by that Personality, vaguely even if decidedly, and with little or nothing of plan, art, erudition, &#38;c. If I have chosen to hold the reins, the mastery, it has mainly been to give the way, the power, the road, to the invisible steeds. (I wanted to see how a Person of America, the last half of the nineteenth century, would appear, put quite freely and fairly in honest type.)</p>
+                        </body>
+                    </floatingText>
+                    </q>
+            <p>Turning now to <hi rend="italic">personalia</hi>, we may give a few of Walt Whitman's "old age jottings." He describes how he was seriously ill and paralyzed after the war, and had his books printed during a lingering convalescence "to occupy the tediousness of glum days and nights." The sale of the volumes abroad was very satisfactory. "The price was 10 dol. a set. Both the cash and the emotional cheer were deep medicines; many paid double or treble price. (Tennyson and Ruskin did)." Among other subscribers, he mentions the two Rossettis, W. B. Scott, E. W. Gosse, Spence Watson, G. H. Lewes, G. H. Boughton, M. D. Conway, and Hubert Herkomer. This opportune English encouragement plucked him, he says, like a brand from the burning: "and if ever I have a biographer I charge him to put it in the narrative. I have had the noblest friends and backers in America; and yet perhaps the tenderest and gratefullest breath of my heart has gone, and ever goes, over the sea-gales across the big pond."</p>
+            <p>Of his life in general he gives the following summary:&#8212;</p>
+            <q who="Walt Whitman" type="extract">
+            <floatingText>
+                <body>
+            <p>I have pass'd an active life, as country school-teacher, gardener, printer, carpenter, author, and journalist, domiciled in nearly all the United States and principal cities, North and South&#8212;went to the front (moving about and occupied as army nurse and missionary) during the Secession War, 1861 to '65, and in the Virginia hospitals and after the battles of that time, tending the Northern and Southern wounded alike&#8212;work'd down South and in Washington city arduously three years&#8212;contracted the paralysis which I have suffer'd ever since&#8212;and now live in a little cottage of my own, near the Delaware in New Jersey. My chief book, unrhym'd and unmetrical (it has taken thirty years, peace and war, "a borning"), has its aim, as once said, "to utter the same old human <hi rend="italic">critier</hi>&#8212;but now in Democratic American modern and scientific conditions." Then I have publish'd two prose works "Specimen Days," and a late one "November Boughs."</p>
+                </body>
+            </floatingText>
+                </q>
+            <p>Of "the little cottage" he gives the following picture:&#8212;</p>
+            <q who="Walt Whitman" type="extract">
+                <floatingText>
+                    <body>
+            <p>In the upper of a little wooden house of two stories near the Delaware river, earth shore, sixty miles up from the sea, is a rather large 20-by-20 low ceiling'd room something like a big old ship's cabin. The floor, three quarters of it with an ingrain carpet, is half cover'd by a deep litter of books, papers, magazines, thrown-down letters and circulars, rejected manuscripts, memoranda, bits of light or strong twine, a bundle to be "express'd," and two or three venerable scrap books. In the room stand two large tables (one of ancient St. Domingo mahogany with immense leaves) cover'd by a jumble of more papers, a varied and copious array of writing materials, several glass and china vessels or jars, some with cologne water, other with real honey, granulated sugar, a large bunch of beautiful fresh yellow chrysanthemums, some letters and envelopt papers ready for the post office, many photographs, and a hundred indescribable things besides. There are all around many books, some quite handsome editions, some half cover'd by dust, some within reach, evidently used (good-sized print, no type less than long primer), some maps, the Bible (the strong, cheap edition of the English crown), Homer, Shakespere, Walter Scott, Emerson, Ticknor's "Spanish Literature," John Carlyle's Dante, Felton's Greece, George Sand's Consuelo, a very choice little Epictetus, some novels, the latest foreign and American monthlies, quarterlies, and so on. There being quite a strew of printer's proofs, and slips, and the daily papers, the place with its quaint old-fashioned calmness has also a smack of something alert and of current work. There are several trunks and depositories back'd up at the walls; (one well-bound and big box came by express lately from Washington city, after storage there for nearly twenty years). Indeed the whole room is a sort of result and storage collection of my own past life. I have here various editions of my own writings, and sell them upon request; one is a big volume of complete poems and prose, 1000 pages, autograph, essays, speeches, portraits from life, &#38;c. Another is a little <hi rend="italic">Leaves of Grass</hi>, latest date, six portraits, morocco bound, in pocket-book form.</p>
+            <p>Fortunately the apartment is quite roomy. There are three windows in front. At one side is the stove, with a cheerful fire of oak wood, near by a good supply of fresh sticks, whose faint aroma is plain. On another side is the bed with white coverlid and woollen blankets. Toward the windows is a huge arm-chair (a Christmas present from Thomas Donaldson's young daughter and son,) Philadelphia timber'd as by some stout ship's spars, yellow polish'd, ample, with rattan-woven seat and back, and over the latter a great wide wolf skin of hairy black and silver, spread to guard against cold and draught. A time-worn look and scent of old oak attach both to the chair and the person occupying it.</p>
+                    </body>
+                </floatingText>
+                </q>
+            <p>May the heart of oak within him long continue to beat!</p>
+
+        </body>
+    </text>
+</TEI>
+

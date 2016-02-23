@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00189">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Walt. Whitman's Dirty Book</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00188</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">Walt. Whitman's Dirty Book</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Cincinnati Daily Commercial</title>
+                  <imprint>
+                     <date when="1860-11-29">29 November 1860</date>
+                     <biblScope type="pages">3</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-23">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt. Whitman's Dirty Book. <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+
+         <p>The Westminster Review, in a survey of Contemporary Literature, says:<ref target="n1" n="1" xml:id="r1"/>
+         </p>
+
+         <p>If Mr. Walt Whitman's "Leaves of Grass" had been printed on paper as dirty as his favourite topics,—if the book itself had presented the general aspect of that literature which usually falls under no other criticism than that of the police office, we should have passed it by without notice, as addressing only such a public as we have no concern with; but when a volume containing more obscenity and profanity than is perhaps elsewhere to be found within the same compass, presents itself in all the glories of hot-pressed paper, costly binding, and stereotype printing, and we believe as a fourth edition, it is manifest that it not only addresses, but has found a public of a much wider class, and it becomes a question how such a book can have acquired a vogue and popularity that could induce an American publisher to spend so much upon its outward setting-forth.</p> 
+
+         <p>Perhaps loose thinking and tall talk are nowhere so efficacious in attracting notice as in the United States, and Mr. Whitman, by pretentiously assuming to be the exponent of Hegelian morality, by offering himself as the high-priest of that religion, whose sole dogma is comprised in the proposition <hi rend="italic">Homo sibi deus</hi>,<ref target="n2" n="2" xml:id="r2"/> attracts and perplexes readers, whose natural good sense would otherwise soon cast aside his frightful fustian. That he has any direct acquaintance with those forms of German speculation on which he falls back for the justification of the language he makes use of, we think may be confidently denied, not only from the manner in which he conceives its problems, but from the absence of any German catch words with which he would otherwise have infallibly adorned his motley, for even an ignorance of its grammar does not daunt him when the French language offers a term to his taste. Mr. Emerson has much to answer for, and will in reputation dearly pay for the fervid encomium with which he introduced the Author to the American public. That to the public defence of polygamy and slavery, should now be added that of the emancipation of the flesh, is an indication of a moral disorganization in the States, which is of every evil promise. That a drunken Helot should display himself without shame in the market place, speaks sad reproach to the public that does not scourge him back to his cellar.</p> 
+
+         <p>In form these poems, if poems they can be called, are composed in irregular rhythmical lines, after the manner of Tupper, and in fact they may be described by the following equation,—as Tupper is to English Humdrum, so is Walt Whitman to the American Rowdy. They have been praised as containing many poetical passages; in this opinion we cannot concur. That sometimes a poetical expression occurs among a dreary waste of rhetorical verbiage may be allowed, but this might have been expected—a naked savage has often a wild grace of movement that a civilized man can hardly possess, but certainly not display.</p> 
+
+         <p>These "Leaves of Grass" are the symptoms of a moral fermentation in America, which no doubt will result in a broader and clearer life—but the progress is painful and the yeast nauseous.</p>
+
+         <p>This is deserved, and yet there are dirty dogs and dunces who praise W<hi rend="smallcaps">HITMAN</hi>'s indecency, and call him a "masculine poet" because he is an obscure ass.</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">
+                  <ref target=" . . /leaves1860/anc.00050.html">
+                     <hi rend="italic">Westminster Review</hi>
+                  </ref> 74 n.s. 18 (October 1860), 590. </note>
+               <note type="editorial" target="r2" xml:id="n2" n="2">"Man is god to himself"</note>
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

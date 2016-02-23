@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00064">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1867">Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1867)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>W. D. O'C.</orig>
+                  <reg>William Douglas O'Connor</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00064</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="O'Connor, William Douglas">
+                     <choice>
+                        <orig>W. D. O'C.</orig>
+                        <reg>William Douglas O'Connor</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The New York Times</title>
+                  <imprint>
+                     <date when="1866-12-02">2 December 1866</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#ts" when="2005-12-08">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt Whitman. <!-- [Review of Leaves of Grass (1867)] --> </head>
+
+         <p>We publish the following Review of Leaves of Grass by WALT WHITMAN, of which a new edition has just been issued, not because we accept it as a just critical estimate of that book, but because it is written with very marked ability, and embodies the opinions of a very competent and accomplished writer. He regards WALT WHITMAN as distinctively and transcendently the representative Poe of America-as holding to American literature the same relation as HOMER holds to Greek literature, DANTE to Italian, and SHAKESPEARE to English. Without denying the justice of this claim, certainly without questioning the sincerity and earnestness with which it is pressed by critics of eminence and ability, we may certainly be pardoned for saying that the study we have given to these writings, not profound nor complete, we admit, has not disclosed to us the grounds on which it can be vindicated and sustained. We do certainly recognize in some of WHITMAN'S poems, especially in those written since and upon the war, and notably in that noble, almost unrivalled hymn on the funeral procession of LINCOLN, beginning "When lilacs last in the door-yard bloomed," some of the loftiest and most beautifully majestic strains ever sounded by human meditation. Perhaps these may and should give character to the whole, as it is the right of the artist to be judged by his best; but we have not yet come to believe that even these poems, grand as they are, justify the great claims put forth on their author's behalf. Nor can we fail to note that while he sometimes thus soars aloft in the very highest regions of thought and song, WALT WHITMAN often also wallows exultingly in unredeemed and irredeemable indecency and filth. His code of nature and of genius may justify him in thinking and feeling, and perhaps in writing, upon this level, but he has no right to expect that other men and women shall keep him company in so doing. Until the social circle, the dinner table and the fireside are deemed fitting theatres for every topic and for every set for which the sanction of Nature can be invoked, this volume cannot be accepted as fit for the audience which it seeks and claims. With this partial protest, we submit the able and interesting review of our contributor.</p>
+
+
+         <p rend="center">—————</p>
+
+
+         <p>There is a touch of comedy in the fact that, despite the roar of angry criticism which has met its former successive stages and appearances, another and a much fuller growth of this hardy volume has just made its appearance, challenging a notice at our hands, in addition to the two extensive ones given in past years in these columns.</p> 
+
+         <p>It is certain that in this new edition the plan and theory of the author appear more distinctly and to greater advantage than before. The equal certainty of the great merits of the book, whatever its demerits may be, and the nobility of the writer's intentions and object, joined with his well-known career during the war, would seem to require of journalism not only respect, but the more favorable forms of interpretation; and this the writer can give, out of a long and hearty accretion of good-will toward the poem and its author, derived from repeated and deliberate scrutiny of both, extending through several years.</p> 
+
+         <p>The book is, perhaps, the most astounding one of the age. It has much to perplex, much to cause widely different opinions. During its existence of ten years, it has called forth in high quarters vehement denunciation and even disgust; and again, from quarters equally high, defence and advocacy yet more vehement. It has not been left to itself, at any rate, and cannot be. It is widely known at home and abroad. It is read and appreciated in London, in Paris, in Rome, and there is a quiet yet real stratum of attention, and even devotion, to it in American society, which, though it does not often crop out into print, is nevertheless potent.</p> 
+
+         <p>We have not, of course, the slightest wish to defend or excuse in these columns, what may, and from certain points of view, what must appear as serious blots upon the author's performance, as they must upon the works of HOMER, of SHAKESPEARE, of DANTE and JUVENAL;<ref target="n1" xml:id="r1" n="1"/> but we think it would be idle to deny that this is the only book in our literature which aims at a distinctively national character and a high classic importance and performance; and leaving the discussion of blemishes to others, aware that we perceive at least in some measure the reason for them in the work, let ours bet the pleasanter task of offering a few comments in the spirit of appreciative exposition or interpretation, which, after all, is the spirit that best becomes a critic.</p> 
+
+         <p>The book, as just said, has been noticed before in these columns, but its general quality and character and the lodgment it has achieved, make fresh mention always proper; and moreover, the new arrangement and revision of this (the fourth) edition, and the copious additions of new verse, most of which relates to the war, give to it something of the character of an original publication.</p> 
+
+         <p>This, we hear the reader exclaim, is rank Materialism; and, using the word in its big sense, Materialism it doubtless is. We shall observe, further on, in what consists the peculiar value of the present manifestation. In the meantime, we must continue our survey of the work.</p> 
+
+         <p>Evidences of a wide and multifarious learning, rather concealed than displayed, and oftenest dissolved into the intelligence; of a long and intimate experience of life and men, and a patient and loving study of things; and of a purpose, deep as existence and as earnest and fervent as ever inspired man, are what one sees readily upon first glancing over the volume. Add, as among the special gifts of the author, a singularly vivid and creative imagination, a quality of mind which perceives with sublest insight things in their simple verity, without coloring or exaggeration, a skill to command the higher harmonies of verse, and a mastery, truly wonderful, of all the resources of language.</p> 
+
+         <p>The author is the third of note who appears as the central and paramount figure of his own creation. The first is DANTE. But throughout the scenery, terrific or celestial, of the Divina Comedia, the great Tuscan moves only pictorially or as an object. The second is MONTAIGNE.<ref target="n2" xml:id="r2" n="2"/> Here the presentation is not only of the corporeal appearance but of the mental being also, and the short, able-bodied old Gascon sits for us in his study, as STERLING has pictured him, conveyed to our perception by a series of sharp and daring strokes, and also merges at times into our consciousness, becoming our intellectual selves. In WALT WHITMAN'S treatment, with his Democratic philosophy of Egoism, there are points of analogy to MONTAIGNE'S, but the conception and presentation are for more relieved and vivid, besides being inclusive to a degree unprecedented in literature. In the art or plan of his book, like the others, he makes the central figure, but he appears not only physiognomically, but psychologically and physiologically. There is, perhaps, in poetry, no equal celebration of the human being in his completeness-in his organic character-every part necessary to every other and to the whole,—a mutuality of means and ends. Spiritually, mentally, corporeally, a complete form, he glows, glorified in all his nature, upon the student of the volume. The reader seems to himself to be in company with some tremendous living man. There is an immense sense of space in the book. There is an equally immense spread of salient and world-wide scenery, and a sustained impression of time, as from birth to age and death. There is also a world of event, circumstance, vicissitude, the superb shows of peace, the tragic sceneries of war, and a swarm of personal hopes, dreams, observations, memories, speculations, prophecies, in which the highest themes are involved. But, through all the dazzling interradiation of sights and sounds, the pageant cosmorama of the nights and days, the gorgeous profusion of picturings, the swift and flashing cascading of thoughts, fancies, imaginations, images, poured forth with all the lavish richness of genius, the main figure of the organic man, complete, full-blooded, ample of body and soul, haughty, affectionate, electrical, powerfully projected in living form to the senses of the imagination, moves steadily with vivid prominence from beginning to end. The divine, the diabolic, the human, which are in all of us, are in him. The whole conception is in the highest spirit of that scientific verity which makes great poems. Its objects, as presented, are obvious. It aims to fix, in living art, an example, a model of manly being, operant upon the imaginations of men, for the use of the future of America, while, at the same time, it presents to the world, in one bold figure, the interpretation of the average historical American. Beyond this, it becomes a representative embodiment of the whole human nature, and seeks to express the cosmical character of the individual-yourself; the absolute miracle you are in all your parts from top to toe; your absolute sanctity; your wondrousness, eternity, priceless value; your centrality in the universe; all things, good and evil alike, being from your suppliance, your benefit, your development-in one word, the basic idea of Democracy.</p> 
+
+         <p>This magnificent projection of the male also includes the female. And though it may be said that all the great works of absolute genius from VYASA<ref target="n3" xml:id="r3" n="3"/> and HOMER down, infer-as genius, which is another name for insight, must-the equality of woman with man, it is certain, and capable of the strictest demonstration, that never before has that equality been asserted in poetry till this volume, nor has woman ever met with a treatment so broadly and distinctly honorable. No more a toy, an invalid, a child, a fashion-plate, an odalisque, a gentle dependent, a delicate and charming subordinate, a caressed and courted being, without a flag or a land, she appears here adult; full grown; strong in her own right; powerful in womanly charms; manly and the equal of man; cultured, athletic and noble; crowned with the civic dignity; an American; a citizen; consubstantial with the pride, the ambition, the love and glory of her country. Wherever she appears in the book, she appears augustly. She is the matrix of all. As she is, so man is:</p> 
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00246" cert="absolute"/>
+                        <!--Unfolded Out of the Folds, lines 1-2-->
+
+                        <!-- Since no photocopy of the original review was available and it is not clear whether line breaks indicated in the electronic transcription are arbitrary or part of the original review, no attempt has been made to encode line segmentation for any of the quotes in this review. -->
+
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Unfolded out of the folds of the woman man comes unfolded, and is always to come unfolded;</l>
+                        <l>Unfolded only out of the superbest woman of the earth is to come the superbest man of the earth<choice><sic>.</sic><corr>;</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p rend="center">******</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00246" cert="absolute"/>
+                        <!--Unfolded Out of the Folds, lines 9-11-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Unfolded out of the justice of the woman, all justice is unfolded;</l>
+                        <l>Unfolded out of the sympathy of the woman is all sympathy<choice><sic>;</sic><corr>:</corr></choice>
+                        </l>
+                        <l>A man is a great thing upon the earth, and through <choice><sic>all</sic><corr></corr></choice> eternity—but every jot of the greatness of man is unfolded out of woman.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The same large justification of woman appears in this rich and tender Homeric picture:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00271" cert="absolute"/>
+                        <!--from Faces, 5-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Behold a woman<choice><sic>.</sic><corr>!</corr></choice>
+                        </l>
+                        <l>She looks out from her <choice><sic>Quaker</sic><corr>quaker</corr></choice> cap—her face is clearer and more beautiful than the sky.</l>
+                     </lg>
+   
+                     <lg type="linegroup">  
+                        <l>She sits in an arm-chair, under the shaded porch of the farm-house;</l>  
+                        <l>The sun just shines on her old white head.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Her ample gown is of cream-hued linen;</l>
+                        <l>Her grandsons raised the flax, and her grand-daughters spun it with the distaff and the wheel.</l>
+                     </lg>
+ 
+                     <lg type="linegroup">    
+                        <l>The melodious character of the earth,</l>
+                        <l>The finish beyond which philosophy cannot go, and does not wish to go,</l>
+                        <l>The justified mother of men!</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>What ideal of womanly character in literature reaches the sublime and severe height of this?</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!--from Song of the Broad-Axe, 11-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Her shape arises<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>She, less guarded than ever, yet more guarded than ever;</l>   
+                        <l>The gross and <choice><sic>soiled</sic><corr>soil'd</corr></choice> she moves among do not make her gross and soil<choice><sic>e</sic><corr>'</corr></choice>d;</l>
+                        <l>She knows the thoughts as she passes<choice><sic>,</sic><corr>—</corr></choice>nothing is concealed from her;</l>   
+                        <l>She is none the less considerate <choice><sic>and</sic><corr>or</corr></choice> friendly therefor;</l>
+                        <l>She is the best<choice><sic> </sic><corr>-</corr></choice>beloved—it is without exception—she has no reason to fear, and she does not fear;</l>   
+                        <l>Oaths, quarrels, hiccupp'd songs, smutty expressions, are idle to her as she passes;</l>   
+                        <l>She is silent—she is possess'd of herself—they do not offend her;</l>
+                        <l>She receives them as the laws of nature receive them—she is strong;</l>    
+                        <l>She too is a law of nature—there is no law stronger than she is.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+    
+         <p>The assertion of the august power and equality of the woman with the man is also involved in the grand statement, full of the spirit of America, which projects the ideal city:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00116" cert="absolute"/>
+                        <!--from Song of the Broad-Axe, 5-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Where the city stands with the brawniest breed of orators and bards;</l>
+                        <l>Where the city stands that is beloved by these, and loves them in return, and understands them;</l>
+                        <l>Where no monuments exist to heroes, but in the common words and deeds;</l> 
+                        <l>Where thrift is in its place, and prudence is in its place;</l>
+                        <l>Where the men and women think lightly of the laws;</l>
+                        <l>Where the slave ceases and the master of slaves ceases;</l>
+                        <l>Where the populace rise at once against the never-ending audacity of elected persons;</l>
+                        <l>Where fierce men and women pour forth, as the sea to the whistle of death pours it sweeping and unript waves;</l>  
+                        <l>Where outside authority enters always after the pre cedence of inside authority;</l>
+                        <l>Where the citizen is always the head and ideal—and President, Mayor, Governor, and what not, are agents for pay;</l>   
+                        <l>Where children are taught to be laws to themselves, and to depend on themselves;</l>
+                        <l>Where equanimity is illustrated in affairs;</l>
+                        <l>Where speculations on the soul are encouraged;</l>
+                        <l>Where women walk in public processions in the streets the same as the men;</l> 
+                        <l>Where they enter the public assembly and take places the same as the men;</l> 
+                        <l>Where the city of the <choice><sic>faithfullest</sic><corr>faithfulest</corr></choice> friends stands;</l>
+                        <l>Where the city of the cleanliness of the sexes stands;</l>
+                        <l>Where the city of the healthiest fathers stands<choice><sic> </sic><corr>;</corr></choice>
+                        </l>
+                        <l>Where the city of the best-bodied mothers stands;</l>
+                        <l>There the grand city stands.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The citation of these lines suggests what must strike every candid reader of the volume—the absolute correspondence the latter bears in the form, substance and atmosphere with this country. The vast and often terrific energy, the electrifying or silent power, as of the thunder or the ray; the novel and colossal beauty which at every step startles and awes the appreciative student of these pages, are only signs and expressions of the close historic relation the book holds to the present of America. " In history," says Emerson, in one of his grandest passages, "the great moment is when the savage is just ceasing to be a savage, with all his hairy pelasgic strength directed on the opening sense of beauty; and you have Pericles<ref target="n4" xml:id="r4" n="4"/> and Phidias,<ref target="n5" xml:id="r5" n="5"/> not yet passed over into the Corinthian civility. Everything good in nature and the world is in that moment of transition, when the swarthy juices still flow plentifully from nature, but their astringency or acidity is got out by ethics and humanity." America, with her aboriginal forest just dissolving and mingled with the gorgeous shows of empire, evidences the arrival of this moment, and WALT WHITMAN is its expression in literature.</p> 
+
+         <p>It is a prime characteristic of vast poems that their structure and quality involve the whole account of their respective countries. They contain all.</p>
+
+         <p>Give OWEN<ref target="n6" xml:id="r6" n="6"/> but one bone, and he will rebuild the vanished pterodactylus or the mastodon. Destroy every record, every fragment, and with Juvenal in his hand, NIEBUHR<ref target="n7" xml:id="r7" n="7"/> or BECKER will restore Rome. HOMER and ESCHYLUS<ref target="n8" xml:id="r8" n="8"/> incorporate Greece. HAFTZ is the soul of Persia. Under the vast banyan of Vyasa—under the enormous fronds of the Makabharata—spreads in gorgeous profusion of fact and dream, the life of India. LUCRETIUS<ref target="n9" xml:id="r9" n="9"/> contains antique Italy. SHAKESPEARE holds in precipitation England and Europe. CERVANTES includes Spain. All France is in RABELAIS. All Italy is in DANTE. In like manner, and with equal obviousness, WALT WHITMAN is a condensed encyclopedia of America. The universe, shadowed forth in his poems, is the background from which juts the tremen-alto-relievo of his country. If America sank tomorrow, and nothing survived on the float but this volume, the historian could tell the ages from its leaves, what was the nature and quality, the forms and shows, the essential verities of our democratic civilization.</p>
+
+         <p>This may not be perceived at first, though the fact is really a very plain one. Indeed, Mr. WHITMAN'S book may not be understood at all for a long time. Nature and Art alike often seem chaotic and incomprehensible, must receive patient consideration before they render up their meanings, and wait for ages for their interpretors. The physical cosmos cooled its heels a good while before HUMBOLDT arrived. It took two hundred years to understand SHAKESPEARE, whom the Germans finally excavated, making England a present of her own poet. No wonder if a similar fate is in store for the American man who has done what no one else thought worth doing, namely, celebrated his own country. But that he has done so, and that his book contains the whole theory of this nation, and has Democracy for its central thought, as Europe for her literature has Feudality, and proceeds solely, though with deference to the past, and to other civilizations, from the American historic movement, and faithfully and adequately mirrors the full life and vicissitude of this land and time, no candid and intelligent student of the work can fail to perceive. It is not the poem of a section or a locality, but of the whole Union. Texas, Louisiana, Arkansas, Wisconsin, Illinois, California, are in it the same as New-York or New-England. It is good for any of our latitudes, implies them all, might have been written in any, only could not have been written abroad, and is the only one of our books which dislinks utterly from the principle, spirit and life of "enemies' lands." The lingering attachment of our seaboard to Europe is not in it. It breathes throughout the Western independence. In it appears for the first time in literature, that new fact, a regnant people—the Americans, turbulent, generous, sovereign; their genius never expressed by their deputies, but always by themselves; the pulse of their life and rule not in any external influence or circumstance, but in their own developed love and pride. Its thought is everywhere the thought of Democracy—the doctrine that everything is for the individual—the theory that the office of society, government, the universe itself, is to produce great persons. All that DE TOCQUEVILLE attempted, with great success and partial failure, in analysis of American Democracy, WALT WHITMAN has triumphantly cast in poetic synthesis, sometimes in electric sentences of affirmation, sometimes in expressive dramatic or verbal pictures. No book we have could so possess a foreigner with a profound knowledge of this country and people, and the democratic passion which animates the whole. DE TOCQUEVILLE is a good spy-glass; but he who dwells resolutely in the atmosphere of Leaves of Grass, and masters its massive and subtle sense, will know America not from without like an observer, but from within like a citizen.</p>
+
+         <p>The thorough Americanism of the poem, permeating every part of it, appears as well in its literary form or rhythmus. This, not being capable of scansion by the laws of prosodies of antique Greece and Rome and modern Europe—prosodies which ESCHYLUS, LUCRETIUS, DANTE and SHAKESPEARE accept only to violate whenever they choose—has been pronounced unpoetical by reviewers who forget that poetry is a quality of thought mainly, and not a form of expression merely—that poetry may even be in prose; and whose theory of poetical expression, logically carried out, would shove OSSIAN<ref target="n10" xml:id="r10" n="10"/> and HORACE, EZEKIEL and ISAIAH, and Davidic Psalms and the Song of SOLOMON, into the dust-bin of failures.</p>
+
+         <p>A catholic critic has to remember Lord BACON'S maxim, that "in poetry, however some may tie themselves to the ancient forms, it is as lawful to devise new measures as new dances, and in these things the sense is a better judge than the art." Opposed, too, to these gentlemen, we had not long ago an eminent English critic and Orientalist complimenting Mr. WHITMAN on the delicacy of his musical ear, and the melodiousness and beauty of his versification. The same critic assorted the similarity of the latter with that of the masterpieces of Persian poetry. The similarity is certainly apparent, as it also is to the poetic diction of the Hebraic muse, yet in both cases it is more apparent than real. The truth is, that the rhythmus of Leaves of Grass, with its occasional ruggedness, its often wild-bird melody, its always eolian and oceanic cadences, its novelty, flowing liquidity, audacity, simplicity, flexibility and liberty, is not merely an admirable and profoundly artistic form for the conveyance of epical intellections, whose glad and vast sublimity and rough grandeur would be illy expressed by the tintinnabluating minuets of Tennysonian metres, but is also a form corresponsive in all its qualities with the tumultuous, composite and gigantic life and movement of America. Apart from this, it is a rhythmus whose tally in nature is in the forms of trees or hills, the sweep and subsidence of billows, the cadences of winds, in which there is no regularity, but perfect harmony. In art, its analogy is in the complex and daring music of grand operas and symphonies-so unintelligible and unpleasing to persons whose ear is trained only to mere melody or tune. But the artist will own that the last secret of musical expression is realized in the "Word Out of the Sea," or in the unexcelled strains, sombre and wild and tender, and stirring the soul like a harmony of BEETHOVEN'S, in the grand dirge of LINCOLN, "When Lilacs last in the Dooryard Bloomed," in the sound as in the sense of which all requiems and hossanahs seem to blend.</p>
+
+         <p>How truly this sensitive and colossal poet has absorbed the spirit of this country, appears strikingly in the poems evoked by the war. The same august theory of democracy makes their inspiration, and solitary among all poems, singing of war, they conform to the spirit of the modern ages and to the genius of this land. The once permanent fact of civilization, the warrior, is not in them; instead appears the modern fact, the armed citizen. They celebrate no general, no leader, no master-brain, marshaling obedient hosts to conflict, for such Democracy has not seen and cannot see; they celebrate instead the immense truth—a people rising as one man at the tap of the war-drum to fight for the idea of their land, and victory torn from the tremendous struggle simply and solely by the public spirit, the valor and endurance of the rank and file. And finally, they are greatest precisely where they have disappointed most and been most criticized—viz., in their presentation of the war only in its tragic and ghastly aspects, or in those which develop the beautiful relations of patriotism and comradeship, or the spectacles of human love and sorrow; and also in their utter abstinence from any vindictiveness during the struggle, any note of exultation over the vanquished, or any feeling incompatible with the theory on which this country rests—the permanent love and union of the whole people. The poet's view in these respects must be considered noble and profound; for war in the nineteenth century, always to be promptly undertaken for the good cause, must always be undertaken mournfully, and, as war, must always be regarded with sorrow; and those with whom we lately fought, however misguided, however bedeviled, were still our countrymen. The poet never forgets it. Utterly true to liberty and democracy, his is also true to country and humanity; and in the battle, the hospital, amidst the carnage, in scenes of loss and agony and horror, among the torn bodies of the dying and the dead, his spirit moves with the divine yearnings of maternity—the Madonna tenderness, the mother's unutterable love and woe. Not what he, as the typical poet, brings America in the supreme hour of her triumph, when she stands, as he conceives her, stupendous and lovely in victory, and all the other poets are exulting:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00211" cert="absolute"/>
+                        <!--Lo, Victress on the Peaks, quoted in full-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Lo! Victress on the peaks!</l>
+                        <l>Where thou standest, with mighty brow, regarding the world,</l>
+                        <l>(The world, O Libertad, that vainly conspired against thee;)</l>
+                        <l>Out of its countless, beleaguering toils, after thwarting them all;</l> 
+                        <l>Where thou, dominant, with the dazzling sun around thee,</l>
+                        <l>Towerest now unharm'd, in immortal soundness and bloom—lo! in this hour supreme,</l>
+                        <l>No poem proud, I, chanting, bring to thee—nor mastery's rapturous verse;</l>
+                        <l>But a little book, containing night's darkness, and blood-dripping wounds,</l>  
+                        <l>And psalms of the dead.</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The picturesque side of the war gets full justice, as in pieces like "Cavalry Crossing a Ford," full of the very essence that makes HOMER immortal:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00182" cert="absolute"/>
+                        <!--Cavalry Crossing a Ford, quoted in full-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>A line in long array, where they wind betwixt green islands;</l>
+                        <l>They take a serpentine course—their arms flash in the sun—Hark to the musical clank;</l>
+                        <l>Behold the silvery river—in it the splashing horses, loitering, stop to drink;</l>
+                        <l>Behold the brown-faced men—each group, each person, a picture—the negligent rest on the saddles;</l>
+                        <l>Some emerge on the opposite bank—others are just entering the ford;</l>
+                        <l>The guidon flags flutter gaily in the wind.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+ 
+         <p>Here every idiosyncrasy of the scene is caught, and makes the vividness and truth of the picture. So in pieces like "The Veteran's Vision," with its exciting glimpses of the engagement. But such scenes, and all that might tend to render the conflict attractive, are retired or veiled, as they should be, and the purely human element, utterly opposed to the devilish joy of battle, is kept in supremacy. Sometimes, as in "By the Bivouac's Fitful Flame," the thought moves to noble music in a soldier's reverie of home and the past and loved; sometimes, as in "The Dresser," the appalling scenery of the hospital opens; sometimes, as in the exquisite, sad idyl, "Come up from the Fields, Father," the commonest and keenest sorrow of the land finds voice; or we have some divine picture of the dead in camp or on the battle field; or the grand continental Western chant of progress and glory, "Pioneers, O Pioneers!"—or the rapt prophecy of the victory of the flag of man over the flag of kings; or a requiem, too noble for words, too beautiful for praise, like the "Hymn for Dead Soldiers:</p>
+
+         <p rend="center">******</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00293" cert="high"/>
+                        <!-- Noticed a reference in the work id's to an Ashes of Soldiers "Cluster"  Not sure if the following quote is part of that.  The number used above if for the poem "Ashes of Soldiers"; not the cluster.  The actual title from this section in the 1867 Leaves is "Hymn of Dead Soldiers." -->
+                        <!--from Ashes of Soldiers-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Faces so pale, with wondrous eyes, very dear, gather closer yet;</l>  
+                        <l>Draw close, but speak not.</l> 
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Phantoms welcome, divine and tender,</l>
+                        <l>Invisible to the rest, henceforth become my companions;</l>  
+                        <l>Follow me ever! desert me not, while I live.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Sweet are the blooming cheeks of the living! sweet are the musical voices <choice><sic>surrounding</sic><corr>sounding</corr></choice>!</l>
+                        <l>But sweet, ah sweet, are the dead, with their silent eyes.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Dearest comrades! all now is over;</l>
+                        <l>But love is not over—and what love, O comrades!</l>
+                        <l>Perfume from battle-fields rising—up from foetor arising.</l>
+                     </lg>
+     
+                     <lg type="linegroup">
+                        <l>Perfume<choice><sic>,</sic><corr></corr></choice> therefore<choice><sic>,</sic><corr></corr></choice> my chant, O Love! immortal Love!</l>
+                        <l>Give me to bathe the memories of all dead soldiers.</l>
+                     </lg>
+ 
+                     <lg type="linegroup">
+                        <l>Perfume all! make all wholesome!</l>
+                        <l>O love! O chant! solve all with the last chemistry.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Give me exhaustless—make me a fountain,</l>
+                        <l>That I exhale love from me wherever I go,</l>
+                        <l>For the sake of all dead soldiers.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The whole should be quoted. No elegy could be more exquisite. It is the very rapture of mournful and abiding love, and it is love consecrate of the people, so little remembered in the affection of poets. Yet the same cloud from which shines these tender moonlight rays, can let fly the rattling bursts of thunder which reverberate through such songs as that the poet sings "By Blue Ontario's Shore"—a poem whose interpretation of America is fitly matched by the majesty and passion of its diction. Look at this tremendous tableau of Libertad with Slavery beneath her:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!--By Blue Ontario's Shore, 7, quoted in full-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic></sic><corr>(</corr></choice>Lo! high<choice><sic>-</sic><corr> </corr></choice>toward <choice><sic>H</sic><corr>h</corr></choice>eaven, this day,</l>
+                        <l>Libertad! from the conqueress' field <choice><sic>returned</sic><corr>return'd</corr></choice>,</l>
+                        <l>I mark the new aureol<choice><sic>s</sic><corr>a</corr></choice> around your head;</l>
+                        <l>No more of soft astral, but dazzling and fierce,</l>
+                        <l>With war's <choice><sic>flame</sic><corr>flames</corr></choice>, and the lambent lightnings playing</l>
+                        <l>And your port immovable where you stand</l>
+                        <l>With still the inextinguishable glance, and the clench'd and lifted fist</l>
+                        <l>And your foot on the neck of the menacing one, the scorner, utterly crush'd beneath you;</l> 
+                        <l>The menacing, arrogant one, that strode and advanced with his senseless scorn, bearing the murderous knife;</l> 
+                        <l>Lo! The wide-swelling one, the braggart, that would yesterday do so much!</l>
+                        <l>To-day a carrion dead and damn'd, the despised of all the earth,</l>
+                        <l>An offal rank, to the dunghill maggots <choice><sic>spurned</sic><corr>spurn'd</corr></choice>.<choice><sic></sic><corr>)</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Not less powerful and grand is this annunciation of the mission of poets:</p>
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00221" cert="absolute"/>
+                        <!--By Blue Ontario's Shore, end of 10, 11 in full-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>For the great Idea, the idea of perfect and free individuals<choice><sic>;</sic><corr>,</corr></choice>
+                        </l>
+                        <l>For that idea<choice><sic></sic><corr>,</corr></choice> the bard walks in advance, leader of leaders,</l>
+                        <l>The attitude of him cheers up slaves<choice><sic></sic><corr>,</corr></choice> and horrifies foreign despots.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Without extinction is Liberty! Without retrograde is Equality!</l>
+                        <l>They live in the feelings of young men, and the best women;</l> 
+                        <l>Not for nothing have the indomitable heads of the earth been always ready to fall for Liberty.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>For the great Idea!</l>
+                        <l>For that we live, my brethren—that is the mission of Poets.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>With their poems of stern defiance, ever ready,</l>
+                        <l>With songs of the rapid arming and the march,</l>
+                        <l>And the flag of peace quick folded, and the song, instead, of the flag we know,</l>
+                        <l>The flag of the youths and veterans—flaunting flag,</l>
+                        <l>Warlike flag of the great Idea!</l> 
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic></sic><corr>(</corr></choice>Angry cloth I saw there leaping!</l>
+                        <l>I stand again in the leaden rain, your flapping folds saluting;</l>
+                        <l>I sing you over all, flying, beckoning through the fight—O, the hard-contested fight!</l>
+                        <l>O, the cannons ope their <choice><sic>rosy-slashing</sic><corr>rosy-flashing</corr></choice> muzzles! the hurtled balls scream!</l>
+                        <l>The battle-front forms amid the smoke—the volleys pour incessant from the line;</l>
+                        <l>Hark! the ringing word, Charge! Now the tussle, and the furious, maddening yells,</l>
+                        <l>Now the corpses tumble <choice><sic>curled</sic><corr>curl'd</corr></choice> upon the ground,</l>
+                        <l>Cold, cold in death, for precious life of you,</l>
+                        <l>Angry cloth I saw there leaping<choice><sic>! </sic><corr>.)</corr></choice>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>It is the flag of the great idea—it is the Stars and Stripes—which commands and owns all. The wonder is to see a patriotism so fervid and absolute united with such a breadth of universal and purely human sympathies. Patriotism is commonly pitiless; yet mark the heavenly compassion and acceptance of the poet's attitude over the dead enemy in the poem spanned by the word "Reconciliation."</p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00206" cert="absolute"/>
+                        <!--Reconciliation, quoted in full-->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Word over all, beautiful as the sky!</l>
+                        <l>Beautiful that war, and all its deeds of carnage, must in time be utterly lost;</l>     
+                        <l>That the hands of the sisters Death and Might, incessantly softly wash again, and ever again, this soil'd world.</l>
+                     </lg>
+                     <!-- A stanza break not in the original Whitman is indicated here in the transcript.  Not sure how to proceed.  If there is a need to record the discrepancy, would need a photocopy of the review to check, and information about how to encode if the discrepancy is part of the actual review and not just a transcription error. -->
+                     <lg type="linegroup">
+                        <l>
+                           <choice><sic></sic><corr>…</corr></choice>For my enemy is dead—a man divine as myself is dead;</l>
+                        <l>I look where he lies, white-faced and still in the coffin—I draw near;</l>    
+                        <l>I bend down and touch lightly with my lips the white face in the coffin.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>These are the strains to have produced which sweetens and ennobles victory. The thought of the comradeship of Americans is never absent from the poet's pages. Upon that he relies for the perpetuation of the Union. With love he will make the continent indissoluble. While others foster institutions with jealous care, he will make "the institution of the dear love of comrades." He proposes and predicts as the vital bond of America "a superb friendship, exalte, previously unknown." His dream is of a land of lovers and of friends. His statecraft is to saturate the imagination of the people with the thought of continental comradeship. Paper agreements, the lawyers, the puissance of arms, he sees cannot hold us together; only love. To inspire his countrymen with this is a central purpose of his volume. In this he believes, and even in the mad roar of civil slaughter his prophetic soul rises in magnificent and flowing music:</p>
+
+
+         <q who="Walt Whitman">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00197" cert="absolute"/>
+                        <!--Over the Carnage Rose Prophetic a Voice, lines 1-7-->
+                        <!-- Since no photocopy of the original review was available, I am not recording any <seg> tags; not sure if the transcript on the Whitman Archive follows the original. -->
+                     </relations>
+                     <lg type="linegroup">
+                        <l>Over the carnage rose prophetic a voice,</l>
+                        <l>Be not disheartened—affection shall solve the problems of freedom yet;</l>
+                        <l>Those who love each other shall become invincible—they shall yet make Columbia victorious.
+     </l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>Sons of the Mother of All! you shall yet be victorious!</l>
+                        <l>You shall yet laugh to scorn the attacks of the remainder of the earth.</l> 
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>No danger shall baulk Columbia's lovers;</l>
+                        <l>If need be, a thousand shall sternly immolate themselves for one.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>One from Massachusetts shall be a Missourian's comrade;</l>    
+                        <l>From Maine and from hot Carolina, and another, an Organese, shall be friends triune.</l>
+                        <l>More precious to each other than all the riches of the earth.</l> 
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>To Michigan Florida perfumes shall tenderly come;</l>
+                        <l>Not the perfumes of flowers, but sweeter, and wafted beyond death!</l> 
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>It shall be customary in the houses and streets to see manly affection;</l>
+                        <l>The most dauntless and rude shall touch face to face lightly;</l>
+                        <l>The dependence of Liberty shall be lovers,</l>
+                        <l>The continuance of Equality shall be comrades.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+                        <l>These shall tie you and band you stronger than hoops of iron;</l>
+                        <l>I, ecstatic, O partners! O lands! With the love of lovers tie you!</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>The German scholar, HEEBEN, finds in the Iliad of HOMER the bond that held together the States of Ancient Hellas. He is right, for the great poet alone is strong to give cohesion to a nation. Not substances, but phantoms lord it over us. Poland, dismembered by Europe, her every material interest involved in the Panslavic theory, which would bind her to Russia, resists resolutely, because, evoked from the heart of every Pole, towers one spectre, mournful and radiant, the august conception of nationality. Such are the ghosts that we own as sovereign. Arguments of adamant, logic of iron, defend and attack the doctrine of secession; and the mere intellect might wage the war forever. Behold! the light of a poetic thought is flung upon this square of bunting—it is a cloth no longer, but a flag; and in defence of it, Northerner and Southerner will vie with each other which shall die nearest the foe! Out of all things, the bard evokes the insubstantial phantom of a common country, clothed with the glory and beauty of motherhood, and the pulses of strong men tremble with instinctive devotion, and the famed doctrine of secession become a strengthless film! "Man," said NAPOLEON, "is ruled by his imagination." It is true, and let it be so in no degrading sense, for it is through the imagination that high truths are perceived. The conception of country is one of them. It must remain an enduring part of the glory of our poet, that, as in such superb and powerful lines as we have quoted, he has bent all the force of his genius to strengthen this conception; to reinforce the great doctrines of the Republic, in all their sternness and tenderness; to make every alien or hostile face in the likeness of the ideal America; and that he has striven by sowing broadcast the strong thoughts and imaginings which spring up again in the forms of countrymen and lovers, to give to the States of America the cohesion and union HOMER gave to the States of the Hellenic confederacy.</p>
+
+         <closer>
+            <signed>W.D.O'C.</signed>
+         </closer>
+
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Juvenal (full name Decimus Junius Juvenalis) was a Roman satiric poet.
+</note>
+               <note type="editorial" xml:id="n2" target="r2" n="2">
+Michel de Montaigne (1533-1592) wrote <hi rend="italic">Essais</hi> and thereby popularized the essay as a literary form. 
+</note> 
+               <note type="editorial" xml:id="n3" target="r3" n="3">
+The Indian sage Vyasa also called  Krishna Dvaipayana or Vedavyasa  (circa 1500 BC?) is thought to have written the <hi rend="italic">Mahabharata</hi>, a collection of legendary and didactic poetry.
+</note>
+               <note type="editorial" xml:id="n4" target="r4" n="4">
+The statesman Pericles (c. 495-429 BC) advanced both Athenian democracy and the Athenian empire, ushering in the city's Golden Age.
+</note>
+               <note type="editorial" xml:id="n5" target="r5" n="5">
+Phidias (c. 490-430 BC) a great Classical sculptor, directed the artistic construction of the Parthenon.
+</note>
+               <note type="editorial" xml:id="n6" target="r6" n="6">
+Sir Richard Owen (1804-1892) a British anatomist and paleontologist, contributed to the study of fossil animals, especially dinosaurs.
+</note>
+               <note type="editorial" xml:id="n7" target="r7" n="7">
+Barthold Georg Niebuhr (1776-1831) was a German historian whose <hi rend="italic">Römische Geschichte</hi> (History of Rome) (1811-32) was extremely influential for later historical works.
+</note>  
+               <note type="editorial" xml:id="n8" target="r8" n="8">
+The Athenian classical dramatist Aeschylus (c.525-456 BC) is often regarded as the father of tragedy.
+</note> 
+               <note type="editorial" xml:id="n9" target="r9" n="9">
+Titus Lucretius Carus (flourished 1st century BC) was a Latin poet and philosopher best known for his epic philosophical poem <hi rend="italic">De rerum natura</hi> (<hi rend="italic">On the Nature of Things</hi>).
+</note>
+               <note type="editorial" xml:id="n10" target="r10" n="10">
+                  <hi rend="italic">The Works of Ossian</hi> is an influential cycle of poems translated and published by James Macpherson in 1765.  Macpherson's claim that the poetry was of ancient Scots Gaelic origin resulted in a long running controversy over its authenticity.
+</note>  
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

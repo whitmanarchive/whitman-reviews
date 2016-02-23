@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00233">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1856">[Review of <hi rend="italic">Leaves of Grass</hi> (1856)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00233</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Harvard Magazine</title>
+                  <imprint>
+                     <date when="1857-01-03">3 January 1857</date>
+                     <biblScope type="volume">3</biblScope>
+                     <biblScope type="pages">40-1</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-08-10">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+            <ab>
+               
+                   
+                     <hi rend="italic">Leaves of Grass</hi>. Second edition 
+                   
+                      Brooklyn, N. Y.  
+                      1856.  
+                      16mo.  
+                      pp. 384. 
+                   
+               
+            </ab>
+         
+
+         <p>T<hi rend="smallcaps">HERE</hi> is something wholesome, fresh, invigorating, in this book, and we like it.  Now that almost every one has passed his gibe on it,—that the same sapient critics have called its author idiot, sensualist, madman,—that the outraged Cautious Elderly maiden of cerulean stock has held up her finger and cried, &#x93;O fie!&#x94;—we acknowledge our partiality very diffidently.  Yet we left our &#x93;good clothes&#x94; in town, and we will roll in the jolly, long Timothy, in spite of the crabbed farmer who just holloed, &#x93;Come out of that grass!&#x94;  It is good, because it is a true thing; freely sprouting right and left, not closely mowed like most of the very proper lawn plots that meet with approval.  It is good because it shows that the American mind does not become callous, with all its closeness of attention to, and skill in, type-cases, jack-planes, and sledge-hammers; that the vigor and life of the &#x93;roughs&#x94; who fight our battles, break in our wild country, yell around the ballot-box, and cheer or hiss as they please, is by no means dead.  It is good because it reminds us that education is only an instrument, after all, often overvalued,—a fact liberally educated men practically forget in their contemptuous reception of any native outbursts of genius.  Not to sneer at education at all, it is wholesome to have the &#x93;mortar-board&#x94; knocked over the collegiate eyes occasionally.  Somebody says Walt Whitman is a gesticulating satyr, and don&#x92;t see anything here but rank witch-grass, fit for the furnace.  The book is of &#x93;healthy&#x94; tone and expression sometimes, but where is the harm?  Is it squeamishness or something worse that, in our day, kicks our plain-spoken friend out doors, and has not a word against smooth-spoken vice in broadcloth, which does n&#x92;t shock us with plain words?  Influence is of no account; but a few objectionable phrases ought to burn a book.  Strip off the rag!</p>
+
+      </body>
+   </text>
+</TEI>

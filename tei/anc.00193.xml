@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00193">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="poems">Walt Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Poems by Walt Whitman</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00193</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The London Review and Weekly Journal of Politics, Society, Literature and Art</title>
+                  <imprint>
+                     <date when="1868-03-21">21 March 1868</date>
+                     <biblScope type="pages">288-9</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-25">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">WALT WHITMAN.<hi rend="superscript"><ref>*</ref></hi>
+            <!--  [Review of Poems by Walt Whitman] -->
+         </head>
+
+         <p>T<hi rend="smallcaps">HIS</hi> edition of Walt Whitman's poems has been specially prepared for the British public, is weeded of those pieces the occasional phraseology of which was found, in former instances, to shock many people, and contains specimens of every thing that is characteristic in the American poet's writings. Of pruned editions we have, generally speaking, an abhorrence; but in this case several chance expressions which Walt Whitman permitted himself were so very rude that his poems, as a whole, were deprived of that fair judgment which by rights belongs to every artistic work. Now we are far from considering Walt Whitman the merely blatant egotist which many English critics would have him to be; and we are glad that an opportunity presents itself to the ordinary English reader of estimating for himself the value of a writer who is almost new to us. Nor should we be surprised if the publication of this volume procure for its author a complete reversal of that vague opinion of him—founded almost entirely on hearsay—which has hitherto been current in this country. Walt Whitman is not an inflated Tupper. He is nebulous, mystical, sometimes incoherent, often laboriously "distinct" without being "clear"—according to Leibnitz's fine definition—but at no time does he fail to impress his reader with the sense that here is a man of power, a man capable of producing a definite impression on the mind. This is a result which never accrues from commonplace. Walt Whitman is, indeed, the Turner of poets.<ref target="n2" n="1" xml:id="r2"/> Sometimes you find a mere blurred mass of colour; then a piece of apparent commonplace; and then a picture which overawes the beholder. You may come to these studies with any mood of mind, and find it gratified. They will afford material for jokes; they will offer proof of the author's entire ignorance of or contempt for system and precedent; they will justify the wildest praise and the bitterest abuse. These are possibilities one does not find in commonplace; whatever the work is, it cannot be that. We have more than once seen the rather curious objection preferred against Walt Whitman, that the impression he produced on his admirers is simply owing to his talking largely and being incomprehensible. That, however, is a form of literature which so many modern writers have made us familiar, that every reader can at once deny the fact of any impression being produced by such easy authorship beyond that of insufferable weariness. The ordinary graces of poetry are not to be found in these poems. They are, as we have said, without system or precedent; the utterances of a man with an amazing belief, not in himself as an individual, but in himself as a spokesman of a new country and a new time.</p>
+
+         <!-- From the poem "American Feuillage" (later: "Our Old Feuillage"), Leaves of Grass 1867 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00114" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"And I too of the Manahatta, singing thereof <lb/>—and no less in myself than the whole <lb/>of the Manahatta in itself."</l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Neither the dreams of Novalis nor the later speculations of Faraday<ref target="n3" n="2" xml:id="r3"/> are to be compared with that insistence of the mystic transmutation of spirit which this realistic and democratic poet sings. He does not worship the body, and passions, and infirmities of Walt Whitman; he worships these as all that he knows of humanity; and this is strikingly exemplified in a poem which has, unfortunately, but necessarily been omitted from the present edition. He seems to lose in his own mind all sense of the difference between the individual and the mass:—</p>
+
+         <!-- From "To Workingmen" No.5 (later: "A Song for Occupations"), Leaves of Grass 1867 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00119" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"All architecture is what you do to it when <lb/>you look upon it;</l>
+                        <l>Did you think it was in the white or grey <lb/>stone? or the lines of the arches and <lb/>cornices?</l>
+                        <l>All music is what awakes from you <hi rend="italic">when you</hi> 
+                           <lb/>
+                           <hi rend="italic">are reminded by the instruments</hi>."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Anthropomorphism of a subtle and indefinite kind seems to be his principle theme; an anthropomorphism, however, differing widely from that of the sensationalists. According to him, "objects gross and the unseen Soul are one;" while as to spiritual creations:—</p>
+
+         <!-- From "To Workingmen" No.4 (later: "A Song for Occupations"), Leaves of Grass 1867 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00119" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"We consider bibles and religions divine—I <lb/>do not say they are not divine;</l>
+                        <l>I say they have all grown out of you, and <lb/>may grow out of you still;</l>
+                        <l>It is not they who give the life—it is you <lb/>who give the life;</l>
+                        <l>Leaves are not more shed from the trees, or <lb/>trees from the earth, than they are shed <lb/>out of you."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>As a specimen of what may be called his "prophetic manner," take the following striking passage, full of a shadowy, but real and impressive force:—</p>
+
+         <!-- From "Years of the Unperformed" (later: "Years of the Modern"), Leaves of Grass 1867 --> 
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00295" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"What whispers are these, O lands, running <lb/>ahead of you, passing under the seas?</l>
+                        <l>Are all nations communing? Is there <choice><orig>go-<lb/>ing</orig><reg>going</reg></choice> to be but one heart to the globe?</l>
+                        <l>Is humanity forming <hi rend="italic">en masse?</hi> —for lo! <lb/>tyrants tremble, crowns grow dim;</l>
+                        <l>The earth, restive, confronts a new era, <choice><orig>per-<lb/>haps</orig><reg>perhaps</reg></choice> a general divine war;</l>
+                        <l>No one knows what will happen next—such <lb/>portents fill the days and nights.</l>
+                        <l>Years prophetical! the space ahead, as I <lb/>walk, as I vainly try to pierce it, is full <lb/>of phantoms;</l>
+                        <l>Unborn deeds, things soon to be, project their <lb/>shapes around me;</l>
+                        <l>This incredible rush and heat—this strange <lb/>ecstatic fever of dreams, O years!</l>
+                        <l>Your dreams, O years, how they penetrate <lb/>through me! (I know not whether I <lb/>sleep or wake!)</l>
+                        <l>The performed America and Europe grow <lb/>dim, retiring in shadow behind me;</l>
+                        <l>The unperformed, more gigantic than ever, <lb/>advance, advance upon me."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Such is the cumbrous and ungainly "method" of Walt Whitman's utterance; and that again is not unfrequently rendered more forbidding by an unnecessary diffuseness and what seems to us to be an intentional vagueness. That the writer of these poems—if poems they are to be called—is worthy of greater attention than has yet been paid him in England, we endeavored to show in a former article. For him, as for any other writer, we would bespeak a patient hearing. The material which he offers us is so novel and so bold, that we are ready to distrust any immediate critical estimate, and would fain see Walt Whitman pass into the crucible of popular reading. Mr. Rossetti, we think, has done his editorial work—in this case rendered peculiarly difficult—well; and we recommend the reader to pay careful attention to Mr. Rossetti's appreciate[ve] and yet impartial judgment of Whitman in the preface to the book. We should have preferred to the engraved portrait of Walt Whitman in the present volume a copy of the striking and picturesque photo of him lately taken in New York; but even the former will give the English reader some slight indication of the poet's features and expression. In other respects the edition is nicely got up; and we have no hesitation in commending it as an excellent index to the writings of a man who cannot be overlooked. </p>
+
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+
+         
+            
+            <ab><hi rend="superscript">∗</hi>
+               
+                   Poems by Walt Whitman. Selected and Edited by W.M. Rossetti 
+                   
+                      London:  
+                      John Camden Hotten. 
+                   
+               
+            </ab>
+         
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r2" xml:id="n2" n="1">Gottfried Leibnitz (1646–1716) was a German philosopher, mathematician, and scientist. J.M.W. Turner (1775–1851) was an English Romantic landscape artist.</note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="2">"Novalis" (1772–1801) was an author and philosopher of early German Romanticism. His real name was Georg Friedrich Philipp Freiherr von Hardenberg. In his "Miscellaneous Observations" (1798), he writes: "The imagination places the world of the future either far above us, or far below, or in a relation of metempsychosis to ourselves. We dream of traveling through the universe—but is not the universe within ourselves? The depths of our spirit are unknown to us—the mysterious way leads inwards. Eternity with its worlds—the past and future—is in ourselves or nowhere." Michael Faraday (1791–1867) was a British chemist and physicist who considered himself a natural philosopher. He contributed significantly to the fields of electromagnetism and electrochemistry, and he also had strong views regarding spiritualism. In the mid-1850s, he attacked spiritualism several times in newspapers and in lectures.</note>
+
+            </p>
+
+         </div1>
+      </back>
+   </text>
+</TEI>

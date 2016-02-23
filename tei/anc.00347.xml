@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00347">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Walt Whitman</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00347</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Whitman, Walt">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Walt Whitman</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">New York Day Book</title>
+                  <imprint>
+                     <biblScope type="pages">[unknown]</biblScope>
+                     <date when="1860-06-09">9 June 1860</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#vs" when="2010-03-05">Encoded transcription by Eric Conrad.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+        
+            <ab>
+               
+                   LEAVES OF GRASS. 
+                   
+                      Boston:  
+                      Thayer &amp; Eldridge. 
+                      Year 85 of the States—(1860–61)<ref target="n1" xml:id="r1" n="1"/>
+                      
+                   
+               
+            </ab>
+         
+
+         <p>This is a new edition of the work of Walt Whitman, which some years ago created so great a sensation both in this country and abroad, and it seems now destined to renew the former effect. It is very much discussed and criticized, and is indeed a singular production. Distinguished by power of a certain sort, by bursts of originality, by occasional undoubted cleverness, it is also disfigured by the most disgusting beastiality <!-- [sic] --> we remember ever to have seen in print; a beastiality <!-- [sic] --> which is the most prominent feature of the book, which is utterly animal, and so marked that it not only gives tone to the work, but indicates the character of the writer. Vigorous, coarse, vulgar, indecent, powerful, like a great strong, filthy bull, delighting alike in his size and his strength, and his filth; full of egotism, rampant, but not insufferable, fully believing himself to be a representative man and poet of the American people; persuaded that he is the great poet whose advent the world is waiting for, and that his errand is to sing his own individuality, his own peculiarities, whether physical or spiritual, but particularly physical; his own idiosyncracies<!-- [sic] -->, whether little or great; his own characteristics, whether noble or mean; and all these not so much because they are his individualities and characteristics and idiosyncracries <!-- [sic] -->, as because he thinks they typify those of other Americans—this is Walt Whitman's character and notions, as they seems to be developed in his Leaves of Grass. The measure in which he writes is his own, and is often no measure at all, but a sort of alliteratives <!-- [sic] --> style, with a certain rough music in it; his style is outside of all rules, transgresses, grammar and rhetoric, it jumbles up slang and vulgarity with choice language, huddles together English and scraps of French and Latin and Spanish in the absurdest fashion, and yet at times has a certain terseness that is telling. The book is, in many respects abominable; in many respects the maddest folly and the merest balderdash that ever was written; but it unfortunately possesses these streaks of talent, these grains of originality, which will probably preserve the author from oblivion. We should advise nobody to read it unless he were curious in literary monstrosities, and had a stomach capable of digesting the coarsest stuff ever offered by caterers for the reading public, and yet those who are catholic enough to appreciate two grains of wheat hid in two bushels of chaff, will not be uninterested in the volume.</p> 
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">Founded in 1848 by Nathaniel R. Stimson, the <hi rend="italic">New York Day Book</hi> had a distinct proslavery agenda and billed itself as the "White Man's Paper." The radical abolitionist sympathies of Thayer &amp; Eldrige, the publishers of the 1860–61 edition of <hi rend="italic">Leaves of Grass</hi>, account at least in part for the tone of the <hi rend="italic">Day Book</hi>'s review.</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

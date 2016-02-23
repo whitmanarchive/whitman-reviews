@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00121">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="boughs">A New Book By Mr. Whitman</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">November Boughs</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Selwyn Image</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="ts">Todd Stabley</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00121</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Image, Selwyn">Selwyn Image</author>
+                  <title level="a">A New Book By Mr. Whitman</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Hobby Horse</title>
+                  <imprint>
+                     <date when="1889-01">January 1889</date>
+                     <biblScope type="volume">13</biblScope>
+                     <biblScope type="pages">37-9</biblScope>
+
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#ts" when="2006-02-08">Encoded, validated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">A NEW BOOK BY MR. WHITMAN.<!--  [Review of November Boughs] --></head>
+
+         <p>A new book has just come to us from America, from Mr. Walt Whitman.  It is entitled "November Boughs," and is but a little volume of one hundred and forty pages, of which only nineteen are devoted to poetry: the rest are taken up with short, unconnected articles upon a variety of subjects.  Here are the headings of some of them; "Our Eminent Visitors," "The Bible as Poetry," "Robert Burns as Poet and Person," "A Word about Tennyson," "Slang in America," "Some War Memoranda," "Elias Hicks."</p>
+
+         <p>Yet this volume, small as it is, has a particular and a very great interest.  I here use this expression with more than usual significance, use it by no means as a mere commonplace compliment.  The book opens with an article of thirteen pages, called "A Backward Glance o'er Travel'd Roads."  We find in it a review by Mr. Whitman of all his past work, a quiet exposition of what have been his intentions and aims, of what he hopes and expects for the future of America and of the world.  It is this opening article, then, which gives the new volume its greatest, its unique value.  We may agree or we may disagree with Mr. Whitman, but there can be no mistake any more as to what he means and what he desires: here is his own clear summary of all that he has given us, the summary of thirty years' enthusiastic life and work.</p>
+
+         <p>I am not to attempt in any sense a review of "November Boughs," but merely call attention to its publication.  Probably by the time this notice is in print the book will be in the hands of the English publishers, and, if I may express a hope, in those of not a few English readers.  I confine myself for the moment entirely to the opening article; and I will try by a series of quotations from it to give some idea of what Mr. Whitman tells us about himself, and some foretaste of how much of suggestive, of immense and even absorbing interest there is in store for those, who shall by-and-bye possess and read the book for themselves.</p>
+
+         <p>"After completing my poems," then, writes Mr. Whitman, <!-- from A Backward Glance O'er Travel'd Roads -->"I am curious to review them in the light of their own (at the time unconscious, or mostly unconscious) intentions,with certain unfoldings of the thirty years they seek to embody." "I look upon 'Leaves of Grass' as my definitive <hi rend="italic">carte visite</hi> to the coming generations of the New World." "That I have not gain'd the acceptance of my own time; that from a worldly and business point of view 'Leaves of Grass' has been worse than a failure—that public criticism on the book and myself shows mark'd anger and contempt more than anything else; and that solely for publishing it I have been the object of two or three pretty serious special official buffetings—is all probably no more than I ought to have expected.  I had my choice when I commenced.  I bid neither for soft eulogies, big money returns, nor the approbation of existing schools and conventions." "The best comfort of the whole business is that I have had my say entirely my own way—the value thereof to be decided by time."</p>
+
+         <p>Then as to the nature of "Leaves of Grass." <!-- from A Backward Glance O'er Travel'd Roads -->"It gives one man's identity, ardors, observations, faiths, and thoughts, color'd hardly at all with any decided coloring from other faiths or other identities." "I would sing, and leave out or put in, quite solely with reference to America and to-day." "The true use for the imaginative faculty of modern times is to give ultimate vivification to facts, to science, and to common lives, endowing them with the glows and glories and final illustriousness which belong to every real thing, and to real things only.  Without that ultimate vivification, which the poet or other artist alone can give, reality would seem incomplete, and science, democracy, and life itself, finally in vain." "I know very well that my 'Leaves' could not possibly have emerged from any other era than the latter half of the Nineteenth Century, nor any other land than democratic America, and from the absolute triumph of the National Union arms." "The Old World has had the poems of myths, fictions, feudalism, conquest, caste, dynastic wars, and splendid exceptional characters and affairs, which have been great: but the New World needs the poems of realities and science, and of the democratic average and basic equality, which shall be greater.  In the centre of all, and object of all, stands the Human Being, towards whose heroic and spiritual evolution poems and everything directly or indirectly tend, Old World or New." "'Leaves of Grass' is avowedly the song of Sex and Amativeness, and even Animality." "Of this feature, intentionally palpable in a few lines, I shall only say the espousing principle of those lines so gives breath of life to my whole scheme that the bulk of the pieces might as well have been left unwritten were those lines omitted." "But it is not on 'Leaves of Grass' distinctively as <hi rend="italic">literature</hi>, that I feel to dwell or advance claims.  No one will get at my verses who insists upon viewing them as a literary performance."</p>
+
+         <p>Then this, lastly, "for the imaginative genius of the West, when it worthily rises—really great poetry is always the result of a national spirit, and not the privilege of a polish'd and select few: the strongest and sweetest songs yet remain to be sung."</p>
+
+         <p>No one can read this "Backward Glance" of Mr. Whitman's without being moved by its simplicity, its noble tone, its pathos.  It is the voice of an old prophet in benediction and farewell.  Across the waters of the Atlantic he holds out his hand to us; let us clasp it fervently: let us bow with reverence to receive that blessing, with which he bids us be of good cheer and go forward. </p> 
+
+         <closer>
+            <signed rend="right">S<hi rend="smallcaps">ELWYN</hi> I<hi rend="smallcaps">MAGE</hi>.</signed>
+         </closer>
+
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00203">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="rivulets">Walt Whitman, the American Poet</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Two Rivulets</hi>]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00203</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>Copyright to footnotes is held by the University of Iowa, and the footnotes are reused here with permission of the University of Iowa.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman, the American Poet</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Evening News</title>
+                  <imprint>
+                     <date when="1876-05">May 1876</date>
+                     <biblScope type="pages">15-6</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
+      </encodingDesc>
+      <revisionDesc>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#vs" when="2007-07-25">copied and encoded from Word document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt Whitman, the American Poet.<!-- [Review of Two Rivulets] --></head>
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>
+            <hi rend="italic">Postes nascitur non fit</hi>
+            <ref target="n1" n="1" xml:id="r1"/>, if true as applied to the individual, ought on the same principle to be true as applied to peoples, and yet, as a matter of fact, there have been but two really great leading nations in poetry—Greece and Great Britain—and this is perhaps the more remarkable, because, beyond the likeness of both being islanders and born with freedom in their souls as an instinct, their general tone of thought and feeling, and modes of expressing them, were, and are, as dissimilar as could well be between two branches of the same distinctive race of men.</p>
+
+         <p>But what is perhaps more remarkable, considering that [an] Anglo-Saxon, when turning colonist, not only takes all his household gods with him into his "fresh fields and pastures new," but also his old stereotyped habits and manners, and that therefore, proportionally to the numbers comprised in his "exodus" to a strange land, would also spring forth in due season poet or poets, as freely in quantity and as great in quality as in the "old land," is the fact that the great Anglo-Saxon "Empire"—in all but name—of the United States has never yet produced one really great poet, although, living as its more energetic sons did, and still do, amidst a newer and far grander variety of wilderness of lake, plain, river, and forest scenery, than their forefathers of the old world did-the natural idea would be that the vastness and freshness of such "untamed nature" would have even educed a yet loftier strain of song, if possible, than their ancient sires of the past, and their old world brethren of the present sang or sing, and yet, instead of this, their highest and their best are barely above mediocrity, or certainly not more than equal to our second-rate English bards!</p>
+	
+         <p>We suppose by their own valuation at least that "Longfellow" is their best, and yet, when he <hi rend="italic">is</hi> at his <hi rend="italic">best</hi>, he is not purely American, either in scenery or thoughts, so that their "national poet" not only lacks the power of expression of his mightier European brethren, but his best writings are also deficient in more "local colouring," and so much so that he might almost as well have written most of his works in New South Wales as in New York, as far as mere "tone" goes, only that in that case our Yankee cousins would not have been able to exclaim, like the great sartorial house of Moses and Sons "we keep our own poet on the premises!"</p>
+	
+         <p>
+            <hi rend="italic">Poietikos</hi>, the <hi rend="italic">maker</hi>! What a distinctive and expressive name, and yet how few real "makers" are there in the world—plenty of copyists—plenty of mere rhymsters—plenty of authors (?) [sic] with a "fatal facility" for that "easy writing" which, as the wit said, "was such curst hard reading"—but of the real great ones who can boldly and truthfully say, "Alone I did it!" How few, how, for the sake of the whole world, lamentably few there be of them, whose heaven-born gift of seeing farther and clearer into the higher spiritual life, around and about us enables them to pierce the mystery and to seize the esoteric meaning of some real truth, and with utterances of genius, translate it into the everyday language of everyday life, and crystallize it as it were, imperishably for all time, to help light up through all the future the lives of the children of men, and show them, as it were, though even as "in a glass darkly" some faint unearthly radiance reflected from the far off dim seen, lustrous splendours of eternity—some shadowy gleam of </p>
+
+         <q who="William Wordsworth" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">  
+                        <l>"The light that never was on land or sea,</l>
+                        <l>The poet's inspiration and his dream."<ref target="n2" n="2" xml:id="r2"/>
+                        </l> 
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+	
+         <p>Truth said the ancient is but of one face, yet hath many features; and so real poetry differs much in its utterance, flowing "sweet as the living waters of Pharpar and Abana,"<ref target="n3" n="3" xml:id="r3"/> from the one source—mighty and fierce as the thunder falls of Niagara from the other or salt and bitter as the lonely lifeless wave of the Dead Sea of Sodom from a third—and yet all equally "true," and doing the work of truth sooner or later, for truth, like wisdom, is "justified of her children."<ref target="n4" n="4" xml:id="r4"/>
+         </p>
+	
+         <p>"Can any good thing come out of Nazareth?" Can a <hi rend="italic">real</hi> poet come out of "<hi rend="italic">dollar land</hi>?" Can Brother Jonathan prove that he has really "raised" a genuine live poet of his own breed and feed, "clear grit?" and in whose speech speaks unmistakeably the "voice of many waters,"<ref target="n5" n="5" xml:id="r5"/> and in whose breath whispers clearly what the wild winds of the lonely desert, heard in the savage wilds of pathless mountains, and bore secretly and safely through boundless forests, and gave unchanged unto him, to be translated truly from its great mother (nature) tongue, by the mouth of her anointed priest for the teaching of all her children, and for the awakening of new thoughts in the dwellers of older continents and newer colonies.</p>
+	
+         <p>Whether America herself believes, or does not believe, that she has such a son in Walt Whitman, his English confreres, or at any rate very many of them, do believe that however she may elect to "leave him to his fate" with cold indifference as to his present fortunes, and doubt as to his future fame, yet they cordially recognize him as one of the "deathless band,"<ref target="n6" n="6" xml:id="r6"/> and as having not only the right to food here but also to fame hereafter, and as there has been some little controversy about him lately on both sides the Atlantic, and as it is possible that none of his works may have fallen into the hands of some of our readers for them to judge either of his merits or demerits, we subjoin a few extracts as well from his own writings as also from what is said and written about him, both by the American and English Press-by statements in which latter it will be seen that whether he ever gains the distinction in the first line or not, he seems to stand a "bad" chance of realising the force and suffering from the ill effects of being driven to practise the second in the well-known couplet—</p>
+	
+         <q who="anonymous" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">  
+                        <l>"Seven Grecian cities claimed great Homer dead,</l>
+                        <l>Through which, in vain, he living begged his bread."<ref target="n7" n="7" xml:id="r7"/>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+
+         <p>Let us, however, hope that the moderns will be both more quickly appreciative and actively charitable than the ancients were, and that bread will at least be found him during the remainder of his mortal life, even though fame may not be given to immortalize him after death.</p>
+	
+         <p>The apophthegm in physic, "when doctors differ who shall decide?" is also partly applicable to art and taste, and as everything new must have a beginning, the "new beginners" in a new faith, or a new interpretation of art, generally meet with rather a "bad time" of it from the majority whose "faith" or "fancy" they seek to change or supplant, and as Walt Whitman is as "advanced" in some of his ideas about poetry, as Herr Wagner is in his about music, there has been nearly as great a controversy between his few admirers and his many detractors, as to whether his poetry is in any sense poetry at all, and whether it will "live" or not, as there was, and is, about the Herr's "music of the future"<ref target="n8" n="8" xml:id="r8"/> as being the possible supplanter , in time, of the melody of the present.</p>
+	
+         <p>Whether his own countrymen have less "taste" or more judgment, or whether it is on the principle "that a prophet is never honoured in his own country," one thing is certain, that he meets with much more admiration, and, we suppose also, genuine appreciation from the British public and republic of letters, than he does from his own republic, and the citizens thereof, dwellers though they be in the same tents with him, and considering how anxious the Americans are to be thought the equals <hi rend="italic">(at least)</hi> of the old world in all matter of a[e]sthetics, as well as superiors in enterprise and general intelligence, it is rather surprising that they do not at once accept the dictum of the literary few in England (whose opinion gives a sort of "mint stamp") that they really have a swan where they have hitherto seen only a goose, and (like a shrewd trader when he finds a customer sees a value in his goods more than he dreamt of) at once declare that not only is it a veritable swan, but moreover "a swan amongst swans," and proclaim at once, loud-tongued to the old world, that what the "unregenerate" in taste call "roughness" in him is really unhewn rugged strength, the marble block with the Apollo Belvidere<ref target="n9" n="9" xml:id="r9"/> strongly fashioned forth in it, but the smoother chiseling left contemptuously untouched, and the "obscurity of thought and expression" merely the mannerism of one "whose faith is large in time," and who, knowing his work will live, leaves the fuller interpretation of it to the stronger and more advanced minds of the future.</p>
+	
+         <p>One of his own countrymen (a press correspondent) thus writes of him—<ref target="n10" n="10" xml:id="r10"/>
+         </p>
+
+         <p>The only American prophet to my knowledge who enjoys a fame in England not accorded him in his own country is the prophet of the new Democratic school of poetry, Walt. Whitman. Although his earlier publications attracted here a certain degree of attention in literary circles, and aroused a great deal of enthusiasm among some of the 'plain people,' whose singer he especially desired to be called, it can hardly be said that his claims to the rank of poet were seriously considered in America until they had been discussed by Mr. W. M. Rosetti [sic], Mr. Robert Buchanan, and other authorities in London. The dubious position which he won here by their help he has not been able to hold. To-day he probably has ten admirers and readers abroad for every one that he has at home. There is a rough honesty, a wild sort of sweetness in the strange man's character, an evident genuineness in his eccentricities, both personal and literary, which have won for him general respect and even a great deal of popular affection, while the estimate of his poetical powers, accepted a few years ago, has been steadily declining. He is no longer one of the curiosities of the Republic; and while the stories of his extreme poverty and suffering which recently obtained circulation are, I am glad to say, untrue, he has fallen into obscurity, if not into positive neglect, and apparently into a mood of sorrow. The impression which one gathers from a few sheets of his forthcoming volume is at any rate rather a melancholy one. He calls the new book "Two Rivulets," for it contains a stream of prose and a stream of verse:</p>
+
+         <!-- From "Two Rivulets" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00495" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <l>Two Rivulets side by side,</l>
+                        <l>Two blended, parallel, strolling tides,</l>
+                        <l>Companions, travelers, gossiping as they journey;</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>and he sends it out 'partly as my contribution and outpouring to celebrate, in some sort, the feature of the time, the first Centennial of our New World Nationality, and then as chyle and nutriment of that moral and indissoluble union, equally representing all, and the mother of many coming centennials.' Nor is it only in the form of the pieces composing the book that he follows a double line. There are two distinct veins of thought-Politics and Immortality. The rivulets are rude, brawling streams, no doubt, but they keep within much narrower bounds than the turbulent streams of his earlier poems. He has no respect for artificial barriers to poetic inspiration:—</p>
+
+         <!-- From Two Rivulets -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <div1 type="preface">
+                     <relations>
+                        <work ref="xxx.00489" cert="absolute"/>
+                     </relations>
+                     <p>"In my opinion the time has arrived to essentially break down the barriers of form between prose and poetry. I say the latter is henceforth to win and maintain its character regardless of rhyme, and the measurement-rules of iambic, spondee, dactyl, etc., and that even if rhyme and those measurements continue to furnish the mediums for inferior writers and themes, (especially for persiflage and the comic, as there seems henceforward, to the perfect taste, something inevitably comic in rhyme, merely in itself and anyhow,) the truest and greatest poetry, (while subtly and necessarily always rhythmic, and distinguishable easily enough,) can never again, in the English language, be expressed in arbitrary and rhyming meter, any more than the greatest eloquence, or the truest power and passion. . . . In my opinion, I say, while admitting that the venerable and heavenly forms of chiming versification have in their time played great and fitting parts, that the pensive complaint, the ballads, wars, amours, legends of Europe, &amp;c., have, many of them, been inimitably rendered in rhyming verse—that there have been very illustrious poets, whose shapes the mantle of such verse has beautifully and appropriately enveloped—and though the mantle has fallen, with perhaps added beauty, on some of our own age—it is, not withstanding, certain to me, that the day of such conventional rhyme is ended. In America, at any rate, and as a medium of highest esthetic practical or spiritual expression, present or future it palpably fails, and must fail to serve. The muse of the prairies, and the peaks of Colorado, dismissing the literary as well as social etiquette of over-sea feudalism and caste, joyfully enlarging, adapting itself to comprehend the size of the whole people, with the free play, emotions, pride, passions, experiences, that belong to them, body and soul—to the general globe, and all its relations in astronomy, as the savans portray them to us—to the modern, the busy nineteenth century, (as grandly poetic as any, only different), with steamships, railroads, factories, electric telegraphs, cylinder presses—to the thought of the solidarity of nations, the brotherhood and sisterhood of the entire earth—to the dignity and heroism of the practical labor of farms, factories, foundries, workshops, mines, or on shipboard, or on lakes and rivers—resumes that other medium of expression, more flexible, more eligible—soars to the freer, vast, diviner heaven of prose."</p>
+                  </div1>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>There is both force and truth in a good deal of what he then says—for even the poets of all schools admit that rhyme is merely the "colour to the drawing," and that blank verse is the <hi rend="italic">experimentum crucis</hi> by which to try all <hi rend="italic">real</hi> poetry—in fact, as our readers are aware, rhyme only came into use with the early troubadours, who doubtless found that in an age when "books were not," and their songs were "as household words," that the "jingle" at the end acted as a sort of mental fishhook, and so enabled them to be more easily remembered. Tho two oldest and grandest poems in the world, perhaps—the sacred one of "Job," and the secular one of the "Iliad," are in blank verse, or, to speak more correctly, in rhythmical prose, and to rhyme them is not only to ruin them, but is also, more or less, a desecration, even despite Pope's splendid attempt of the one, and because of the miserable "metrical failures" with the other. Also, Whitman is undoubtedly right in this, that inasmuch as "the proper study of mankind is man," so the present should interpret the present, and that there is scope in each age for a great poet to interpret the voice of that special age, and that the "wonders of steam and telegraphy" have as much claim on us, who have helped their Herculean birth, and are profiting by the labours of their giant man-hood, and have as much right to be "sung greatly of" by a great singer, as even the mighty men and things of the mighty past, which yet, after all (however "distance may lend enchantment to the view," and however grandly they may loom out of the depths of the ancient ages, and seem magnified in the dim mists of antiquity,) were not mightier to the men of their day—nor cannot be really mightier to the men of this—than their own mighty present is, with its boundless material power in its thunder throbs of chained and harnessed lightning, and its spiritual strength in the awakening and widening thrills of higher thought and larger life which pulse profoundly through the great living heart of humanity, with a holier purpose, a stronger will, and a more universal charity than the past ever knew or dreamt of, which even the present yet scarcely foresees the outcome of, and which perchance, the future will fully realise, into the brotherhood of all mankind, and the loving practice of "peace and goodwill on Earth unto all men!"</p>
+
+         <q who="anonymous" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Yes, my brethren, oh! be hopeful, for the storm precedes <lb/>the shine,</l>
+                        <l>Thro' the clouds of ignorance roll we-on today-dawns more <lb/>divine."<ref target="n11" n="11" xml:id="r11"/>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q> 
+	
+         <p>Whitman practises what he preaches by "singing of steam" in his "To a Locomotive in Winter," thus—</p>
+
+         <!-- From "To a Locomotive in Winter" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00273" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <l>Thee for my recitative!</l>
+                        <l>Thee in the driving storm—even as now—the Winter-day <lb/>declining;</l>
+                        <l>Thee in thy panoply, thy measured dual throbbing, and thy <lb/>beat convulsive;</l>
+                        <l>Thy black cylindric body, golden brass and silvery steel;</l>
+                        <l>Thy ponderous side-bars, parallel and connecting rods, <lb/>gyrating, shuttling at thy sides;</l>
+                        <l>Thy metrical, now swelling pant and roar—now tapering in <lb/>the distance;</l>
+                        <l>Thy great protruding head-light fix'd in front;</l>
+                        <l>Thy long, pale, floating vapor-pennants, tinged with delicate <lb/>purple;</l>
+                        <l>The dense and murky clouds out-belching from thy <choice><orig>smoke- 
+                           <lb/>stack</orig><reg>smoke-stack</reg></choice>;</l>
+                        <l>Thy knitted frame—thy springs and valves—the tremulous <lb/>twinkle of thy wheels;</l>
+                        <l>Thy train of cars behind, obedient, merrily-following,</l>
+                        <l>Through gale or calm, now swift, now slack, yet steadily <lb/>careering;</l>
+                        <l>Type of the modern! emblem of motion and power! pulse of <lb/>the continent!</l>
+                        <l>For once, come serve the Muse and merge in verse, even as <lb/>here I see thee,</l>
+                        <l>With storm, and buffeting gusts of wind, and falling snow;<ref target="n12" n="12" xml:id="r12"/>
+                        </l>
+                        <l>Law of thyself complete, thine own track firmly holding;</l>
+                        <l>(No sweetness debonair of tearful harp or glib piano thine,)</l>
+                        <l>Thy trills of shrieks by rocks and hills return'd,</l>
+                        <l>Launch'd o'er the prairies wide—across the lakes,</l>
+                        <l>To the free skies, unpent, and glad, and strong.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>A very characteristic poem of his, though much less "extravagant," is</p>
+
+         <!-- From "Eidolons" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00030" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">EIDÓLONS.</head>
+	                       <l rend="indented1">I met a Seer,</l>
+                        <l>Passing the hues and objects of the world,</l>
+                        <l>The fields of art and learning, pleasure, sense,</l>
+	                       <l rend="indented1">To glean Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Put in they chants, said he,</l>
+                        <l>No more the puzzling hour, nor day—nor segments, parts,</l>
+		                      <l rend="indented2">put in,</l>
+                        <l>Put first before the rest, as light for all, and <choice><reg>entrance-song</reg><orig>entrance-
+<lb/>song</orig></choice> of all,</l>
+	                       <l rend="indented1">That of Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Ever the dim beginning;</l>
+                        <l>Ever the growth, the rounding of the circle;</l>
+                        <l>Ever the summit, and the merge at last, (to surely start</l>
+		                      <l rend="indented2">again,)</l>
+	                       <l rend="indented1">Eidólons! Eidólons!</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Ever the mutable!</l>
+                        <l>Ever materials, changing, crumbling, re-cohereing!</l>
+                        <l>Ever the ateliers, the factories divine,</l>
+	                       <l rend="indented1">Issuing Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Lo! I or you!</l>
+                        <l>Or woman, man, or State, known or unknown;</l>
+                        <l>We seeming solid wealth, strength, beauty build,</l>
+	                       <l rend="indented1">But really build Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">The ostent evanescent;</l>
+                        <l>The substance of an artist's mood or savan's studies</l>
+		                      <l rend="indented2">long,</l>
+                        <l>Or warrior's, martyr's, hero's toils,</l>
+	                       <l rend="indented1">To fashion his Eidólon.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Of every human life,</l>
+                        <l>(The units gather'd, posted—not a thought, emotion,</l>
+		                      <l rend="indented2">deed, left out;)</l>
+                        <l>The whole or large or small summ'd, added up,</l>
+	                       <l rend="indented1">In its Eidólon.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">The old, old urge;</l>
+                        <l>Based on the ancient pinnacles, lo! newer, higher <choice><reg>pinnacles</reg><orig>pin-
+<lb/>nacles</orig></choice>;</l>
+                        <l>From science and the Modern still impell'd,</l>
+	                       <l rend="indented1">The old, old urge, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">The present, now and here,</l>
+                        <l>America's busy, teeming, intricate whirl,</l>
+                        <l>Of aggregate and segregate, for only thence releasing,</l>
+		                      <l rend="indented2">To-day's Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">These, with the past,</l>
+                        <l>Of vanish'd lands—of all the reigns of kings across the</l>
+		                      <l rend="indented2">sea,</l>
+                        <l>Old conquerors, old campaigns, old sailors' voyages,</l>
+	                       <l rend="indented1">Joining Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Densities, growth, façades,</l>
+                        <l>Strata of mountains, soils, rocks, giant trees,</l>
+                        <l>Far-born, far-dying, living long, to leave,</l>
+	                       <l rend="indented1">Eidólons everlasting.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Exalté, rapt, extatic,</l>
+                        <l>The visible but their womb of birth,</l>
+                        <l>Of orbic tendencies to shape and shape and shape,</l>
+	                       <l rend="indented1">The mighty Earth-Eidólon.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">All space, all time,</l>
+                        <l>(The stars, the terrible perturbations of the suns,</l>
+                        <l>Swelling, collapsing, ending—serving their longer, shorter</l>
+		                      <l rend="indented2">use,)</l>
+	                       <l rend="indented1">Fill'd with Eidólons only.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">The noiseless myriads!</l>
+                        <l>The infinite oceans where the rivers empty!</l>
+                        <l>The separate, countless free identities, like eyesight;</l>
+	                       <l rend="indented1">The true realities, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Not this the World,</l>
+                        <l>Nor these the Universes—they the Universes,</l>
+                        <l>Purport and end—ever the permanent life of life,</l>
+	                       <l rend="indented1">Eidólons, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Beyond thy lectures learn'd professor,</l>
+                        <l>Beyond thy telescope or spectroscope observer keen—</l>
+		                      <l rend="indented2">beyond all mathematics,</l>
+                        <l>Beyond the doctor's surgery, anatomy—beyond the chemist with his <choice><reg>chemistry</reg><orig>chem-
+<lb/>istry</orig></choice>,</l>
+	                       <l rend="indented1">The entities of entities, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Unfix'd yet fix'd;</l>
+                        <l>Ever shall be—ever have been and are,</l>
+                        <l>Sweeping the present to the infinite future,</l>
+	                       <l rend="indented1">Eidólons, Eidólons, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">The prophet and the bard,</l>
+                        <l>Shall yet maintain themselves—in higher stages yet,</l>
+                        <l>Shall mediate to the Modern, to Democracy—interpret</l>
+		                      <l rend="indented2">yet to them,</l>
+	                       <l rend="indented1">God, and Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">And thee, My Soul!</l>
+                        <l>Joys, ceaseless exercises, exaltations!</l>
+                        <l>Thy yearning amply fed at last, prepared to meet</l>
+	                       <l rend="indented1">Thy mates, Eidólons.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Thy Body permanent,</l>
+                        <l>The Body lurking there within thy Body,</l>
+                        <l>The only purport of the Form thou art—the real I <choice><reg>myself</reg><orig>my-
+<lb/>self</orig></choice>,</l>
+	                       <l rend="indented1">An image, an Eidólon.</l>
+                     </lg>
+
+                     <lg type="linegroup">
+	                       <l rend="indented1">Thy very songs, not in thy songs;</l>
+                        <l>No special strains to sing—none for itself;</l>
+                        <l>But from the whole resulting, rising at last and floating,</l>
+	                       <l rend="indented1">A round, full-orb'd Eidólon.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>In his habit of life he is represented to be "a very Diogenes," to whom a shady hedge in summer, and a sheltering hut in winter is "room["] and "roof-tree," of which, in the old songster's words—</p>
+
+         <q who="anonymous" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <lg type="linegroup">
+                        <l>"Minds innocent and gentle make</l> 
+                        <l>of such an hermitage!"<ref target="n13" n="13" xml:id="r13"/>
+                        </l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>A man to whom "bread and herbs, and contentment therewith," is literally, as well as figuratively, a feast; but to whom, unfortunately, it seems even such simple necessaries have become all but luxuries, and not always even within his reach, humble though they be!—and therefore to Walt Whitman, the man who "lives the life that is in him" freely and fearlessly, even though its means be poverty, and its end be want, the heart of each real man goes forth with instinctive fellowship, and more reality of sympathy than if he were crowned with laureate bays, and had sold his "tenth edition," gilt-edged, and illustrated by Doré,<ref target="n14" n="14" xml:id="r14"/> by its hundreds of thousands!</p>
+
+         <p>The correspondent from whom we quote, says of him:—</p>
+
+         <p>Whitman gives his own portrait from life in the book-a large, bending gray-haired man, 'looking at you'—and the picture is illustrated by the following verse:—</p>
+
+         <!-- From "Out from Behind this Mask" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00236" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <l>Out from behind this bending rough-cut Mask,</l>
+                        <l>(All straighter, liker Masks rejected—this preferr'd,)</l>
+                        <l>This common curtain of the face, contain'd in me for me, in <lb/>you for you, in each for each,</l>
+                        <l>(Tragedies, sorrows, laughter, tears—O heaven!</l>
+                        <l>The passionate, teeming plays this curtain hid!)</l>
+                        <l>The glaze of God's serenest, purest sky,</l>
+                        <l>This film of Satan's seething pit,</l>
+                        <l>This heart's geography's map—this limitless small continent— <lb/>this soundless sea,</l>
+                        <l>Out from the convolutions of this globe,</l>
+                        <l>This subtler astronomic orb than sun or moon—than Jupiter, <lb/>Venus, Mars;</l>
+                        <l>This condensation of the Universe—(nay, here the only <choice><orig>Uni-<lb/>verse</orig><reg>Universe</reg></choice>,</l>
+                        <l>Here the Idea—all in this mystic handful wrapt;)</l>
+                        <l>These burin'd eyes, flashing to you, to pass to future time,</l>
+                        <l>To launch and spin through space revolving, sideling—from <lb/>these to emanate,</l>
+                        <l>To You, who'er you are—a Look.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>And doubtless this is intended as a portrait also:</p>
+
+         <!-- From "When the Full-Grown Poet Came" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00399" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">WHEN THE FULL-GROWN POET CAME.</head>
+                        <l>When the full-grown poet came,</l>
+                        <l>Out spake pleas'd Nature (the round impassive Globe, with <lb/>all its shows of day and night), saying, He is mine;</l>
+                        <l>But out spake too the Soul of Man, proud, jealous and <choice><orig>un-<lb/>reconciled</orig><reg>unreconciled</reg></choice>, Nay, he is mine alone;—</l>
+                        <l>—Then the full-grown Poet stood between the two, and took <lb/>each by the hand,</l>
+                        <l>And to-day and ever so stands, as blender, uniter, tightly <lb/>holding hands,</l>
+                        <l>Which he will never release until he reconciles the two,</l>
+                        <l>And wholly and joyously blends them.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>I close my extracts from advance sheets of the book with two little pieces of a political character:</p>
+
+         <!-- From "The Beauty of the Ship" -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00454" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <head type="main-authorial">THE BEAUTY OF THE SHIP.</head>
+                        <l>When, staunchly entering port,</l>
+                        <l>After long ventures, hauling up, worn and old,</l>
+                        <l>Better'd by sea and wind, torn by many a fight,</l>
+                        <l>With the original sails all gone, replaced, or mended,</l>
+                        <l>I only saw, at last the beauty of the ship.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <!-- From "As a Strong Bird on Pinions Free" (later titled "Thou Mother with Thy Equal Brood")(Two Rivulets) -->
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00267" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">  
+                        <head type="main-authorial">SHIP OF DEMOCRACY.</head>
+                        <l>Sail—sail thy best, ship of Democracy!</l>
+                        <l>Of value is they freight—'tis not the present only,</l>
+                        <l>The past is also stored in thee!</l>
+                        <l>Thou holdest not the venture of thyself alone—not of the <lb/>western continent alone;</l>
+                        <l>Earth's <hi rend="italic">resume</hi> entire floats on thy keel, O ship—is steadied <lb/>by thy spars;</l>
+                        <l>With thee Time voyages in trust—the antecedent nations sink <lb/>or swim with thee;</l>
+                        <l>With all their ancient struggles, martyrs, heroes, epics, wars, <lb/>thou bear'st the other continents;</l>
+                        <l>Theirs, theirs as much as thine, the destination-port <choice><orig>trium-<lb/>phant</orig><reg>triumphant</reg></choice>;</l>
+                        <l>—Steer, steer with good strong band and wary eye, O <choice><orig>helms-<lb/>man</orig><reg>helmsman</reg></choice>—thou carryest great companions,</l>
+                        <l>Venerable, priestly Asia sails this day with thee,</l>
+                        <l>And royal, feudal Europe sails with thee.</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>We have not his "Leaves of Grass" at hand from which to give extracts of his earlier style, but trust our readers will be able to form a tolerably fair judgment, both of himself and of his works, from the above fragments, in which there is most undoubtedly—despite roughness of style and involved phrases and misty meanings—both power and real originality of thought, in fact, the real "Maker." Whether he will "live," time, which tries all things, must be the one proof of—but in any case he is neither a mere ready-rhymester nor a pleasing plagiarist, and in this age of shame and shoddy, it is refreshing to come across a bit of real nature, even though rough and rugged, and to feel and believe that instead of the ordinary modern "polished Pontius Pilate" of literature asking "what is truth?" with more scorn even than pity in the sad enquiry, you are reading the beliefs of a man who believes he sees truth, and manfully believes in uttering it as he sees and hears it, and also believes he is an appointed utterer!</p>
+	
+         <p>In conclusion, and as showing the sentiment of some of his admirers in England, we subjoin his brother poet, Robert Buchanan's, letter, with the sentiment and suggestion of which we heartily sympathise, and trust that it will not appeal in vain to all the liberal-handed and large-hearted of both Walt-Whitman's countrymen and our own.:-</p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">Possibly a misquotation of "Poeta nascitur, non fit," meaning "the poet is born, not made."</note>
+
+               <note type="editorial" target="r2" xml:id="n2" n="2">These lines are slightly misquoted from Wordsworth, "Elegiac Stanzas Suggested by a Picture of PEELE CASTLE, in a Storm, painted BY SIR GEORGE BEAUMONT."</note>
+
+               <note type="editorial" target="r3" xml:id="n3" n="3">"Are not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage" (2 Kings 5:12).</note>
+
+               <note type="editorial" target="r4" xml:id="n4" n="4">"But wisdom is justified of all her children" (Luke 7:35).</note>
+
+               <note type="editorial" target="r5" xml:id="n5" n="5">"Can Any Good Thing Come out of Nazareth?" (John 1:46). Clear Grits were reformers in the province of Upper Canada, a British colony that is now Ontario, Canada. Their support was concentrated among southwestern Ontario farmers, who were frustrated and disillusioned by the 1849 Reform government of Robert Baldwin and Louis-Hippolyte Lafontaine's lack of radicalism. The Clear Grits advocated universal male suffrage, representation by population, democratic institutions, and free trade with the United States. The name derives from a quote by party member David Christie who describe the movement as "all sand and no dirt; clear grit all the way through," a reference to the type of sand preferred in the preparation of masonry. "Clear Grit" was a complimentary term meaning tenacious or dedicated. "And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters" (Rev. 1:15).</note>
+
+               <note type="editorial" target="r6" xml:id="n6" n="6">Possibly a reference to book 11 of the Odyssey.</note>
+
+               <note type="editorial" target="r7" xml:id="n7" n="7">The "seven cities" refer to Chios, Athens, Rhodes, Colophon, Argos, Smyrna, and Salamis. They can easily be remembered through the mnemonic "carcass" (the first letter of each city spells the word). The lines have been attributed to several writers, including Thomas Heywood (died 1649), who wrote: "Seven cities warred for Homer being dead; / Who living had no roofe to shrowd his head." Thomas Seward (1708–1790) is accredited the lines: "Seven wealthy towns contend for Homer dead / Through which the living Homer begged his bread."</note>
+
+               <note type="editorial" target="r8" xml:id="n8" n="8">See the note above about Wagner's "The Art-Work of the Future."</note>
+
+               <note type="editorial" target="r9" xml:id="n9" n="9">The <hi rend="italic">Apollo Belvedere</hi> (not Belvidere, as in the original) is a marble statue that is a copy of a bronze original done by the Greek sculptor Leochares.</note>
+
+               <note type="editorial" target="r10" xml:id="n10" n="10">The review that is quoted here in parts originally appeared in the <hi rend="italic">New York Daily Tribune</hi>, 19 February 1876</note> 
+
+               <note type="editorial" target="r11" xml:id="n11" n="11">These lines are probably based on or refer to "The Cloud of Unknowing" (<hi rend="italic">nubes ignorandi</hi>) written by an anonymous fourteenth-century English mystic.</note>
+
+               <note type="editorial" target="r12" xml:id="n12" n="12">Several lines from the poem are omitted.</note>
+
+               <note type="editorial" target="r13" xml:id="n13" n="13">Probably a misquotation of "Stone walls do not a prison make,/ Nor iron bars a cage;/ Minds innocent and quiet take/ That for an hermitage" from Richard Lovelace's "To Althea: From Prison."</note>
+
+               <note type="editorial" target="r14" xml:id="n14" n="14">Gustave Doré (1832–1883) was a well-known French artist, engraver, and illustrator. He illustrated works by Rabelais, Balzac, Dante, Lord Byron, Edgar Allan Poe, and others.</note>
+
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>

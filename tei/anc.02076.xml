@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_basic.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02076">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main" corresp="lg1881">Walt Whitman's New Book</title>
+                <title level="a" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881&#8211;82)]</title>
+                <title level="a" type="sub">a machine readable transcription</title>
+                <author>
+                    <choice>
+                        <orig>unsigned</orig>
+                        <reg cert="medium">Charles E. Shepard</reg>
+                    </choice>
+                </author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
+                    <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="kmp">Kenneth M. Price</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>National Endowment for the Humanities</funder>
+                <funder>The United States Department of Education</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>anc.02076</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+                <availability>
+                    <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author key="Shepard, Charles E.">
+                            <choice>
+                                <orig>unsigned</orig>
+                                <reg cert="medium">Charles E. Shepard</reg>
+                            </choice>
+                        </author>
+                        <title level="a">Walt Whitman's New Book</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">The Long-Islander</title>
+                        <imprint>
+                            <biblScope type="issue">12</biblScope>
+                            <date xml:id="dat1" cert="high" when="1881-11-11">11 November 1881</date>
+                            <biblScope type="pages">3</biblScope>
+                        </imprint>
+                    </monogr>
+</biblStruct>
+            </sourceDesc>
+        </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+        <revisionDesc>
+            <change when="2016-02-09" who="#nhg">made #kmp corrections</change>
+            <change when="2016-02-08" who="#nhg">tweaked author name</change>
+            <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+            <change when="2015-09-16" who="#el">updated tei header and encoding</change>
+            <change when="2015-03-03" who="#nhg">completed transcription, checked</change>
+            <change when="2015-01-28" who="#nhg">checked, corrected</change>
+            <change when="2015-01-26" who="#kc">transcribed and encoded</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    <text type="ancillary">
+        <body>
+            <head type="main-authorial">Walt Whitman's New Book.<ref target="n1" xml:id="r1" n="1"/></head><!--Review of 1881 <hi rend="italic">Leaves of Grass</hi>-->
+            <p>A good many folks in middle Long Island, especially Huntington, West Hills (where Walt Whitman was born), Cold Spring and down at Babylon, where he lived as boy and young man, will no doubt take special interest in the fact that the new book of his completed poems, "Leaves of Grass" has just been published by James R. Osgood &amp; Co. of Boston, in a handsome 382 page volume, price $2. There are about three hundred pieces all composed in the free and capricious measure so peculiar to Whitman (entirely unlike poetry as generally written), and which few people will like at first sight, whatever they may do after studying it well out.</p>
+                <p>Mr. Whitman was here in Huntington last summer and it is said intends coming again next season. He is crippled from paralysis, is now in his 63d year; he still writes, lectures, gives readings from his works and travels moderately. The Boston <hi rend="italic">Herald</hi> says of his poems: </p>
+                <p>"One of the great features of Walt Whitman is that he does not seek his ideals in faraway times, which, stripped of their glamor of remoteness, are but as the times of to-day; for in supreme moments, he idealizes the common-place, and has the clearness of vision that discerns the gleam of gold through all the accumulated dross.</p>
+                <p>The large and magnificent tolerance that includes all and allows all, and finds a place for all, is a sublime characteristic of the man.  There is much in these lines that cannot be packed into layers of equal length. The book teems with the ecstacy of being. The statement of details into which the poet now and then drops has been criticised as "cataloguing." But viewed with the poet’s intention, what a mosaic picture of the people, of the nation and its races, is thus constituted! One sees the stir and hears the hum of the entire land; feels the pulse of the multitude. What is the use of attempting to depict such a thing&#8212;it can't all be shown. But the effect is like a gleam of sunshine in the depths of a forest; it reveals many things with vivid distinctness; there is a vast reserve of hidden things which might be seen, but enough is shown to tell what is there&#8212;to give the character of the place.</p>
+                <p>The new edition contains all his poems; the only changes that have been made are in the way of condensation of utterance. There are, also, something like 20 new poems printed direct from the manuscript. There is more of a rounding and completeness of the work; the all-embracing patriotism which forms one of the poet’s grandest <choice><orig>characteristic</orig><reg>characteristics</reg></choice> is more comprehensive than ever before manifested."</p>
+                
+                <floatingText><body><head type="main-authorial">FROM WALT WHITMAN'S NEW BOOK. <lb/>
+                    PATROLING BARNEGAT.</head>
+                <lg type="poem"><l>Wild, wild the storm, and the sea high running,</l>
+                    <l>Steady the roar of the gale, with incessant under-tone muttering,</l>
+                        <l>Shouts of demoniac laughter fitfully piercing and pealing,</l>
+                        <l>Waves, air, midnight, their savagest trinity lashing,</l>
+                        <l>Out in the shadows there, milk-white combs careering,</l>
+                        <l>On beachy slush and sand, <choice><orig>spirts</orig><reg>spurts</reg></choice> of snow fierce slanting,</l>
+                        <l>Where, through the murk, the easterly death-wind breasting,</l>
+                        <l>Through cutting swirl and spray, watchful and firm advancing,</l>
+                        <l>(That in the distance! is that a wreck? is the red signal flaring?)</l>
+                        <l>Slush and sand of the beach, tireless till daylight wending,</l>
+                        <l>Steadily, slowly, through hoarse roar never remitting,</l>
+                        <l>Along the midnight edge, by those milk-white combs careering,</l>
+                        <l>A group of dim, weird forms, struggling, the night confronting,</l>
+                        <l>That savage trinity warily watching.</l></lg>
+                 </body> </floatingText>
+            
+           
+        </body>
+        
+        <back>
+            <note type="editorial" xml:id="n1" target="#r1">It is likely this review was written by Charles E. Shepard, who was editor and proprietor of <hi rend="italic">The Long-Islander</hi> at the time of publication.</note>
+        </back>
+        
+    </text>
+</TEI>
