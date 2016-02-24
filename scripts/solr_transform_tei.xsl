@@ -662,6 +662,11 @@
 			<field name="whitman_tei-corresp_title_ss">
 				<xsl:value-of select="document('reviews_name_index.xml')//item[@corresp=$title_id]/title"/>
 			</field>
+			<field name="whitman_tei-corresp_data_ss">
+				<xsl:value-of select="$title_id"/>
+				<xsl:text>|</xsl:text>
+				<xsl:value-of select="document('reviews_name_index.xml')//item[@corresp=$title_id]/title"/>
+			</field>
 		</xsl:for-each>
 		
 		
