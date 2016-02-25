@@ -1,7 +1,9 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
 	xpath-default-namespace="http://www.whitmanarchive.org/namespace"
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:dc="http://purl.org/dc/elements/1.1/">
+	xmlns:dc="http://purl.org/dc/elements/1.1/" exclude-result-prefixes="#all">
+	
+	
 	<xsl:output indent="yes" omit-xml-declaration="yes"/>
 	
 	<!-- ===================================
@@ -653,6 +655,7 @@
 		
 		<!--whitman_tei-corresp_id--> 
 		<!--whitman_tei-corresp_title-->
+		<!--whitman_tei-corresp_data-->
 		
 		<xsl:for-each select="tokenize(/TEI/teiHeader/fileDesc/titleStmt/title/@corresp, ' ')">
 			<xsl:variable name="title_id" select="."/>
@@ -669,11 +672,49 @@
 			</field>
 		</xsl:for-each>
 		
+		<!--whitman_citation-->
+		
+		<field name="whitman_citation_s">
+			
+			<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig = 'unsigned'"><xsl:text>[</xsl:text></xsl:if>
+			<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
+			<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig= 'unsigned'"><xsl:text>]</xsl:text></xsl:if>
+			<xsl:text>, "</xsl:text>
+			
+			<!-- Add to this a check to see if there is a ", and if so, changing it to a ' todo kmd-->
+			<xsl:choose>
+				<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']">
+					<xsl:value-of select="translate(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a'], 'v', 'k')"/>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:apply-templates select="/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']/node(), 'v', 'k'"/>
+				</xsl:otherwise>
+			</xsl:choose>
+			<xsl:text>," </xsl:text>
+			<em><xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"/></em>
+			<xsl:text> </xsl:text>
+			<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"/>
+			<xsl:text> </xsl:text>
+			<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"><xsl:text>(</xsl:text></xsl:if>
+			<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"/>
+			<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"><xsl:text>)</xsl:text></xsl:if>
+			<xsl:text>: </xsl:text>
+			<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='pages']"  />
+			
+			
+			
+			
+		</field>
+		
 		
 				
 			
 		
 
+	</xsl:template>
+	
+	<xsl:template match="hi">
+		<em><xsl:apply-templates/></em>
 	</xsl:template>
 
 
