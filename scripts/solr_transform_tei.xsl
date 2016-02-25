@@ -676,30 +676,52 @@
 		
 		<field name="whitman_citation_s">
 			
-			<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig = 'unsigned'"><xsl:text>[</xsl:text></xsl:if>
-			<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
-			<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig= 'unsigned'"><xsl:text>]</xsl:text></xsl:if>
+			<xsl:variable name="creator">
+				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig = 'unsigned'"><xsl:text>[</xsl:text></xsl:if>
+				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
+				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig= 'unsigned'"><xsl:text>]</xsl:text></xsl:if>
+			</xsl:variable>
+			<xsl:variable name="title">
+				<xsl:choose>
+					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']">
+						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']"/>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:apply-templates select="/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']/node()"/>
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:variable>
+			<xsl:variable name="periodical">
+				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"/>
+			</xsl:variable>
+			<xsl:variable name="volume">
+				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"/>
+			</xsl:variable>
+			<xsl:variable name="date">
+				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"><xsl:text>(</xsl:text></xsl:if>
+				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"/>
+				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"><xsl:text>)</xsl:text></xsl:if>
+			</xsl:variable>
+			<xsl:variable name="pages">
+				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='pages']"  />
+			</xsl:variable>
+			
+			<xsl:value-of select="$creator"/>
 			<xsl:text>, "</xsl:text>
 			
 			<!-- Add to this a check to see if there is a ", and if so, changing it to a ' todo kmd-->
-			<xsl:choose>
-				<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']">
-					<xsl:value-of select="translate(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a'], 'v', 'k')"/>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:apply-templates select="/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']/node(), 'v', 'k'"/>
-				</xsl:otherwise>
-			</xsl:choose>
+			<xsl:variable name="quote">&quot;</xsl:variable>
+			<xsl:variable name="apos">&apos;</xsl:variable>
+			
+			<xsl:copy-of select="translate($title,$quote,$apos)"/>
 			<xsl:text>," </xsl:text>
-			<em><xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"/></em>
+			<xsl:text>{em}</xsl:text><xsl:value-of select="$periodical"/><xsl:text>{/em}</xsl:text>
 			<xsl:text> </xsl:text>
-			<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"/>
+			<xsl:value-of select="$volume"/>
 			<xsl:text> </xsl:text>
-			<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"><xsl:text>(</xsl:text></xsl:if>
-			<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"/>
-			<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"><xsl:text>)</xsl:text></xsl:if>
+			<xsl:value-of select="$date"/>
 			<xsl:text>: </xsl:text>
-			<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='pages']"  />
+			<xsl:value-of select="$pages"/>
 			
 			
 			
@@ -714,7 +736,8 @@
 	</xsl:template>
 	
 	<xsl:template match="hi">
-		<em><xsl:apply-templates/></em>
+		<xsl:text>{em}</xsl:text><xsl:apply-templates/><xsl:text>{/em}</xsl:text>
+			
 	</xsl:template>
 
 
