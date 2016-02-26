@@ -683,12 +683,12 @@
 			</xsl:variable>
 			<xsl:variable name="title">
 				<xsl:choose>
-					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']">
+					<!--<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']">
 						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']"/>
 					</xsl:when>
-					<xsl:otherwise>
+					<xsl:otherwise>-->
 						<xsl:apply-templates select="/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']/node()"/>
-					</xsl:otherwise>
+					<!--</xsl:otherwise>-->
 				</xsl:choose>
 			</xsl:variable>
 			<xsl:variable name="periodical">
