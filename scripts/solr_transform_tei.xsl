@@ -706,6 +706,10 @@
 					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig = 'unsigned' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/reg ='unknown'">
 						<xsl:text>Anonymous</xsl:text>
 					</xsl:when>
+					<!--  if <reg>='unknown' and <orig> is not unsigned, take orig -->
+					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/reg ='unknown' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig != 'unsigned'">
+						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig"/>
+					</xsl:when>
 					<xsl:otherwise>
 						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
 					</xsl:otherwise>
