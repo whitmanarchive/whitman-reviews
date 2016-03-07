@@ -7,7 +7,7 @@
 	<xsl:output indent="yes" omit-xml-declaration="yes"/>
 	
 	<!-- ===================================
-	Correspondence
+	Reviews
 	=======================================-->
 	
         <!-- PARAMS -->
@@ -262,10 +262,23 @@
 					<xsl:when test="/TEI/teiHeader/fileDesc/titleStmt/author != ''">
 						<!-- All in one field -->
 						<field name="creator">
-							<xsl:for-each select="/TEI/teiHeader/fileDesc/titleStmt/author">
-								<xsl:value-of select="normalize-space(.)"/>
-								<xsl:if test="position() != last()"><xsl:text>; </xsl:text></xsl:if>
-							</xsl:for-each>
+							<xsl:choose>
+								<!-- for reviews -->
+								<xsl:when test="/TEI/teiHeader/fileDesc/titleStmt/author/choice/orig = 'unsigned' and /TEI/teiHeader/fileDesc/titleStmt/author/choice/reg = 'unknown'">
+									<xsl:text>Anonymous</xsl:text>
+								</xsl:when>
+								<!-- for reviews -->
+								<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key">
+									<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
+								</xsl:when>
+								<xsl:otherwise>
+									<xsl:for-each select="/TEI/teiHeader/fileDesc/titleStmt/author">
+										<xsl:value-of select="normalize-space(.)"/>
+										<xsl:if test="position() != last()"><xsl:text>; </xsl:text></xsl:if>
+									</xsl:for-each>
+								</xsl:otherwise>
+							</xsl:choose>
+							
 						</field>
 						<!-- Individual fields -->
 						
@@ -333,39 +346,17 @@
 				
 				<!-- date -->
 				
-				<!-- commented out because it's not working right -->
-		<!--<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date/@notBefore or /TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date/@when">
-			<xsl:variable name="doc_date">
-				<xsl:choose>
-					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date/@notBefore">
-						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore"/>
-					</xsl:when>
-					<xsl:otherwise>
-						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date[1]/@when"/>
-					</xsl:otherwise>
-				</xsl:choose>
 				
-			</xsl:variable>
-			
-			<field name="date">
-				<xsl:call-template name="date_standardize">
-					<xsl:with-param name="datebefore"><xsl:value-of select="substring($doc_date,1,10)"/></xsl:with-param>
-				</xsl:call-template>
-				
-			</field>
-			
-			<field name="dateDisplay">
-				<xsl:call-template name="extractDate">
-					<xsl:with-param name="date"
-						select="$doc_date"/>
-				</xsl:call-template>
-			</field>
-			
-		</xsl:if>-->
 		
 		<!-- Eighth field is the item date in human-readable format, pulled from the date in source description. -->
 		<field name="dateDisplay">
-			<xsl:value-of select="//sourceDesc/bibl/date"/>
+			<xsl:choose>
+				<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date">
+					<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"/>
+				</xsl:when>
+				<xsl:otherwise><xsl:value-of select="//sourceDesc/bibl/date"/></xsl:otherwise>
+			</xsl:choose>
+			
 		</field>
 		
 		
@@ -374,6 +365,9 @@
 			<xsl:choose>
 				<xsl:when test="//sourceDesc/bibl/date/attribute::notBefore">
 					<xsl:value-of select="//sourceDesc/bibl/date/attribute::notBefore"/>
+				</xsl:when>
+				<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@when">
+					<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@when"/>
 				</xsl:when>
 				<xsl:otherwise>
 					<xsl:value-of select="//sourceDesc/bibl/date/attribute::when"/>
@@ -413,12 +407,40 @@
 				<!-- relation -->
 				<!-- coverage -->
 				<!-- source -->
+		
+		<!-- whitman_source_sort_s so we can sort by periodical without the a an-->
+		
+		<xsl:choose>
+			<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j'] != ''">
+				<field name="source">
+					<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']"/>
+				</field>
+				<field name="whitman_source_sort_s">
+					<xsl:call-template name="normalize_name">
+						<xsl:with-param name="string">
+							<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']"/>
+						</xsl:with-param>
+					</xsl:call-template>
+				</field>
+			</xsl:when>
+			<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level='j'] != ''">
+				<field name="source">
+					<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level='j']"/>
+				</field>
+				<field name="whitman_source_sort_s">
+					<xsl:call-template name="normalize_name">
+						<xsl:with-param name="string">
+							<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level='j']"/>
+						</xsl:with-param>
+					</xsl:call-template>
+				</field>
+			</xsl:when>
+			<xsl:otherwise><!-- no source --></xsl:otherwise>
 				
-				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j'] != ''">
-					<field name="source">
-						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']"/>
-					</field>
-				</xsl:if>
+		</xsl:choose>
+		
+		
+		
 				
 				<!-- rightsHolder -->
 				
