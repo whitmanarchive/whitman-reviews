@@ -724,7 +724,16 @@
 				</xsl:choose>-->
 			</xsl:variable>
 			<xsl:variable name="periodical">
-				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"/>
+				<xsl:choose>
+					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']">
+						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"/>
+					</xsl:when>
+					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@type = 'm']">
+						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@type = 'm']"/>
+					</xsl:when>
+					<xsl:otherwise>ZZZZZZZZ</xsl:otherwise>
+				</xsl:choose>
+				
 			</xsl:variable>
 			<xsl:variable name="volume">
 				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"/>
