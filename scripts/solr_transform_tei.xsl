@@ -267,9 +267,14 @@
 								<xsl:when test="/TEI/teiHeader/fileDesc/titleStmt/author/choice/orig = 'unsigned' and /TEI/teiHeader/fileDesc/titleStmt/author/choice/reg = 'unknown'">
 									<xsl:text>Anonymous</xsl:text>
 								</xsl:when>
+								
+								<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/reg ='unknown' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig != 'unsigned'">
+									<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig"/>
+								</xsl:when>
+				
 								<!-- for reviews -->
 								<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key">
-									<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
+									<xsl:value-of select="translate(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key,'[]','')"/>
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:for-each select="/TEI/teiHeader/fileDesc/titleStmt/author">
