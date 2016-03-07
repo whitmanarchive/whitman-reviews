@@ -699,19 +699,29 @@
 		<field name="whitman_citation_s">
 			
 			<xsl:variable name="creator">
+				
 				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig = 'unsigned'"><xsl:text>[</xsl:text></xsl:if>
-				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
+				<xsl:choose>
+					<!-- when orig = unsigned and reg = unknown, assign author=Anonymous -kmd -->
+					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig = 'unsigned' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/reg ='unknown'">
+						<xsl:text>Anonymous</xsl:text>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
+					</xsl:otherwise>
+				</xsl:choose>
+				
 				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig= 'unsigned'"><xsl:text>]</xsl:text></xsl:if>
 			</xsl:variable>
 			<xsl:variable name="title">
-				<!--<xsl:choose>-->
-					<!--<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']">
+				<!--<xsl:choose>
+					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']">
 						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/title[@level = 'a']"/>
 					</xsl:when>
 					<xsl:otherwise>-->
 						<xsl:apply-templates select="/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']/node()"/>
-					<!--</xsl:otherwise>-->
-				<!--</xsl:choose>-->
+					<!--</xsl:otherwise>
+				</xsl:choose>-->
 			</xsl:variable>
 			<xsl:variable name="periodical">
 				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"/>
