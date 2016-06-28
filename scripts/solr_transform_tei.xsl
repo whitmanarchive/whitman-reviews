@@ -339,7 +339,8 @@
 			<xsl:otherwise/>
 		</xsl:choose>
 
-		<!-- All in one field -->
+<!-- I believe this is superceded by nhg's changes above -kmd  -->
+		<!--<!-\- All in one field -\->
 		<field name="creator">
 			<xsl:for-each-group
 				select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[@key]"
@@ -351,14 +352,14 @@
 				</xsl:if>
 			</xsl:for-each-group>
 		</field>
-		<!-- Individual fields -->
+		<!-\- Individual fields -\->
 		<xsl:for-each-group
 			select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[@key]"
 			group-by="string(@key)">
 			<field name="creators">
 				<xsl:value-of select="current-grouping-key()"/>
 			</field>
-		</xsl:for-each-group>
+		</xsl:for-each-group>-->
 
 
 		<!-- subject -->
