@@ -60,7 +60,7 @@
                         <title level="j">The Australasian</title>
                         <imprint>
                             <biblScope type="volume">118</biblScope>
-                            <date xml:id="dat1" cert="high" when="1845">4 July 1868</date>
+                            <date xml:id="dat1" cert="high" when="1868-07-04">4 July 1868</date>
                             <biblScope type="pages">8</biblScope>
                         </imprint>
                     </monogr>

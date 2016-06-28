@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" type="main" corresp="drum">[Review of <hi rend="italic">Drum-Taps</hi>]</title>
+            <title level="m" type="main" corresp="drum">[Review of <hi rend="italic">Drum-Taps</hi> and <hi rend="italic">Sequel to Drum-Taps</hi>]</title>
             <title level="m" type="sub">a machine readable transcription</title>
             <author>
                <choice>
@@ -19,7 +19,7 @@
                <persName xml:id="no">Natalie O'Neal</persName>
 <persName xml:id="el">Elizabeth Lorang</persName>
                <persName xml:id="ng">Nicole Gray</persName>
-               
+               <persName xml:id="sd">Sara Duke</persName>               
                
                
                <persName xml:id="vs">Vanessa Steinroetter</persName>
@@ -75,6 +75,7 @@
           <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
           </encodingDesc>
       <revisionDesc>
+         <change when="2016-03-30" who="#sd">updated title encoding in TEI header</change>
          <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>

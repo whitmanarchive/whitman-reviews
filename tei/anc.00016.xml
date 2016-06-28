@@ -18,7 +18,7 @@
                <resp>Transcription and encoding</resp>
                <persName xml:id="no">Natalie O'Neal</persName>
 <persName xml:id="el">Elizabeth Lorang</persName>
-               
+               <persName xml:id="sd">Sara Duke</persName>
                
                
                <persName xml:id="vs">Vanessa Steinroetter</persName>
@@ -63,7 +63,7 @@
                   <title level="j">The Criterion</title>
                   <imprint>
                      <date when="1855-11-10">10 November 1855</date>
-                     <biblScope type="pages">[unknown]</biblScope>
+                     <biblScope type="pages">[24]</biblScope>
                   </imprint>
                </monogr>
                
@@ -74,6 +74,7 @@
           <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
           </encodingDesc>
       <revisionDesc>
+         <change when="2016-03-30" who="#sd">updated page number</change>
          <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>

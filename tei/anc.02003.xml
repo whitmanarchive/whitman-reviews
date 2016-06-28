@@ -7,12 +7,7 @@
                 <title level="m" type="main" corresp="boughs">Concerning Old and New Books</title>
                 <title level="m" type="sub">[Review of <hi rend="italic">November Boughs</hi>]</title>
                 <title level="a" type="sub">a machine readable transcription</title>
-                <author>
-                    <choice>
-                        <orig>Mrs. D. H. R. Goodale</orig>
-                        <reg>unknown</reg>
-                    </choice>
-                </author>
+                <author>Mrs. D. H. R. Goodale</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
@@ -21,6 +16,7 @@
                     <persName xml:id="kb">Kyle Barton</persName>
                     <persName xml:id="jc">Janel Cayer</persName>
                     <persName xml:id="el">Elizabeth Lorang</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
                 </respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
@@ -48,12 +44,7 @@
             <sourceDesc>
                 <biblStruct>
                     <analytic>
-                        <author key="unknown">
-                            <choice>
-                            <orig>Mrs. D. H. R. Goodale</orig>
-                            <reg>unknown</reg>
-                        </choice>
-                        </author>
+                        <author key="Goodale, Mrs. D. H. R.">Mrs. D. H. R. Goodale</author>
                         <title level="a">Concerning Old and New Books</title>
                     </analytic>
                     <monogr>
@@ -72,6 +63,7 @@
        </encodingDesc>
         
         <revisionDesc>
+            <change when="2016-05-05" who="#nhg">updated author encoding in TEI header</change>
             <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
             <change when="2012-09-25" who="#jc">blessed</change>

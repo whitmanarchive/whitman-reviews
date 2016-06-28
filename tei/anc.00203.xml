@@ -11,7 +11,7 @@
           <author>
                 <choice>
                    <orig>unsigned</orig>
-                   <reg>unknown</reg>
+                   <reg>Robert Dudley Adams</reg>
                 </choice>
              </author>
             <editor>Kenneth M. Price</editor>
@@ -54,15 +54,16 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <author key="unknown">
+                  <author key="Adams, Robert Dudley">
                      <choice><orig>unsigned</orig>
-                        <reg>unknown</reg></choice>
+                        <reg>Robert Dudley Adams</reg></choice>
                   </author>
                   <title level="a">Walt Whitman, the American Poet</title>
                </analytic>
                <monogr>
                   <title level="j">The Evening News</title>
                   <imprint>
+                     <pubPlace>Sidney (New South Wales, Australia)</pubPlace>
                      <date when="1876-05">May 1876</date>
                      <biblScope type="pages">15-6</biblScope>
                   </imprint>

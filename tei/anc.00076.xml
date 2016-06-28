@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" type="main" corresp="lg1871">[Review of <hi rend="italic">Leaves of Grass</hi> (1871–72)]</title>
+            <title level="m" type="main" corresp="lg1871">Leaves of Grass</title>
             <title level="m" type="sub">a machine readable transcription</title>
             <author>George Saintsbury</author>
             <editor>Kenneth M. Price</editor>
@@ -13,7 +13,7 @@
                <resp>Transcription and encoding</resp>
                <persName xml:id="no">Natalie O'Neal</persName>
 <persName xml:id="el">Elizabeth Lorang</persName><persName xml:id="vs">Vanessa Steinroetter</persName>
-               <persName xml:id="ts">Todd Stabley</persName>
+               <persName xml:id="ts">Todd Stabley</persName><persName xml:id="nhg">Nicole Gray</persName>
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -47,7 +47,7 @@
                <monogr>
                   <title level="j">The Academy</title>
                   <imprint>
-                     <date when="1874-10-10">10 Oct 1874</date>
+                     <date when="1874-10-10">10 October 1874</date>
                      <biblScope type="volume">6</biblScope>
                      <biblScope type="pages">398-400</biblScope>
                   </imprint>
@@ -59,6 +59,7 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
+         <change when="2016-05-05" who="#nhg">updated title</change>
          <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>

@@ -21,6 +21,7 @@
                <persName xml:id="no">Natalie O'Neal</persName>
 <persName xml:id="el">Elizabeth Lorang</persName>
                <persName xml:id="bb">Brett Barney</persName>
+               <persName xml:id="sd">Sara Duke</persName>
                
                
                
@@ -66,7 +67,7 @@
                   <imprint>
                      <biblScope type="volume">1</biblScope>
                      <date when="1856-03-15">15 March 1856</date>
-                     <biblScope type="pages">[unknown]</biblScope>
+                     <biblScope type="pages">[393&#8211;4]</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>
@@ -76,6 +77,7 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
+         <change when="2016-03-30" who="#sd">updated page number</change>
 <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>

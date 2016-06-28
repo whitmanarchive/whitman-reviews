@@ -7,7 +7,7 @@
 	<xsl:output indent="yes" omit-xml-declaration="yes"/>
 	
 	<!-- ===================================
-	Correspondence
+	Reviews
 	=======================================-->
 	
         <!-- PARAMS -->
@@ -233,6 +233,7 @@
 					<xsl:choose>
 						<xsl:when test="/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']">
 							<xsl:value-of select="/TEI/teiHeader/fileDesc/titleStmt/title[@type='main'][1]"/>
+							<!--<xsl:value-of select="translate(translate(string(/TEI/teiHeader/fileDesc/titleStmt/title[@type='main'][1]),'&quot;',''),'&apos;','')"/>-->
 						</xsl:when>
 						<xsl:otherwise>
 							<xsl:value-of select="/TEI/teiHeader/fileDesc/titleStmt/title[1]"/>
@@ -257,30 +258,27 @@
 				<!-- creator -->
 				<!-- creators -->
 				
-				<xsl:choose>
-					<!-- When handled in header -->
+				<!--old handling; updated so sort would work correctly. -nhg, 5/10/16-->
+				<!--<xsl:choose>
+					<!-\- When handled in header -\->
 					<xsl:when test="/TEI/teiHeader/fileDesc/titleStmt/author != ''">
-						<!-- All in one field -->
+						<!-\- All in one field -\->
 						<field name="creator">
 							<xsl:for-each select="/TEI/teiHeader/fileDesc/titleStmt/author">
 								<xsl:value-of select="normalize-space(.)"/>
 								<xsl:if test="position() != last()"><xsl:text>; </xsl:text></xsl:if>
 							</xsl:for-each>
 						</field>
-						<!-- Individual fields -->
-						
+						<!-\- Individual fields -\->
 						<xsl:for-each select="/TEI/teiHeader/fileDesc/titleStmt/author">
 							<field name="creators">
 								<xsl:value-of select="."></xsl:value-of>
 							</field>
 						</xsl:for-each>
-						
-						
 					</xsl:when>
-					
-					<!-- When handled in document -->
+					<!-\- When handled in document -\->
 					<xsl:when test="//persName[@type = 'author']">
-						<!-- All in one field -->
+						<!-\- All in one field -\->
 						<field name="creator">
 							<xsl:for-each-group select="//persName[@type = 'author']" group-by="substring-after(@key,'#')">
 								<xsl:sort select="substring-after(@key,'#')"/>
@@ -288,16 +286,31 @@
 								<xsl:if test="position() != last()"><xsl:text>; </xsl:text></xsl:if>
 							</xsl:for-each-group>
 						</field>
-						<!-- Individual fields -->
+						<!-\- Individual fields -\->
 						<xsl:for-each-group select="//persName[@type = 'author']" group-by="substring-after(@key,'#')">
 							<field name="creators">
 								<xsl:value-of select="current-grouping-key()"></xsl:value-of>
 							</field>
 						</xsl:for-each-group>
 					</xsl:when>
-					
 					<xsl:otherwise></xsl:otherwise>
-				</xsl:choose>
+				</xsl:choose>-->
+		
+				<!-- All in one field -->
+				<field name="creator">
+					<xsl:for-each-group select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[@key]" group-by="string(@key)">
+						<xsl:sort select="string(@key)"/>
+						<xsl:value-of select="current-grouping-key()"/>
+						<xsl:if test="position() != last()"><xsl:text>; </xsl:text></xsl:if>
+					</xsl:for-each-group>
+				</field>
+				<!-- Individual fields -->
+		<xsl:for-each-group select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[@key]" group-by="string(@key)">
+					<field name="creators">
+						<xsl:value-of select="current-grouping-key()"></xsl:value-of>
+					</field>
+				</xsl:for-each-group>
+
 				
 				<!-- subject -->
 				<!-- subjects -->
@@ -365,18 +378,18 @@
 		
 		<!-- Eighth field is the item date in human-readable format, pulled from the date in source description. -->
 		<field name="dateDisplay">
-			<xsl:value-of select="//sourceDesc/bibl/date"/>
+			<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"/>
 		</field>
 		
 		
 		<!-- Ninth field is a sortable version of the date in the format yyyy-mm-dd pulled from @when or @notBefore on date element in the source description. -->
 		<field name="date">
 			<xsl:choose>
-				<xsl:when test="//sourceDesc/bibl/date/attribute::notBefore">
-					<xsl:value-of select="//sourceDesc/bibl/date/attribute::notBefore"/>
+				<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/attribute::notBefore">
+					<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/attribute::notBefore"/>
 				</xsl:when>
 				<xsl:otherwise>
-					<xsl:value-of select="//sourceDesc/bibl/date/attribute::when"/>
+					<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/attribute::when"/>
 				</xsl:otherwise>
 			</xsl:choose>
 		</field>
@@ -414,11 +427,16 @@
 				<!-- coverage -->
 				<!-- source -->
 				
-				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j'] != ''">
+				
 					<field name="source">
-						<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']"/>
+						<xsl:choose>
+							<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level='j']">
+								<xsl:choose><xsl:when test="contains(string(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level='j']), 'The')"><xsl:value-of select="substring-after(string(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/title[@level='j']),'The ')"/></xsl:when>
+								<xsl:otherwise><xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/title[@level='j']"/></xsl:otherwise>
+							</xsl:choose></xsl:when>
+							<xsl:otherwise><xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level='m']"/></xsl:otherwise></xsl:choose>
 					</field>
-				</xsl:if>
+				
 				
 				<!-- rightsHolder -->
 				
@@ -633,7 +651,8 @@
 					
 					
 					<!-- Footnotes -->
-					<xsl:for-each select="//ptr">
+					<!--commented out footnotes from correspondence-->
+					<!--<xsl:for-each select="//ptr">
 						<xsl:variable name="ptr_target">
 							<xsl:value-of select="@target"></xsl:value-of>
 						</xsl:variable>                            
@@ -646,7 +665,7 @@
 							<xsl:value-of select="@ref"/>
 						</xsl:variable>
 						<xsl:value-of select="document('notes.xml')//body/descendant::note[@xml:id=$ref_target]"/><xsl:text>&#13;</xsl:text>
-					</xsl:for-each>
+					</xsl:for-each>-->
 				</field>
 				
 				<!-- ==============
@@ -677,9 +696,26 @@
 		<field name="whitman_citation_s">
 			
 			<xsl:variable name="creator">
-				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig = 'unsigned'"><xsl:text>[</xsl:text></xsl:if>
-				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
-				<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig= 'unsigned'"><xsl:text>]</xsl:text></xsl:if>
+				<xsl:choose>
+					<xsl:when test="count(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author) = 2">
+						<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig"><xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg!='unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig='unsigned'"><xsl:text>[</xsl:text></xsl:if></xsl:if>
+						<xsl:choose>
+							<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig='unsigned' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg='unknown'"><xsl:text>Anonymous</xsl:text></xsl:when>
+							<xsl:otherwise><xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/@key"/></xsl:otherwise></xsl:choose>
+						<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig"><xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg!='unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig='unsigned'"><xsl:text>]</xsl:text></xsl:if></xsl:if><xsl:text>; </xsl:text>
+						<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/orig"><xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/reg!='unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/orig='unsigned'"><xsl:text>[</xsl:text></xsl:if></xsl:if>
+						<xsl:choose>
+							<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/orig='unsigned' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/reg='unknown'"><xsl:text>Anonymous</xsl:text></xsl:when>
+							<xsl:otherwise><xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/@key"/></xsl:otherwise></xsl:choose>
+						<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/orig"><xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg!='unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig='unsigned'"><xsl:text>]</xsl:text></xsl:if></xsl:if>
+					</xsl:when>
+					<xsl:otherwise><!--<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig = 'unsigned'"><xsl:text>[</xsl:text></xsl:if>-->
+						<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig"><xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg!='unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig='unsigned'"><xsl:text>[</xsl:text></xsl:if></xsl:if>
+				<xsl:choose>
+					<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig='unsigned' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/reg='unknown'"><xsl:text>Anonymous</xsl:text></xsl:when>
+					<xsl:otherwise><xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/></xsl:otherwise></xsl:choose>
+						<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig"><xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg!='unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig='unsigned'"><xsl:text>]</xsl:text></xsl:if></xsl:if>
+				<!--<xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig= 'unsigned'"><xsl:text>]</xsl:text></xsl:if>--></xsl:otherwise></xsl:choose>
 			</xsl:variable>
 			<xsl:variable name="title">
 				<!--<xsl:choose>-->
@@ -692,7 +728,9 @@
 				<!--</xsl:choose>-->
 			</xsl:variable>
 			<xsl:variable name="periodical">
-				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"/>
+				<xsl:choose><xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"><xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"/></xsl:when>
+					<xsl:otherwise><xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'm']"/></xsl:otherwise>
+				</xsl:choose>
 			</xsl:variable>
 			<xsl:variable name="volume">
 				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type='volume']"/>

@@ -4,7 +4,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" type="main" corresp="fancy">[Review of <hi rend="italic">Good-bye My Fancy</hi>]</title>
+            <title level="m" type="main" corresp="fancy">Queen Nathalie.&#8212;Walt Whitman.&#8212;The Young Emperor.</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Good-bye, My Fancy</hi>]</title>
             <title level="m" type="sub">a machine readable transcription</title>
             
           <author>
@@ -24,6 +25,7 @@
                
                <persName xml:id="vs">Vanessa Steinroetter</persName>
                <persName xml:id="ts">Todd Stabley</persName>
+               <persName xml:id="nhg">Nicole Gray</persName>            
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -73,6 +75,7 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
+         <change when="2016-04-12" who="#nhg">updated title</change>
 <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>

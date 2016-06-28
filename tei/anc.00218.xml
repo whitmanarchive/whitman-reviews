@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" type="main" corresp="lg1881">Elmina</title>
+            <title level="m" type="main" corresp="lg1881">Suggestions and Advice to Mothers</title>
             <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
             <title level="m" type="sub">a machine readable transcription</title>
             
@@ -26,6 +26,7 @@
                
                
                <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="nhg">Nicole Gray</persName>
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -54,7 +55,7 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <author key="unknown">
+                  <author key="Elmina">
                      <choice>
                         <orig>Elmina</orig>
                         <reg>unknown</reg>
@@ -76,6 +77,7 @@
          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff and affiliates, who transcribed the text from a representation of the original (e.g., photocopy, digital scan or other electronic reproduction, microfilm copy). The electronic text was originally prepared in Microsoft Word for submission to the <title level="j">Walt Whitman Quarterly Review</title>. The transcription was then exported from Microsoft Word as plain text and encoded for publication on the <title level="m">Whitman Archive</title>.</p>
       </encodingDesc>
       <revisionDesc>
+         <change when="2016-05-09" who="#nhg">corrected title</change>
          <change when="2016-01-13" who="#el">updated author encoding in TEI header</change>
          <change who="#el" when="2015-10-19">updated rights statement and added encoding description to TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>
