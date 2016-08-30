@@ -107,6 +107,18 @@
         
         <xsl:text> </xsl:text>
         
+        <!-- ========================
+            Source
+            ========================= -->
+        
+        <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j'])"/>
+        <xsl:text> </xsl:text>
+        <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'j'])"/>
+        <xsl:text> </xsl:text>
+        <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'm'])"/>
+        <xsl:text> </xsl:text>
+        
+        
         
         
     </xsl:template>

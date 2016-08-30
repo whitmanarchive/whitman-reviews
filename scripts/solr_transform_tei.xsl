@@ -476,68 +476,37 @@
 		<!-- relation -->
 		<!-- coverage -->
 		<!-- source -->
+		
 
 		<!-- whitman_source_sort_s so we can sort by periodical without the a an-->
-
-		<xsl:choose>
-			<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j'] != ''">
-				<field name="source">
-					<xsl:value-of
-						select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j']"/>
-				</field>
-				<field name="whitman_source_sort_s">
-					<xsl:call-template name="normalize_name">
-						<xsl:with-param name="string">
-							<xsl:value-of
-								select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j']"
-							/>
-						</xsl:with-param>
-					</xsl:call-template>
-				</field>
-			</xsl:when>
-			<xsl:when
-				test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j'] != ''">
-				<field name="source">
-					<xsl:choose>
-						<xsl:when
-							test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']">
-							<xsl:choose>
-								<xsl:when
-									test="contains(string(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']), 'The')">
-									<xsl:value-of
-										select="substring-after(string(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/title[@level = 'j']), 'The ')"
-									/>
-								</xsl:when>
-								<xsl:otherwise>
-									<xsl:value-of
-										select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/title[@level = 'j']"
-									/>
-								</xsl:otherwise>
-							</xsl:choose>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:value-of
-								select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'm']"
-							/>
-						</xsl:otherwise>
-					</xsl:choose>
-				</field>
-				<field name="whitman_source_sort_s">
-					<xsl:call-template name="normalize_name">
-						<xsl:with-param name="string">
-							<xsl:value-of
-								select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"
-							/>
-						</xsl:with-param>
-					</xsl:call-template>
-				</field>
-			</xsl:when>
-			<xsl:otherwise><!-- no source --></xsl:otherwise>
-
-
-		</xsl:choose>
-
-
+		
+		<!-- I am assuming that only one of these will hit. If multiples hit, we'll need to do a choose. -->
+		<xsl:variable name="tei_source">
+			<xsl:for-each select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j'])">
+				<xsl:value-of select="."/>
+			</xsl:for-each>
+			<xsl:for-each select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'j'])">
+				<xsl:value-of select="."/>
+			</xsl:for-each>
+			<xsl:for-each select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'm'])">
+				<xsl:value-of select="."/>
+			</xsl:for-each>
+		</xsl:variable>
+		
+		<xsl:if test="not($tei_source = '')">
+			<field name="source">
+				<xsl:value-of select="$tei_source"/>
+			</field>
+			<field name="whitman_source_sort_s">
+				<xsl:call-template name="normalize_name">
+					<xsl:with-param name="string">
+						<xsl:value-of select="$tei_source"/>
+					</xsl:with-param>
+				</xsl:call-template>
+			</field>
+		</xsl:if>
+		
+	
 
 		<!-- rightsHolder -->
 
