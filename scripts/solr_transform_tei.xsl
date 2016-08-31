@@ -235,71 +235,29 @@
     </xsl:for-each>
 
     <!--whitman_citation-->
-    <!-- TODO consider options to refactor -->
     <field name="whitman_citation_s">
       <xsl:variable name="creator">
-        <xsl:choose>
-          <xsl:when test="count(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author) = 2">
-            <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig">
-              <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg != 'unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig = 'unsigned'">
-                <xsl:text>[</xsl:text>
-              </xsl:if>
-            </xsl:if>
-            <xsl:choose>
-              <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig = 'unsigned' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg = 'unknown'">
-                <xsl:text>Anonymous</xsl:text>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/@key"/>
-              </xsl:otherwise>
-            </xsl:choose>
-            <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig">
-              <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg != 'unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig = 'unsigned'">
-                <xsl:text>]</xsl:text>
-              </xsl:if>
-            </xsl:if>
-            <xsl:text>; </xsl:text>
-            <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/orig">
-              <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/reg != 'unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/orig = 'unsigned'">
-                <xsl:text>[</xsl:text>
-              </xsl:if>
-            </xsl:if>
-            <xsl:choose>
-              <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/orig = 'unsigned' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/reg = 'unknown'">
-                <xsl:text>Anonymous</xsl:text>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/@key"/>
-              </xsl:otherwise>
-            </xsl:choose>
-            <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[2]/choice/orig">
-              <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg != 'unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig = 'unsigned'">
-                <xsl:text>]</xsl:text>
-              </xsl:if>
-            </xsl:if>
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig">
-              <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg != 'unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig = 'unsigned'">
-                <xsl:text>[</xsl:text>
-              </xsl:if>
-            </xsl:if>
-            <xsl:choose>
-              <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig = 'unsigned' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/reg = 'unknown'">
-                <xsl:text>Anonymous</xsl:text>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key"/>
-              </xsl:otherwise>
-            </xsl:choose>
-            <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig">
-              <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/reg != 'unknown' or /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author[1]/choice/orig = 'unsigned'">
-                <xsl:text>]</xsl:text>
-              </xsl:if>
-            </xsl:if>
-          </xsl:otherwise>
-        </xsl:choose>
+        <xsl:variable name="creatorNum" select="count(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author)"/>
+        <xsl:for-each select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author">
+          <xsl:variable name="index" select="position()"/>
+          <!-- author is anonymous if both unsigned and unknown -->
+          <xsl:variable name="anon" select="if (choice/orig = 'unsigned' and choice/reg = 'unknown') then '1' else '0'"/>
+          <!-- author is bracketless if something something please ask nhgray and not jduss4 about it :( -->
+          <xsl:variable name="brackets" select="if (choice/orig = 'unsigned' or choice/reg != 'unknown') then '1' else '0'"/>
+          <xsl:choose>
+            <xsl:when test="$anon = '0' and $brackets = '1'">
+              [<xsl:value-of select="@key"/>]
+            </xsl:when>
+            <xsl:when test="$anon = '0' and $brackets = '0'">
+              <xsl:value-of select="@key"/>
+            </xsl:when>
+            <xsl:otherwise>[Anonymous]</xsl:otherwise>
+          </xsl:choose>
+          <!-- if only one or if last, do not add divider -->
+          <xsl:value-of select="if ($index = $creatorNum or $creatorNum = 1) then '' else '; '"/>
+        </xsl:for-each>
       </xsl:variable>
+
       <xsl:variable name="title">
         <xsl:apply-templates
           select="/TEI/teiHeader/fileDesc/titleStmt/title[@type = 'main']/node()"/>
@@ -329,7 +287,7 @@
       <xsl:variable name="pages">
         <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type = 'pages']"/>
       </xsl:variable>
-      <xsl:value-of select="$creator"/>
+      <xsl:value-of select="normalize-space($creator)"/>
       <xsl:text>, "</xsl:text>
       <!-- Add to this a check to see if there is a ", and if so, changing it to a ' todo kmd-->
       <xsl:variable name="quote">&quot;</xsl:variable>
