@@ -139,12 +139,13 @@
   <!-- ========== date and dateDisplay ========== -->
 
   <xsl:template name="date">
+    <xsl:variable name="monogr" select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr"/>
     <!-- Eighth field is the item date in human-readable format, pulled from the date in source description. -->
     <field name="dateDisplay">
       <xsl:choose>
-        <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date">
+        <xsl:when test="$monogr/imprint/date">
           <xsl:value-of
-            select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"/>
+            select="$monogr/imprint/date"/>
         </xsl:when>
         <xsl:otherwise>
           <xsl:value-of select="//sourceDesc/bibl/date"/>
@@ -156,15 +157,15 @@
     <field name="date">
       <xsl:choose>
         <xsl:when
-          test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/attribute::notBefore">
-          <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/attribute::notBefore"/>
+          test="$monogr/imprint/date/attribute::notBefore">
+          <xsl:value-of select="$monogr/imprint/date/attribute::notBefore"/>
         </xsl:when>
         <xsl:when
-          test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@when">
-          <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@when"/>
+          test="$monogr/imprint/date/@when">
+          <xsl:value-of select="$monogr/imprint/date/@when"/>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/attribute::when"/>
+          <xsl:value-of select="$monogr/imprint/date/attribute::when"/>
         </xsl:otherwise>
       </xsl:choose>
     </field>
@@ -257,35 +258,35 @@
           <xsl:value-of select="if ($index = $creatorNum or $creatorNum = 1) then '' else '; '"/>
         </xsl:for-each>
       </xsl:variable>
-
       <xsl:variable name="title">
-        <xsl:apply-templates
-          select="/TEI/teiHeader/fileDesc/titleStmt/title[@type = 'main']/node()"/>
+        <xsl:apply-templates select="/TEI/teiHeader/fileDesc/titleStmt/title[@type = 'main']/node()"/>
       </xsl:variable>
+      <!-- pull the monogr path out to reuse below -->
+      <xsl:variable name="monogr" select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr"/>
       <xsl:variable name="periodical">
         <xsl:choose>
-          <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']">
-            <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'j']"/>
+          <xsl:when test="$monogr/title[@level = 'j']">
+            <xsl:value-of select="$monogr/title[@level = 'j']"/>
           </xsl:when>
           <xsl:otherwise>
-            <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/title[@level = 'm']"/>
+            <xsl:value-of select="$monogr/title[@level = 'm']"/>
           </xsl:otherwise>
         </xsl:choose>
       </xsl:variable>
       <xsl:variable name="volume">
-        <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type = 'volume']"/>
+        <xsl:value-of select="$monogr/imprint/biblScope[@type = 'volume']"/>
       </xsl:variable>
       <xsl:variable name="date">
-        <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type = 'volume']">
+        <xsl:if test="$monogr/imprint/biblScope[@type = 'volume']">
           <xsl:text>(</xsl:text>
         </xsl:if>
-        <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"/>
-        <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type = 'volume']">
+        <xsl:value-of select="$monogr/imprint/date"/>
+        <xsl:if test="$monogr/imprint/biblScope[@type = 'volume']">
           <xsl:text>)</xsl:text>
         </xsl:if>
       </xsl:variable>
       <xsl:variable name="pages">
-        <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/biblScope[@type = 'pages']"/>
+        <xsl:value-of select="$monogr/imprint/biblScope[@type = 'pages']"/>
       </xsl:variable>
       <xsl:value-of select="normalize-space($creator)"/>
       <xsl:text>, "</xsl:text>
