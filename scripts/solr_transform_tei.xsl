@@ -67,35 +67,30 @@
   </xsl:template>
 
   <!-- ========== creators ========== -->
-  <!-- TODO look into refactoring -->
 
   <xsl:template name="creators">
     <xsl:choose>
       <!-- When handled in header -->
       <xsl:when test="/TEI/teiHeader/fileDesc/titleStmt/author != ''">
+        <xsl:variable name="titleAuth" select="/TEI/teiHeader/fileDesc/titleStmt/author"/>
+        <xsl:variable name="biblAuth" select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author"/>
         <!-- All in one field -->
         <field name="creator">
           <xsl:choose>
             <!-- for reviews -->
-            <xsl:when
-              test="/TEI/teiHeader/fileDesc/titleStmt/author/choice/orig = 'unsigned' and /TEI/teiHeader/fileDesc/titleStmt/author/choice/reg = 'unknown'">
+            <xsl:when test="$titleAuth/choice/reg = 'unknown'
+                        and $titleAuth/choice/orig = 'unsigned'">
               <xsl:text>Anonymous</xsl:text>
             </xsl:when>
-            <xsl:when
-              test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/reg = 'unknown' and /TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig != 'unsigned'">
-              <xsl:value-of
-                select="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/choice/orig"
-              />
+            <xsl:when test="$biblAuth/choice/reg = 'unknown'
+                        and $biblAuth/choice/orig != 'unsigned'">
+              <xsl:value-of select="$biblAuth/choice/orig"/>
             </xsl:when>
-            <!-- for reviews -->
-            <xsl:when
-              test="/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key">
-              <xsl:value-of
-                select="translate(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author/@key, '[]', '')"
-              />
+            <xsl:when test="$biblAuth/@key">
+              <xsl:value-of select="translate($biblAuth/@key, '[]', '')"/>
             </xsl:when>
             <xsl:otherwise>
-              <xsl:for-each select="/TEI/teiHeader/fileDesc/titleStmt/author">
+              <xsl:for-each select="$titleAuth">
                 <xsl:value-of select="normalize-space(.)"/>
                 <xsl:if test="position() != last()">
                   <xsl:text>; </xsl:text>
@@ -156,22 +151,21 @@
     <!-- Ninth field is a sortable version of the date in the format yyyy-mm-dd pulled from @when or @notBefore on date element in the source description. -->
     <field name="date">
       <xsl:choose>
-        <xsl:when
-          test="$monogr/imprint/date/attribute::notBefore">
-          <xsl:value-of select="$monogr/imprint/date/attribute::notBefore"/>
+        <xsl:when test="$monogr/imprint/date/@notBefore">
+          <xsl:value-of select="$monogr/imprint/date/@notBefore"/>
         </xsl:when>
-        <xsl:when
-          test="$monogr/imprint/date/@when">
+        <xsl:when test="$monogr/imprint/date/@when">
           <xsl:value-of select="$monogr/imprint/date/@when"/>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:value-of select="$monogr/imprint/date/attribute::when"/>
+          <xsl:value-of select="$monogr/imprint/date/@when"/>
         </xsl:otherwise>
       </xsl:choose>
     </field>
   </xsl:template>
 
   <!-- ========== source ========== -->
+  <!-- ========== whitman_source_sort_s ========== -->
 
   <xsl:template name="source">
     <!-- whitman_source_sort_s so we can sort by periodical without the a an-->
@@ -225,6 +219,7 @@
     <!--whitman_tei-corresp_data-->
 
   <!-- ========== whitman_tei-corresp_data_ss ========== -->
+  <!-- NOTE: Uses external reviews_name_index.xml file -->
 
     <xsl:for-each select="tokenize(/TEI/teiHeader/fileDesc/titleStmt/title/@corresp, ' ')">
       <xsl:variable name="title_id" select="."/>
