@@ -171,6 +171,8 @@
     </field>
   </xsl:template>
 
+  <!-- ========== source ========== -->
+
   <xsl:template name="source">
     <!-- whitman_source_sort_s so we can sort by periodical without the a an-->
     <!-- I am assuming that only one of these will hit. If multiples hit, we'll need to do a choose. -->
@@ -200,6 +202,8 @@
     </xsl:if>
   </xsl:template>
 
+  <!-- ========== source for text copyfield ========== -->
+
   <xsl:template name="text_source">
     <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j'])"/>
     <xsl:text> </xsl:text>
@@ -209,6 +213,8 @@
     <xsl:text> </xsl:text>
   </xsl:template>
 
+  <!-- ========== fields specifically for this project ========== -->
+
   <xsl:template name="other_fields">
     <!-- ==============
     Whitman Specific
@@ -217,6 +223,8 @@
     <!--whitman_tei-corresp_id-->
     <!--whitman_tei-corresp_title-->
     <!--whitman_tei-corresp_data-->
+
+  <!-- ========== whitman_tei-corresp_data_ss ========== -->
 
     <xsl:for-each select="tokenize(/TEI/teiHeader/fileDesc/titleStmt/title/@corresp, ' ')">
       <xsl:variable name="title_id" select="."/>
@@ -235,7 +243,8 @@
       </field>
     </xsl:for-each>
 
-    <!--whitman_citation-->
+  <!-- ========== whitman_citation_s ========== -->
+
     <field name="whitman_citation_s">
       <xsl:variable name="creator">
         <xsl:variable name="creatorNum" select="count(/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author)"/>
@@ -293,16 +302,13 @@
       <!-- Add to this a check to see if there is a ", and if so, changing it to a ' todo kmd-->
       <xsl:variable name="quote">&quot;</xsl:variable>
       <xsl:variable name="apos">&apos;</xsl:variable>
-      <xsl:copy-of select="translate($title, $quote, $apos)"/>
-      <xsl:text>," </xsl:text>
+      <xsl:copy-of select="translate($title, $quote, $apos)"/><xsl:text>," </xsl:text>
       <xsl:text>{em}</xsl:text>
       <xsl:value-of select="$periodical"/>
       <xsl:text>{/em}</xsl:text>
       <xsl:text> </xsl:text>
-      <xsl:value-of select="$volume"/>
-      <xsl:text> </xsl:text>
-      <xsl:value-of select="$date"/>
-      <xsl:text>: </xsl:text>
+      <xsl:value-of select="$volume"/><xsl:text> </xsl:text>
+      <xsl:value-of select="$date"/><xsl:text>: </xsl:text>
       <xsl:value-of select="$pages"/>
     </field>
   </xsl:template>
