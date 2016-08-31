@@ -199,47 +199,6 @@
     </xsl:if>
   </xsl:template>
 
-  <!-- TODO compare this against the correspondence and consider refactoring -->
-  <xsl:template name="recipients">
-    <xsl:if test="/TEI/teiHeader/profileDesc/particDesc/person/@role = 'recipient'">
-      <!-- All in one field -->
-      <field name="recipient">
-        <xsl:if test="count(//person[@role = 'recipient']) = 1">
-          <xsl:value-of select="//person[@role = 'recipient']/persName/attribute::key"/>
-        </xsl:if>
-        <xsl:if test="count(//person[@role = 'recipient']) = 2">
-          <xsl:value-of select="//person[@role = 'recipient'][1]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role = 'recipient'][2]/persName/attribute::key"
-          />
-        </xsl:if>
-        <xsl:if test="count(//person[@role = 'recipient']) = 3">
-          <xsl:value-of select="//person[@role = 'recipient'][1]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role = 'recipient'][2]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role = 'recipient'][3]/persName/attribute::key"
-          />
-        </xsl:if>
-        <xsl:if test="count(//person[@role = 'recipient']) &gt; 3">
-          <xsl:value-of select="//person[@role = 'recipient'][1]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role = 'recipient'][2]/persName/attribute::key"/>
-          <xsl:text>; </xsl:text>
-          <xsl:value-of select="//person[@role = 'recipient'][3]/persName/attribute::key"/>
-          <xsl:text> and others</xsl:text>
-        </xsl:if>
-      </field>
-      <!-- Individual fields -->
-      <xsl:for-each
-        select="/TEI/teiHeader/profileDesc/particDesc/person[@role = 'recipient']/persName/@key">
-        <field name="recipients">
-          <xsl:value-of select="."/>
-        </field>
-      </xsl:for-each>
-    </xsl:if>
-  </xsl:template>
-
   <xsl:template name="text_source">
     <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j'])"/>
     <xsl:text> </xsl:text>
