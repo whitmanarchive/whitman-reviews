@@ -87,7 +87,10 @@
               <xsl:value-of select="$biblAuth/choice/orig"/>
             </xsl:when>
             <xsl:when test="$biblAuth/@key">
-              <xsl:value-of select="translate($biblAuth/@key, '[]', '')"/>
+              <xsl:variable name="biblAuthors">
+                <xsl:value-of select="$biblAuth/@key" separator="; "/>
+              </xsl:variable>
+              <xsl:value-of select="translate($biblAuthors, '[]', '')"/>
             </xsl:when>
             <xsl:otherwise>
               <xsl:for-each select="$titleAuth">
