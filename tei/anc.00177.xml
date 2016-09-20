@@ -10,13 +10,7 @@
             <author>
                <choice>
                   <orig>unsigned</orig>
-                  <reg>Henry Clapp</reg>
-               </choice>
-            </author>
-            <author>
-               <choice>
-                  <orig>unsigned</orig>
-                  <reg>Walt Whitman</reg>
+                  <reg>Walt Whitman and Henry Clapp</reg>
                </choice>
             </author>
             <editor>Kenneth M. Price</editor>
@@ -59,16 +53,10 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <author key="Clapp, Henry">
+                  <author key="Whitman, Walt, and Henry Clapp">
                      <choice>
                         <orig>unsigned</orig>
-                        <reg>Henry Clapp</reg>
-                     </choice>
-                  </author>
-                  <author key="Whitman, Walt">
-                     <choice>
-                        <orig>unsigned</orig>
-                        <reg>Walt Whitman</reg>
+                        <reg>Walt Whitman and Henry Clapp</reg>
                      </choice>
                   </author>
                   <title level="a">Walt. Whitman's New Poem</title>

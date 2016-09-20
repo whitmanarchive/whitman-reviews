@@ -10,15 +10,10 @@
             <author>
                <choice>
                   <orig>unsigned</orig>
-                  <reg>Sylvester Baxter</reg>
+                  <reg>Walt Whitman and Sylvester Baxter</reg>
                </choice>
             </author>
-            <author>
-               <choice>
-                  <orig>unsigned</orig>
-                  <reg>Walt Whitman</reg>
-               </choice>
-            </author>
+
             <editor>Kenneth M. Price</editor>
             <editor>Ed Folsom</editor>
             <respStmt>
@@ -60,16 +55,10 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <author key="Baxter, Sylvester">
+                  <author key="Whitman, Walt, and Sylvester Baxter">
                      <choice>
                         <orig>unsigned</orig>
-                        <reg>Sylvester Baxter</reg>
-                     </choice>
-                  </author>
-                  <author key="Whitman, Walt">
-                     <choice>
-                        <orig>unsigned</orig>
-                        <reg>Walt Whitman</reg>
+                        <reg>Walt Whitman and Sylvester Baxter</reg>
                      </choice>
                   </author>
                   <title level="a">Whitman's New Book</title>

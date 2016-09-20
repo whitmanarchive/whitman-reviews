@@ -11,7 +11,7 @@
           <author>
                 <choice>
                    <orig>unsigned</orig>
-                   <reg>unknown</reg>
+                   <reg>Walt Whitman and Sylvester Baxter</reg>
                 </choice>
              </author>
             <editor>Kenneth M. Price</editor>
@@ -27,6 +27,7 @@
                
                <persName xml:id="vs">Vanessa Steinroetter</persName>
                <persName xml:id="ts">Todd Stabley</persName>
+               <persName xml:id="nhg">Nicole Gray</persName>
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -55,9 +56,9 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <author key="unknown">
+                  <author key="Whitman, Walt, and Sylvester Baxter">
                      <choice><orig>unsigned</orig>
-                        <reg>unknown</reg></choice>
+                        <reg>Walt Whitman and Sylvester Baxter</reg></choice>
                   </author>
                   <title level="a">Leaves of Grass</title>
                </analytic>
@@ -75,6 +76,7 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
+         <change when="2016-07-21" who="#nhg">corrected author attribution</change>
 <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>
@@ -99,7 +101,7 @@ necessary</change>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <head type="sub"> As Published by a Famous Boston House.</head>
             <milestone unit="undeclared" rend="horbar-short-center"/>
-            <head type="sub">A Friendly Characterization of the Poet's Work.</head>
+            <head type="sub">A Friendly Characterization of the Poet's Work.<note type="editorial" resp="wwa" xml:id="n1">For an essay establishing the authorship of this review, see Kenneth M. Price and Janel Cayer, "'It might be us speaking instead of him!': Individuality, Collaboration, and the Networked Forces Contributing to 'Whitman'" in <hi rend="italic">Walt Whitman Quarterly Review</hi> 33 (Fall 2015), 114&#8211;124.</note></head>
 
             <div2 type="part">
 

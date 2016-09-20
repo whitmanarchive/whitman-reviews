@@ -26,6 +26,7 @@
                
                
                <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="nhg">Nicole Gray</persName>
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -38,7 +39,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <idno>anc.00188</idno>
+            <idno>anc.00189</idno>
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -74,6 +75,7 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
+         <change when="2016-09-05" who="#nhg">fixed idno, adjusted note ref</change>
 <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>
@@ -109,9 +111,7 @@
 
             <p>
                <note type="editorial" target="r1" xml:id="n1" n="1">
-                  <ref target=" . . /leaves1860/anc.00050.html">
-                     <hi rend="italic">Westminster Review</hi>
-                  </ref> 74 n.s. 18 (October 1860), 590. </note>
+                  <ref target="anc.00050"><hi rend="italic">Westminster Review</hi></ref> 74 n.s. 18 (October 1860), 590. </note>
                <note type="editorial" target="r2" xml:id="n2" n="2">"Man is god to himself"</note>
             </p>
 
