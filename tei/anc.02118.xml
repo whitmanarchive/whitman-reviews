@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_basic.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02118">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a" type="main" corresp="reminiscence">More Skyrocket</title>
+                <title level="a" type="sub">[Review of "A Child's Reminiscence"]</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>
+                    <choice>
+                        <orig>Unsigned</orig>
+                        <reg>Unknown</reg>
+                    </choice>
+                </author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="es">Jeannette Schollaert</persName>
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>National Endowment for the Humanities</funder>
+                <funder>The United States Department of Education</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>anc.02118</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author key="unknown">
+                            <choice><orig>Unsigned</orig>
+                                <reg>Unknown</reg></choice>
+                        </author>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Sunday Times</title>
+                        <imprint>
+                            <date xml:id="dat1" when="1859-12-25" cert="high">December 25, 1859</date>
+                            <biblScope type="pages">page unknown</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change when="2016-08-11" who="#km">checked</change>
+            <change when="2016-08-02" who="#es">transcribed, encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text type="ancillary">
+        <body>
+            <head type="main-authorial">M<hi rend="smallcaps">ore</hi> S<hi rend="smallcaps">kyrocket</hi>.&#8212;</head>
+            
+            <p>Mr. "Walt. Whitman" has just published in the "Saturday Press" another of the erratic emanations characteristic of the <hi rend="italic">afflatus</hi> of his muse. It is entitled "A Child's Reminiscence," and is a marvel in the way of the gross and the grotesque. Some of the lines go hopping along, like chirping little birds, on two feet, and some creep slowly by, like the centipede insect, on a hundred, and some roll on, Heaven only knows how, like the tumble-bug, as if bent only on gathering feculence&#8212;and the latter entirely succeed. We should like to quote the whole poem, but modesty forbids; we give, <hi rend="italic">verbatim</hi>, however, about half the twenty-first canto, which may serve as an expressive auto-criticism upon the entire production:
+            <floatingText>
+                    <body>
+                        <lg type="poem">
+                            <head type="main" rend="center">XXI.</head>
+                            <l><hi rend="italic">"But soft !</hi></l>
+                            <l><hi rend="italic">Sink low&#8212;soft !</hi></l>
+                            <l><hi rend="italic">Soft !"</hi></l>
+                        </lg>
+                    </body>
+                </floatingText>
+            </p>
+        </body>
+    </text>
+</TEI>
+
+
