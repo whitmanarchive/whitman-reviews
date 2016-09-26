@@ -5,13 +5,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" type="main" corresp="reminiscence">More Skyrocket</title>
-                <title level="a" type="sub">[Review of "A Child's Reminiscence"]</title>
-                <title level="m" type="sub">a machine readable transcription</title>
+                <title level="m" type="main" corresp="reminiscence">More Skyrocket</title>
+                <title level="m" type="sub">[Review of "A Child's Reminiscence"]</title>
+                <title level="a" type="sub">a machine readable transcription</title>
                 <author>
                     <choice>
-                        <orig>Unsigned</orig>
-                        <reg>Unknown</reg>
+                        <orig>unsigned</orig>
+                        <reg>unknown</reg>
                     </choice>
                 </author>
                 <editor>Kenneth M. Price</editor>
@@ -20,6 +20,7 @@
                     <resp>Transcription and encoding</resp>
                     <persName xml:id="es">Jeannette Schollaert</persName>
                     <persName xml:id="km">Kevin McMullen</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
                 </respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
@@ -49,15 +50,15 @@
                 <biblStruct>
                     <analytic>
                         <author key="unknown">
-                            <choice><orig>Unsigned</orig>
-                                <reg>Unknown</reg></choice>
+                            <choice><orig>unsigned</orig>
+                                <reg>unknown</reg></choice>
                         </author>
                     </analytic>
                     <monogr>
                         <title level="j">Sunday Times</title>
                         <imprint>
-                            <date xml:id="dat1" when="1859-12-25" cert="high">December 25, 1859</date>
-                            <biblScope type="pages">page unknown</biblScope>
+                            <date xml:id="dat1" when="1859-12-25" cert="high">25 December 1859</date>
+                            <biblScope type="pages">[unknown]</biblScope>
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -68,6 +69,7 @@
         </encodingDesc>
         
         <revisionDesc>
+            <change when="2016-09-26" who="#nhg">corrected date format</change>
             <change when="2016-08-11" who="#km">checked</change>
             <change when="2016-08-02" who="#es">transcribed, encoded</change>
         </revisionDesc>
