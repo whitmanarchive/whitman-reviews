@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02122"><!-- changed this to the new ID -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="after">Walt Whitman's Last</title><!-- Added actual title of the review -->
+            <title level="m" type="sub">[Review of "After All, Not to Create Only"]</title><!-- Moved this to a sub-title -->
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>             
+                  <persName xml:id="sf">Said Hail Fallaha</persName>
+                  <persName xml:id="km">Kevin McMullen</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2017</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+             <idno>anc.02122</idno> <!-- changed this to new ID --> 
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="a">Walt Whitman's Last</title><!-- added "title" element to biblStruct-->
+               </analytic>
+               <monogr>
+                  <title level="j">San Francisco Daily Evening Bulletin</title>
+                  <imprint>
+                     <date when="1871-11-11">11 November 1871</date>
+                     <!-- <biblScope type="volume">XXXIII</biblScope> --> <!-- added volume and number information -->
+                     <!-- <biblScope type="number">30</biblScope> -->
+                     <biblScope type="pages">1</biblScope>  <!-- looked up page in 19th Century U.S. Newspaper database, added it here -->
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change when="2017-06-12" who="#km">proofed</change><!-- added "change" info to the Revision Description -->
+         <change when="2017-05" who="#sf">transcribed, encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         	        
+         <head type="main-authorial">Walt Whitman's Last.</head>
+
+         <p>Roberts Brothers, Boston, publish, in very neat form, Walt Whitman's ridiculous rigmarole, by an extreme stretch of critical courtesy called "<hi rend="italic">American Institute Poem</hi>." If it were only decent prose we might stand it; but it does not rise to the dignity of a dessertation. To show what drivel a man of some poetic talent is capable of palming off on the public, we give the opening lines:</p>
+         
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="linegroup"><!-- changed "type" from "poem" to "linegroup" -->
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <l>Come, Muse, migrate from Greece and Ionia;</l>
+                     <l>Cross out, please, those immensely overpaid accounts,</l>
+                     <l>That matter of Troy, and Achilles' wrath, and Eneas', <lb/>Odysseus' wanderings;</l>
+                     <l>Placard "<hi rend="italic">Removed</hi>" and "<hi rend="italic">To Let</hi>" on the rocks of your <lb/>snowy Parnassus;</l><!-- changed encoded of italics ("<i>" is HTML, not TEI) -->
+                     <l>Repeat at Jerusalem&#8212;place the notice high on Jaffa's <lb/>gate, and on Mount Moriah;</l>
+                     <l>The same on the walls of your Gothic European Ca<lb/>thedrals, and German, French and Spanish Castles;</l>
+                     <l>For know a better, fresher, busier sphere&#8212;a wide, <lb/>untried domain awaits, demands you.</l>
+                  </lg>
+                     
+                  <lg type="linegroup">
+                     <l>Responsive to our summons.</l>
+                     <l>Or rather to her long-nurs'd inclination,</l>
+                     <l>Join'd with an irresistible, natural gravitation,</l>
+                     <l>She comes<choice><sic>?</sic><corr>!</corr></choice> this famous Female&#8212;as was indeed to be <lb/>expected;</l><!-- added <sic>/<corr> encoding for what appears to me to be a question mark, but which should be an exclamation mark -->
+                     <l>(For who, so ever-youthful, 'cute and handsome, <lb/>would wish to stay in mansions such as those,</l>
+                     <l>When offer'd quarters with all the modern improvements,</l>
+                     <l>With all the fun that's going&#8212;and all the best society<choice><sic>?</sic><corr>!</corr></choice>)</l><!-- see previous comment -->
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+         
+         <p>For sale at Roman's, No. 11 Montgomery street.</p><!-- moved this from within the "lg" above to a separate paragraph, outside of the <q>, since it's no longer part of the poem being quoted -->
+
+      </body>
+   </text>
+</TEI>
