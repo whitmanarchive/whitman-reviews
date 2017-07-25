@@ -8,7 +8,13 @@ default:
   tei_solr_xsl: collections/whitman-reviews/scripts/solr_transform_tei.xsl
   # es_type:
 
-development:
+  variables_solr:
+    figures: false
+    fw: false
+    pb: false
+    project: The_Walt_Whitman_Archive
+    slug: whitman-reviews
+# development:
   # development overrides here
-production:
+# production:
   # production overrides here
