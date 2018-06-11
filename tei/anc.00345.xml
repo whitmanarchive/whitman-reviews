@@ -10,7 +10,7 @@
             <author>
                <choice>
                   <orig>unsigned</orig>
-                  <reg>Walt Whitman</reg>
+                  <reg>unknown</reg>
                </choice>
             </author>
             <editor>Kenneth M. Price</editor>
@@ -19,6 +19,7 @@
                <resp>Transcription and encoding</resp>
                <persName xml:id="no">Natalie O'Neal</persName>
 <persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="bb">Brett Barney</persName>
                <persName xml:id="vs">Vanessa Steinroetter</persName>
                <persName xml:id="br">Bev Rilett</persName>
             </respStmt>
@@ -52,7 +53,7 @@
                   <author key="Whitman, Walt">
                      <choice>
                         <orig>unsigned</orig>
-                        <reg>Walt Whitman</reg>
+                        <reg>unknown</reg>
                      </choice>
                   </author>
                   <title level="m" type="main">Walt Whitman, The American Poet of Democracy</title>
@@ -72,6 +73,7 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
+         <change when="2018-06-08" who="#bb">changed author attribution in titleStmt and sourceDesc from "Walt Whitman" to "unknown"</change>
          <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>
