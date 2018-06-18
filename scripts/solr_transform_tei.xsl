@@ -210,6 +210,17 @@
     <xsl:text> </xsl:text>
   </xsl:template>
 
+  <!-- ========== uri ========== -->
+
+  <xsl:template name="uri">
+    <field name="uri">
+      <xsl:value-of select="$site_url"/>
+      <xsl:text>/criticism/reviews/tei/</xsl:text>
+      <xsl:value-of select="$filenamepart"/>
+      <xsl:text>.html</xsl:text>
+    </field>
+  </xsl:template>
+
   <!-- ========== fields specifically for this project ========== -->
 
   <xsl:template name="other_fields">
