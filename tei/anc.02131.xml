@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02131">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="cah">Caitlin Henry</persName>
+               <persName xml:id="km">Kevin McMullen</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2018</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02131</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Cleveland Morning Leader</title>
+                  <imprint>
+                     <date when="1860-12-13">13 December 1860</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change who="#km" when="2018-06-27">proofed</change>
+         <change who="#cah" when="2018-05-24">copied from email and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">LEAVES OF GRASS.&#8212;By Walt Whitman. Published by Thayer &#38; Eldridge. Boston. In the 85th year of the States.</head>
+
+         <p>As for this man, "Walt Whitman," though he may chance to have been commended by Emerson, and, for aught we know, by a dozen other equally unscrupulous gentlemen, it does not any the less follow that he is a person whom one having respect for a good name would little care to recognize upon a public thoroughfare. As for that which he styles his poetry, armless, witless pointless though it be, it might perhaps have been passed by with a casual smile or ominous tap of the forehead; but for the deliberate and premeditated indecencies which it at embodies, there can be no excuse. It is high time that individuals such as "Walt Whitman" and others of his school should learn that the encouragement of a purer and higher morality than that which now prevails, is not to be promoted by any such insane productions as this foolish<cb/> "Leaves of Grass;" and though a contempt for all rules of propriety, decency, christianity and grammar, may be the only lessons which he has drawn from Nature's teachings, fortunately for the world, the class of men who are equally degraded is small and insignificant.</p>
+         
+         <p>That this volume may be purchased out of curiosity we can well imagine, but that the man exists who can sit down and deliberately wade through with such a mass of nonsense as appears between its two covers, we cannot believe.</p>
+         
+         <p>Whitman may be a man of some talent indeed, portions of his book would indicate something of the kind, but it only proves that a little talent like a little knowledge is a dangerous thing. His tastes are certainly of the grossest and most vicious nature,and will keep him far enough from the Parnassian Mount, unless the morals of the sweet sisters have been sadly corrupted of later years.</p>
+         
+         <p>A portrait of the author appears with his work, which will convey a much better idea of what he may be capable of than anything we can say.</p>
+
+      </body>
+   </text>       
+</TEI>
