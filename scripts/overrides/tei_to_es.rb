@@ -25,7 +25,7 @@ class TeiToEs
     xpaths["date_display"] = {
       "imprint" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date",
       "default" => "TEI/teiHeader/fileDesc/sourceDesc/bibl/date"
-    }no
+    }
     xpaths["source"] = [
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j']",
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'j']",
