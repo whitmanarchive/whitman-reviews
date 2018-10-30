@@ -157,9 +157,6 @@
         <xsl:when test="$monogr/imprint/date/@notBefore">
           <xsl:value-of select="$monogr/imprint/date/@notBefore"/>
         </xsl:when>
-        <xsl:when test="$monogr/imprint/date/@when">
-          <xsl:value-of select="$monogr/imprint/date/@when"/>
-        </xsl:when>
         <xsl:otherwise>
           <xsl:value-of select="$monogr/imprint/date/@when"/>
         </xsl:otherwise>
