@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
   xpath-default-namespace="http://www.whitmanarchive.org/namespace"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -8,7 +9,7 @@
   <!--                               IMPORTS                                -->
   <!-- ==================================================================== -->
 
-  <xsl:import href="../../whitman-scripts/solr/whitman_to_solr.xsl"/>
+  <xsl:import href="../../../whitman-scripts/solr/whitman_to_solr.xsl"/>
 
   <xsl:output indent="yes" omit-xml-declaration="yes"/>
 
@@ -239,13 +240,13 @@
       </field>
       <field name="whitman_tei-corresp_title_ss">
         <xsl:value-of
-          select="document('reviews_name_index.xml')//item[@corresp = $title_id]/title"/>
+          select="document('../../source/authority/reviews_name_index.xml')//item[@corresp = $title_id]/title"/>
       </field>
       <field name="whitman_tei-corresp_data_ss">
         <xsl:value-of select="$title_id"/>
         <xsl:text>|</xsl:text>
         <xsl:value-of
-          select="document('reviews_name_index.xml')//item[@corresp = $title_id]/title"/>
+          select="document('../../source/authority/reviews_name_index.xml')//item[@corresp = $title_id]/title"/>
       </field>
     </xsl:for-each>
 
