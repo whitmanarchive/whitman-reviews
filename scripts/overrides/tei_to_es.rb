@@ -124,7 +124,15 @@ class TeiToEs
     [ "en" ]
   end
 
-  # TODO medium, person, publisher, rights, rights_uri, rights_holder
+  # TODO medium, person, rights, rights_uri, rights_holder
+
+  # TODO can change this behavior once datura is updated to
+  # return nil instead of empty strings
+  # TODO reusing source but look into whether this is actually the publisher
+  def publisher
+    pub = get_text(@xpaths["source"])
+    pub.empty? ? nil : pub
+  end
 
   # TODO source_sort not added
   def source
