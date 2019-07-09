@@ -9,7 +9,7 @@
             <author>
                <choice>
                   <orig>unsigned</orig>
-                  <reg>Walt Whitman</reg>
+                  <reg>unknown</reg>
                </choice>
             </author>
             <editor>Kenneth M. Price</editor>
@@ -47,10 +47,10 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <author key="Whitman, Walt">
+                  <author key="unknown">
                      <choice>
                         <orig>unsigned</orig>
-                        <reg>Walt Whitman</reg>
+                        <reg>unknown</reg>
                      </choice>
                   </author>
                </analytic>
@@ -68,6 +68,7 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
+         <change when="2019-01-31" who="#bb">removed attribution to Whitman in titleStmt and sourceDesc</change>
          <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>

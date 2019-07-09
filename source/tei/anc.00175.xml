@@ -18,12 +18,10 @@
             <respStmt>
                <resp>Transcription and encoding</resp>
                <persName xml:id="no">Natalie O'Neal</persName>
-<persName xml:id="el">Elizabeth Lorang</persName>
-               
-               
-               
+               <persName xml:id="el">Elizabeth Lorang</persName>
                <persName xml:id="cg">Charles Green</persName>
                <persName xml:id="ts">Todd Stabley</persName>
+               <persName xml:id="bb">Brett Barney</persName>
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -72,14 +70,15 @@
           <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
           </encodingDesc>
       <revisionDesc>
-<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
-                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change when="2019-02-04" who="#bb">added for sic</change>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+         <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>
          <change who="#el" when="2009-10-03">updated TEI header</change>
          <change who="#el" when="2007-12-18">added note to revisionDesc</change>
          <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
-         <change who="#cg" when="2005-06-15">Encoding corrections, validating</change>
-         <change who="#ts" when="2005-02-15">Added italicizations from Price </change>
+         <change who="#cg" when="2005-06-15">encoding corrections, validating</change>
+         <change who="#ts" when="2005-02-15">added italicizations from Price </change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -87,7 +86,7 @@
 
          <p>A curious title; but the book itself is a hundred times more curious. It is like no other book that ever was written, and therefore, the language usually employed in notices of new publications is unavailable in describing it.</p>
 
-         <p>It is a thin volume of 95 pages, shaped like a small atlas. On the first page is a portrait of the unknown author. He stands in a careless attitude, without coat or vest, with a rough felt hat on his head, one hand <choice><sic>thurst</sic><corr>thrust</corr></choice> lazily into his pocket and the other resting on his hip. He is the picture of a <hi rend="italic">perfect loafer</hi>; yet a thoughtful loafer, an amiable loafer, an able loafer. Then follows a long preface, which most steadygoing, respectable people would pronounce perfect nonsense, but which free-souled persons, here and there, will read and <hi rend="italic">chuckle over</hi> with real delight, as the expression of their own best feelings. This remarkable preface is something in the Emersonian manner—that is, it is a succession of independent sentences, many of which are of striking truth and beauty. The body of the volume is filled with 'Leaves of Grass,' which are lines of rhythmical prose, or a series of <hi rend="italic">utterances</hi> (we know not what else to call them), unconnected, curious, and original. The book, perhaps, might be called, <hi rend="italic">American Life, from a Poetical Loafer's Point of View</hi>.</p>
+         <p>It is a thin volume of 95 pages, shaped like a small atlas. On the first page is a portrait of the unknown author. He stands in a careless attitude, without coat or vest, with a rough felt hat on his head, one hand <choice><sic>thurst</sic><corr>thrust</corr></choice><note xml:id="n1" type="editorial" resp="wwa">"Thrust" is misspelled in the original issue.</note> lazily into his pocket and the other resting on his hip. He is the picture of a <hi rend="italic">perfect loafer</hi>; yet a thoughtful loafer, an amiable loafer, an able loafer. Then follows a long preface, which most steadygoing, respectable people would pronounce perfect nonsense, but which free-souled persons, here and there, will read and <hi rend="italic">chuckle over</hi> with real delight, as the expression of their own best feelings. This remarkable preface is something in the Emersonian manner—that is, it is a succession of independent sentences, many of which are of striking truth and beauty. The body of the volume is filled with 'Leaves of Grass,' which are lines of rhythmical prose, or a series of <hi rend="italic">utterances</hi> (we know not what else to call them), unconnected, curious, and original. The book, perhaps, might be called, <hi rend="italic">American Life, from a Poetical Loafer's Point of View</hi>.</p>
 
          <p>The discerning reader will find in this singular book much that will please him, and we advise all who are fond of new and peculiar things to procure it. We may add that the book was printed by the author's own hands, and that he is philosophically indifferent as to its sale. It pleased him to write <hi rend="italic">so</hi>, and the public may take it or let it alone, just as they prefer.</p>
 

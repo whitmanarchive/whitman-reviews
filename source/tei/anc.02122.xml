@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02122"><!-- changed this to the new ID -->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02122">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" type="main" corresp="after">Walt Whitman's Last</title><!-- Added actual title of the review -->
-            <title level="m" type="sub">[Review of "After All, Not to Create Only"]</title><!-- Moved this to a sub-title -->
+            <title level="m" type="main" corresp="after">Walt Whitman's Last</title>
+            <title level="m" type="sub">[Review of "After All, Not to Create Only"]</title>
             <title level="m" type="sub">a machine readable transcription</title>
             
           <author>
@@ -32,7 +32,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-             <idno>anc.02122</idno> <!-- changed this to new ID --> 
+             <idno>anc.02122</idno> 
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -52,15 +52,15 @@
                      <choice><orig>unsigned</orig>
                         <reg>unknown</reg></choice>
                   </author>
-                  <title level="a">Walt Whitman's Last</title><!-- added "title" element to biblStruct-->
+                  <title level="a">Walt Whitman's Last</title>
                </analytic>
                <monogr>
                   <title level="j">San Francisco Daily Evening Bulletin</title>
                   <imprint>
                      <date when="1871-11-11">11 November 1871</date>
-                     <!-- <biblScope type="volume">XXXIII</biblScope> --> <!-- added volume and number information -->
+                     <!-- <biblScope type="volume">XXXIII</biblScope> --> 
                      <!-- <biblScope type="number">30</biblScope> -->
-                     <biblScope type="pages">1</biblScope>  <!-- looked up page in 19th Century U.S. Newspaper database, added it here -->
+                     <biblScope type="pages">1</biblScope> 
                   </imprint>
                </monogr>
             </biblStruct>
@@ -70,7 +70,8 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
-         <change when="2017-06-12" who="#km">proofed</change><!-- added "change" info to the Revision Description -->
+         <change when="2017-06-15" who="#km">wrote and encoded annotation</change>
+         <change when="2017-06-12" who="#km">proofed</change>
          <change when="2017-05" who="#sf">transcribed, encoded</change>
       </revisionDesc>
    </teiHeader>
@@ -80,21 +81,21 @@
          	        
          <head type="main-authorial">Walt Whitman's Last.</head>
 
-         <p>Roberts Brothers, Boston, publish, in very neat form, Walt Whitman's ridiculous rigmarole, by an extreme stretch of critical courtesy called "<hi rend="italic">American Institute Poem</hi>." If it were only decent prose we might stand it; but it does not rise to the dignity of a dessertation. To show what drivel a man of some poetic talent is capable of palming off on the public, we give the opening lines:</p>
+         <p>Roberts Brothers, Boston, publish, in very neat form, Walt Whitman's ridiculous rigmarole, by an extreme stretch of critical courtesy called "<hi rend="italic">American Institute Poem</hi>."<ref target="n1" n="1" xml:id="r1"/> If it were only decent prose we might stand it; but it does not rise to the dignity of a dessertation. To show what drivel a man of some poetic talent is capable of palming off on the public, we give the opening lines:</p>
          
          <q who="Walt Whitman" type="printed">
             <floatingText>
                <body>
-                  <lg type="linegroup"><!-- changed "type" from "poem" to "linegroup" -->
+                  <lg type="linegroup">
                      <relations>
                         <work ref="xxx.00048" cert="absolute"/>
                      </relations>
                      <l>Come, Muse, migrate from Greece and Ionia;</l>
                      <l>Cross out, please, those immensely overpaid accounts,</l>
                      <l>That matter of Troy, and Achilles' wrath, and Eneas', <lb/>Odysseus' wanderings;</l>
-                     <l>Placard "<hi rend="italic">Removed</hi>" and "<hi rend="italic">To Let</hi>" on the rocks of your <lb/>snowy Parnassus;</l><!-- changed encoded of italics ("<i>" is HTML, not TEI) -->
+                     <l>Placard "<hi rend="italic">Removed</hi>" and "<hi rend="italic">To Let</hi>" on the rocks of your <lb/>snowy Parnassus;</l>
                      <l>Repeat at Jerusalem&#8212;place the notice high on Jaffa's <lb/>gate, and on Mount Moriah;</l>
-                     <l>The same on the walls of your Gothic European Ca<lb/>thedrals, and German, French and Spanish Castles;</l>
+                     <l>The same on the walls of your Gothic European Ca-<lb/>thedrals, and German, French and Spanish Castles;</l>
                      <l>For know a better, fresher, busier sphere&#8212;a wide, <lb/>untried domain awaits, demands you.</l>
                   </lg>
                      
@@ -102,17 +103,24 @@
                      <l>Responsive to our summons.</l>
                      <l>Or rather to her long-nurs'd inclination,</l>
                      <l>Join'd with an irresistible, natural gravitation,</l>
-                     <l>She comes<choice><sic>?</sic><corr>!</corr></choice> this famous Female&#8212;as was indeed to be <lb/>expected;</l><!-- added <sic>/<corr> encoding for what appears to me to be a question mark, but which should be an exclamation mark -->
+                     <l>She comes! this famous Female&#8212;as was indeed to be <lb/>expected;</l>
                      <l>(For who, so ever-youthful, 'cute and handsome, <lb/>would wish to stay in mansions such as those,</l>
                      <l>When offer'd quarters with all the modern improvements,</l>
-                     <l>With all the fun that's going&#8212;and all the best society<choice><sic>?</sic><corr>!</corr></choice>)</l><!-- see previous comment -->
+                     <l>With all the fun that's going&#8212;and all the best society!)</l>
                   </lg>
                </body>
             </floatingText>
          </q>
          
-         <p>For sale at Roman's, No. 11 Montgomery street.</p><!-- moved this from within the "lg" above to a separate paragraph, outside of the <q>, since it's no longer part of the poem being quoted -->
+         <p>For sale at Roman's, No. 11 Montgomery street.</p>
 
       </body>
+      
+      <back>
+         <div1 type="notes">
+            <p> <note type="editorial" target="r1" xml:id="n1" n="1">The review misidentifies the title of this work. While the words "Walt Whitman's American Institute Poem" appear on both the volume's cover and one of its two title pages, the words are a secondary title or sub-title; the work's main title, and the one that appears most prominently on the cover, is <hi rend="italic">After All, Not to Create Only</hi>. Whitman wrote the poem following a request by the Committee on Invitations of the American Institute to deliver an original poem at the opening of the Institute's 40th Annual Exhibition in New York in 1871. It first appeared concurrently in the <hi rend="italic">New York Commercial Advertiser</hi> and the <hi rend="italic">New York Evening Post</hi> on September 7, 1871. It was then published as a stand-alone volume by Roberts Brothers in Boston in late 1871. It is this bound volume that is being reviewed here. Whitman would later retitle the poem "Song of the Exposition" and include it in <hi rend="italic">Two Rivulets</hi> (1876) and in the 1881-82 edition of <hi rend="italic">Leaves of Grass</hi>.</note></p>
+         </div1>
+      </back>
+      
    </text>
 </TEI>
