@@ -57,7 +57,7 @@ class TeiToEs
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
   def category
-    "criticism"
+    "commentary"
   end
 
   # note this does not sort the creators
