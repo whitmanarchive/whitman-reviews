@@ -19,7 +19,6 @@ class TeiToEs
         "in_text" => "//persName[@type = 'author']"
     }
     xpaths["date"] = {
-      "notBefore" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@notBefore",
       "when" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@when"
     }
     xpaths["date_display"] = {
@@ -90,14 +89,6 @@ class TeiToEs
       end
     end
     people.uniq
-  end
-
-  def date(before=true)
-    date = get_text(@xpaths["date"]["notBefore"])
-    if !date || date.empty?
-      date = get_text(@xpaths["date"]["when"])
-    end
-    CommonXml.date_standardize(date, before)
   end
 
   def date_display
