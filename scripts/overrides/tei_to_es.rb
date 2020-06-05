@@ -151,12 +151,9 @@ class TeiToEs
   # TODO text field requires an override for source
 
   def title
-    title = get_text(@xpaths["titles"]["main"])
-    if title.empty?
-      title = get_text(@xpaths["titles"]["alt"])
-    end
+    title = super
     title.gsub!(/[\[\]]/, "")
-    return title
+    title
   end
 
   def uri
