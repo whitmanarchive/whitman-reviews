@@ -21,10 +21,8 @@ class TeiToEs
     xpaths["date"] = {
       "when" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@when"
     }
-    xpaths["date_display"] = {
-      "imprint" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date",
-      "default" => "TEI/teiHeader/fileDesc/sourceDesc/bibl/date"
-    }
+    xpaths["date_display"] =
+      "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"
     xpaths["source"] = [
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j']",
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'j']",
@@ -89,14 +87,6 @@ class TeiToEs
       end
     end
     people.uniq
-  end
-
-  def date_display
-    date = get_text(@xpaths["date_display"]["imprint"])
-    if date.empty?
-      date = get_text(@xpaths["date_display"]["default"])
-    end
-    date
   end
 
   # TODO in production solr index this is always blank string, I am assuming it's a periodical
