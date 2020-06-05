@@ -19,7 +19,6 @@ class TeiToEs
         "in_text" => "//persName[@type = 'author']"
     }
     xpaths["date"] = {
-      "notBefore" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@notBefore",
       "when" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@when"
     }
     xpaths["date_display"] = {
