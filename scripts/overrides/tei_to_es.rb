@@ -64,7 +64,7 @@ class TeiToEs
 
     header = @xml.xpath(@xpaths["creators"]["header"])
     # TODO check all the code when author is in the header because it is fairly involved XSLT
-    if header && header.length > 0
+    if header.present?
       bibl_auth = @xml.xpath(@xpaths["creators"]["bibl"])
       header.each do |title_auth|
         if (title_auth.xpath("choice/reg").text == "unknown") && (title_auth.xpath("choice/orig").text == "unsigned")
@@ -119,7 +119,7 @@ class TeiToEs
     source = ""
     @xpaths["source"].each do |xpath|
       source = get_text(xpath)
-      break if source && source.length > 0
+      break if source.present?
     end
     source
   end
