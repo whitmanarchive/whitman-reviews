@@ -24,6 +24,7 @@ class TeiToEs
     xpaths["date_display"] =
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"
     xpaths["format"] = "/TEI/text/@type"
+    xpaths["rights"] = "/TEI/teiHeader/fileDesc/publicationStmt/availability"
     xpaths["source"] = [
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j']",
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'j']",
@@ -104,7 +105,10 @@ class TeiToEs
     [ "en" ]
   end
 
-  # TODO medium, person, rights, rights_uri, rights_holder
+  # TODO medium, person, rights_uri, rights_holder
+  def rights
+    get_text(@xpaths["rights"])
+  end
 
   # TODO can change this behavior once datura is updated to
   # return nil instead of empty strings
