@@ -13,6 +13,8 @@ class TeiToEs
     # xpaths["image_id"] = "/TEI/text/body/pb/@n"
     # xpaths["person"] = "//q/@who"
     # xpaths["source"] = "/TEI/teiHeader/fileDesc/sourceDesc//bibl[1]"
+    xpaths["contributors"] =
+      ["/TEI/teiHeader/fileDesc/titleStmt/respStmt/persName"]
     xpaths["creators"] = {
         "header" => "/TEI/teiHeader/fileDesc/titleStmt/author",
         "bibl" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author",
