@@ -7,9 +7,6 @@ class TeiToEs
   # in the below example, the xpath for "person" is altered
   def override_xpaths
     xpaths = {}
-    # xpaths["date"] = "/TEI/text[1]/body[1]/head[1]/date[1]/@when"
-    #   # a non normalized date taken directly from the source material ("Dec 9", "Winter 1889")
-    # xpaths["date_display"] = "/TEI/text[1]/body[1]/head[1]/date"
     # xpaths["image_id"] = "/TEI/text/body/pb/@n"
     # xpaths["person"] = "//q/@who"
     # xpaths["source"] = "/TEI/teiHeader/fileDesc/sourceDesc//bibl[1]"
