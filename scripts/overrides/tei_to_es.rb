@@ -23,6 +23,7 @@ class TeiToEs
     }
     xpaths["date_display"] =
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"
+    xpaths["format"] = "/TEI/text/@type"
     xpaths["source"] = [
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j']",
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'j']",
@@ -89,10 +90,8 @@ class TeiToEs
     people.uniq
   end
 
-  # TODO in production solr index this is always blank string, I am assuming it's a periodical
-  # for the purposes of this first quick pass
   def format
-    "periodical"
+    get_text(@xpaths["format"])
   end
 
   def language
