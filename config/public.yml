@@ -8,6 +8,7 @@ default:
 
 development:
   api_version: "2.0"
+  data_base: https://whitman-dev.unl.edu/media
   es_path: https://whitman-dev.unl.edu/elastic
   es_index: api_v2
   site_url: https://whitman-dev.unl.edu
@@ -19,6 +20,7 @@ development:
     site_url: https://whitman-dev.unl.edu
 
 production:
+  data_base: https://whitmanarchive.org/media
   site_url: https://whitmanarchive.org
   solr_path: https://whitman-prod.unl.edu/solr
 
