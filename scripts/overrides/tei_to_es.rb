@@ -24,6 +24,10 @@ class TeiToEs
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"
     xpaths["format"] = "/TEI/text/@type"
     xpaths["rights"] = "/TEI/teiHeader/fileDesc/publicationStmt/availability"
+    xpaths["rights_holder"] =
+      "/TEI/teiHeader/fileDesc/publicationStmt/distributor"
+    xpaths["rights_uri"] =
+      "/TEI/teiHeader/fileDesc/publicationStmt/availability//ref@target"
     xpaths["source"] = [
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j']",
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'j']",
@@ -104,9 +108,13 @@ class TeiToEs
     [ "en" ]
   end
 
-  # TODO medium, person, rights_uri, rights_holder
+  # TODO medium, person
   def rights
     get_text(@xpaths["rights"])
+  end
+
+  def rights_uri
+    get_text(@xpaths["rights_uri"])
   end
 
   # TODO can change this behavior once datura is updated to
