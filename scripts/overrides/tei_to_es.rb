@@ -79,14 +79,14 @@ class TeiToEs
             people << { "name" => bibl.value.gsub(/[\[\]]/, ""), "id" => "" }
           end
         else
-          people << { "name" => CommonXml.normalize_space(title_auth.text), "id" => "" }
+          people << { "name" => Datura::Helpers.normalize_space(title_auth.text), "id" => "" }
         end
       end
     # if creator is not in the header, then attempt to grab out of the body instead
     else
       persNames = @xml.xpath(@xpaths["creators"]["in_text"])
       persNames.each do |pers|
-        people << { "name" => CommonXml.normalize_space(pers["key"]), id => "" }
+        people << { "name" => Datura::Helpers.normalize_space(pers["key"]), id => "" }
       end
     end
     people.uniq
@@ -97,7 +97,7 @@ class TeiToEs
     if !date || date.empty?
       date = get_text(@xpaths["date"]["when"])
     end
-    CommonXml.date_standardize(date, before)
+    Datura::Helpers.date_standardize(date, before)
   end
 
   def date_display
@@ -151,12 +151,8 @@ class TeiToEs
   # TODO text field requires an override for source
 
   def title
-    title = get_text(@xpaths["titles"]["main"])
-    if title.empty?
-      title = get_text(@xpaths["titles"]["alt"])
-    end
-    title.gsub!(/[\[\]]/, "")
-    return title
+    title = get_text(@xpaths["title"])
+    title.gsub(/[\[\]]/, "")
   end
 
   def uri
