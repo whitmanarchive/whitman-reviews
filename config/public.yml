@@ -1,6 +1,6 @@
 default:
   shortname: whitman-reviews
-  collection: whitman
+  collection: whitman-reviews
   site_url: https://whitmanarchive.org
   solr_core: api_whitman
   tei_solr_xsl: scripts/overrides/solr_transform_tei.xsl
