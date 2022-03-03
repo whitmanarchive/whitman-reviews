@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00061">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00061">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -34,7 +32,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <idno>anc.00061</idno>
+            
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -46,7 +44,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         </publicationStmt>
+         <idno>anc.00061</idno></publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -135,7 +133,7 @@ necessary</change>
                         <!-- As I Lay with My Head in Your Lap Camerado -->
                      </relations>
                      <lg type="linegroup">
-                        <l>I am more resolute because all have denied me that I could ever have been had all <lb/>accepted  me<choice><sic>;</sic><corr>,</corr></choice> I heed not, and have never heeded<choice><sic>,</sic><corr></corr></choice> either experience, cautions, majorities, <lb/>nor ridicule<choice><sic>.</sic><corr>,</corr></choice>
+                        <l>I am more resolute because all have denied me that I could ever have been had all <lb/>accepted  me<choice><sic>;</sic><corr>,</corr></choice> I heed not, and have never heeded<choice><sic>,</sic><corr/></choice> either experience, cautions, majorities, <lb/>nor ridicule<choice><sic>.</sic><corr>,</corr></choice>
                         </l>
                      </lg>
                   </lg>
@@ -162,7 +160,7 @@ necessary</change>
                         <!-- Lo, Victress on the Peaks -->
                      </relations>
                      <lg type="linegroup">
-                        <l>No poem proud<choice><sic></sic><corr>,</corr></choice> I chanting bring to thee<choice><sic>—</sic><corr>,</corr></choice>nor mastery's rapturous verse<choice><sic>;</sic><corr>,</corr></choice>
+                        <l>No poem proud<choice><sic/><corr>,</corr></choice> I chanting bring to thee<choice><sic>—</sic><corr>,</corr></choice>nor mastery's rapturous verse<choice><sic>;</sic><corr>,</corr></choice>
                         </l>   
                         <l>But a <choice><sic>little book</sic><corr>cluster</corr></choice> containing night's darkness and blood-dripping wounds,</l>  
                         <l>And psalms of the dead.</l> 
@@ -185,15 +183,15 @@ necessary</change>
                      <lg type="linegroup">
                         <l>Word over all, beautiful as the sky<choice><sic>:</sic><corr>,</corr></choice>
                         </l>
-                        <l>Beautiful that war<choice><sic>,</sic><corr></corr></choice> and all its deeds of carnage<choice><sic>,</sic><corr></corr></choice> must in time be utterly lost<choice><sic>;</sic><corr>,</corr></choice>
+                        <l>Beautiful that war<choice><sic>,</sic><corr/></choice> and all its deeds of carnage<choice><sic>,</sic><corr/></choice> must in time be utterly lost<choice><sic>;</sic><corr>,</corr></choice>
                         </l>
-                        <l>That the hands of the sisters Death and Night incessantly<choice><sic>,</sic><corr></corr></choice> softly wash again, and ever <lb/>again, this soil'd world;</l>
+                        <l>That the hands of the sisters Death and Night incessantly<choice><sic>,</sic><corr/></choice> softly wash again, and ever <lb/>again, this soil'd world;</l>
                         <l>For my enemy is dead<choice><sic>—</sic><corr>,</corr></choice>a man divine as myself is dead<choice><sic>;</sic><corr>,</corr></choice>
                         </l>
-                        <l>I look where he lies<choice><sic>,</sic><corr></corr></choice> white-faced and still<choice><sic>,</sic><corr></corr></choice> in the coffin—I draw near<choice><sic>;</sic><corr>,</corr></choice>
+                        <l>I look where he lies<choice><sic>,</sic><corr/></choice> white-faced and still<choice><sic>,</sic><corr/></choice> in the coffin—I draw near<choice><sic>;</sic><corr>,</corr></choice>
                         </l>
                         <l>
-                           <choice><sic>I</sic><corr></corr></choice> 
+                           <choice><sic>I</sic><corr/></choice> 
                            <choice><sic>bend</sic><corr>Bend</corr></choice> down and touch lightly with my lips the white face in the coffin.</l>
                      </lg>
                   </lg>
@@ -284,12 +282,12 @@ necessary</change>
                         <!-- Look Down Fair Moon -->
                      </relations>
                      <lg type="linegroup">
-                        <l>Look down<choice><sic>,</sic><corr></corr></choice> fair moon<choice><sic>,</sic><corr></corr></choice> and bathe this scene<choice><sic>;</sic><corr>,</corr></choice>
+                        <l>Look down<choice><sic>,</sic><corr/></choice> fair moon<choice><sic>,</sic><corr/></choice> and bathe this scene<choice><sic>;</sic><corr>,</corr></choice>
                         </l> 
                         <l>Pour softly down night's nimbus floods, on faces ghastly, swollen, purple<choice><sic>;</sic><corr>,</corr></choice>
                         </l>  
-                        <l>On the dead<choice><sic>,</sic><corr></corr></choice> on their backs<choice><sic>,</sic><corr></corr></choice> with their arms toss'd wide,</l>    
-                        <l>Pour down your unstinted nimbus<choice><sic>,</sic><corr></corr></choice> sacred moon.</l>
+                        <l>On the dead<choice><sic>,</sic><corr/></choice> on their backs<choice><sic>,</sic><corr/></choice> with their arms toss'd wide,</l>    
+                        <l>Pour down your unstinted nimbus<choice><sic>,</sic><corr/></choice> sacred moon.</l>
                      </lg>
                   </lg>
                </body>

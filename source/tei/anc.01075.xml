@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.01075">  
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.01075">  
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -34,7 +32,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.01075</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -46,7 +44,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>
+            <idno>anc.01075</idno></publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -92,19 +90,19 @@
             
             <milestone unit="undeclared" rend="horbar-short-center"/>
             
-            <p>A poet's prose is sure to be attractive. Walt Whitman's "November Boughs" has a streak of intentional verse in it, but the prose papers of which it is mainly composed speak aloud of the peculiar poetic temperament behind them. We look at various subjects through the good poet's eyes: at "Our Eminent Visitors, past, present, and future,"&#8212;a brilliant motley procession,&#8212;Dickens, Thackeray, Spencer, Oscar Wilde, Matthew Arnold, Henry Irving; at "The Bible as Poetry;" "A Word about Tennyson;" "Slang in America;" "Father Taylor and Oratory;" "What lurks behind Shakespeare's Historical Plays;" or at some jottings of personal reminiscence,&#8212;"War Memoranda," "Notes on Elias Hicks," etc.; in each we gain a large, though brief and passing, glimpse of the subject viewed; from each some added impression of the breadth, the democratic kindliness, and homespun sense that marks the very soul and gait of our American Walt Whitman.</p>
+            <p>A poet's prose is sure to be attractive. Walt Whitman's "November Boughs" has a streak of intentional verse in it, but the prose papers of which it is mainly composed speak aloud of the peculiar poetic temperament behind them. We look at various subjects through the good poet's eyes: at "Our Eminent Visitors, past, present, and future,"—a brilliant motley procession,—Dickens, Thackeray, Spencer, Oscar Wilde, Matthew Arnold, Henry Irving; at "The Bible as Poetry;" "A Word about Tennyson;" "Slang in America;" "Father Taylor and Oratory;" "What lurks behind Shakespeare's Historical Plays;" or at some jottings of personal reminiscence,—"War Memoranda," "Notes on Elias Hicks," etc.; in each we gain a large, though brief and passing, glimpse of the subject viewed; from each some added impression of the breadth, the democratic kindliness, and homespun sense that marks the very soul and gait of our American Walt Whitman.</p>
             
             <p>Very readable papers are these, but not only for their own sakes. In them we feel that the poet's prose takes us, in a way, behind the scenes of his criticised rhythmical stage-settings and shows us anew the "sign and note and character" of the poet's poetry.</p>
             
-            <p>The introductory paper, "A Backward Glance o'er Travelled Roads," openly welcomes us to confidence. It tells plainly much of that which we can scarcely imagine any intelligent reader of poetry would let pass by unread and unheeded. In the verses given and entitled "Sands at Seventy" we would choose out "Had I the Choice," "You Tides with Ceaseless Swell," "Proudly the Flood comes in," and "By that Long Scan of Waves," as telling the same story in Whitman's best way,&#8212;the story of the part he has distinctively chosen to uphold amid the democratic flood of peoples that he loves.</p>
+            <p>The introductory paper, "A Backward Glance o'er Travelled Roads," openly welcomes us to confidence. It tells plainly much of that which we can scarcely imagine any intelligent reader of poetry would let pass by unread and unheeded. In the verses given and entitled "Sands at Seventy" we would choose out "Had I the Choice," "You Tides with Ceaseless Swell," "Proudly the Flood comes in," and "By that Long Scan of Waves," as telling the same story in Whitman's best way,—the story of the part he has distinctively chosen to uphold amid the democratic flood of peoples that he loves.</p>
             
             <p>He tells it to much the same effect and more specifically in the introductory paper from which we extract this comment on his own "Leaves of Grass" and other poems:</p>
                 <q who="Walt Whitman">
                     <floatingText>
                         <body>
-                            <p>"The word I myself put primarily for the description of them as they stand at last is the word Suggestiveness. I round and finish little, if anything; and could not consistently with my scheme. The reader will always have his or her part to do, just as much as I have had mine. I seek less to state or display any theme or thought, and more to bring you, reader, into the atmosphere of the theme or thought,&#8212;there to pursue your own flight. Another impetus word is Comradeship as for all lands, and in a more commanding and acknowledged sense that hitherto. Other sign words would be Good Cheer, Content, and Hope . .  . . </p>
+                            <p>"The word I myself put primarily for the description of them as they stand at last is the word Suggestiveness. I round and finish little, if anything; and could not consistently with my scheme. The reader will always have his or her part to do, just as much as I have had mine. I seek less to state or display any theme or thought, and more to bring you, reader, into the atmosphere of the theme or thought,—there to pursue your own flight. Another impetus word is Comradeship as for all lands, and in a more commanding and acknowledged sense that hitherto. Other sign words would be Good Cheer, Content, and Hope . .  . . </p>
                             
-                            <p>"'Leaves of Grass' indeed (I cannot too often reiterate) has mainly been the outcropping of my own emotional and other personal nature&#8212;an attempt, from first to last, to put <hi rend="italic">a person</hi>, a human being (myself, in the latter half of the nineteenth century, in America), freely, fully, and truly on record. I could not find any similar personal record in current literature that satisfied me. But it is not on 'Leaves of Grass' distinctively as <hi rend="italic">literature</hi>, or a specimen thereof, that I feel to dwell or advance claims. No one will get at my verses who insists upon viewing them as a literary performance, or as aiming mainly toward art or aestheticism."</p>
+                            <p>"'Leaves of Grass' indeed (I cannot too often reiterate) has mainly been the outcropping of my own emotional and other personal nature—an attempt, from first to last, to put <hi rend="italic">a person</hi>, a human being (myself, in the latter half of the nineteenth century, in America), freely, fully, and truly on record. I could not find any similar personal record in current literature that satisfied me. But it is not on 'Leaves of Grass' distinctively as <hi rend="italic">literature</hi>, or a specimen thereof, that I feel to dwell or advance claims. No one will get at my verses who insists upon viewing them as a literary performance, or as aiming mainly toward art or aestheticism."</p>
                                                        
                         </body>
                     </floatingText>
@@ -115,6 +113,3 @@
         </body>
     </text>
 </TEI>
-
-            
-          

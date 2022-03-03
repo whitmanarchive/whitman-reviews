@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02132">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02132">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,7 +23,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <idno>anc.02132</idno>
+            
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -37,7 +35,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         </publicationStmt>
+         <idno>anc.02132</idno></publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -72,12 +70,12 @@
          <milestone unit="undeclared" rend="horbar-short-center"/>
 
          <head type="sub">A Striking Collection of Essays and
-            Poems&#8212;A Backward Glance O'er Travel'd Roads.</head>
+            Poems—A Backward Glance O'er Travel'd Roads.</head>
          
          <milestone unit="undeclared" rend="horbar-short-center"/>
 
-         <head type="sub">The Soul of Eastern Civilization&#8212;A
-            Suggestive Work by Percival Lowell&#8212;Review of Minor Publications.</head>
+         <head type="sub">The Soul of Eastern Civilization—A
+            Suggestive Work by Percival Lowell—Review of Minor Publications.</head>
          
          <milestone unit="undeclared" rend="horbar-short-center"/>
          
@@ -109,7 +107,7 @@
             and poetic form, and uncompromisingly, my own physical, emotional, moral,
             intellectual and esthetic Personality, in the midst of, and tallying the
             momentous spirit and facts of its immediate days, and of current
-            America&#8212;and to exploit that Personality, identified with place and date,
+            America—and to exploit that Personality, identified with place and date,
             in a far more candid and comprehensive sense than any hitherto poem or book."
             The outcome of this ambition was the collection of pieces known collectively as
             "Leaves of Grass" and the prose papers also put forth from time to time. "The
@@ -118,14 +116,14 @@
             put it unerringly on record." This is what he tells us, with a pride as
             pardonable as the occasion for its exhibition is rare even among writers of more
             than usual sincerity and earnestness of purpose. In another place the feeling of
-            pride leads to this exclamation: "My Book and I&#8212;what a period we have
-            presumed to span! those thirty years from 1850 to 1880&#8212;and America in
+            pride leads to this exclamation: "My Book and I—what a period we have
+            presumed to span! those thirty years from 1850 to 1880—and America in
             them! Proud, proud indeed may we be if we have culled enough of that period in
             its own spirit to worthily waft a few live breaths of it to the future!"</p>
          
          <p>Upon the two matters in which Whitman's work has
-            mainly given offence&#8212;its disregard respectively of the conventional
-            requirements of morality and of literary form&#8212;this introduction is clear
+            mainly given offence—its disregard respectively of the conventional
+            requirements of morality and of literary form—this introduction is clear
             and outspoken. Concerning the latter of these matters we read: "I know well
             enough, too, that in respect to pictorial talent, dramatic situations, and
             especially in verbal melody and all the conventional technique of poetry, not
@@ -136,9 +134,9 @@
             only their own inherent quality, but the quality, just as inherent and
             important, of <hi rend="italic">their point of view</hi>, the time had come to
             reflect all themes and things, old and new, in the lights thrown on them by the
-            advent of America and democracy&#8212;to chant those themes through the
+            advent of America and democracy—to chant those themes through the
             utterance of one not only the grateful and reverent legatee of the past, but the
-            born child of the New World&#8212;to illustrate all through the genesis and
+            born child of the New World—to illustrate all through the genesis and
             ensemble of to-day; and that such illustration and ensemble are the chief
             demands of America's prospective imaginative literature." While this plea may by
             no means be accepted as justifying Whitman's literary form, which has faults of
@@ -161,7 +159,7 @@
             recognition bestowed upon Whitman's work, is thus met, and the opinion is
             enforced by years of careful reflection. "From another point of view, 'Leaves of
             Grass' is avowedly the song of Sex and Amativeness, and even
-            Animality&#8212;though meanings that do not usually go along with these words
+            Animality—though meanings that do not usually go along with these words
             are behind all, and will duly emerge; and all are sought to be lifted into a
             different light and atmosphere. Of this feature, intentionally palpable in a few
             lines, I shall only say the espousing principle of those lines so gives breath
@@ -207,7 +205,7 @@
                      <l>"Simple and fresh and fair from
             Winter's close emerging,</l>
             <l>As if no artifice of fashion, business, politics, had ever been.</l>
-            <l>Forth from its sunny nook of shelter'd grass&#8212;innocent, golden, calm as
+            <l>Forth from its sunny nook of shelter'd grass—innocent, golden, calm as
                the dawn,</l>
             <l>The Spring's first dandelion shows its trustful face."</l>
                   </lg>
@@ -216,7 +214,7 @@
          </q>
          
          <p>The following fragment is based upon an incident of
-            the Greely expedition&#8212;the hearing of a solitary snow-bird's song by the
+            the Greely expedition—the hearing of a solitary snow-bird's song by the
             explorers in 83 degrees of north latitude:</p>
          
          <q who="Walt Whitman" type="extract">
@@ -224,14 +222,14 @@
                <body>
                   <lg type="poem">
                      <l>"Of that blithe throat of thine from Arctic bleak and blank,</l>
-            <l>I'll mind the lesson, solitary bird&#8212;let me, too, welcome chilling
+            <l>I'll mind the lesson, solitary bird—let me, too, welcome chilling
                drifts,</l>
-            <l>E'en the profoundest chill, as now&#8212;a torpid pulse, a brain
+            <l>E'en the profoundest chill, as now—a torpid pulse, a brain
                unnerv'd,</l>
-            <l>Old age land-lock'd within its Winter bay&#8212;(cold, cold, O cold!)</l>
+            <l>Old age land-lock'd within its Winter bay—(cold, cold, O cold!)</l>
             <l>These snowy hairs, my feeble arm, my frozen feet,</l>
             <l>For them thy faith, thy role I take, and grave it to the last;</l>
-            <l>Not summer's zones alone&#8212;not chants of youth, or south's warm tides
+            <l>Not summer's zones alone—not chants of youth, or south's warm tides
                alone,</l>
             <l>But held by sluggish toes, pack'd in the northern ice, the cumulus of
                years,</l>
@@ -253,95 +251,80 @@
          <div1 type="notes">
             <p>
                <note type="editorial" xml:id="n1" target="r1" n="1">
-                  Alfred, Lord Tennyson (1809&#8211;1892) succeeded
+                  Alfred, Lord Tennyson (1809–1892) succeeded
                   William Wordsworth as poet laureate of Great Britain in 1850. The intense male
                   friendship described in <hi rend="italic">In Memoriam</hi>, which Tennyson wrote
                   after the death of his friend Arthur Henry Hallam, possibly influenced Whitman's
-                  poetry. Tennyson began a correspondence with Whitman on <ref target="../../../biography/correspondence/tei/med.00410"
-                     >July 12, 1871</ref>. Although Tennyson extended an invitation for Whitman
+                  poetry. Tennyson began a correspondence with Whitman on <ref target="../../../biography/correspondence/tei/med.00410">July 12, 1871</ref>. Although Tennyson extended an invitation for Whitman
                   to visit England, Whitman never acted on the offer.
                </note>
                <note type="editorial" xml:id="n2" target="r2" n="2">
-                  Algernon Charles Swinburne (1837&#8211;1909) was a
+                  Algernon Charles Swinburne (1837–1909) was a
                   British poet, critic, playwright, and novelist. He was also one of Whitman's
                   earliest English admirers. At the conclusion of <hi rend="italic">William Blake:
-                     A Critical Essay</hi> (1868), 300&#8211;303, Swinburne pointed out
+                     A Critical Essay</hi> (1868), 300–303, Swinburne pointed out
                   similarities between Whitman and Blake, and praised "Out of the Cradle Endlessly
                   Rocking" and "When Lilacs Last in the Dooryard Bloom'd," which he termed "the
                   most sweet and sonorous nocturn ever chanted in the church of the world." His
                   famous lyric "To Walt Whitman in America" is included in <hi rend="italic">Songs
                      before Sunrise</hi> (1871). For the story of Swinburne's veneration of
-                  Whitman and his later recantation, see two essays by Terry L. Meyers, "<ref
-                     target="http://www.whitmanarchive.org/criticism/wwqr/pdf/anc.00740.pdf"
-                     >Swinburne and Whitman: Further Evidence</ref>," <hi rend="italic">Walt
-                        Whitman Quarterly Review</hi> 14 (Summer 1996), 1&#8211;11 and "<ref
-                           target="http://www.whitmanarchive.org/criticism/wwqr/pdf/anc.00902.pdf">A
+                  Whitman and his later recantation, see two essays by Terry L. Meyers, "<ref target="http://www.whitmanarchive.org/criticism/wwqr/pdf/anc.00740.pdf">Swinburne and Whitman: Further Evidence</ref>," <hi rend="italic">Walt
+                        Whitman Quarterly Review</hi> 14 (Summer 1996), 1–11 and "<ref target="http://www.whitmanarchive.org/criticism/wwqr/pdf/anc.00902.pdf">A
                            Note on Swinburne and Whitman</ref>," <hi rend="italic">WWQR</hi> 21 (Summer
-                  2003), 38&#8211;39.
+                  2003), 38–39.
                </note>
                <note type="editorial" xml:id="n3" target="r3" n="3">
-                  William Michael Rossetti (1829&#8211;1915), brother
+                  William Michael Rossetti (1829–1915), brother
                   of Dante Gabriel and Christina Rossetti, was an English editor and a champion of
                   Whitman's work. In 1868 Rossetti edited Whitman's <hi rend="italic">Poems</hi>,
                   selected from the 1867 <hi rend="italic">Leaves of Grass</hi>. Whitman referred
-                  to Rossetti's edition as a "horrible dismemberment of my book" in his <ref
-                     target="../../../biography/correspondence/tei/loc.01696">August 12, 1871</ref>, letter to F.S. Ellis. Nonetheless,
+                  to Rossetti's edition as a "horrible dismemberment of my book" in his <ref target="../../../biography/correspondence/tei/loc.01696">August 12, 1871</ref>, letter to F.S. Ellis. Nonetheless,
                   the edition provided a major boost to Whitman's reputation, and Rossetti would
                   remain a staunch supporter for the rest of Whitman's life, drawing in
                   subscribers to the 1876 <hi rend="italic">Leaves of Grass</hi> and fundraising
                   for Whitman in England. For more on Whitman's relationship with Rossetti, see
-                  Sherwood Smith, "<ref
-                     target="http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_48.html"
-                     >Rossetti, William Michael (1829&#8211;1915)</ref>," <hi rend="italic">Walt
+                  Sherwood Smith, "<ref target="http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_48.html">Rossetti, William Michael (1829–1915)</ref>," <hi rend="italic">Walt
                         Whitman: An Encyclopedia</hi>, ed. J.R. LeMaster and Donald D. Kummings (New
                   York: Garland Publishing, 1998).
                </note>
                <note type="editorial" xml:id="n4" target="r4" n="4">
-                  John Addington Symonds (1840&#8211;1893), a
+                  John Addington Symonds (1840–1893), a
                   prominent biographer, literary critic, and poet in Victorian England, was author
                   of the seven-volume history <hi rend="italic">Renaissance in Italy</hi>, as well
-                  as <hi rend="italic">Walt Whitman&#8212;A Study</hi> (1893), and a translator of
+                  as <hi rend="italic">Walt Whitman—A Study</hi> (1893), and a translator of
                   Michelangelo's sonnets. But in the smaller circles of the emerging upper-class
                   English homosexual community, he was also well known as a writer of homoerotic
                   poetry and a pioneer in the study of homosexuality, or sexual inversion as it
-                  was then known. See Andrew Higgins, "<ref
-                     target="http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_56.html"
-                     >Symonds, John Addington [1840&#8211;1893]</ref>," <hi rend="italic">Walt
+                  was then known. See Andrew Higgins, "<ref target="http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_56.html">Symonds, John Addington [1840–1893]</ref>," <hi rend="italic">Walt
                         Whitman: An Encyclopedia</hi>, ed. J.R. LeMaster and Donald D. Kummings (New
                   York: Garland Publishing, 1998).
                </note>
                <note type="editorial" xml:id="n5" target="r5" n="5">
                   Edmund Clarence Stedman
-                  (1833&#8211;1908) was a man of diverse talents. He edited for a year the <hi
-                     rend="italic">Mountain County Herald</hi> at Winsted, Connecticut, wrote
+                  (1833–1908) was a man of diverse talents. He edited for a year the <hi rend="italic">Mountain County Herald</hi> at Winsted, Connecticut, wrote
                   "Honest Abe of the West," presumably Lincoln's first campaign song, and served
                   as correspondent of the <hi rend="italic">New York World</hi> from 1860 to 1862.
                   In 1862 and 1863 he was a private secretary in the Attorney General's office
                   until he entered the firm of Samuel Hallett and Company in September, 1863. The
                   next year he opened his own brokerage office. He published many volumes of poems
-                  and was an indefatigable compiler of anthologies, among which were <hi
-                     rend="italic">Poets of America</hi>, 2 vols. (Boston: Houghton Mifflin,
+                  and was an indefatigable compiler of anthologies, among which were <hi rend="italic">Poets of America</hi>, 2 vols. (Boston: Houghton Mifflin,
                   1885) and <hi rend="italic">A Library of American Literature from the Earliest
                      Settlement to the Present Time</hi>, 11 vols. (New York: C. L. Webster,
-                  1889&#8211;90). For more, see Donald Yannella, "<ref
-                     target="http://whitmanarchive.org/criticism/current/encyclopedia/entry_107.html"
-                     >Stedman, Edmund Clarence (1833&#8211;1908)</ref>," <hi rend="italic">Walt
+                  1889–90). For more, see Donald Yannella, "<ref target="http://whitmanarchive.org/criticism/current/encyclopedia/entry_107.html">Stedman, Edmund Clarence (1833–1908)</ref>," <hi rend="italic">Walt
                         Whitman: An Encyclopedia</hi>, ed. J.R. LeMaster and Donald D. Kummings (New
                   York: Garland Publishing, 1998).
                </note>
                <note type="editorial" xml:id="n6" target="r6" n="6">
-                  David McKay (1860&#8211;1918) took
+                  David McKay (1860–1918) took
                   over Philadelphia-based publisher Rees Welsh's bookselling and publishing
-                  businesses in 1881&#8211;2. McKay and Rees Welsh published the 1881 edition of
+                  businesses in 1881–2. McKay and Rees Welsh published the 1881 edition of
                   <hi rend="italic">Leaves of Grass</hi> after opposition from the Boston
                   District Attorney prompted James R. Osgood &amp; Company of Boston, the
                   publisher Whitman had originally contracted with for publication of the volume,
                   to withdraw. McKay also went on to publish <hi rend="italic">Specimen Days &amp;
                      Collect</hi>, <hi rend="italic">November Boughs</hi>, <hi rend="italic">Gems
                         from Walt Whitman</hi>, and <hi rend="italic">Complete Prose Works</hi>. For
-                  more information about McKay, see Joel Myerson, "<ref
-                     target="http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_88.html"
-                     >McKay, David (1860&#8211;1918)</ref>," <hi rend="italic">Walt Whitman: An
+                  more information about McKay, see Joel Myerson, "<ref target="http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_88.html">McKay, David (1860–1918)</ref>," <hi rend="italic">Walt Whitman: An
                         Encyclopedia</hi>, ed. J.R. LeMaster and Donald D. Kummings (New York:
                   Garland Publishing, 1998).
                </note>

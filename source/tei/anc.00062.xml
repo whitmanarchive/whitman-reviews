@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00062">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00062">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -36,7 +34,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <idno>anc.00062</idno>
+            
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -48,7 +46,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         </publicationStmt>
+         <idno>anc.00062</idno></publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -112,7 +110,7 @@ necessary</change>
                         <!-- Not Youth Pertains to Me lines 5-8-->
                      </relations>
                      <lg type="linegroup">
-                        <l>"Beauty, knowledge, <choice><sic>fortune, </sic><corr></corr></choice>inure not to me, yet there are two <choice><sic></sic><corr>or three</corr></choice> things inure to me<choice><sic>.</sic><corr>,</corr></choice>
+                        <l>"Beauty, knowledge, <choice><sic>fortune, </sic><corr/></choice>inure not to me, yet there are two <choice><sic/><corr>or three</corr></choice> things inure to me<choice><sic>.</sic><corr>,</corr></choice>
                         </l>   
                         <l>I have <choice><sic>nourished</sic><corr>nourish'd</corr></choice> the wounded and <choice><sic>soothed</sic><corr>sooth'd</corr></choice> many a dying soldier<choice><sic>;</sic><corr>,</corr></choice>
                         </l>  
@@ -142,12 +140,12 @@ necessary</change>
                      <lg type="linegroup">
                         <l rend="indented4">"The Lady of this teeming and turbulent city,</l> 
                         <l>Sleepless, amid her ships, her houses, her incalculable wealth,</l> 
-                        <l>With her million children around her<choice><sic>—</sic><corr>,</corr></choice>suddenly<choice><sic></sic><corr>,</corr></choice>
+                        <l>With her million children around her<choice><sic>—</sic><corr>,</corr></choice>suddenly<choice><sic/><corr>,</corr></choice>
                         </l>
                         <l>At dead of night, at news from the <choice><sic>S</sic><corr>s</corr></choice>outh,</l> 
                         <l>
                            <choice><sic>Incensed</sic><corr>Incens'd</corr></choice>
-                           <choice><sic>,</sic><corr></corr></choice> struck with <choice><sic>clenched</sic><corr>clinch'd</corr></choice> hand the pavement."</l>
+                           <choice><sic>,</sic><corr/></choice> struck with <choice><sic>clenched</sic><corr>clinch'd</corr></choice> hand the pavement."</l>
                      </lg>
                   </lg>
                </body>
@@ -166,7 +164,7 @@ necessary</change>
                         <!-- Can't find passage in Project Gutenberg e-text of Drum Taps to verify -->
                      </relations>
                      <lg type="linegroup"> 
-                        <l>"Crouching over a grave, an ancient<choice><sic>,</sic><corr></corr></choice> sorrowful mother,</l> 
+                        <l>"Crouching over a grave, an ancient<choice><sic>,</sic><corr/></choice> sorrowful mother,</l> 
                         <l>Once a queen<choice><sic>,</sic><corr>—</corr></choice>now lean and <choice><sic>tattered</sic><corr>tatter'd</corr></choice>, seated on the ground,</l> 
                         <l>Her old white hair drooping <choice><sic>dishevelled</sic><corr>dishevel'd</corr></choice> round her shoulders;</l>
                         <l>At her feet fallen an unused royal harp<choice><sic>."</sic><corr>,</corr></choice>

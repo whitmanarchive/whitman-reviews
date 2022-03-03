@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02117">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02117">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title level="m" type="main" corresp="lg1860">Leaves of Grass. Boston: Thayer &amp; Eldridge.</title>
-                <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860&#8211;61)]</title>
+                <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1860–61)]</title>
                 <title level="m" type="sub">a machine readable transcription</title>
                 <author>
                     <choice>
@@ -33,7 +30,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.02117</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -45,7 +42,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>
+            <idno>anc.02117</idno></publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -77,9 +74,9 @@
     
     <text type="ancillary">
         <body>
-            <head type="main-authorial">L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>. Boston: Thayer &#38; Eldridge.</head>
+            <head type="main-authorial">L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>. Boston: Thayer &amp; Eldridge.</head>
             
-            <p>A very remarkable series of poems, which have created the fiercest disputes in literary circles. With much that is undeniable trash, we find here and there passages which display strong ideality, rich imagination, and large descriptive power, such as the following:&#8212;
+            <p>A very remarkable series of poems, which have created the fiercest disputes in literary circles. With much that is undeniable trash, we find here and there passages which display strong ideality, rich imagination, and large descriptive power, such as the following:—
                 
                 <floatingText>
                     <body>
@@ -88,10 +85,10 @@
                                 <work ref="xxx.00114" cert="absolute"/>
                             </relations>
                             <l>In the Mannahatta, streets, piers, shipping, storehouses, and the countless workmen working in the shops,</l>
-                            <l>And I too of the Mannahatta, singing thereof&#8212;and no less in myself than the whole of the Mannahatta in itself,</l>
-                            <l>Singing the song of These, my ever united lands&#8212;my body no more inevitably united, part to part, and made one identity, any more than my lands are inevitably united, and made one identity,</l>
+                            <l>And I too of the Mannahatta, singing thereof—and no less in myself than the whole of the Mannahatta in itself,</l>
+                            <l>Singing the song of These, my ever united lands—my body no more inevitably united, part to part, and made one identity, any more than my lands are inevitably united, and made one identity,</l>
                             <l>Nativities, climates, the grass of the great Pastoral Plains,</l>
-                            <l>Cities, labors, death, animals, products, good and evil&#8212;these me, </l>
+                            <l>Cities, labors, death, animals, products, good and evil—these me, </l>
                             <l><choice><sic>hese</sic><corr>These</corr></choice><ref target="n1" xml:id="r1" n="1"/> affording, in all their particulars, endless feuillage to me and to America, how can I do less than pass the clew of the union of them, to afford the like to you?</l>
                             <l>Whoever you are! how can I but offer you divine leaves, that you also be eligible as I am?</l>
                             <l>How can I but, as here, chanting, invite you for yourself to collect bouquets of the incomparable feuillage of these States?</l>
@@ -106,5 +103,3 @@
         </back>
     </text>
 </TEI>
-
-

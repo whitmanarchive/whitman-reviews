@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00076">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00076">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -26,7 +24,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <idno>anc.00076</idno>
+            
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -38,7 +36,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         </publicationStmt>
+         <idno>anc.00076</idno></publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -115,7 +113,7 @@ necessary</change>
                         </l>
                         <l rend="indented1">"You shall not look through my eyes either, nor</l>
                         <l>take things from me:</l>
-                        <l rend="indented1">"You shall listen to all sides<choice><sic></sic><corr>,</corr></choice> and filter them from</l>
+                        <l rend="indented1">"You shall listen to all sides<choice><sic/><corr>,</corr></choice> and filter them from</l>
                         <l>yourself."</l>
                      </lg>
                   </lg>
@@ -207,8 +205,8 @@ necessary</change>
                         <l>To stop in company with the rest at evening is <lb/>enough<choice><sic>;</sic><corr>,</corr></choice>
                         </l>
                         <l>To be surrounded by beautiful, curious, breathing, <lb/>laughing flesh is enough;</l>
-                        <l>To pass among them, or touch any one, or rest my <lb/>arm ever so lightly round his or her neck for a <lb/>moment—what is this<choice><sic></sic><corr>,</corr></choice> then?</l>
-                        <l>I do not ask any more delight—I swim in it<choice><sic></sic><corr>,</corr></choice> as in <lb/>a sea.</l>
+                        <l>To pass among them, or touch any one, or rest my <lb/>arm ever so lightly round his or her neck for a <lb/>moment—what is this<choice><sic/><corr>,</corr></choice> then?</l>
+                        <l>I do not ask any more delight—I swim in it<choice><sic/><corr>,</corr></choice> as in <lb/>a sea.</l>
                         <!-- Stanza break here in original doesn't appear to be acknowledged by reviewer -->
                         <l>There is something in staying close to men and women, <lb/>and looking on them, and in the contact and <lb/>
                            <choice><sic>odour</sic><corr>odor</corr></choice> of them, that pleases the soul well;</l>
@@ -233,7 +231,7 @@ necessary</change>
                         <l rend="indented4">
                            <choice><sic>"It</sic><corr>it</corr></choice> is the handkerchief of the Lord;</l>
                         <l rend="indented1">A scented gift and <choice><sic>remembrance</sic><corr>remembrancer</corr></choice> designedly dropt,</l>
-                        <l>Bearing the owner's name someway in the corners, <lb/>that we may see and remark, and say<choice><sic></sic><corr>,</corr></choice> Whose?"</l>
+                        <l>Bearing the owner's name someway in the corners, <lb/>that we may see and remark, and say<choice><sic/><corr>,</corr></choice> Whose?"</l>
                      </lg>
                   </lg>
                </body>
