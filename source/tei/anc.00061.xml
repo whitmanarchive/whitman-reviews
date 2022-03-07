@@ -57,8 +57,8 @@
                   <title level="j">Galaxy</title>
                   <imprint>
                      <date when="1866-12-01">1 December 1866</date>
-                     <biblScope type="volume">2</biblScope>
-                     <biblScope type="pages">606-15</biblScope>
+                     <biblScope unit="volume">2</biblScope>
+                     <biblScope unit="pages">606-15</biblScope>
                   </imprint>
                </monogr>
                

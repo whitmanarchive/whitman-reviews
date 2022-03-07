@@ -65,7 +65,7 @@
                   <title level="j">The New York Daily News</title>
                   <imprint>
                      <date when="1856-02-27">27 February 1856</date>
-                     <biblScope type="pages">1</biblScope>
+                     <biblScope unit="pages">1</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

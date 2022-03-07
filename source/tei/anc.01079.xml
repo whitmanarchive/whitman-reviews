@@ -51,9 +51,9 @@
                     <monogr>
                         <title level="j">The Nineteenth Century</title>
                         <imprint>
-                            <biblScope type="volume">12</biblScope>
+                            <biblScope unit="volume">12</biblScope>
                             <date xml:id="dat1" cert="high" when="1882-12">December 1882</date>
-                            <biblScope type="pages">903&#8211;918</biblScope>
+                            <biblScope unit="pages">903&#8211;918</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

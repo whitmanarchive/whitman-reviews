@@ -59,7 +59,7 @@
                   <title level="j">Punch Magazine</title>
                   <imprint>
                      <date when="1856-04-26">26 April 1856</date>
-                     <biblScope type="pages">[169]</biblScope>
+                     <biblScope unit="pages">[169]</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

@@ -56,8 +56,8 @@
                   <title level="j">The American</title>
                   <imprint>
                      <date when="1882-08-12">12 August 1882</date>
-                     <biblScope type="volume">2 </biblScope>
-                     <biblScope type="pages">282</biblScope>
+                     <biblScope unit="volume">2 </biblScope>
+                     <biblScope unit="pages">282</biblScope>
                   </imprint>
                </monogr>
                

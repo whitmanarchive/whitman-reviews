@@ -67,7 +67,7 @@
                   <title level="j">The Boston Sunday Herald</title>
                   <imprint>
                      <date when="1882-10-15">15 October 1882</date>
-                     <biblScope type="pages">9</biblScope>
+                     <biblScope unit="pages">9</biblScope>
 
                   </imprint>
                </monogr>

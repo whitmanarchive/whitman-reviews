@@ -61,7 +61,7 @@
                   <title level="j">The Boston Herald</title>
                   <imprint>
                      <date when="1889-01-03">3 January 1889</date>
-                     <biblScope type="pages">4</biblScope>
+                     <biblScope unit="pages">4</biblScope>
 
                   </imprint>
                </monogr>

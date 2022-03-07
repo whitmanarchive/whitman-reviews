@@ -58,7 +58,7 @@
                         <title level="j">Sunday Times</title>
                         <imprint>
                             <date xml:id="dat1" when="1859-12-25" cert="high">25 December 1859</date>
-                            <biblScope type="pages">[unknown]</biblScope>
+                            <biblScope unit="pages">[unknown]</biblScope>
                         </imprint>
                     </monogr>
                 </biblStruct>

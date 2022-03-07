@@ -60,7 +60,7 @@
                   <title level="j">Leeds Mercury</title>
                   <imprint>
                      <date when="1886-10-09">9 October 1886</date>
-                     <biblScope type="pages">6</biblScope>
+                     <biblScope unit="pages">6</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

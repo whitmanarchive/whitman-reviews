@@ -61,7 +61,7 @@
                   <title level="j">The London Echo</title>
                   <imprint>
                      <date when="1889-01-26">26 January 1889</date>
-                     <biblScope type="pages">1</biblScope>
+                     <biblScope unit="pages">1</biblScope>
 
                   </imprint>
                </monogr>

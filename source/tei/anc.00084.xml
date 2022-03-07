@@ -64,8 +64,8 @@
                   <title level="j">Liberty</title> 
                   <imprint>
                      <date when="1881-11-26">26 November 1881</date>
-                     <biblScope type="volume">1</biblScope>
-                     <biblScope type="pages">3</biblScope>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="pages">3</biblScope>
                   </imprint>
                </monogr>
                <note type="project">Transcribed in part from an electronic copy, The Walt Whitman Archive</note>

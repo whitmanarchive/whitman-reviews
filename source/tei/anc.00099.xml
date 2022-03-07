@@ -60,7 +60,7 @@
                   <title level="j">The New York Tribune</title>
                   <imprint>
                      <date when="1882-10-14">14 October 1882</date>
-                     <biblScope type="pages">6</biblScope>
+                     <biblScope unit="pages">6</biblScope>
 
                   </imprint>
                </monogr>

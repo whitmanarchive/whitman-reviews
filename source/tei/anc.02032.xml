@@ -57,7 +57,7 @@
                             <title level="m">Leaves of Grass Imprints: American and European Criticisms on "Leaves of Grass"</title>
                         <imprint>
                             <date xml:id="dat1" cert="high" when="1860">1860</date>
-                                <biblScope type="pages">51</biblScope>
+                                <biblScope unit="pages">51</biblScope>
                                 </imprint>
                     </monogr>
 </biblStruct>

@@ -60,8 +60,8 @@
                   <title level="j">The Daily National Intelligencer</title>
                   <imprint>
                      <date when="1860-07-14">14 July 1860</date>
-                     <!--<biblScope type="volume">14, 956</biblScope>-->
-                     <biblScope type="pages">[unknown]</biblScope>
+                     <!--<biblScope unit="volume">14, 956</biblScope>-->
+                     <biblScope unit="pages">[unknown]</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

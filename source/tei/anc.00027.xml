@@ -67,9 +67,9 @@
                <monogr>
                   <title level="j">The Leader</title>
                   <imprint>
-                     <biblScope type="volume">7</biblScope>
+                     <biblScope unit="volume">7</biblScope>
                      <date when="1856-06-07">7 June 1856</date>
-                     <biblScope type="pages">547-54[8]</biblScope>
+                     <biblScope unit="pages">547-54[8]</biblScope>
                   </imprint>
                </monogr>
                

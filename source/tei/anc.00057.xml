@@ -61,7 +61,7 @@
                   <title level="j">The San Francisco Bulletin</title>
                   <imprint>
                      <date when="1865-12-18">18 December 1865</date>
-                     <biblScope type="pages">5</biblScope>
+                     <biblScope unit="pages">5</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

@@ -59,9 +59,9 @@
                   <title level="j">The Albion, A Journal of News, Politics and Literature</title>
                   <imprint>
                      <date when="1855-09-08">8 September 1855</date>
-                     <biblScope type="volume">14</biblScope>
-                     <biblScope type="issue">36</biblScope>
-                     <biblScope type="pages">429</biblScope>
+                     <biblScope unit="volume">14</biblScope>
+                     <biblScope unit="issue">36</biblScope>
+                     <biblScope unit="pages">429</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

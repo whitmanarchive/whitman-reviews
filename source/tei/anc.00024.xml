@@ -62,9 +62,9 @@
                   <title level="j">The Critic</title>
                   <note type="project" rend="bracketed">London</note>
                   <imprint>
-                     <biblScope type="volume">15</biblScope>
+                     <biblScope unit="volume">15</biblScope>
                      <date when="1856-04-01">1 April 1856</date>
-                     <biblScope type="pages">170-1</biblScope>
+                     <biblScope unit="pages">170-1</biblScope>
                   </imprint>
                </monogr>
                

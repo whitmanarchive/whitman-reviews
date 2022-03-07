@@ -65,7 +65,7 @@
                   <title level="j">Once a Week. An Illustrated Miscellany of Literature, Art, Science, &amp; Popular Information</title>
                   <imprint>
                      <date when="1872-06-01">1 June 1872</date>
-                     <biblScope type="pages">501-5</biblScope>
+                     <biblScope unit="pages">501-5</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

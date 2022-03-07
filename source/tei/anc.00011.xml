@@ -64,9 +64,9 @@
                <monogr>
                   <title level="j">Putnam's Monthly: A Magazine of Literature, Science, and Arts</title>
                   <imprint>
-                     <biblScope type="volume">6</biblScope>
+                     <biblScope unit="volume">6</biblScope>
                      <date when="1855-09">September 1855</date>
-                     <biblScope type="pages">321-3</biblScope>
+                     <biblScope unit="pages">321-3</biblScope>
                   </imprint>
                </monogr>
                

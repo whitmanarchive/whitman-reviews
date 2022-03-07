@@ -62,8 +62,8 @@
                   <title level="j">Boston Banner of Light</title>
                   <imprint>
                      <date when="1860-06-02">2 June 1860</date>
-                     <biblScope type="volume">7</biblScope>
-                     <biblScope type="pages">4</biblScope>
+                     <biblScope unit="volume">7</biblScope>
+                     <biblScope unit="pages">4</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

@@ -62,7 +62,7 @@
                   <title level="j">The Boston Evening Transcript</title>
                   <imprint>
                      <date when="1888-11-15">15 November 1888</date>
-                     <biblScope type="pages">6</biblScope>
+                     <biblScope unit="pages">6</biblScope>
 
                   </imprint>
                </monogr>

@@ -64,7 +64,7 @@
                   <title level="j">The Boston Globe</title>
                   <imprint>
                      <date when="1881-11-13">13 November 1881</date>
-                     <biblScope type="pages">8</biblScope>
+                     <biblScope unit="pages">8</biblScope>
                   </imprint>
                </monogr>
                

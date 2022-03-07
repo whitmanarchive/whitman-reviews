@@ -59,7 +59,7 @@
                   <title level="j">The American</title>
                   <imprint>
                      <date when="1888-11-24">24 November 1888</date>
-                     <biblScope type="pages">91</biblScope>
+                     <biblScope unit="pages">91</biblScope>
                   </imprint>
                </monogr>
                

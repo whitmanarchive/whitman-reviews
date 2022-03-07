@@ -63,8 +63,8 @@
                   <title level="j">Review of Reviews</title>
                   <imprint>
                      <date when="1891-09">September 1891</date>
-                     <biblScope type="volume">4</biblScope>
-                     <biblScope type="pages">227</biblScope>
+                     <biblScope unit="volume">4</biblScope>
+                     <biblScope unit="pages">227</biblScope>
 
                   </imprint>
                </monogr>

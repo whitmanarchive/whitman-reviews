@@ -49,9 +49,9 @@
                     <monogr>
                         <title level="j">New Quarterly Magazine</title>
                         <imprint>
-                            <biblScope type="volume">10</biblScope>
+                            <biblScope unit="volume">10</biblScope>
                             <date xml:id="dat1" cert="high" when="1878-10">October 1878</date>
-                            <biblScope type="pages">461-481</biblScope>
+                            <biblScope unit="pages">461-481</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

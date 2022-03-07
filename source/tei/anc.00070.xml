@@ -65,7 +65,7 @@
                   <title level="j">The Saturday Review</title>
                   <imprint>
                      <date when="1868-05-02">2 May 1868</date>
-                     <biblScope type="pages">589-90</biblScope>
+                     <biblScope unit="pages">589-90</biblScope>
                   </imprint>
                </monogr>
                

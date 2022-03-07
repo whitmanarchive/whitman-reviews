@@ -62,9 +62,9 @@
                <monogr>
                   <title level="j">The North American Review</title>
                   <imprint>
-                     <biblScope type="volume">82</biblScope>
+                     <biblScope unit="volume">82</biblScope>
                      <date when="1856-01">January 1856</date>
-                     <biblScope type="pages">275-7</biblScope>
+                     <biblScope unit="pages">275-7</biblScope>
                   </imprint>
                </monogr>
                

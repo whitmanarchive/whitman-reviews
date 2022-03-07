@@ -61,7 +61,7 @@
                   <title level="j">The New Orleans Times-Democrat</title>
                   <imprint>
                      <date when="1882-07-30">30 July 1882</date>
-                     <biblScope type="pages">4</biblScope>
+                     <biblScope unit="pages">4</biblScope>
 
                   </imprint>
                </monogr>

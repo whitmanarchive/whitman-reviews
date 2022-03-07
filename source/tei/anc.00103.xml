@@ -64,7 +64,7 @@
                   <title level="j">The New York Sun</title>
                   <imprint>
                      <date when="1882-11-05">5 November 1882</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
 
                   </imprint>
                </monogr>

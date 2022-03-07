@@ -57,7 +57,7 @@
                   <title level="j">The New York Ledger</title>
                   <imprint>
                      <date when="1856-05-10">10 May 1856</date>
-                     <biblScope type="pages">4</biblScope>
+                     <biblScope unit="pages">4</biblScope>
                   </imprint>
                </monogr>
                

@@ -63,7 +63,7 @@
                   <title level="j">The New York Times</title>
                   <imprint>
                      <date when="1882-12-18">18 December 1882</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
                   </imprint>
                </monogr>
                

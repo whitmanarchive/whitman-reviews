@@ -64,9 +64,9 @@
                   <title level="j">The Westminster Review</title>
                   <imprint>
                      <date when="1860-10-01">1 October 1860</date>
-                     <biblScope type="volume">74</biblScope>
-                     <biblScope type="issue">n.s. 18</biblScope>
-                     <biblScope type="pages">590</biblScope>
+                     <biblScope unit="volume">74</biblScope>
+                     <biblScope unit="issue">n.s. 18</biblScope>
+                     <biblScope unit="pages">590</biblScope>
                   </imprint>
                </monogr>
                

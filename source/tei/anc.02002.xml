@@ -59,9 +59,9 @@
                     <monogr>
                         <title level="j">New-York Tribune</title>
                         <imprint>
-                            <biblScope type="volume">41</biblScope>
+                            <biblScope unit="volume">41</biblScope>
                             <date xml:id="dat1" cert="high" when="1881-11-19">19 November 1881</date>
-                            <biblScope type="pages">4</biblScope>
+                            <biblScope unit="pages">4</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

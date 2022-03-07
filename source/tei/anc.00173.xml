@@ -62,7 +62,7 @@
                   <title level="j">The New York Daily Tribune</title>
                   <imprint>
                      <date when="1842-11-23">23 November 1842</date>
-                     <biblScope type="pages">1</biblScope>
+                     <biblScope unit="pages">1</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

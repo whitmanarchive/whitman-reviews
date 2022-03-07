@@ -61,9 +61,9 @@
                <monogr>
                   <title level="j">The Dublin Review</title>
                   <imprint>
-                     <biblScope type="volume">41</biblScope>
+                     <biblScope unit="volume">41</biblScope>
                      <date when="1856-09">September 1856</date>
-                     <biblScope type="pages">267-8</biblScope>
+                     <biblScope unit="pages">267-8</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

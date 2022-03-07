@@ -66,8 +66,8 @@
                   <title level="j">Chambers's Journal of Popular Literature, Science, and Art</title>
                   <imprint>
                      <date when="1868-07-04">4 July 1868</date>
-                     <biblScope type="volume">45</biblScope>
-                     <biblScope type="pages">420-5</biblScope>
+                     <biblScope unit="volume">45</biblScope>
+                     <biblScope unit="pages">420-5</biblScope>
                   </imprint>
                </monogr>
                

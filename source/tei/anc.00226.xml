@@ -60,7 +60,7 @@
                   <title level="j">Poet Lore</title>
                   <imprint>
                      <date when="1891">1891</date>
-                     <biblScope type="pages">644-5</biblScope>
+                     <biblScope unit="pages">644-5</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

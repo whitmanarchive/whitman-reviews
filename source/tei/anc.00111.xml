@@ -51,8 +51,8 @@
                   <title level="j">The Academy</title>
                   <imprint>
                      <date when="1887-06-04">4 June 1887</date>
-                     <biblScope type="volume">787</biblScope>
-                     <biblScope type="pages">390-1</biblScope>
+                     <biblScope unit="volume">787</biblScope>
+                     <biblScope unit="pages">390-1</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

@@ -61,8 +61,8 @@
                   <title level="j">The Literary News</title>
                   <imprint>
                      <date when="1891-09">September 1891</date>
-                     <biblScope type="volume">n.s. 12</biblScope>
-                     <biblScope type="pages">282</biblScope>
+                     <biblScope unit="volume">n.s. 12</biblScope>
+                     <biblScope unit="pages">282</biblScope>
 
                   </imprint>
                </monogr>

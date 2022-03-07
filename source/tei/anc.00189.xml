@@ -65,7 +65,7 @@
                   <title level="j">The Cincinnati Daily Commercial</title>
                   <imprint>
                      <date when="1860-11-29">29 November 1860</date>
-                     <biblScope type="pages">3</biblScope>
+                     <biblScope unit="pages">3</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

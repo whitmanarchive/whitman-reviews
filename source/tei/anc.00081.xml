@@ -65,8 +65,8 @@
                   <title level="j">The Literary World</title>
                   <imprint>
                      <date when="1881-11-19">19 November 1881</date>
-                     <biblScope type="volume">12</biblScope>
-                     <biblScope type="pages">411-12</biblScope>
+                     <biblScope unit="volume">12</biblScope>
+                     <biblScope unit="pages">411-12</biblScope>
                   </imprint>
                </monogr>
                

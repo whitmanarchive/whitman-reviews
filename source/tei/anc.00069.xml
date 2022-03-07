@@ -59,8 +59,8 @@
                   <title level="j">The Athenæum</title>
                   <imprint>
                      <date when="1868-04-25">25 April 1868</date>
-                     <biblScope type="volume">2113</biblScope>
-                     <biblScope type="pages">585-6</biblScope>
+                     <biblScope unit="volume">2113</biblScope>
+                     <biblScope unit="pages">585-6</biblScope>
                   </imprint>
                </monogr>
                

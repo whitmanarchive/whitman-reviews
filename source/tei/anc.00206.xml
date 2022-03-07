@@ -64,7 +64,7 @@
                   <title level="j">The Boston Post</title>
                   <imprint>
                      <date when="1881-11-02">2 November 1881</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

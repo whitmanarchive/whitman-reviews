@@ -60,9 +60,9 @@
                     <monogr>
                         <title level="j">The New York Illustrated News</title>
                         <imprint>
-                            <biblScope type="volume">36</biblScope>
+                            <biblScope unit="volume">36</biblScope>
                             <date xml:id="dat1" cert="high" when="1860-05-26">26 May 1860</date>
-                            <biblScope type="pages">429</biblScope>
+                            <biblScope unit="pages">429</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

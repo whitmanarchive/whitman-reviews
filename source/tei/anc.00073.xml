@@ -61,8 +61,8 @@
                   <title level="j">The Westminster Review</title>
                   <imprint>
                      <date when="1871-07">July 1871</date>
-                     <biblScope type="volume">96</biblScope>
-                     <biblScope type="pages">33-68</biblScope>
+                     <biblScope unit="volume">96</biblScope>
+                     <biblScope unit="pages">33-68</biblScope>
                   </imprint>
                </monogr>
                

@@ -62,7 +62,7 @@
                   <title level="j">The Liberator</title>
                   <imprint>
                      <date when="1860-09-07">7 September 1860</date>
-                     <biblScope type="pages">1</biblScope>
+                     <biblScope unit="pages">1</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

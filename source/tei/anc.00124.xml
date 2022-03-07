@@ -59,7 +59,7 @@
                   <title level="j">The Pall Mall Gazette</title>
                   <imprint>
                      <date when="1889-01-25">25 January 1889</date>
-                     <biblScope type="pages">3</biblScope>
+                     <biblScope unit="pages">3</biblScope>
 
                   </imprint>
                </monogr>

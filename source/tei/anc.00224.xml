@@ -48,7 +48,7 @@
                   <title level="j">The Academy</title>
                   <imprint>
                      <date when="1889-02-23">23 February 1889</date>
-                     <biblScope type="pages">127</biblScope>
+                     <biblScope unit="pages">127</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

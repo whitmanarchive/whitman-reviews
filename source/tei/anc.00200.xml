@@ -64,7 +64,7 @@
                   <title level="j">The New York Daily Tribune</title>
                   <imprint>
                      <date when="1876-02-19">19 February 1876</date>
-                     <biblScope type="pages">4</biblScope>
+                     <biblScope unit="pages">4</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

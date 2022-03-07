@@ -66,9 +66,9 @@
                <monogr>
                   <title level="j">The Brooklyn Daily Eagle</title>
                   <imprint>
-                     <biblScope type="volume">15</biblScope>
+                     <biblScope unit="volume">15</biblScope>
                      <date when="1855-09-15">15 September 1855</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
                   </imprint>
                </monogr>
                

@@ -60,7 +60,7 @@
                   <title level="j">The New-York Daily Tribune</title>
                   <imprint>
                      <date when="1888-12-09">9 December 1888</date>
-                     <biblScope type="pages">14</biblScope>
+                     <biblScope unit="pages">14</biblScope>
                   </imprint>
                </monogr>
                

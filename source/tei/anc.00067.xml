@@ -67,7 +67,7 @@
                   <title level="j">The London Sun</title>
                   <imprint>
                      <date when="1868-04-17">17 April 1868</date>
-                     <biblScope type="pages">31490</biblScope>
+                     <biblScope unit="pages">31490</biblScope>
                   </imprint>
                </monogr>
                

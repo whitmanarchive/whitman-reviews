@@ -65,7 +65,7 @@
                   <title level="j">The New York Herald</title>
                   <imprint>
                      <date when="1888-12-23">23 December 1888</date>
-                     <biblScope type="pages">7</biblScope>
+                     <biblScope unit="pages">7</biblScope>
 
                   </imprint>
                </monogr>

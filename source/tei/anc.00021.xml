@@ -63,7 +63,7 @@
                   <title level="j">The London Weekly Dispatch</title>
                   <imprint>
                      <date when="1856-03-09">9 March 1856</date>
-                     <biblScope type="pages">6</biblScope>
+                     <biblScope unit="pages">6</biblScope>
                   </imprint>
                </monogr>
                

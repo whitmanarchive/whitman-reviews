@@ -65,7 +65,7 @@
                   <title level="j">The New York Times</title>
                   <imprint>
                      <date when="1870-11-11">11 November 1870</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

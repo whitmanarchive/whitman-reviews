@@ -59,7 +59,7 @@
                   <title level="j">The Philadelphia Press</title>
                   <imprint>
                      <date when="1882-12-08">8 December 1882</date>
-                     <biblScope type="pages">7</biblScope>
+                     <biblScope unit="pages">7</biblScope>
 
                   </imprint>
                </monogr>

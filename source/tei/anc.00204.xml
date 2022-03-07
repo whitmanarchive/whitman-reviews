@@ -60,7 +60,7 @@
                   <title level="j">The Sunderland Weekly Times</title>
                   <imprint>
                      <date when="1876-07-07">7 July 1876</date>
-                     <biblScope type="pages">[unknown]</biblScope>
+                     <biblScope unit="pages">[unknown]</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

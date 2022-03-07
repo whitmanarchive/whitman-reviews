@@ -60,9 +60,9 @@
                     <monogr>
                         <title level="j">Boston Evening Transcript</title>
                         <imprint>
-                            <biblScope type="volume">[unknown]</biblScope>
+                            <biblScope unit="volume">[unknown]</biblScope>
                             <date xml:id="dat1" cert="high" when="1888-10-17">17 October 1888</date>
-                            <biblScope type="pages">1</biblScope>
+                            <biblScope unit="pages">1</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

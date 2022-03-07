@@ -60,7 +60,7 @@
                   <title level="j">The Independent</title>
                   <imprint>
                      <date when="1865-12-07">7 December 1865</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

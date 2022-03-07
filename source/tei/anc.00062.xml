@@ -63,8 +63,8 @@
                   <title level="j">The North American Review</title>
                   <imprint>
                      <date when="1867-01">January 1867</date>
-                     <biblScope type="volume">104</biblScope>
-                     <biblScope type="pages">301-3</biblScope>
+                     <biblScope unit="volume">104</biblScope>
+                     <biblScope unit="pages">301-3</biblScope>
                   </imprint>
                </monogr>
                

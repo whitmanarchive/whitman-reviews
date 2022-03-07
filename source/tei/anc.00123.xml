@@ -66,8 +66,8 @@
                   <note type="project" rend="bracketed">New York</note>
                   <imprint>
                      <date when="1889-01-19">19 January 1889</date>
-                     <biblScope type="volume">n.s. 11</biblScope>
-                     <biblScope type="pages">25</biblScope>
+                     <biblScope unit="volume">n.s. 11</biblScope>
+                     <biblScope unit="pages">25</biblScope>
 
                   </imprint>
                </monogr>

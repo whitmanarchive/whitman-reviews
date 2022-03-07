@@ -59,8 +59,8 @@
                   <title level="j">The American Bookseller</title>
                   <imprint>
                      <date when="1882-08-01">1 August 1882</date>
-                     <!--<biblScope type="volume">No. 15</biblScope>-->
-                     <biblScope type="pages">384</biblScope>
+                     <!--<biblScope unit="volume">No. 15</biblScope>-->
+                     <biblScope unit="pages">384</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

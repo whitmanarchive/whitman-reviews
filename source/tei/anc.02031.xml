@@ -56,7 +56,7 @@
                         <title level="j">New York Daily News</title>
                         <imprint>
                             <date xml:id="dat1" cert="high" when="1856-11-28">28 November 1856</date>
-                            <biblScope type="pages">[unknown]</biblScope>
+                            <biblScope unit="pages">[unknown]</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

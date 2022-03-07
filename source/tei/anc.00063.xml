@@ -62,7 +62,7 @@
                   <title level="j">Boston Commonwealth</title>
                   <imprint>
                      <date when="1866-11-10">10 November 1866</date>
-                     <biblScope type="pages">1-2</biblScope>
+                     <biblScope unit="pages">1-2</biblScope>
                   </imprint>
                </monogr>
                

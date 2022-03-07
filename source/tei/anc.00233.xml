@@ -60,8 +60,8 @@
                   <title level="j">The Harvard Magazine</title>
                   <imprint>
                      <date when="1857-01-03">3 January 1857</date>
-                     <biblScope type="volume">3</biblScope>
-                     <biblScope type="pages">40-1</biblScope>
+                     <biblScope unit="volume">3</biblScope>
+                     <biblScope unit="pages">40-1</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

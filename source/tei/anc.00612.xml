@@ -60,9 +60,9 @@
                     <monogr>
                         <title level="j">Universalist Union</title>
                         <imprint>
-                            <biblScope type="volume">10</biblScope>
+                            <biblScope unit="volume">10</biblScope>
                             <date xml:id="dat1" cert="high" when="1845">1845</date>
-                            <biblScope type="pages">234-235</biblScope>
+                            <biblScope unit="pages">234-235</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

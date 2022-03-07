@@ -61,8 +61,8 @@
                   <title level="j">The Scottish Review</title>
                   <imprint>
                      <date when="1889-07">July 1889</date>
-                     <biblScope type="volume">14</biblScope>
-                     <biblScope type="pages">212-13</biblScope>
+                     <biblScope unit="volume">14</biblScope>
+                     <biblScope unit="pages">212-13</biblScope>
 
                   </imprint>
                </monogr>
