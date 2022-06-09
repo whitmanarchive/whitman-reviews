@@ -58,9 +58,9 @@
                     <monogr>
                         <title level="j">The Long-Islander</title>
                         <imprint>
-                            <biblScope type="volume">3</biblScope>
+                            <biblScope unit="volume">3</biblScope>
                             <date xml:id="dat1" cert="high" when="1858-12-10">10 December 1858</date>
-                            <biblScope type="pages">2</biblScope>
+                            <biblScope unit="pages">2</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

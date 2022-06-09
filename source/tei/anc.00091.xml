@@ -53,8 +53,8 @@
                   <title level="j">The International Review</title>
                   <imprint>
                      <date when="1882-02">February 1882</date>
-                     <biblScope type="volume">12</biblScope>
-                     <biblScope type="pages">222-4</biblScope>
+                     <biblScope unit="volume">12</biblScope>
+                     <biblScope unit="pages">222-4</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

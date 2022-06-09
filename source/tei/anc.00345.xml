@@ -60,8 +60,8 @@
                   <title level="j">The Australian Journal: A Weekly Record of Literature, Science and the Arts</title>
                   <imprint>
                      <date when="1869-11">November 1869</date>
-                     <biblScope type="pages">164–67</biblScope>
-                     <biblScope type="volume">54</biblScope>
+                     <biblScope unit="pages">164–67</biblScope>
+                     <biblScope unit="volume">54</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

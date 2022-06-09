@@ -47,9 +47,9 @@
                     <monogr>
                         <title level="j">The New York Saturday Press</title>
                         <imprint>
-                            <biblScope type="volume">3</biblScope>
+                            <biblScope unit="volume">3</biblScope>
                             <date xml:id="dat1" cert="high" when="1860-06-09">9 June 1860</date>
-                            <biblScope type="pages">3</biblScope>
+                            <biblScope unit="pages">3</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

@@ -46,7 +46,7 @@
                   <title level="j">Chicago Evening Journal</title>
                   <imprint>
                      <date when="1889-03-16">16 March 1889</date>
-                     <biblScope type="pages">[unknown]</biblScope>
+                     <biblScope unit="pages">[unknown]</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

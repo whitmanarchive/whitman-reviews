@@ -56,9 +56,9 @@
                   <title level="j">San Francisco Daily Evening Bulletin</title>
                   <imprint>
                      <date when="1871-11-11">11 November 1871</date>
-                     <!-- <biblScope type="volume">XXXIII</biblScope> --> 
-                     <!-- <biblScope type="number">30</biblScope> -->
-                     <biblScope type="pages">1</biblScope> 
+                     <!-- <biblScope unit="volume">XXXIII</biblScope> --> 
+                     <!-- <biblScope unit="number">30</biblScope> -->
+                     <biblScope unit="pages">1</biblScope> 
                   </imprint>
                </monogr>
             </biblStruct>

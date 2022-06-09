@@ -54,7 +54,7 @@
                   <title level="j">The North American</title>
                   <imprint>
                      <date when="1888-10-25">25 October 1888</date>
-                     <biblScope type="pages">1</biblScope>
+                     <biblScope unit="pages">1</biblScope>
 
                   </imprint>
                </monogr>

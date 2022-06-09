@@ -64,8 +64,8 @@
                   <title level="j">Harper's New Monthly Magazine</title>
                   <imprint>
                      <date when="1889-02">February 1889</date>
-                     <biblScope type="volume">78</biblScope>
-                     <biblScope type="pages">488-9</biblScope>
+                     <biblScope unit="volume">78</biblScope>
+                     <biblScope unit="pages">488-9</biblScope>
 
                   </imprint>
                </monogr>

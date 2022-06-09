@@ -63,7 +63,7 @@
                   <title level="j">The New York Tribune</title>
                   <imprint>
                      <date when="1891-08-16">16 August 1891</date>
-                     <biblScope type="pages">14</biblScope>
+                     <biblScope unit="pages">14</biblScope>
 
                   </imprint>
                </monogr>

@@ -54,8 +54,8 @@
                   <title level="j">Hobby Horse</title>
                   <imprint>
                      <date when="1889-01">January 1889</date>
-                     <biblScope type="volume">13</biblScope>
-                     <biblScope type="pages">37-9</biblScope>
+                     <biblScope unit="volume">13</biblScope>
+                     <biblScope unit="pages">37-9</biblScope>
 
                   </imprint>
                </monogr>

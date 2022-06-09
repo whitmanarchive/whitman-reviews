@@ -62,7 +62,7 @@
                   <title level="j">The Chicago Tribune</title>
                   <imprint>
                      <date when="1881-11-26">26 November 1881</date>
-                     <biblScope type="pages">9</biblScope>
+                     <biblScope unit="pages">9</biblScope>
                   </imprint>
                </monogr>
                

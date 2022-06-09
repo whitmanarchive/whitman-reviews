@@ -63,7 +63,7 @@
                   <title level="j">The New York Sun</title>
                   <imprint>
                      <date when="1881-11-19">19 November 1881</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
                   </imprint>
                </monogr>
                

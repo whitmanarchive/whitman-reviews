@@ -64,8 +64,8 @@
                   <title level="j">The Examiner</title>
                   <imprint>
                      <date when="1876-10-21">21 October 1876</date>
-                     <biblScope type="volume">3586</biblScope>
-                     <biblScope type="pages">1191-3</biblScope>
+                     <biblScope unit="volume">3586</biblScope>
+                     <biblScope unit="pages">1191-3</biblScope>
                   </imprint>
                </monogr>
                

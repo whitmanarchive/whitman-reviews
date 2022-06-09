@@ -64,8 +64,8 @@
 <title level="j">The Literary Gazette</title>
 <imprint>
 <date when="1860-07-07">7 July 1860</date>
-<biblScope type="volume">106</biblScope>
-<biblScope type="pages">798-9</biblScope>
+<biblScope unit="volume">106</biblScope>
+<biblScope unit="pages">798-9</biblScope>
 </imprint>
 </monogr>
 </biblStruct>

@@ -63,8 +63,8 @@
                   <title level="j">The Literary World</title>
                   <imprint>
                      <date when="1888-12-08">8 December 1888</date>
-                     <biblScope type="volume">19</biblScope>
-                     <biblScope type="pages">446-7</biblScope>
+                     <biblScope unit="volume">19</biblScope>
+                     <biblScope unit="pages">446-7</biblScope>
 
                   </imprint>
                </monogr>

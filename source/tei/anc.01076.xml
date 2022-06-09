@@ -47,9 +47,9 @@
                     <monogr>
                         <title level="j">North American Review</title>
                         <imprint>
-                            <biblScope type="volume">138</biblScope>
+                            <biblScope unit="volume">138</biblScope>
                             <date xml:id="dat1" cert="high" when="1884-06">June 1884</date>
-                            <biblScope type="pages">11</biblScope>
+                            <biblScope unit="pages">11</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

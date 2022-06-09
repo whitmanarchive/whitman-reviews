@@ -50,8 +50,8 @@
                   <title level="j">The Academy</title>
                   <imprint>
                      <date when="1882-11-18">18 November 1882</date>
-                     <biblScope type="volume">22</biblScope>
-                     <biblScope type="pages">357-9</biblScope>
+                     <biblScope unit="volume">22</biblScope>
+                     <biblScope unit="pages">357-9</biblScope>
 
                   </imprint>
                </monogr>

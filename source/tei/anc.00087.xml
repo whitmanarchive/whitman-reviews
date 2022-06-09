@@ -59,8 +59,8 @@
                   <title level="j">The Dial</title>
                   <imprint>
                      <date when="1882-01">January 1882</date>
-                     <biblScope type="volume">2</biblScope>
-                     <biblScope type="pages">218-19</biblScope>
+                     <biblScope unit="volume">2</biblScope>
+                     <biblScope unit="pages">218-19</biblScope>
                   </imprint>
                </monogr>
                

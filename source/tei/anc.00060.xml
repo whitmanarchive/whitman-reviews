@@ -63,8 +63,8 @@
                   <title level="j">The Radical</title>
                   <imprint>
                      <date when="1866-03">March 1866</date>
-                     <biblScope type="volume">1</biblScope>
-                     <biblScope type="pages">311-312</biblScope>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="pages">311-312</biblScope>
                   </imprint>
                </monogr>
                

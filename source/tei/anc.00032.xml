@@ -64,7 +64,7 @@
                   <title level="j">The New York Daily Times</title>
                   <imprint>
                      <date when="1856-11-13">13 November 1856</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
                   </imprint>
                </monogr>
                

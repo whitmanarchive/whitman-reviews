@@ -64,8 +64,8 @@
                   <title level="j">The Broadway</title>
                   <imprint>
                      <date when="1867-11">November 1867</date>
-                     <biblScope type="volume">1</biblScope>
-                     <biblScope type="pages">188-95</biblScope>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="pages">188-95</biblScope>
                   </imprint>
                </monogr>
                

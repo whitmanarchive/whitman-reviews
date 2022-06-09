@@ -63,9 +63,9 @@
                <monogr>
                   <title level="j">The Crayon</title>
                   <imprint>
-                     <biblScope type="volume">3</biblScope>
+                     <biblScope unit="volume">3</biblScope>
                      <date when="1856-01">January 1856</date>
-                     <biblScope type="pages">30-2</biblScope>
+                     <biblScope unit="pages">30-2</biblScope>
                   </imprint>
                </monogr>
                

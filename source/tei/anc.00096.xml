@@ -60,7 +60,7 @@
                   <title level="j">The Boston Commonwealth</title>
                   <imprint>
                      <date when="1882-09-02">2 September 1882</date>
-                     <biblScope type="pages">1</biblScope>
+                     <biblScope unit="pages">1</biblScope>
 
                   </imprint>
                </monogr>

@@ -62,12 +62,12 @@
                <monogr>
                   <title level="j">The Westminster Review</title>
                   <imprint>
-                     <biblScope type="volume">N.S. 9</biblScope>
+                     <biblScope unit="volume">N.S. 9</biblScope>
                      <note type="project" rend="bracketed">
                         <supplied>London</supplied>
                      </note>
                      <date when="1856-04-01">1 April 1856</date>
-                     <biblScope type="pages">343-56</biblScope>
+                     <biblScope unit="pages">343-56</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

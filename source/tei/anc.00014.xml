@@ -61,9 +61,9 @@
                   <title level="j">American Phrenological Journal</title>
                   <imprint>
                      <date when="1855-10">October 1855</date>
-                     <biblScope type="volume">22</biblScope>
-                     <biblScope type="issue">4</biblScope>
-                     <biblScope type="pages">90-1</biblScope>
+                     <biblScope unit="volume">22</biblScope>
+                     <biblScope unit="issue">4</biblScope>
+                     <biblScope unit="pages">90-1</biblScope>
                   </imprint>
                </monogr>
                

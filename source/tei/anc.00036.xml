@@ -64,8 +64,8 @@
                   <title level="j">The New York Times</title>
                   <imprint>
                      <date when="1860-05-19">19 May 1860</date>
-                     <biblScope type="section">Supplement</biblScope>
-                     <biblScope type="pages">[1]</biblScope>
+                     <biblScope unit="section">Supplement</biblScope>
+                     <biblScope unit="pages">[1]</biblScope>
                   </imprint>
                </monogr>
                

@@ -62,7 +62,7 @@
                   <title level="j">The New Republic</title>
                   <imprint>
                      <date when="1876-03-11">11 March 1876</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
                   </imprint>
                </monogr>
                

@@ -65,7 +65,7 @@
                   <title level="j">The New York Saturday Press</title>
                   <imprint>
                      <date when="1860-06-23">23 June 1860</date>
-                     <biblScope type="pages">1</biblScope>
+                     <biblScope unit="pages">1</biblScope>
                   </imprint>
                </monogr>
                

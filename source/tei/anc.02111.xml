@@ -58,8 +58,8 @@
                         <title level="j">Springfield Daily Republican</title>
                         <imprint>
                             <date when="1860-03-24">24 March 1860</date>
-                            <!--<biblScope type="volume">No. 17</biblScope>-->
-                            <biblScope type="pages">4</biblScope>
+                            <!--<biblScope unit="volume">No. 17</biblScope>-->
+                            <biblScope unit="pages">4</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

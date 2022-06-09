@@ -59,8 +59,8 @@
                   <title level="j">Lippincott's Monthly Magazine</title>
                   <imprint>
                      <date when="1889-03">March 1889</date>
-                     <biblScope type="volume">43</biblScope>
-                     <biblScope type="pages">445</biblScope>
+                     <biblScope unit="volume">43</biblScope>
+                     <biblScope unit="pages">445</biblScope>
 
                   </imprint>
                </monogr>

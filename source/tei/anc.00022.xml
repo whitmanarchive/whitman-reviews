@@ -63,9 +63,10 @@
                <monogr>
                   <title level="j">The Saturday Review</title>
                   <imprint>
-                     <biblScope type="volume">1</biblScope>
+                     <biblScope unit="volume">1</biblScope>
                      <date when="1856-03-15">15 March 1856</date>
-                     <biblScope type="pages">[393–4]</biblScope>
+                     <biblScope unit="pages">[393&#8211;4]</biblScope>
+
                   </imprint>
                </monogr>
             </biblStruct>

@@ -55,7 +55,7 @@
                   <title level="j">Frank Leslie's Illustrated Newspaper</title>
                   <imprint>
                      <date when="1868-07-11">11 July 1868</date>
-                     <biblScope type="pages">259</biblScope>
+                     <biblScope unit="pages">259</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

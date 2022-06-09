@@ -64,8 +64,8 @@
                   <title level="j">The Catholic World</title>
                   <imprint>
                      <date when="1882-02">February 1882</date>
-                     <biblScope type="volume">34</biblScope>
-                     <biblScope type="pages">719-20</biblScope>
+                     <biblScope unit="volume">34</biblScope>
+                     <biblScope unit="pages">719-20</biblScope>
                   </imprint>
                </monogr>
                

@@ -63,9 +63,9 @@
                <monogr>
                   <title level="j">The United States Review</title>
                   <imprint>
-                     <biblScope type="volume">5</biblScope>
+                     <biblScope unit="volume">5</biblScope>
                      <date when="1855-09">September 1855</date>
-                     <biblScope type="pages">205-12</biblScope>
+                     <biblScope unit="pages">205-12</biblScope>
                   </imprint>
                </monogr>
                

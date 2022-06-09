@@ -62,8 +62,8 @@
                   <title level="j">The Literary World</title>
                   <imprint>
                      <date when="1891-09-12">12 September 1891</date>
-                     <biblScope type="volume">22</biblScope>
-                     <biblScope type="pages">305</biblScope>
+                     <biblScope unit="volume">22</biblScope>
+                     <biblScope unit="pages">305</biblScope>
 
                   </imprint>
                </monogr>

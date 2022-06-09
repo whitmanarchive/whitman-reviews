@@ -63,7 +63,7 @@
                   <title level="j">The Philadelphia Times</title>
                   <imprint>
                      <date when="1888-10-27">27 October 1888</date>
-                     <biblScope type="pages">4</biblScope>
+                     <biblScope unit="pages">4</biblScope>
 
                   </imprint>
                </monogr>

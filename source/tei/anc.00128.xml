@@ -64,8 +64,8 @@
                   <title level="j">The Saturday Review</title>
                   <imprint>
                      <date when="1889-03-02">2 March 1889</date>
-                     <biblScope type="volume">67</biblScope>
-                     <biblScope type="pages">260-1</biblScope>
+                     <biblScope unit="volume">67</biblScope>
+                     <biblScope unit="pages">260-1</biblScope>
 
                   </imprint>
                </monogr>

@@ -59,7 +59,7 @@
                   <title level="j">The New York Daily Tribune</title>
                   <imprint>
                      <date when="1855-07-23">23 July 1855</date>
-                     <biblScope type="pages">3</biblScope>
+                     <biblScope unit="pages">3</biblScope>
                   </imprint>
                </monogr>
                

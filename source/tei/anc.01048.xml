@@ -57,9 +57,9 @@
                     <monogr>
                         <title level="j">The Australasian</title>
                         <imprint>
-                            <biblScope type="volume">118</biblScope>
+                            <biblScope unit="volume">118</biblScope>
                             <date xml:id="dat1" cert="high" when="1868-07-04">4 July 1868</date>
-                            <biblScope type="pages">8</biblScope>
+                            <biblScope unit="pages">8</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

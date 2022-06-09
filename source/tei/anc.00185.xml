@@ -51,7 +51,7 @@
                   <title level="j">The Sunday Mercury</title>
                   <imprint>
                      <date when="1860-06-10">10 June 1860</date>
-                     <biblScope type="pages">1</biblScope>
+                     <biblScope unit="pages">1</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

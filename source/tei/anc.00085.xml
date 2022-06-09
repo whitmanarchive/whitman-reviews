@@ -59,7 +59,7 @@
                   <title level="j">The Philadelphia Times</title>
                   <imprint>
                      <date when="1881-12-03">3 December 1881</date>
-                     <biblScope type="pages">6</biblScope>
+                     <biblScope unit="pages">6</biblScope>
                   </imprint>
                </monogr>
                

@@ -62,7 +62,7 @@
                   <title level="j">The London Daily News</title>
                   <imprint>
                      <date when="1876-03-11">11 March 1876</date>
-                     <biblScope type="pages">5-6</biblScope>
+                     <biblScope unit="pages">5-6</biblScope>
                   </imprint>
                </monogr>
                

@@ -53,9 +53,9 @@
                     <monogr>
                         <title level="j">New Haven Daily Palladium</title>
                         <imprint>
-                            <biblScope type="volume">294</biblScope>
+                            <biblScope unit="volume">294</biblScope>
                             <date xml:id="dat1" cert="high" when="1865-11-28">28 November 1865</date>
-                            <biblScope type="pages">[unknown]</biblScope>
+                            <biblScope unit="pages">[unknown]</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

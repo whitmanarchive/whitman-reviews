@@ -63,7 +63,7 @@
                   <title level="j">The San Francisco Chronicle</title>
                   <imprint>
                      <date when="1889-01-13">13 January 1889</date>
-                     <biblScope type="pages">7</biblScope>
+                     <biblScope unit="pages">7</biblScope>
 
                   </imprint>
                </monogr>

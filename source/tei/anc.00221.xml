@@ -53,7 +53,7 @@
                   <title level="j">Murray's Magazine</title>
                   <imprint>
                      <date when="1887-09">September 1887</date>
-                     <biblScope type="pages">327-39</biblScope>
+                     <biblScope unit="pages">327-39</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

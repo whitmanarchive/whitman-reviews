@@ -58,9 +58,9 @@
                <monogr>
                   <title level="j">The Literary Examiner</title>
                   <imprint>
-                     <biblScope type="volume">2512</biblScope>
+                     <biblScope unit="volume">2512</biblScope>
                      <date when="1856-03-22">22 March 1856</date>
-                     <biblScope type="pages">180-1</biblScope>
+                     <biblScope unit="pages">180-1</biblScope>
                   </imprint>
                </monogr>
                

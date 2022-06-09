@@ -54,8 +54,8 @@
                   <title level="j">The Conservator</title>
                   <imprint>
                      <date when="1891-09">September 1891</date>
-                     <biblScope type="volume">2</biblScope>
-                     <biblScope type="pages">51-2</biblScope>
+                     <biblScope unit="volume">2</biblScope>
+                     <biblScope unit="pages">51-2</biblScope>
 
                   </imprint>
                </monogr>

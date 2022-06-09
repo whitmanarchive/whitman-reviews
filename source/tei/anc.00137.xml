@@ -59,8 +59,8 @@
                   <title level="j">The Independent</title>
                   <imprint>
                      <date when="1891-09-10">10 September 1891</date>
-                     <biblScope type="volume">43</biblScope>
-                     <biblScope type="pages">1355</biblScope>
+                     <biblScope unit="volume">43</biblScope>
+                     <biblScope unit="pages">1355</biblScope>
 
                   </imprint>
                </monogr>

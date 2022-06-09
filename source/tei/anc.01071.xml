@@ -59,9 +59,9 @@
                     <monogr>
                         <title level="j">The Spiritual Magazine</title>
                         <imprint>
-                            <biblScope type="volume">5</biblScope>
+                            <biblScope unit="volume">5</biblScope>
                             <date xml:id="dat1" cert="high" when="1870-09">September 1870</date>
-                            <biblScope type="pages">34-40</biblScope>
+                            <biblScope unit="pages">34-40</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

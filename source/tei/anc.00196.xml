@@ -58,7 +58,7 @@
                   <title level="j">The Atlantic Monthly</title>
                   <imprint>
                      <date when="1872-01">January 1872</date>
-                     <biblScope type="pages">108-9</biblScope>
+                     <biblScope unit="pages">108-9</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

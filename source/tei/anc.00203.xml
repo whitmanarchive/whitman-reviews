@@ -63,7 +63,7 @@
                   <imprint>
                      <pubPlace>Sidney (New South Wales, Australia)</pubPlace>
                      <date when="1876-05">May 1876</date>
-                     <biblScope type="pages">15-6</biblScope>
+                     <biblScope unit="pages">15-6</biblScope>
                   </imprint>
                </monogr>
                

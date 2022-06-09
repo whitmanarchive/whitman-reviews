@@ -54,8 +54,8 @@
                   <title level="j">The Academy</title>
                   <imprint>
                      <date when="1876-06-24">24 June 1876</date>
-                     <biblScope type="volume">9</biblScope>
-                     <biblScope type="pages">602-3</biblScope>
+                     <biblScope unit="volume">9</biblScope>
+                     <biblScope unit="pages">602-3</biblScope>
                   </imprint>
                </monogr>
                

@@ -65,8 +65,8 @@
                   <title level="j">The New-York Illustrated News</title>
                   <imprint>
                      <date when="1860-06-02">2 June 1860</date>
-                     <biblScope type="volume">2</biblScope>
-                     <biblScope type="pages">60</biblScope>
+                     <biblScope unit="volume">2</biblScope>
+                     <biblScope unit="pages">60</biblScope>
                   </imprint>
                </monogr>
                

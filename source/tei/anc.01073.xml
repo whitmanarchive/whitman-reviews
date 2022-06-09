@@ -53,9 +53,9 @@
                     <monogr>
                         <title level="j">Pall Mall Gazette</title>
                         <imprint>
-                            <biblScope type="volume">53</biblScope>
+                            <biblScope unit="volume">53</biblScope>
                             <date when="1891-12-12">12 December 1891</date>
-                            <biblScope type="pages">3</biblScope>
+                            <biblScope unit="pages">3</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

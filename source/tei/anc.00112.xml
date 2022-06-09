@@ -50,8 +50,8 @@
                   <title level="j">The Academy</title>
                   <imprint>
                      <date when="1888-06-30">30 June 1888</date>
-                     <biblScope type="volume">33</biblScope>
-                     <biblScope type="pages">441-2</biblScope>
+                     <biblScope unit="volume">33</biblScope>
+                     <biblScope unit="pages">441-2</biblScope>
 
                   </imprint>
                </monogr>

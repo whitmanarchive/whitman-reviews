@@ -55,7 +55,7 @@
                <monogr>
                   <title level="j">New York Day Book</title>
                   <imprint>
-                     <biblScope type="pages">[unknown]</biblScope>
+                     <biblScope unit="pages">[unknown]</biblScope>
                      <date when="1860-06-09">9 June 1860</date>
                   </imprint>
                </monogr>

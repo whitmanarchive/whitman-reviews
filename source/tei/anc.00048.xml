@@ -60,8 +60,8 @@
                   <title level="j">The Dial</title>
                   <imprint>
                      <date when="1860-08">August 1860</date>
-                     <biblScope type="volume">1</biblScope>
-                     <biblScope type="pages">517-19</biblScope>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="pages">517-19</biblScope>
                   </imprint>
                </monogr>
                

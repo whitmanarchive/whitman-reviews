@@ -57,9 +57,9 @@
                     <monogr>
                         <title level="j">Poet-Lore</title>
                         <imprint>
-                            <biblScope type="volume">1</biblScope>
+                            <biblScope unit="volume">1</biblScope>
                             <date xml:id="dat1" cert="high" when="1889-03">March 1889</date>
-                            <biblScope type="pages">3</biblScope>
+                            <biblScope unit="pages">3</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

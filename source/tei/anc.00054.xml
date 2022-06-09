@@ -64,8 +64,8 @@
                   <title level="j">The Nation</title>
                   <imprint>
                      <date when="1865-11-16">16 November 1865</date>
-                     <biblScope type="volume">1</biblScope>
-                     <biblScope type="pages">625-6</biblScope>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="pages">625-6</biblScope>
                   </imprint>
                </monogr>
                

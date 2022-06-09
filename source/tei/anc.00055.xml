@@ -59,7 +59,7 @@
                   <title level="j">The New York Times</title>
                   <imprint>
                      <date when="1865-11-22">22 November 1865</date>
-                     <biblScope type="pages">4</biblScope>
+                     <biblScope unit="pages">4</biblScope>
                   </imprint>
                </monogr>
                

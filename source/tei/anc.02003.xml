@@ -49,7 +49,7 @@
                         <title level="j">Springfield Republican</title>
                         <imprint>
                             <date xml:id="dat1" cert="high" when="1888-12-25">25 December 1888</date>
-                            <biblScope type="pages">5</biblScope>
+                            <biblScope unit="pages">5</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>

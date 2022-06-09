@@ -58,7 +58,7 @@
                   <title level="j">The Sunderland Times</title>
                   <imprint>
                      <date when="1872-05-21">21 May 1872</date>
-                     <biblScope type="pages">[unknown]</biblScope>
+                     <biblScope unit="pages">[unknown]</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

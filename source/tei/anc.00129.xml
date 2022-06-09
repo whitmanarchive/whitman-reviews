@@ -61,8 +61,8 @@
                   <note type="project" rend="bracketed">Chicago</note>
                   <imprint>
                      <date when="1889-04">April 1889</date>
-                     <biblScope type="volume">9</biblScope>
-                     <biblScope type="pages">323-4</biblScope>
+                     <biblScope unit="volume">9</biblScope>
+                     <biblScope unit="pages">323-4</biblScope>
 
                   </imprint>
                </monogr>

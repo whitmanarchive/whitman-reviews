@@ -55,7 +55,7 @@
                         <title level="j">The New York Herald</title>
                         <imprint>
                             <date xml:id="dat1" when="1860-07-15" cert="high">15 July 1860</date>
-                            <biblScope type="pages">2</biblScope>
+                            <biblScope unit="pages">2</biblScope>
                         </imprint>
                     </monogr>
                 </biblStruct>

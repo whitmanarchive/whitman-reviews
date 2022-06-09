@@ -62,7 +62,7 @@
                   <title level="j">The New York Examiner</title>
                   <imprint>
                      <date when="1882-01-19">19 January 1882</date>
-                     <biblScope type="pages">1</biblScope>
+                     <biblScope unit="pages">1</biblScope>
                   </imprint>
                </monogr>
                

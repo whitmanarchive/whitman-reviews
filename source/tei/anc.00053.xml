@@ -63,8 +63,8 @@
                   <title level="j">The Round Table</title>
                   <imprint>
                      <date when="1865-11-11">11 November 1865</date>
-                     <biblScope type="volume">2</biblScope>
-                     <biblScope type="pages">147-8</biblScope>
+                     <biblScope unit="volume">2</biblScope>
+                     <biblScope unit="pages">147-8</biblScope>
                   </imprint>
                </monogr>
                

@@ -60,8 +60,8 @@
                   <title level="j">The Critic</title>
                   <imprint>
                      <date when="1860-07-14">14 July 1860</date>
-                     <biblScope type="volume">21</biblScope>
-                     <biblScope type="pages">43-4</biblScope>
+                     <biblScope unit="volume">21</biblScope>
+                     <biblScope unit="pages">43-4</biblScope>
                   </imprint>
                </monogr>
                

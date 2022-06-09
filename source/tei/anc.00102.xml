@@ -63,8 +63,8 @@
                   <title level="j">The Literary World</title>
                   <imprint>
                      <date when="1882-11-04">4 November 1882</date>
-                     <biblScope type="volume">13</biblScope>
-                     <biblScope type="pages">372-3</biblScope>
+                     <biblScope unit="volume">13</biblScope>
+                     <biblScope unit="pages">372-3</biblScope>
 
                   </imprint>
                </monogr>

@@ -59,7 +59,7 @@
                   <title level="j">The London Sunday Times</title>
                   <imprint>
                      <date when="1868-03-29">29 March 1868</date>
-                     <biblScope type="pages">7</biblScope>
+                     <biblScope unit="pages">7</biblScope>
                   </imprint>
                </monogr>
                

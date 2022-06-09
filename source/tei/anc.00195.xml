@@ -59,7 +59,7 @@
                   <title level="j">Temple Bar: A London Magazine for Town and Country Readers</title>
                   <imprint>
                      <date when="1869-10">October 1869</date>
-                     <biblScope type="pages">314-27</biblScope>
+                     <biblScope unit="pages">314-27</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>

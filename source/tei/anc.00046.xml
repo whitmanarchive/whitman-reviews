@@ -64,8 +64,8 @@
                   <title level="j">The Spectator</title>
                   <imprint>
                      <date when="1860-07-14">14 July 1860</date>
-                     <biblScope type="volume">33</biblScope>
-                     <biblScope type="pages">669-70</biblScope>
+                     <biblScope unit="volume">33</biblScope>
+                     <biblScope unit="pages">669-70</biblScope>
                   </imprint>
                </monogr>
                
