@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00067">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00067">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +37,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <idno>anc.00067</idno>
+            
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -51,7 +49,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         </publicationStmt>
+         <idno>anc.00067</idno></publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -196,7 +194,7 @@ necessary</change>
                         <!--from Our Old Feuillage-->
                      </relations>
                      <lg type="linegroup">
-                        <l>"Me<choice><sic></sic><corr>,</corr></choice> observing the spiral flight of two little yellow <lb/>butterflies shuffling between each other, ascending <lb/>high in the air.</l>    
+                        <l>"Me<choice><sic/><corr>,</corr></choice> observing the spiral flight of two little yellow <lb/>butterflies shuffling between each other, ascending <lb/>high in the air.</l>    
                      </lg>
                   </lg>
                </body>
@@ -212,7 +210,7 @@ necessary</change>
                         <!--from There was a Child Went Forth-->
                      </relations>
                      <lg type="linegroup">
-                        <l>"And the fish suspending themselves <choice><sic></sic><corr>so curiously </corr></choice>below there—and <lb/>the beautiful curious liquid<choice><sic>."</sic><corr>,</corr></choice>
+                        <l>"And the fish suspending themselves <choice><sic/><corr>so curiously </corr></choice>below there—and <lb/>the beautiful curious liquid<choice><sic>."</sic><corr>,</corr></choice>
                         </l>  
                      </lg>
                   </lg>
@@ -267,7 +265,7 @@ necessary</change>
                         <!--from Song of the Broad-Axe, 3-->
                      </relations>
                      <lg type="linegroup">
-                        <l>"The butter-coloured chips flying off in great flakes<choice><sic>,</sic><corr></corr></choice> 
+                        <l>"The butter-coloured chips flying off in great flakes<choice><sic>,</sic><corr/></choice> 
                            <lb/>and slivers<choice><sic>.</sic><corr>,</corr></choice>
                         </l> 
                      </lg>
@@ -421,7 +419,7 @@ necessary</change>
 </relations>
                      <lg type="linegroup">
                         <l>"The sun and stars that float in the open air;</l> 
-                        <l>The apple-shaped earth<choice><sic></sic><corr>,</corr></choice> and we upon it—surely the drift <lb/>of them is something grand!"</l>
+                        <l>The apple-shaped earth<choice><sic/><corr>,</corr></choice> and we upon it—surely the drift <lb/>of them is something grand!"</l>
                      </lg>
                   </lg>
                </body>
@@ -477,7 +475,7 @@ necessary</change>
                         <!--from Starting from Paumanok-->
                      </relations>
                      <lg type="linegroup">
-                        <l>"And I will show that<choice><sic></sic><corr>,</corr></choice> whatever happens to anybody<choice><sic></sic><corr>,</corr></choice> it <lb/>may be turned to beautiful results—and I will show <lb/>that nothing can happen more beautiful than death.</l>
+                        <l>"And I will show that<choice><sic/><corr>,</corr></choice> whatever happens to anybody<choice><sic/><corr>,</corr></choice> it <lb/>may be turned to beautiful results—and I will show <lb/>that nothing can happen more beautiful than death.</l>
                      </lg>
                   </lg>
                </body>
@@ -520,7 +518,7 @@ necessary</change>
                         <l>To show us a good thing, or a few good things, for a space <lb/>of time—that is no satisfaction<choice><sic>;</sic><corr>,</corr></choice>
                         </l> 
                         <l>We must have the indestructible breed of the best, <choice><orig>regard-<lb/>less</orig><reg>regardless</reg></choice> of time.</l>
-                        <l>If otherwise, all these things <choice><sic>come</sic><corr>came</corr></choice> but to ashes of dung<choice><sic></sic><corr>,</corr></choice>
+                        <l>If otherwise, all these things <choice><sic>come</sic><corr>came</corr></choice> but to ashes of dung<choice><sic/><corr>,</corr></choice>
                         </l> 
                         <l>If maggots and rats ended us, then alarum! for we are <lb/>betrayed!</l> 
                         <l>Then indeed suspicion of death.</l>
@@ -544,7 +542,7 @@ necessary</change>
                      </relations>
                      <lg type="linegroup">
                         <l>"I say the whole earth, and all the stars in the sky, are <lb/>for religion's sake.</l>
-                        <l>I say no man has ever yet been half devout enough<choice><sic>,</sic><corr></corr></choice>
+                        <l>I say no man has ever yet been half devout enough<choice><sic>,</sic><corr/></choice>
                         </l> 
                         <l>None has ever yet adored or <choice><sic>worshipped</sic><corr>worshiped</corr></choice> half enough;</l> 
                         <l>None has begun to think how divine he himself is, <lb/>and how certain the future is."</l>
@@ -589,21 +587,21 @@ necessary</change>
 </relations>
                      <lg type="linegroup">
                         <l>"The divine woman, her body—I see <choice><sic>her</sic><corr>the</corr></choice> body—I look on <lb/>it alone,</l> 
-                        <l>That house<choice><sic>,</sic><corr></corr></choice> once full of passion and beauty—all else I <lb/>notice not;</l> 
+                        <l>That house<choice><sic>,</sic><corr/></choice> once full of passion and beauty—all else I <lb/>notice not;</l> 
                         <l>
                            <choice><sic>No</sic><corr>Nor</corr></choice> stillness so cold, nor running water from faucet, nor <lb/>odours morbific impress me;</l> 
                         <l>But the house alone—that wondrous house—that delicate <lb/>fair house—that ruin!</l> 
                         <l>That immortal house, more than all the rows of dwellings <lb/>ever built,</l> 
                         <l>Or <choice><sic>white domed</sic><corr>white-domed</corr></choice> Capitol itself, with majestic <choice><sic>figure</sic><corr>figure</corr></choice> 
                            <choice><orig>sur-<lb/>mounted</orig><reg>surmounted</reg></choice>—or all the old high-spired cathedrals,</l> 
-                        <l>That little house alone<choice><sic></sic><corr>,</corr></choice> more than them all—poor desperate <lb/>house!</l> 
+                        <l>That little house alone<choice><sic/><corr>,</corr></choice> more than them all—poor desperate <lb/>house!</l> 
                         <l>Fair, fearful <choice><sic>work</sic><corr>wreck</corr></choice>! tenement of a Soul! itself a Soul!</l> 
                         <l>Unclaimed, avoided house! take one breath from my <lb/>tremulous lips;</l> 
                         <l>Take one tear, dropped aside as I go, for thought of you,</l> 
                         <l>Dead house of love! house of madness and sin, crumbled! <lb/>crushed!</l> 
-                        <l>House of life—<choice><sic>ere while</sic><corr>erewhile</corr></choice> talking and laughing—but<choice><sic>,</sic><corr></corr></choice> 
-                           <choice><sic>oh</sic><corr>ah</corr></choice>, <lb/>poor house! dead<choice><sic></sic><corr>,</corr></choice> even then;</l> 
-                        <l>Months, years, an echoing, garnished house—but dead<choice><sic></sic><corr>,</corr></choice> 
+                        <l>House of life—<choice><sic>ere while</sic><corr>erewhile</corr></choice> talking and laughing—but<choice><sic>,</sic><corr/></choice> 
+                           <choice><sic>oh</sic><corr>ah</corr></choice>, <lb/>poor house! dead<choice><sic/><corr>,</corr></choice> even then;</l> 
+                        <l>Months, years, an echoing, garnished house—but dead<choice><sic/><corr>,</corr></choice> 
                            <lb/>dead, dead."</l>
                      </lg>
                   </lg>
@@ -623,7 +621,7 @@ necessary</change>
 </relations>
                      <lg type="linegroup">
                         <l>"How through life, through dangers, odium, unchanging, <lb/>long and long,</l> 
-                        <l>Through youth, and through middle and <choice><sic>through</sic><corr></corr></choice> old age, <lb/>how unfaltering, how affectionate<choice><sic>,</sic><corr></corr></choice> and faithful they <lb/>were,</l> 
+                        <l>Through youth, and through middle and <choice><sic>through</sic><corr/></choice> old age, <lb/>how unfaltering, how affectionate<choice><sic>,</sic><corr/></choice> and faithful they <lb/>were,</l> 
                         <l>Then I am pensive—I hastily put down the book, and <lb/>walk away, filled with the bitterest envy."</l> 
                      </lg>
                   </lg>
@@ -643,9 +641,9 @@ necessary</change>
 </relations>
                      <lg type="linegroup">
                         <l>
-                           <choice><sic></sic><corr>…</corr></choice>
-                           <choice><sic>"Two</sic><corr>two</corr></choice> simple men I saw to-day<choice><sic></sic><corr>,</corr></choice> on the pier, in the midst <lb/>of the crowd<choice><sic></sic><corr>,</corr></choice> parting the parting of dear friends;</l> 
-                        <l>The one to remain hung on the other's neck<choice><sic></sic><corr>,</corr></choice> and <choice><orig>pas-<lb/>sionately</orig><reg>passionately</reg></choice> kissed him,</l> 
+                           <choice><sic/><corr>…</corr></choice>
+                           <choice><sic>"Two</sic><corr>two</corr></choice> simple men I saw to-day<choice><sic/><corr>,</corr></choice> on the pier, in the midst <lb/>of the crowd<choice><sic/><corr>,</corr></choice> parting the parting of dear friends;</l> 
+                        <l>The one to remain hung on the other's neck<choice><sic/><corr>,</corr></choice> and <choice><orig>pas-<lb/>sionately</orig><reg>passionately</reg></choice> kissed him,</l> 
                         <l>
                            <choice><sic>Whilst</sic><corr>While</corr></choice> the one to depart tightly pressed the one to <choice><orig>re-<lb/>main</orig><reg>remain</reg></choice> in his arms."</l> 
                      </lg>
@@ -687,7 +685,7 @@ necessary</change>
 </relations>
                      <lg type="linegroup">
                         <l>
-                           <choice><sic>"Among</sic><corr>AMONG</corr></choice> the men and women, the multitude<choice><sic></sic><corr>,</corr></choice>
+                           <choice><sic>"Among</sic><corr>AMONG</corr></choice> the men and women, the multitude<choice><sic/><corr>,</corr></choice>
                         </l> 
                         <l>I perceive one picking me out by secret and divine signs,</l> 
                         <l>Acknowledging none else—not parent, wife, husband, <lb/>brother, child, any nearer than I am<choice><sic>:</sic><corr>;</corr></choice>
@@ -755,7 +753,7 @@ necessary</change>
                         <!--from When Lilacs Last in the Dooryard Bloom'd, 13-->
                      </relations>
                      <lg type="linegroup">
-                        <l>"Yet the lilac<choice><sic></sic><corr>,</corr></choice> with mastering odour holds me."</l>
+                        <l>"Yet the lilac<choice><sic/><corr>,</corr></choice> with mastering odour holds me."</l>
                      </lg>
                   </lg>
                </body>

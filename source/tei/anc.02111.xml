@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_basic.sch"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02111">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_basic.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02111">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,7 +30,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.02111</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -45,7 +42,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>
+            <idno>anc.02111</idno></publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -92,7 +89,7 @@
             trotting mare, or painted upon a stern-wheel 
             steamer. It is the fashion, among certain of the 
             elect, to look with contempt upon all the reading 
-            that really has a purpose in it&#8212;that feeds the life 
+            that really has a purpose in it—that feeds the life 
             of the people directly, with food honestly adapted 
             to their wants. Now it may be submitted that, to 
             a man of culture, or to a man who has seen much 
@@ -128,7 +125,7 @@
             was cheated and injured by it. It is 
             wrong to thrust such unmeaning twaddle before 
             the eyes of a public, earnestly seeking for a true 
-            culture,&#8212;to impress that public with the thought 
+            culture,—to impress that public with the thought 
             that there is wisdom in it, and that they are fools if 
             they fail to find it. There is no medium like a 
             very respectable magazine with very respectable 
@@ -142,7 +139,7 @@
             the fact of publication. This poem is called 
             "Bardic Symbols," if poem that may be which 
             has neither rhythm nor rhyme. Walt. Whitman 
-            stands on the shore of Ocean, and says:&#8212;</p>
+            stands on the shore of Ocean, and says:—</p>
             
             <q who="Walt Whitman">
             <floatingText><body>
@@ -155,7 +152,7 @@
             once into the music of the poem, the unsophisticated 
             character of the writer, and his desires and 
             intentions concerning the reader. This is his first 
-            effort at "impressing others":&#8212;</p>
+            effort at "impressing others":—</p>
             
             <q who="Walt Whitman">
             <floatingText><body>
@@ -178,7 +175,7 @@
                 eternal self of him, which threatened to be too much 
                 for him, and floor him utterly, he was seized by 
                 the spirit that trails in the lines underfoot! Poor 
-                fellow! No wonder that he subsequently exclaims:&#8212;</p>
+                fellow! No wonder that he subsequently exclaims:—</p>
             
            <q who="Walt Whitman">
             <floatingText><body>
@@ -202,21 +199,21 @@
             <p>The stanza that follows this exhibition of the 
             most extraordinary and unjustifiable conduct on 
             the part of the "real me" is full of pathos, and 
-            quite as full of truth:&#8212;</p>
+            quite as full of truth:—</p>
             
             <q who="Walt Whitman"><floatingText><body>
-                <lg type="linegroup"><l>"Oh, I think I have not understood anything,&#8212;not a <lb/>
-                single object,&#8212;and that no man ever can!"</l></lg>
+                <lg type="linegroup"><l>"Oh, I think I have not understood anything,—not a <lb/>
+                single object,—and that no man ever can!"</l></lg>
             </body></floatingText></q>
             
             <p>Reader, the Atlantic Monthly, the best of American 
             magazines, publishes two pages and a half of 
-            this stuff, and for what? For its literary merit?&#8212;it is a chaos of unmeaning words and a wilderness 
+            this stuff, and for what? For its literary merit?—it is a chaos of unmeaning words and a wilderness 
             of bad grammar. For its thought? 
             There is not a well-defined thought in it. 
             For any hint of "bardic symbols?" There 
             is not a new one in it. The whole performance 
-            is execrable&#8212;a mass of half-crazy, half-idiotic 
+            is execrable—a mass of half-crazy, half-idiotic 
             nonsense, and, considered as a literary production, 
             is a disgrace to the journal which gave it 
             birth. If this production had appeared, word for 
@@ -233,8 +230,8 @@
             
             <p>There is something in the slang phrase "good 
             horse sense" which we like. It is a kind of sense 
-            which discards this whole class of productions&#8212;the mystical, the affectedly homely, the dreamily 
-            rhapsodical, the enigmatical&#8212;as things of no 
+            which discards this whole class of productions—the mystical, the affectedly homely, the dreamily 
+            rhapsodical, the enigmatical—as things of no 
             value, when, by the circumstances which accompany 
             them, they fail to be things of mischief. 
             They belong to the realm of nothings, and every 

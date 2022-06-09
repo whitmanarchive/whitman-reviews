@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02003">  
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02003">  
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,7 +26,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.02003</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -40,7 +38,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>
+            <idno>anc.02003</idno></publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -81,7 +79,7 @@
             <head type="sub">[Written by Mrs. D.H.R. GOODALE for The Republican]</head>
             <head type="sub">"'Tis good to be merry and wise."</head>
                         
-            <p>So runs the old song. Surely, now that Christmas approaches, 'tis time to put our wisdom to the proof and make merry with that "good heart" which, according to Walt Whitman, it is the best service of literature to give us "as a radical possession and habit." It is a curious paradox that while books are certainly indispensable to our modern life, their chief value lies in something that we find within ourselves. The book which starts no echo is without meaning to us. In his new volume of "November Boughs," by means of various hints and records, such as personal reminiscences, poetizing, looking backward along his own road and discoursing of Shakespeare, Tennyson, Burns and the Bible, Walt Whitman emphasizes again the old manly (self) assertion of individual will and freedom, and testifies to the immeasurable value of life,&#8212;still looking and longing for that brotherhood of man in which each shall live and work to share all good with his fellows. Whatever the final stamp of valuation put upon the literary work which this fearless man has produced, we owe him much for the sincerity, earnestness and vigor with which he has insisted upon human and vital realities as the only true ground-work of art. The test that he offers for "poems or any other writings" certainly gives us a high standard, "not merely to satisfy the intellect, or supply something polished and interesting, nor even to depict great passions or persons or events, but to fill him [the reader] with vigorous and clean manliness, religiousness, and give him <hi rend="italic">good heart</hi> as a radical possession and habit."</p>
+            <p>So runs the old song. Surely, now that Christmas approaches, 'tis time to put our wisdom to the proof and make merry with that "good heart" which, according to Walt Whitman, it is the best service of literature to give us "as a radical possession and habit." It is a curious paradox that while books are certainly indispensable to our modern life, their chief value lies in something that we find within ourselves. The book which starts no echo is without meaning to us. In his new volume of "November Boughs," by means of various hints and records, such as personal reminiscences, poetizing, looking backward along his own road and discoursing of Shakespeare, Tennyson, Burns and the Bible, Walt Whitman emphasizes again the old manly (self) assertion of individual will and freedom, and testifies to the immeasurable value of life,—still looking and longing for that brotherhood of man in which each shall live and work to share all good with his fellows. Whatever the final stamp of valuation put upon the literary work which this fearless man has produced, we owe him much for the sincerity, earnestness and vigor with which he has insisted upon human and vital realities as the only true ground-work of art. The test that he offers for "poems or any other writings" certainly gives us a high standard, "not merely to satisfy the intellect, or supply something polished and interesting, nor even to depict great passions or persons or events, but to fill him [the reader] with vigorous and clean manliness, religiousness, and give him <hi rend="italic">good heart</hi> as a radical possession and habit."</p>
          </body>
     </text>
 </TEI>

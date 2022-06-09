@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02001">  
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02001">  
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -34,7 +32,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.02001</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -46,7 +44,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>
+            <idno>anc.02001</idno></publicationStmt>
             
             <sourceDesc>
                 <biblStruct>
@@ -91,13 +89,8 @@
             
             <head type="main-authorial">WALT WHITMAN'S NEW VOLUME.</head>
             
-            <p>Walt Whitman's new volume of poetry and prose, "November Boughs," is out in handsome shape&#8212;flexible dark-red covers, new and unique portrait of the poet at seventy years, from life, and a rare portrait of Elias Hicks, to whom Mr. Whitman devotes some pages of reminiscence. The poems are entitled, "Sands at Seventy." Many of them bear the stamp of full power,&#8212;such as "With Husky-Haughty Lips," "Fancies at Navesink," etc.; others show marks of the advancing lethargy of age. The whole m&#0233;lange is a remarkable work to have been forged in a sick-room. Walt Whitman is exhibiting an astonishing tenacity of grip on life. His brain is as clear in its thinking as ever, and his handwriting bold and strong as of old. He ought to winter in some pleasant Southern city where he could sit by open windows. But as he has not come down stairs out of his chamber more than twice in several months, it is probable&#8212;nearly certain, in fact&#8212;that he would not be equal to a journey of any kind, even if inclined to take it. He is in the care of affectionate friends, one of whom, Mr. Horace Traubel, formerly an editorial writer on the Boston Commonwealth, is in constant and affectionate daily attendance on him, and has helped him put through the press the volume "November Boughs" (price $1.25) and a forthcoming six-dollar edition of his completed works, both volumes published by David McKay, 23 South Ninth street, Philadelphia.</p>
+            <p>Walt Whitman's new volume of poetry and prose, "November Boughs," is out in handsome shape—flexible dark-red covers, new and unique portrait of the poet at seventy years, from life, and a rare portrait of Elias Hicks, to whom Mr. Whitman devotes some pages of reminiscence. The poems are entitled, "Sands at Seventy." Many of them bear the stamp of full power,—such as "With Husky-Haughty Lips," "Fancies at Navesink," etc.; others show marks of the advancing lethargy of age. The whole mélange is a remarkable work to have been forged in a sick-room. Walt Whitman is exhibiting an astonishing tenacity of grip on life. His brain is as clear in its thinking as ever, and his handwriting bold and strong as of old. He ought to winter in some pleasant Southern city where he could sit by open windows. But as he has not come down stairs out of his chamber more than twice in several months, it is probable—nearly certain, in fact—that he would not be equal to a journey of any kind, even if inclined to take it. He is in the care of affectionate friends, one of whom, Mr. Horace Traubel, formerly an editorial writer on the Boston Commonwealth, is in constant and affectionate daily attendance on him, and has helped him put through the press the volume "November Boughs" (price $1.25) and a forthcoming six-dollar edition of his completed works, both volumes published by David McKay, 23 South Ninth street, Philadelphia.</p>
             
         </body>
     </text>
 </TEI>
-
-            
-            
-            
-            

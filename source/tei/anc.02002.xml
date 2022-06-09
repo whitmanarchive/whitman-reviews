@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02002">  
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02002">  
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title level="m" type="main" corresp="lg1881">New Publications</title>
-                <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881&#8211;82)]</title>
+                <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
                 <title level="a" type="sub">a machine readable transcription</title>
                 
           <author>
@@ -34,7 +32,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.02002</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -46,7 +44,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>
+            <idno>anc.02002</idno></publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -89,10 +87,10 @@
             <head type="main-authorial">New Publications</head>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <head type="sub">WALT WHITMAN.</head>
-            <head type="sub">LEAVES OF GRASS. 12mos. pp. 382. James H. Osgood &#38; Co. </head>
+            <head type="sub">LEAVES OF GRASS. 12mos. pp. 382. James H. Osgood &amp; Co. </head>
            
             
-            <p>After the dilettante indelicacies of William H. Malleck and Oscar Wilde, we are presented with the slop-bucket of Walt Whitman. The celebrity of this phenomenal poet bears a curious disproportion to the circulation of his writings. Until now, it cannot be said that his verses have ever been published at all. They have been printed irregularly and read behind the door. They have been vaunted extravagantly by a band of extravagant disciples; and the possessors of the books have kept them locked up from the family. Some have valued them for the "barbaric yawp," which seems to them the note of a new, vigorous, democratic, American school of literature; some for the fragments of real poetry floating in the turbid mass; some for the nastiness and animal insensibility to shame which entitle a great many of the poems to a dubious reputation as curiosities. Now that they are thrust into our faces at the book stalls there must be a reexamination of the myth of the Good Gray Poet. It seems to me that there is no need at this late day to consider Mr. Whitman's claims to the immortality of genius. That he is a poet most of us frankly admit. His merits have been set forth many times, and at great length, and if the world has erred materially in its judgment of them the error has been a lazy and unquestioning acquiescence in some of the extreme demands of his vociferous partisans. The chief question raised by this publication is whether anybody&#8212;even a poet&#8212;ought to take off his trousers in the market place. Of late years we believe that Mr. Whitman has not chosen to be so shocking as he was when he had his notoriety to make, and many of his admirers&#8212;the rational ones&#8212;hoped that the "Leaves of Grass" would be weeded out before he set them out again. But this has not been done; and indeed Mr. Whitman could hardly do it without falsifying the first principle of his philosophy, which is a belief in his own perfection, and the second principle, which is a belief in the preciousness of filth. "Divine am I," he cries. "Divine am I inside and out, and I make holy whatever I touch or am touched from. The scent of these arm-pits aroma finer than prayer. This head more than churches, Bibles and all the creeds." He knows that he is "august." He does not care for anybody's opinion. He is
+            <p>After the dilettante indelicacies of William H. Malleck and Oscar Wilde, we are presented with the slop-bucket of Walt Whitman. The celebrity of this phenomenal poet bears a curious disproportion to the circulation of his writings. Until now, it cannot be said that his verses have ever been published at all. They have been printed irregularly and read behind the door. They have been vaunted extravagantly by a band of extravagant disciples; and the possessors of the books have kept them locked up from the family. Some have valued them for the "barbaric yawp," which seems to them the note of a new, vigorous, democratic, American school of literature; some for the fragments of real poetry floating in the turbid mass; some for the nastiness and animal insensibility to shame which entitle a great many of the poems to a dubious reputation as curiosities. Now that they are thrust into our faces at the book stalls there must be a reexamination of the myth of the Good Gray Poet. It seems to me that there is no need at this late day to consider Mr. Whitman's claims to the immortality of genius. That he is a poet most of us frankly admit. His merits have been set forth many times, and at great length, and if the world has erred materially in its judgment of them the error has been a lazy and unquestioning acquiescence in some of the extreme demands of his vociferous partisans. The chief question raised by this publication is whether anybody—even a poet—ought to take off his trousers in the market place. Of late years we believe that Mr. Whitman has not chosen to be so shocking as he was when he had his notoriety to make, and many of his admirers—the rational ones—hoped that the "Leaves of Grass" would be weeded out before he set them out again. But this has not been done; and indeed Mr. Whitman could hardly do it without falsifying the first principle of his philosophy, which is a belief in his own perfection, and the second principle, which is a belief in the preciousness of filth. "Divine am I," he cries. "Divine am I inside and out, and I make holy whatever I touch or am touched from. The scent of these arm-pits aroma finer than prayer. This head more than churches, Bibles and all the creeds." He knows that he is "august." He does not care for anybody's opinion. He is
             
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -126,4 +124,3 @@
         </body>
     </text>
 </TEI>
-

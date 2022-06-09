@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00052">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00052">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +37,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <idno>anc.00052</idno>
+            
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -51,7 +49,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         </publicationStmt>
+         <idno>anc.00052</idno></publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -106,7 +104,7 @@ necessary</change>
 
          <p>But our present object is to introduce an extract from Drum Taps, which may, we hope, incite the reader to a serious study of the works of its author—the most remarkable outgrowths of our New-World life. As the earlier poems were not a bouquet of garden flowers, but leaves of grass plucked by the handful from the bosom of nature, with here and there a wild blossom, fresh, juicy, wet with the dews of morning, so the recent ones—referring to that upheaving of the Great Life in human action which has marked our times—are not the elaborate martial strains of the parade-ground, but the vigorous "drums taps" of the column in march.</p> 
 
-         <p></p>
+         <p/>
 
          <!-- from Pioneers! O Pioneers! -->
 
@@ -120,7 +118,7 @@ necessary</change>
                      <lg type="linegroup">
                         <l>PIONEERS!</l>
                         <l>O PIONEERS!</l>
-                        <l></l>
+                        <l/>
                         <l rend="indented4">1.</l>
                         <l rend="indented2">Come, my tan-faced children,</l>
                         <l>Follow well in order, get your weapons ready;</l>
