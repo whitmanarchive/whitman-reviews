@@ -1,114 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00013">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title level="m" type="main" corresp="lg1855">Walt Whitman, a Brooklyn Boy</title>
-            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
-            <title level="m" type="sub">a machine readable transcription</title>
-            <author>
-               <choice>
-                  <orig>unsigned</orig>
-                  <reg>Walt Whitman</reg>
-               </choice>
-            </author>
-            <editor>Kenneth M. Price</editor>
-            <editor>Ed Folsom</editor>
-            <respStmt>
-               <resp>Transcription and encoding</resp>
-               <persName xml:id="no">Natalie O'Neal</persName>
-<persName xml:id="el">Elizabeth Lorang</persName>
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title level="m" type="main" corresp="lg1855">Walt Whitman, a Brooklyn Boy</title>
+               <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+               <title level="m" type="sub">a machine readable transcription</title>
+               <author>
+                  <choice>
+                     <orig>unsigned</orig>
+                     <reg>Walt Whitman</reg>
+                  </choice>
+               </author>
+               <editor>Kenneth M. Price</editor>
+               <editor>Ed Folsom</editor>
+               <respStmt>
+                  <resp>Transcription and encoding</resp>
+                  <persName xml:id="no">Natalie O'Neal</persName>
+                  <persName xml:id="el">Elizabeth Lorang</persName>
+                  
+                  
+                  
+                  
+                  
+                  <persName xml:id="vs">Vanessa Steinroetter</persName>
+                  <persName xml:id="cg">Charles Green</persName>
+                  
+                  <persName xml:id="fm">Frank Menius</persName>
+               </respStmt>
+               <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+               <sponsor>University of Iowa</sponsor>
+               <funder>National Endowment for the Humanities</funder>
+               <funder>The United States Department of Education</funder>
+            </titleStmt>
+            <editionStmt>
+               <edition>
+                  <date>2015</date>
+               </edition>
+            </editionStmt>
+            <publicationStmt>
                
-               
-               
-               
-               
-               <persName xml:id="vs">Vanessa Steinroetter</persName>
-               <persName xml:id="cg">Charles Green</persName>
-               
-               <persName xml:id="fm">Frank Menius</persName>
-            </respStmt>
-            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
-            <sponsor>University of Iowa</sponsor>
-            <funder>National Endowment for the Humanities</funder>
-            <funder>The United States Department of Education</funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <date>2015</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
+               <distributor>The Walt Whitman Archive</distributor>
+               <address>
+                  <addrLine>Center for Digital Research in the Humanities</addrLine>
+                  <addrLine>319 Love Library</addrLine>
+                  <addrLine>University of Nebraska-Lincoln</addrLine>
+                  <addrLine>P.O. Box 884100</addrLine>
+                  <addrLine>Lincoln, NE 68588-4100</addrLine>
+               </address>
+               <availability>
+                  <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+               </availability>
+               <idno>anc.00013</idno>
+            </publicationStmt>
+            <sourceDesc>
+               <biblStruct>
+                  <analytic>
+                     <author key="Whitman, Walt">
+                        <choice>
+                           <orig>unsigned</orig>
+                           <reg>Walt Whitman</reg>
+                        </choice>
+                     </author>
+                     <title level="a">Walt Whitman, a Brooklyn Boy</title>
+                  </analytic>
+                  <monogr>
+                     <title level="j">The Brooklyn Daily Times</title>
+                     <imprint>
+                        <date when="1855-09-29">29 September 1855</date>
+                        <biblScope unit="pages">2</biblScope>
+                     </imprint>
+                  </monogr>
+                  
+                  
+               </biblStruct>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+         </encodingDesc>
+         <revisionDesc>
+            <change when="2018-01-17" who="#nhg">proofed against original</change>
+            <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+            <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+            <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+            <change who="#no" when="2015-02-26">converted to P5</change>
+            <change who="#el" when="2009-10-03">updated TEI header</change>
+            <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+            <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
+            <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+            <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+            <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+               necessary</change>
+            <change who="#cg" when="2005-06-15">Corrected, validated</change>
+            <change who="#cg" when="2005-05-20">Corrected, validated</change>
+            <change who="#fm" when="2004-10-25">HTML converted to XML</change>
+         </revisionDesc>
+      </teiHeader>
+      <text>
+         <body>
             
-            <distributor>The Walt Whitman Archive</distributor>
-            <address>
-               <addrLine>Center for Digital Research in the Humanities</addrLine>
-               <addrLine>319 Love Library</addrLine>
-               <addrLine>University of Nebraska-Lincoln</addrLine>
-               <addrLine>P.O. Box 884100</addrLine>
-               <addrLine>Lincoln, NE 68588-4100</addrLine>
-            </address>
-            <availability>
-               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
-            </availability>
-         <idno>anc.00013</idno></publicationStmt>
-         <sourceDesc>
-            <biblStruct>
-               <analytic>
-                  <author key="Whitman, Walt">
-                     <choice>
-                        <orig>unsigned</orig>
-                        <reg>Walt Whitman</reg>
-                     </choice>
-                  </author>
-                  <title level="a">Walt Whitman, a Brooklyn Boy</title>
-               </analytic>
-               <monogr>
-                  <title level="j">The Brooklyn Daily Times</title>
-                  <imprint>
-                     <date when="1855-09-29">29 September 1855</date>
-                     <biblScope unit="pages">2</biblScope>
-                  </imprint>
-               </monogr>
-
-               
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-<encodingDesc>
-          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
-          </encodingDesc>
-      <revisionDesc>
-         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
-         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
-                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
-         <change who="#no" when="2015-02-26">converted to P5</change>
-         <change who="#el" when="2009-10-03">updated TEI header</change>
-         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
-         <change who="#el" when="2007-12-18">moved bracketed descriptive title to sub title</change>
-         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
-         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
-         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
-necessary</change>
-         <change who="#cg" when="2005-06-15">Corrected, validated</change>
-         <change who="#cg" when="2005-05-20">Corrected, validated</change>
-         <change who="#fm" when="2004-10-25">HTML converted to XML</change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-
-         <head type="main-authorial">WALT WHITMAN, A BROOKLYN BOY.<!--  [Review of Leaves of Grass (1855)] --> </head>
-         
-         <ab>L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>: (<hi rend="italic">a volume of Poems, just published</hi>.)</ab>
-
-         <p>To give judgment on real poems, one needs an account of the poet himself. Very devilish to some, and very divine to some, will appear these new poems, the Leaves of Grass: an attempt, as they are, of a live, naive, masculine, tenderly affectionate, rowdyish, contemplative, sensual, moral, susceptible and imperious person, to cast into literature not only his own grit and arrogance, but his own flesh and form, undraped, regardless of foreign models, regardless of modesty or law, and ignorant or silently scornful, as at first appears, of all except his own presence and experience, and all outside of the fiercely loved land of his birth and the birth of his parents, and their parents for several generations before him. Politeness this man has none, and regulation he has none. The effects he produces are no effects of artists or the arts, but effects of the original eye or arm, or the actual atmosphere of grass or brute or bird. You may feel the unconscious teaching of the presence of some fine animal, but will never feel the teaching of the fine writer or speaker.</p>
-
-         <p>Other poets celebrate great events, personages, romances, wars, loves, passions, the victories and power of their country, or some real or imagined incident—and polish their work, and come to conclusions, and satisfy the reader. This poet celebrates himself: and that is the way he celebrates all. He comes to no conclusions, and does not satisfy the reader. He certainly leaves him what the serpent left the woman and the man, the taste of the tree of the knowledge of good and evil, never to be erased again.</p>
-
-         <p>What good is it to argue about egotism? There can be no two thoughts on Walt Whitman's egotism. That is what he steps out of the crowd and turns and faces them for. Mark, critics! for otherwise is not used for you the key that leads to the use of the other keys to this well enveloped yet terribly in earnest man. His whole work, his life, manners, friendships, writing, all have among their leading purposes, an evident purpose, as strong and avowed as any of the rest, to stamp a new type of character, namely his own, and indelibly fix it and publish it, not for a model but an illustration, for the present and future of American letters and American young men, for the south the same as the north, and for the Pacific and Mississippi country, and Wisconsin and Texas and Canada and Havana, just as much as New York and Boston. Whatever is needed toward this achievement he puts his hand to, and lets imputations take their time to die.</p>
-
-         <p>First be yourself what you would show in your poem—such seems to be this man's example and inferred rebuke to the schools of poets. He makes no allusions to books or writers; their spirits do not seem to have touched him; he has not a word to say for or against them, or their theories or ways. He never offers others; what he continually offers is the man whom our Brooklynites know so well. Of pure American breed, of reckless health, his body perfect, free from taint top to toe, free forever from headache and dyspepsia, full-blooded, six feet high, a good feeder, never once using medicine, drinking water only—a swimmer in the river or bay or by the seashore—of straight attitude and slow movement of foot—an indescribable style evincing indifference and disdain—ample limbed, weight one hundred and eighty-five pounds, age thirty-six years (1855)—never dressed in black, always dressed freely and clean in strong clothes, neck open, shirt-collar flat and broad, countenance of swarthy, transparent red, beard short and well mottled with white hair like hay after it has been mowed in the field and lies tossed and streaked—face not refined or intellectual, but calm and wholesome—a face of an unaffected animal—a face that absorbs the sunshine and meets savage or gentleman on equal terms—a face of one who eats and drinks and is a brawny lover and embracer—a face of undying friendship and indulgence toward men and women, and of one who finds the same returned many fold—a face with two grey eyes where passion and hauteur sleep, and melancholy stands behind them—a spirit that mixes cheerfully with the world—a person singularly beloved and welcomed, especially by young men and mechanics—one who has firm attachments there, and associates there—one who does not associate with literary and elegant people—one of the two men sauntering along the street with their arms over each other's shoulders, his companions some boatman or ship joiner, or from the hunting-tent or lumber-raft—one who has that quality of attracting the best out of people that they present to him, none of their meaner and stingier traits, but always their sweetest and most generous traits—a man never called upon to make speeches at public dinners, never on platforms amid the crowds of clergymen or professors or aldermen or congressmen—rather down in the bay with pilots in their pilot boats—or off on a cruise with fishers in a fishing smack—or with a band of laughers and roughs in the streets of the city or the open grounds of the country—fond of New York and Brooklyn—fond of the life of the wharves and great ferries, or along Broadway, observing the endless wonders of that thoroughfare of the world—one whom, if you would meet, you need not expect to meet an extraordinary person—one in whom you will see the singularity which consists in no singularity—whose contact is no dazzling fascination, nor require any difference, but has the easy fascination of what is homely and accustomed—of something you knew before, and was waiting for—of natural pleasures, and well-known places, and welcome familiar faces—perhaps of a remembrance of your brother or mother, or friend away or dead—there you have Walt Whitman, the begetter of a new offspring out of literature, taking with easy nonchalance the chances of its present reception, and, through all misunderstandings and distrusts, the chances of its future reception.</p>
-
-      </body>
-   </text>
+            <head type="main-authorial">WALT WHITMAN, A BROOKLYN BOY.<!--  [Review of Leaves of Grass (1855)] --> </head>
+            
+            <ab>L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>: (<hi rend="italic">a volume of Poems, just published</hi>.)</ab>
+            
+            <p>To give judgment on real poems, one needs an account of the poet himself. Very devilish to some, and very divine to some, will appear these new poems, the Leaves of Grass: an attempt, as they are, of a live, naive, masculine, tenderly affectionate, rowdyish, contemplative, sensual, moral, susceptible and imperious person, to cast into literature not only his own grit and arrogance, but his own flesh and form, undraped, regardless of foreign models, regardless of modesty or law, and ignorant or silently scornful, as at first appears, of all except his own presence and experience, and all outside of the fiercely loved land of his birth and the birth of his parents and their parents for several generations before him. Politeness this man has none, and regulation he has none. The effects he produces are no effects of artists or the arts, but effects of the original eye or arm, or the actual atmosphere or grass or brute or bird. You may feel the unconscious teaching of the presence of some fine animal, but will never feel the teaching of the fine writer or speaker.</p>
+            
+            <p>Other poets celebrate great events, personages, romances, wars, loves, passions, the victories and power of their country, or some real or imagined incident—and polish their work, and come to conclusions, and satisfy the reader. This poet celebrates himself: and that is the way he celebrates all. He comes to no conclusions, and does not satisfy the reader. He certainly leaves him what the serpent left the woman and the man, the taste of the tree of the knowledge of good and evil, never to be erased again.</p>
+            
+            <p>What good is it to argue about egotism? There can be no two thoughts on Walt Whitman's egotism. That is what he steps out of the crowd and turns and faces them for. Mark, critics! for otherwise is not used for you the key that leads to the use of the other keys to this well enveloped yet terribly in earnest man. His whole work, his life, manners, friendships, writing, all have among their leading purposes, an evident purpose, as strong and avowed as any of the rest, to stamp a new type of character, namely his own, and indelibly fix it and publish it, not for a model but an illustration, for the present and future of American letters and American young men, for the south the same as the north, and for the Pacific and Mississippi country, and Wisconsin and Texas and Canada and Havana, just as much as New York and Boston. Whatever is needed toward this achievement he puts his hand to, and lets imputations take their time to die.</p>
+            
+            <p>First be yourself what you would show in your poem—such seems to be this man's example and inferred rebuke to the schools of poets. He makes no allusions to books or writers; their spirits do not seem to have touched him; he has not a word to say for or against them, or their theories or ways. He never offers others; what he continually offers is the man whom our Brooklynites know so well. Of pure American breed, of reckless health, his body perfect, free from taint from top to toe, free forever from headache and dyspepsia, full-blooded, six feet high, a good feeder, never once using medicine, drinking water only—a swimmer in the river or bay or by the seashore—of straight attitude and slow movement of foot—an indescribable style evincing indifference and disdain—ample limbed, weight a hundred and eighty-five pounds, age thirty-six years (1855)—never dressed in black, always dressed freely and clean in strong clothes, neck open, shirt-collar flat and broad, countenance of swarthy transparent red, beard short and well mottled with white hair like hay after it has been mowed in the field and lies tossed and streaked—face not refined or intellectual, but calm and wholesome—a face of an unaffected animal—a face that absorbs the sunshine and meets savage or gentleman on equal terms—a face of one who eats and drinks and is a brawny lover and embracer—a face of undying friendship and indulgence toward men and women, and of one who finds the same returned many fold—a face with two gray eyes where passion and hauteur sleep, and melancholy stands behind them—a spirit that mixes cheerfully with the world—a person singularly beloved and welcomed, especially by young men and mechanics—one who has firm attachments there, and associates there—one who does not associate with literary and elegant people—one of the two men sauntering along the street with their arms over each other's shoulders, his companion some boatman or ship joiner, or from the hunting-tent or lumber-raft—one who has that quality of attracting the best out of people that they present to him, none of their meaner and stingier traits, but always their sweetest and most generous traits—a man never called upon to make speeches at public dinners, never on platforms amid the crowds of clergymen or professors or aldermen or congressmen—rather down in the bay with pilots in their pilot boats—or off on a cruise with fishers in a fishing smack—or with a band of laughers and roughs in the streets of the city or the open grounds of the country—fond of New York and Brooklyn—fond of the life of the wharves and the great ferries, or along Broadway, observing the endless wonders of that thoroughfare of the world—one whom, if you would meet, you need not expect to meet an extraordinary person—one in whom you will see the singularity which consists in no singularity—whose contact is no dazzling fascination, nor requires any deference, but has the easy fascination of what is homely and accustomed—of something you knew before, and was waiting for—of natural pleasures, and well-known places, and welcome familiar faces—perhaps of a remembrance of your brother or mother, or friend away or dead—there you have Walt Whitman, the begetter of a new offspring out of literature, taking with easy nonchalance the chances of its present reception, and, through all misunderstandings and distrusts, the chances of its future reception.</p>
+            
+         </body>
+      </text>
 </TEI>
