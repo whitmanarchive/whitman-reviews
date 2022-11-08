@@ -61,7 +61,7 @@ class TeiToEs
   end
   
   def subcategory
-    "Contemporary Reviews"
+    "Commentary / Contemporary Reviews"
   end
 
   # note this does not sort the creators
