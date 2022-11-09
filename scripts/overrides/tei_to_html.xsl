@@ -8,7 +8,7 @@
   <!--                             IMPORTS                                  -->
   <!-- ==================================================================== -->
   
-  <xsl:import href="../../../whitman-scripts/datura_default/tei_to_html.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_html/tei_to_html.xsl"/>
   
   <xsl:import href="../../../whitman-scripts/scripts/archive-wide/overrides.xsl"/>
 
