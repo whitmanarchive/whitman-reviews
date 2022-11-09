@@ -57,7 +57,11 @@ class TeiToEs
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
   def category
-    "criticism"
+    "Commentary"
+  end
+  
+  def subcategory
+    "Commentary / Contemporary Reviews"
   end
 
   # note this does not sort the creators
@@ -142,10 +146,6 @@ class TeiToEs
       break if source && source.length > 0
     end
     source
-  end
-
-  def subcategory
-    "reviews"
   end
 
   # TODO text field requires an override for source
