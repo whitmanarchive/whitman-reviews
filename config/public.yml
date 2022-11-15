@@ -7,6 +7,7 @@ default:
   tei_html_xsl: scripts/overrides/tei_to_html.xsl
 
 development:
+  api_version: "2.0"
   es_path: https://whitman-dev.unl.edu/elastic
   es_index: api_v1
   site_url: https://whitman-dev.unl.edu
