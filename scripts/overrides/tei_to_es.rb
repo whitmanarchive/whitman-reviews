@@ -59,10 +59,6 @@ class TeiToEs
   def category
     "Commentary"
   end
-  
-  def subcategory
-    "Commentary / Contemporary Reviews"
-  end
 
   # note this does not sort the creators
   def creator
@@ -123,19 +119,19 @@ class TeiToEs
     "en"
   end
 
-  def languages
-    # TODO verify that none of these are multiple languages
-    [ "en" ]
-  end
+  # def languages
+  #   # TODO verify that none of these are multiple languages
+  #   [ "en" ]
+  # end
 
   # TODO medium, person, rights, rights_uri, rights_holder
 
   # TODO can change this behavior once datura is updated to
   # return nil instead of empty strings
   # TODO reusing source but look into whether this is actually the publisher
-  def publisher
+  def citation
     pub = get_text(@xpaths["source"])
-    pub.empty? ? nil : pub
+    pub.empty? ? nil : { "publisher" => pub }
   end
 
   # TODO source_sort not added
@@ -146,6 +142,10 @@ class TeiToEs
       break if source && source.length > 0
     end
     source
+  end
+
+  def category2
+    "reviews"
   end
 
   # TODO text field requires an override for source
