@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02155">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Democratic vistas and Other Papers</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk"> Khadizatul Kubra</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02155</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">Democratic Vistas and Other Papers</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Radical Leader</title>
+                  <imprint>
+                     <date when="1888-08-04">4 August 1888</date>
+                     <biblScope type="pages">7</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#kk" when="2021-10-27">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Democratic vistas and Other Papers </head>
+
+         <p>Mr. SWINBURNE’s opinion of Walt Whitman has altered since he asked him to “Send but a song oversea to us,” but some of us retain our old love and admiration for “the good grey poet.’ Whitman’s prose is less known than his verse, yet it has high, and sometimes the highest merits. For masculine writing, which owes none of its effect to any tricks of style, some passages of Whitman’s prose are not easily beaten. Mr. Walter Scott has published two shilling collections of the great American singer’s essays, criticism, and notes in the “Camelot Series,” and the lover of Democracy cannot but hope they will have an extensive sale. The second volume, recently issued, contains some of Whitman’s finest utterances, especially the “Democratic Vistas,” a tractate of over eighty pages. This is the largest, and on the whole the most important, of Whitman’s prose writings. It compromise the ripe thoughts on American society, liberty, and progress, art and literature, of a real man, and a man of real genius, always accustomed to do his own thinking, worshipping no accepted ideas or models, but standing always erect and independent, and stating his personal opinions with absolute sincerity.</p>
+         
+         <p>Whitman gives his central idea in a Preface for the British reader.  It is, <hi rend="italic">“the building up of the masses by building up grand individuals,”</hi> the italics being his own. And his essay opens with a characteristic reference to “John Stuart Mill’s profound essay on Liberty.” </p>
+         
+         <p>“The priest departs, the divine comes,” says Whitman. He demands a new and brawny race of American authors; not weavers of old-world themes, but spokesmen of the new order of things, its daily life, its loves and hates, its bodily appetites and its spiritual longings; above all a fresh bread of poets, singers of the aspirations of Democracy. Wars, inventions, and powerful personalities, attract the superficial gaze. “They of course play their part,” says Whitman, yet, it may be , a single new thought, imagination, abstract principle, even literary style, fit for the time, put in shape by some great literatus, and projected among mankind, may duly cause changes, growths, removals, greater than the longest and bloodiest war, or the most stupendous merely political, dynastic, or commercial overturn.” Even the States, he says, are not really held together by material interests, but by “the fervid and tremendous IDEA, melting everything else with resistless heat and solving all lesser and definite distinctions in vast, indefinite, spiritual, emotional power.”</p>
+            <p>Despite all the evils of America, the cant of churches, the frivolousness of literature, the corruption, jobbery, and falsehood of politicians, and the scoundrelism of cities, Whitman is sure of the grand future of the States. The common people are sound everywhere. Scum, flotsam, and jetsam, may float on the surface at times, but there is a great ocean of clear water below. </p>
+         
+         <p>“ I will have nothing,” Whitman exclaims elsewhere, “which every other men may not have on the same terms.” He is a Democrat to the heart’s core. As he says here&#8212;“The common ambitions strains for elevations, to become privileged, exclusive. The master sees greatness and health in part of the mass; nothing will do as well as common ground. Would you have in yourself the divine vast, and general law? Then merge yourself in it.”</p>
+         <p>Further on he says, “ever the most precious is the common. Ever the fresh breeze of field, or hill, or lake, is more than any palpation of fans, though of ivory, and redolent with perfume; an the air is more than the costliest perfumes.”</p>
+         <p>The eager and often inconsiderate appeals of reformers and revolutionists are indispensable, to counterbalance the inertness and fossilism making so large a part of human institutions. The latter will always take care of themselves&#8212;the danger being that they rapidly tend to ossify us. The former is to be treated with indulgence, and even with respect. As circulation to air; so is agitation and plentiful degree of speculative licence to political and moral sanity. Indirectly, but surely , goodness, virtue, law (of the very best) follow freedom. These, to democracy, are what the keel is to the ship, or saltness to the ocean.”</p>
+            <p>Whitman warns the young men to America against the error of “avoiding politics,” an error he once shared himself. “Always inform yourself,” he says, ‘always do the best you can, always vote.” he advises them not to yield themselves up to parties, but “steadily hold yourself judge and master over all of them.’</p>
+         <p>While looking forward to a new Democratic literature, Whitman is not indifferent to the great writers of oriental and feudal lands and days. The following superb passage speaks for itself.</p>
+         <p>“For us. along the great highways of time, those monument stand&#8212;those forms of majesty and beauty. For us those beacons burn through all the nights. Unknown Egyptians, graving hieroglyphs; Hindus, with hymn and apothegm and endless epic; Hebrew prophet, with spirituality, as in flashes of lighting, conscience like red-hot iron, plaintive songs and scream of vengeance for tyrannies and enslavement; Christ with bent head, brooding love and peace, like a dove; Greek, creating eternal shapes of physical and esthetic proportion; Roman, lord of satire, the sword, and the codex;&#8212;of the figures, some far off and veil’d others nearer and visible; Dante, stalking with lean from, nothing but fibre, not a grain of superfluous flesh; Angelo, and the great painters, architect, musicians; rich Shakespeare, luxuriant as the sun, artist and singer of feudalism in its sunset, with all the gorgeous colors, owner thereof, and using them at will; and so to such as German Kant and Hegel, where they, though near us, leaping over the ages, sit again, impassive, imperturbable, like the Egyptian gods. Of these, and the like of these, is it too much, indeed, to return to our favorite figure, and view them as orbs and systems of orbs, moving in free paths in the spaces of that other heaven, the kosmic intellect, the soul?</p>
+         <p>Space does not permit a longer notice of “Democratic vistas.’ We heartily commend it to the attention of our readers, with the hope that many will read it carefully and ponder its manly lessons.</p>
+            
+            
+         
+            
+         
+         
+      </body>
+   </text>       
+</TEI>

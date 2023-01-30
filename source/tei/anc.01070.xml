@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.01070"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.01070"> 
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,7 +32,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                
+                <idno>anc.01070</idno>
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -41,7 +44,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            <idno>anc.01070</idno></publicationStmt>
+            </publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -54,9 +57,9 @@
                     <monogr>
                         <title level="j">Brooklyn Daily Union</title>
                         <imprint>
-                            <biblScope unit="volume">3</biblScope>
+                            <biblScope type="volume">3</biblScope>
                             <date xml:id="dat1" cert="high" when="1865-11-23">23 November 1865</date>
-                            <biblScope unit="pages">2</biblScope>
+                            <biblScope type="pages">2</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>
@@ -81,7 +84,7 @@
             
             <p>Walt Whitman's title is well enough chosen, for it is odd, and it bears no clear relation to the contents of his book, and in this oddness and apparent incoherency it resembles much in the book. We have no mind to laugh at Whitman's poetry. We know that for four years of war he has done noble and beautiful service in the hospitals, bending his shaggy form to a thousand little offices of kindness and shrinking from nothing. But he is not a poet, if we know what a poet is.</p>
             
-            <p>We have supposed that, without imagination, without music, without any revelation of either the beautiful or the sublime, without any intimate and pervading connection between the form and the substance, there could be no poetry. Strong feeling is something, and a keen appreciation of the picturesque and impressive in nature is something, but they alone cannot furnish forth poetry any more than two strings can fitly make a harp. Walt Whitman has these two, and the jagged and battered frame of the instrument he calls his verse holds little else. He is a fervent patriot, a hearty lover of the soldier, a keen, cordial sympathizer with nature, feeling the flow of its kindred currents with vigor and freshness; and he is a thorough rough, but not a singer. It is an easy thing for one who, in camps and marches, on the field of battle and by the side of sick or wounded men, has seen the soldier's heroism, patience, pluck, and simple, sublime repose in his cause and his God—for one who has seen and felt the romance of the war and its strange incidents, its unpainted and unspoken scenes—to think that the unaccustomed tide of feeling which fires the brain and compels the heart, and lights the eye and deepens the voice and hurries the pen and quickens human sympathy wherever it is looked or spoken, is the inspiration of the poet. But when it is this, and nothing more, it is not inspiration, and it results in Walt Whitman in something which—in spite of its grotesque form and occasional sonorous lines and frequent thrilling passages—is commonplace, and must sooner or later die a commonplace's dreary death.</p>
+            <p>We have supposed that, without imagination, without music, without any revelation of either the beautiful or the sublime, without any intimate and pervading connection between the form and the substance, there could be no poetry. Strong feeling is something, and a keen appreciation of the picturesque and impressive in nature is something, but they alone cannot furnish forth poetry any more than two strings can fitly make a harp. Walt Whitman has these two, and the jagged and battered frame of the instrument he calls his verse holds little else. He is a fervent patriot, a hearty lover of the soldier, a keen, cordial sympathizer with nature, feeling the flow of its kindred currents with vigor and freshness; and he is a thorough rough, but not a singer. It is an easy thing for one who, in camps and marches, on the field of battle and by the side of sick or wounded men, has seen the soldier's heroism, patience, pluck, and simple, sublime repose in his cause and his God&#8212;for one who has seen and felt the romance of the war and its strange incidents, its unpainted and unspoken scenes&#8212;to think that the unaccustomed tide of feeling which fires the brain and compels the heart, and lights the eye and deepens the voice and hurries the pen and quickens human sympathy wherever it is looked or spoken, is the inspiration of the poet. But when it is this, and nothing more, it is not inspiration, and it results in Walt Whitman in something which&#8212;in spite of its grotesque form and occasional sonorous lines and frequent thrilling passages&#8212;is commonplace, and must sooner or later die a commonplace's dreary death.</p>
             
             <p>In our opinion, moreover, this old friend of ours sins in more than the very common mistake of supposing that poetry which is not. He falls into the fatal error of supposing and acting and writing on the supposition that he is, on the whole, the most completely original, authoritative, and indisputable critic of this world and its contents, vain and otherwise, that a hitherto stingy Providence has vouchsafed. In such cases there is generally one safe disposition for the resulting criticism, and that is a hasty consignment to oblivion. But Mr. Whitman deserves more of us, for though he insists that inherently there is no doubt of his vast elevation above the rest of mankind, he is so sturdily good-natured in his assumption, so really sincere in his rapturous self-worship, and so familiar with the ways and words of the world he despises, very weak or a very wicked devotee at his own shrine. The fact is that, with ample chances to be at least a sensible writer, he chooses to be the opposite; and along with some broken, distorted, unfinished thoughts on life and the war, and man and Manhattan, he pours upon us an intolerable flood of Whitman in its crude state and most comfortless forms.</p>
             

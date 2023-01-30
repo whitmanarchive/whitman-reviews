@@ -1,0 +1,85 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02159">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" corresp="lg1860">Democratic Vistas and Other Papers</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                
+                <author>
+                    <choice>
+                        <orig>unsigned</orig>
+                        <reg>unknown</reg>
+                    </choice>
+                </author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <editor>Matt Cohen</editor>
+                <respStmt>
+                    <resp>Transcription, encoding</resp>
+                    <persName xml:id="kk"> Khadizatul Kubra</persName>
+                    
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>anc.02159</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author key="unknown">
+                            <choice><orig>unsigned</orig>
+                                <reg>unknown</reg></choice>
+                        </author>
+                        <title level="m" type="main">Democratic vistas and Other Papers</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j">The Manufacturer and Inventor</title>
+                        <imprint>
+                            <date when="1889-04-15">15 April 1889</date>
+                            <biblScope type="pages">162</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+        </encodingDesc>
+        <revisionDesc>
+            
+            <change who="#kk" when="2021-10-22">Transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <head type="main-authorial">Democratic Vistas and Other Papers</head>
+            
+            <p> DEMOCRATIC VISTAS AND OTHER PAPERS. By Walt Whitman. London: Walter Scott.</p>
+                <p>&#8212; Whitman’s writings are now pretty widely known in this country, and this book, coming as it does as his latest  production, will be read with avidity by lovers of good literature. The marrow of the book is to show that a good and great nation is produced by building up good and great individuals. Whitman, in Democratic Vistas, deals with the question of universal suffrage and a blind, crude, passionate people. Whether America (as an example) will be able to surmount the dangers which she has raised up by her system of popular government, it is impossible to state. Whitman shared this doubt, for he says, “The United states are destined either to surmount the gorgeous history of feudalism, or else prove the most tremendous failure of time.” He does not doubt for the material success. “The triumphant future of their business, geographic and productive departments, on larger scales, and in more varieties than ever, is certain.” But the greatness of the New World does not rest on its trade, but in the religious and moral character underlying the intellectual and political nature&#8212; “the people of our land may all read and write , and may all possess the right to vote&#8212;and yet the main things may be entirely lacking.” Much of the remaining portions of the book is autobiographical, and the author says with a peculiar pathos looking back upon his years of labour, that although he has not gained acceptance in his own time, he has “fallen back on fond dreams of the future.” The talk about Robert Burns is pre-eminently wise, and although whole libraries have been written about the Scotch poet, yet Whitman has contrived to present old facts in a new light, and a great poet’s opinion of another poet, still greater, must possess many points of interest. The chapters on “How I made a Book.” “Notes Left Over,’ “ Shakespeare’s historical Plays,” are all interesting.</p>
+            
+            
+        </body>
+    </text>       
+</TEI>

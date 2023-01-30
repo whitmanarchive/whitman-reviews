@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00077">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00077">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -36,7 +38,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            
+            <idno>anc.00077</idno>
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -48,7 +50,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         <idno>anc.00077</idno></publicationStmt>
+         </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -64,8 +66,8 @@
                   <title level="j">The Examiner</title>
                   <imprint>
                      <date when="1876-10-21">21 October 1876</date>
-                     <biblScope unit="volume">3586</biblScope>
-                     <biblScope unit="pages">1191-3</biblScope>
+                     <biblScope type="volume">3586</biblScope>
+                     <biblScope type="pages">1191-3</biblScope>
                   </imprint>
                </monogr>
                
@@ -120,7 +122,7 @@ Author's Edition.
                      </relations>
                      <lg type="linegroup">
                         <l>For the <choice><sic>eternal</sic><corr>Eternal</corr></choice> 
-                           <choice><sic>ocean</sic><corr>Ocean</corr></choice> bound<choice><sic/><corr>,</corr></choice>
+                           <choice><sic>ocean</sic><corr>Ocean</corr></choice> bound<choice><sic></sic><corr>,</corr></choice>
                         </l>
                         <l>These ripples, passing surges, streams of <choice><sic>death</sic><corr>Death</corr></choice> and <choice><sic>life</sic><corr>Life</corr></choice><choice><sic>,</sic><corr>.</corr></choice>
                         </l> 
@@ -143,7 +145,7 @@ Author's Edition.
                      <lg type="linegroup">
                         <l>
                            <choice><sic>Launched</sic><corr>Launch'd</corr></choice> o'er the prairies wide—across the lakes</l>
-                        <l>To the free skies, unpent<choice><sic/><corr>,</corr></choice> and glad<choice><sic/><corr>,</corr></choice> and strong.</l> 
+                        <l>To the free skies, unpent<choice><sic></sic><corr>,</corr></choice> and glad<choice><sic></sic><corr>,</corr></choice> and strong.</l> 
                      </lg>
                   </lg>
                </body>

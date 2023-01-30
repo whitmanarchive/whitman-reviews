@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02164">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">Leaves of Grass</hi> (1882)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+          </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk">Khadizatul Kubra</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02164</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass.</hi> (1882)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Cleveland Morning Leader</title>
+                  <imprint>
+                     <date when="1882-01-24">24 January 1882</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#kk" when="2022-03-11">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Leaves of Grass.&#8212;By Walt Whitman. Published by Thayer &#38; Eldridge. Boston. In the 85th year of the States.</head>
+
+         <p> Leaves of Grass.-by Walt Whitman. ( Philadelphia: David Meka.)</p>
+         
+         <p> Such is the title of a volume lately issued from the press of J. R. Osgood &#38; Co., Boston, without preface or introduction, of the contents of which Walt Whitman is said to be the author.</p>
+            
+            <p>It is difficult under the present state of the English language to exactly define the character and contents of this singular production. If it is poetry, it is such poetry as the word has never seen the like of until now. If it is prose it lacks coherence— is a broken mass of ill assorted ideas piled up without order or form—most of them out of place, many of them having no place that properly fits them or that they fit—a mere rattling, ranting jumble—a confused mass of words of all languages, gathered up and piled promiscuously together—as varied and heterogeneous as the street smells of the city of Cologne when her people are paying their evening devotions to their favorite goddess, Cloacina. Witness the following, when writing of himself:</p>
+         
+           <lg> 
+              <l>“I am he attesting sympathy,</l>
+            <l>(Shall I make my list of things in the house and skip the house that supports them?)</l>
+            <l>I am not the poet of goodness only I do not decline to be the poet of wickedness also.</l>
+            <l>What blast is this about virtue and vice?</l>
+            <l>Evil propels me and reform of evil propels me. I stand indifferent.</l>
+            <l>My gait is no faultfinder’s or rejector’s gait.</l>
+            <l>I moisten the roots of all that has grown.</l>
+            <l>Did you guess the celestial looms are yet to be worked over and rectified?</l>
+            <l>I find one side a balance and the antipodal side a balance.”</l>
+             
+           </lg>
+            <p>Like every other person of wild, incoherent, intractable ideas, he seeks to impress his crude, undigested vagaries upon the world lying in ignorance till his coming—he hence to become the mighty reformer of a dark and wicked age.</p>
+            
+            <l>Walt is a rhapsodist, not a poet. He lauds Democracy but is no Democrat. He is a Republican and believes the man at the bead to be the true God, and him he worships. The dead lion was good enough in his day, but the live dog is better in this day. Each has his day, but the survivor is the fittest. Hear him! p.265:</l>
+         
+           <lg> 
+            <l>“America, curious towards foreign characters, stands by its own at all hazards,</l>
+            <l>Stands removed, spacious, composite, sound, initiates the true use of precedents,</l>
+            <l>Does not repel them or the past or what they have produced under their forms,</l>
+            <l>Takes the lesson with calmness, perceives the corpse slowly borne from the house,</l>
+            <l>Perceives-that it waits a little while at the door that it was fittest for its days,</l>
+            <l>That its life has descended to the stalwart and well shaped heir who approaches,</l> 
+            <l>And that he shall be fittest for his days.”</l>
+            <l>(Exit Garfield, enter Arthur. Guiteau in Limbo.)</l>
+           </lg>
+            
+            <p>Walt is a Kosmos, a world, a universe within himself, a law unto himself, like John Brown and Charles J. Guiteau.</p>
+            <lg>
+            <l>“Turbulent, fleshy, sensual, eating, drinking and breeding.”</l>
+            </lg>
+            
+            <p>Nobody is better than he, nobody is better than anybody else. This is leveling down where he cannot level up.</p>
+            <p>Hear him on the negro question, the political cow that supplies the Republican party with so much golden milk of which the poor negro gets but the sour slops, if anything: </p>
+            
+            <lg>
+               <l>“You, whoever you are!</l>
+            <l>You daughter or son of England!</l>
+            <l>You of the mighty Slave tribes and</l>
+            <l>Empires! You Russ in Russia!</l>
+            <l>You dim-descended, black, divine soul’d African,</l>
+            <l>Large, fine-headed, nobly-formed, superbly</l>
+            <l>destined, on equal terms with me,” &#38;c. p. 118.</l>
+            </lg>
+            
+            
+            <p>Wherever he may wander in his erratic flights, he is sure to land on his own dunghi and crow defiance to all surrounding birds. Hear him again:</p>
+            <lg>
+            <l>“The immoral poets of Asia and Europe have done their work and passed to other spheres,</l>
+            <l>A work remains, a work surpassing all they have done.”     p.866</l>
+            </lg>
+            
+            <p>And Walt thinks work has been done and as he hands his book to you he says,
+            “Here it is.” If you doubt that such are his views, turn back to page 30 and read:</p>
+         <lg>
+            <l>“Stop this day and night with me and</l>
+            <l>You shall possess the origin of all poems.”</l>
+         </lg>
+            
+            <p>I might make further extracts from this peculiar work, but enough have been given to show his character. In all but its coarseness, vulgarity and obscessity, which i purposely omit.</p>
+            
+            <p>With all his faults and all the faults of his rhapsody, the book is one of which all men of literary pretense will want a copy. It may herald the opening of a new order of writing sense and nonsense, fact and fiction, in which the biggest lie takes the highest precedence, whether in politics, in religion or in morals; in which the man that tells and lines the biggest lie successfully is the biggest man, and has the greatest deference paid him. Some man may arise in the future, with more learning, more taste in expressing his ideas, a better judgement of the fitness of things, and a better knowledge of rhythm, who, taking Walt Whitman’s work as a suggestion, shall make rhapsody as enticing as any other form of expressing ideas. When that time comes Walt will have more credit as a pioneer in a new form or expressing and arranging thought than he can get at this day as a poet.</p>
+            
+            <p>While it is true that rhapsodists appeared in Greece a score of centuries ago, and made strong efforts to impress their work on the Greecian mind, yet they failed to make the desired impression and their writings were neglected and forgotten and would have been lost but for an accident. No one has attempted its revival until now, and until some one succeeds better than Whitman, it will be found no better fitted to the genius of the English language than it was to that of the Greek.</p>
+            
+            
+          
+         
+      </body>
+   </text>       
+</TEI>

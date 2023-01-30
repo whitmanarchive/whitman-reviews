@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02150">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">Good Bye My Fancy</hi> (1891)]</title>
+          <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk">Khadizatul Kubra</persName>
+               <persName xml:id="km">Kevin McMullen</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02150</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Good Bye My Fancy</hi> (1891)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Daily Inter Ocean</title>
+                  <imprint>
+                     <date when="1891-09-26">26 September 1891</date>
+                     <biblScope type="pages">10</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change who="#km" when="2021-09-15">proofed</change>
+         <change who="#kk" when="2021-09-13">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>GOOD BYE MY FANCY.&#8212;By Walt Whitman. (Philadelphia: David McKa.) This is a thin volume making sixty-six pages and marked as the ‘Second Annex to Blades of Grass,” a former volume of poems which attracted much discussion and wide criticism.</p>
+         
+         <p>It is a collection of odds and ends of literary contribution, both of prose and poetry. The author is now in his 721 year, and has been partially paralysed for many years, yet his mind seems vigorous. In one of his notes he says: “I feel like improving to-day’s opportunities and wind up. My eyes warn me they are dimming, and my brain more and more palpably neglects or refuses month after month, even slight tasks or revisions. Each successive fortnight I am getting stiffer and stuck deeper, much like some ancient shell fish or time-banged couch, no legs, cast up high and dry on the shore sands, helpless to move anywhere. I feel to-day almost a part of some frolicsome wave, or for sporting yet like a kid or a kitten&#8212;probably a streak of physical adjustment and perfection here and now. I believe I have it in me perennially, anyhow.” And thus he gossips of himself, past and present, his life and surroundings. He takes several digs at his critics and developes his idea of the poetry of America and the nineteenth century. He raises the query, which he marks as "the terrible query: “American literature&#8212;is there distinctively any such thing, or can there ever do?” The pages are rich in suggestive thought, expressed in the terse, rugged forms which the author seems to court and admire, with now and then a stanza that is musical. There is a sadness about the volume in all its utterances.</p>
+         
+         
+      </body>
+   </text>       
+</TEI>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00034">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00034">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -36,7 +38,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            
+            <idno>anc.00034</idno>
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -48,7 +50,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         <idno>anc.00034</idno></publicationStmt>
+         </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -64,7 +66,7 @@
                   <title level="j">The Daily Ohio State Journal</title>
                   <imprint>
                      <date when="1860-03-28">28 March 1860</date>
-                     <biblScope unit="pages">2</biblScope>
+                     <biblScope type="pages">2</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>
@@ -100,7 +102,7 @@ necessary</change>
 
          <p>Walt Whitman has higher claims upon our consideration than mere magazine contributorship.  He is the author of a book of poetry called "Leaves of Grass," which, whatever else you may think, is wonderful.  Ralph Waldo Emerson pronounced it the representative book of the poetry of our age.  It drew the attention of critics, but found no favor with the public, for the people suspect and dislike those who nullify venerable laws, and trample upon old forms and usages.  Since the publication of his book, Walt Whitman has driven hack in New York, and employed the hours of his literary retiracy in hard work.  Some months ago he suddenly flashed upon us in the New York <hi rend="italic">Saturday Press</hi>, and created eager dissension among the "crickets."  Now he is in the <hi rend="italic">Atlantic</hi>, with a poem more lawless, measureless, rhymeless and inscrutable than ever.</p>
 
-         <p>No one, even after the fourth or fifth reading, can pretend to say what the "Bardic Symbols" symbolize.  The poet walks by the sea, and addressing the drift, the foam, the billows and the wind, attempts to force from them, by his frantic outcry, the <choice><sic>the [sic]</sic><corr/></choice> true solution of the mystery of Existence, always most heavily and darkly felt in the august ocean presence.  All is confusion, waste and sound.  It is in vain that you attempt to gather the poet's full meaning from what he says or what he hints.  You can only take refuge in occasional passages like this, in which he wildly laments the feebleness and inefficiency of that art which above all others seeks to make the soul visible and audible:</p>
+         <p>No one, even after the fourth or fifth reading, can pretend to say what the "Bardic Symbols" symbolize.  The poet walks by the sea, and addressing the drift, the foam, the billows and the wind, attempts to force from them, by his frantic outcry, the <choice><sic>the [sic]</sic><corr></corr></choice> true solution of the mystery of Existence, always most heavily and darkly felt in the august ocean presence.  All is confusion, waste and sound.  It is in vain that you attempt to gather the poet's full meaning from what he says or what he hints.  You can only take refuge in occasional passages like this, in which he wildly laments the feebleness and inefficiency of that art which above all others seeks to make the soul visible and audible:</p>
 
          <q who="Walt Whitman">
             <floatingText>
