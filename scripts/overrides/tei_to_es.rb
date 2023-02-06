@@ -27,7 +27,7 @@ class TeiToEs
     xpaths["rights_holder"] =
       "/TEI/teiHeader/fileDesc/publicationStmt/distributor"
     xpaths["rights_uri"] =
-      "/TEI/teiHeader/fileDesc/publicationStmt/availability//ref@target"
+      "/TEI/teiHeader/fileDesc/publicationStmt/availability//ref/@target"
     xpaths["source"] = [
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j']",
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'j']",
@@ -103,11 +103,7 @@ class TeiToEs
   end
 
   def date_display
-    date = get_text(@xpaths["date_display"]["imprint"])
-    if date.empty?
-      date = get_text(@xpaths["date_display"]["default"])
-    end
-    date
+    get_text(@xpaths["date_display"])
   end
 
   # TODO in production solr index this is always blank string, I am assuming it's a periodical
