@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02153">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">Leaves of Grass</hi> (1860)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk">Khadizatul Kubra</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02153</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass</hi> (1860)</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Leaves of Grass</title>
+                  <imprint>
+                     <date when="1860-12-13">13 December 1860</date>
+                     <biblScope type="pages">2</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#kk" when="2021-09-13">transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">LEAVES OF GRASS.&#8212;By Walt Whitman. Published by Thayer &#38; Eldridge. Boston. In the 85th year of the States.</head>
+
+         <p>LEAVES OF GRASS, By WALT WHITMAN. Thayer and Eldridge, Boston.</p> 
+            <p>The love of the really curious in literature, must be pleased with this work. The thinker will find it suggestive rather that exhaustive; an the philosopher who has toiled for years to gain access to the hidden chambers of Nature, will discover that Walt Whitman has picked the locks, and extracted some of her most highly valued jewels, which he exhibits to the world with real, genuine egotism. We must confess to a personal liking for Walt Whitman. Those who dwell uncharitably upon the sensuous side of his character, are not comprehend the full depth and meaning of his philosophy. We cannot make his acquaintances in an hour, nor in a year. His character is a broad, comprehensive, and just. He is a poet, who would celebrate everything. He is a plain talker; not too plains for the man who would communicate with him in his study, but for those who would assert their purity of mind among their fellows. They would abuse Walt Whitman that they might evidence for themselves a wonderful delicacy of taste. We are not disposed to find fault with them for this, in the absence of any better mode of demolishing such a sale of absolute sinlessness. But for ourselves, we are glad that Walt Whitman has given his musical chants to the world. They are hearty and healthful, and awaken the mind to a sublime contemplation of the goodness of things generally. We cannot supply our readers with a key to Walt Whitman’s philosophy; we are not sure that we have yet found it ourselves. We can, however, commend “ The Leaves of Grass to every thinker ins the country. </p>
+            <p>For sale by Martin Taylor.</p>
+            
+         
+
+      </body>
+   </text>       
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02162">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Walt Whitman.* [Second Article]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg></choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk"> Khadizatul Kubra</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02131</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Walt Whitman.*[Second Article.]</hi> </title>
+               </analytic>
+               <monogr>
+                  <title level="j">St. James Gazette</title>
+                  <imprint>
+                     <date when="1887-08-11">11 August 1887</date>
+                     <biblScope type="pages">7</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#kk" when="2021-10-15">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt Whitman.*</head>
+         <head type="sub">[Second Article.]</head>
+
+         <p>One of the curious things in connection with Walt Whitman is that, while his admirers fail to give any reason why we should swallow his poetry, they always manage to give some very good ones why we should not. A very honest little pamphlet by an enthusiastic Whitemanite, Mr. John Robertson, may be read with advantage by those who object to take the opinion of professed unbelievers. They will see, at any rate, whether it is worth while to renounce so much and submit to so much more for the sake of what is in store for them. For one thing, a preparatory course of Blake must be gone through; for without that “a lover of the English poets will be merely astonished and irritated.” Mr. Robertson clearly thinks that Whitman would clothe his poetry in rhyme and verse if he could, but that he cannot, as the one or two instances in which he tries abundantly prove; so that his noble disdain of those conventionalities of an effete society seems to be something like the contempt of the animal in the fable for the appendage he had been deprived of while on this travels; and if he does not openly ‘go for” marriage as a convention that is to be got rid of, it is merely because “he has not cared to burn his fingers over a subject on which he sees opinion is almost universally intractable to innovating  theories.” On all hands it is admitted that as a poet he is, to use own words, “gross, mystical, nude;” that he talks an uncouth jargon full of gross and grotesque words; that a great portion of his poetry is mere rhapsody without any pretence to coherence, and that its prevailing tone is one of bluster, arrogance, and noisy self-assertion; and it is confessed, moreover, that there are scattered through it certain “indecencies or improprieties or deforming crudities.” This is Mr. Rossetti’s mild euphemism for what the verdict of the great majority of readers declared to be incoherent obscenities, such as might possibly have been found scrawled on the walls of a lunatic ashylum; but never in print, until that astounding production called “Leaves of Grass”  was given to the world. The general reader is, however, debarred for the present from forming an independent opinion on this point; for out of regard for the susceptibilities of “this peculiarly nervous age” these developments of the poetry of the future have been excluded from the English editions. Mr. Rossetti’s indignation with he “merely-mouthed British nineteenth century” which compels such a sacrifice is excusable; but he is unjust to his own country, for the mouth of public opinion in America is quite as mealy in this matter. Two or three years ago a reprint of “leaves of Grass” was stopped by a warning from the Attorney-general of Massachusetts that the consequence would be a prosecution for publishing obscene literature.; so that in America there is no disposition to accept the new poetry “with all its faults.” Twenty yearns have now passed since Mr. Rossetti stated, with great candour, that his object in preparing a decent edition of Whitman’s poems was to pave the way for a complete edition with all the indecencies etc. Required to do full justice to the poet. The “early demand” for this, which he anticipated as “the natural and right result” of the foretaste he gave, has not made itself heard, and the reason is not very far to seek. Notwithstanding all the lofty language that has been let loose about him, the merit of Walt Whitman have not been found to be such  as make up for his defects, and most certainly not such furnish any ground for granting him the extraordinary licence his admirers ask on his behalf. All that they say his failing- is an utter insensibility to the distinction <hi rend="italic">of dicenda and tacenda;</hi>; and one who labours under that disqualification is as unfit for the office they claim for him as a man who is colour-blind for the duty of pointsman on a railway. He may do as an object of adoration for an eccentric cult; but he is not a proper candidate for a diploma as a poet authorized to speak to the world at large.</p>
+         
+         <p>Mr. Robertson, in the tractate already quoted, says that the best course for those who wish to become acquainted with Walt Whitman is to turn from the poetry to the prose, and thus get into sympathy with him, after which they will find the poetry much more palpable. The advice is good; but we doubt whether the result will be as he states it in any large number of  cases. Most readers, we suspect, will arrive at the conclusion that anything that is worth having in the poetry is to be had in a much more agreeable from the author. The book is substantially a transcript from his note-book and diaries of the last five and- twenty years, a large portion of it being filled with hospital experiences during the war time; and one of its notable features is the modesty and simplicity with which the writer speaks of his own great services- services from which he repeated the reward of permanentlyshattered health. The remainder is made up of notes, memoranda, and reflections jotted down from time to time, especially while travelling in the Western states. It is entirely free from the peculiarities which have been found objectionable in Whitman’s poetry, and shows in a much stronger light the hearty love and close observation of nature of which there are signs here and there in his earlier writings; and it is, moreover, written throughout in vigorous, unaffected, picturesque English, with, it is true, a liberal sprinkling of Americanism ( which, however, give life and local colour), but no recrudescence of that vile jargon which seems to have a charm for admirers of “Leaves of Grass” would, no doubt, have died a natural death), in which the philosopher delivered an attack upon those characteristics of the Whitman Muse to which we have referred. Whitman confesses that he could not answer his arguments or rebuke his charges; but for all that he felt more determined than ever to go his own way. Another is worth notice as an indication of the goal towards which Whitman and the Whitmanites are directing their efforts. “Our leading men,” he says, “are not of much account, and never have been; but the average of the people is immense, beyond all history. Sometimes I think in all departments-literature and art included- that will be the way our superiority will exhibit itself. We will not have great individuals or great leaders, but a great average bulk, unprecedentedly great.” The imagination of a Dante could hardly picture a more dismal future for literature and art.</p>
+         
+         
+         
+         
+      </body>
+   </text>       
+</TEI>

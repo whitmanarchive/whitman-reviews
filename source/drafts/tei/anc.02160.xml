@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02160">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Poem. By Walt Whitman.</title>
+          <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk">Khadizatul Kubra</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02160</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">Poems. By Walt Whitman.</title>
+               </analytic>
+               <monogr>
+                  <title level="j">London Magnet</title>
+                  <imprint>
+                     <date when="1868-05-18">18 May 1868</date>
+                     <biblScope type="pages">6</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#kk" when="2021-09-15">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Poems. By Walt Whitman.</head>
+         
+         <p>Walt Whitman is the founder of a new school of Yankee poetry, and this little volume contains poems(no-called) on an infinitely wide range of subjects. The following titles will give the reader some notion of the oddness of the texts, though no true idea whatever of the wild, incoherent outpourings which they serve to found:-“ Years of the Unperformed,” “Beat, Beat Drums,” “ Whosoever,” “ Wherefore,” “ Questionable,” “Greatness,” “Dream Tapes.” As for the poems themselves, they remind one of nothing so much as prose gone mad. They present, says his present editor, no trace of rhyme serve in a couple or so of chance instances, though “there is a very powerful and majestic rhythmical sense throughout.” Mr. Whitman “speaks on occasion of gross things in gross, plain, and crude terms. He use some words absurd or ill-constructed, others which produce a jarring affect in poetry; thirdly, he sins from time to time by being obscure, fragmentary, and agglomerative; fourthly, his self-assertion is boundless,” so says his editor and ardent admirer; and we are bound to add that single glance at the volume before us proves beyond all doubt that these strictures are well deserred. But as no criticism whatever will give any true notion of Mr Walt Whitman, we subjoin a specimen or two of his effusions to speak for themselves. Here is what he calls an "inscription," intended to show that the keywords of the whole books are two, "<hi rend="italic">oneself</hi>" and "<hi rend="italic">en masse</hi>":&#8212;</p>
+         
+         <lg>
+            
+         <head>"Inscription.</head>
+         
+            <l>" Small is the theme of the following chant, yet the greatest&#8212;namely, one's self: that wondrous thing, a simple, separate person. That for the use of the New World I sing. </l>
+         <l>Man's physiology complete, from top to toe, I sing. Not physiognomy alone, nor brain alone, is worthy for the muse: I say the form complete is worthier far. The female equally with the male I sing.</l>
+            <l>Nor cease at the theme of one's self. I speak the word of the modern, the word "<hi rend="italic">en masse</hi>."</l>
+         </lg>
+         
+         <p>The above is simple melody when compared to some half-dozen of wild rhapsody, of which two stanzas must suffice:&#8212;</p>
+         
+         <lg>
+            <l>"He was a good fellow, free mouthed, quick-tempered, not bad-looking, able to take to his own part, witty,sensitive to slight, ready with life or death for a friend, fond of women, gambled hearty, drank hearty, had known what it was to be flush, grow low spirited towards the last, sickened, was helped by a contribution, died, aged forty-one years&#8212;and that was his funeral.</l>
+         <l>"Thumb extended, finger uplifted, apron, cape, gloves,strap, wet weather clothes, whip carefully chosen, boss, spotter, starter, hostler, somebody  loafing on you, you listing on somebody, headway, man before and man behind, good day's work, bad day's work, pat stock, mean stock, first out, last out, turning in at night.</l>
+            <l>"To think that these are so much and so nigh to other drivers&#8212;and he there takes no interest in them!" </l>
+         </lg>
+            
+         <p>Mr. Walt Whitman can not only be warlike, philosophical, tragic, metaphysical, and obscurely sublime, but positively sentimental, as in the following, our final extract:&#8212;</p>
+         
+         <lg>
+         
+         <head>"Tears.</head>
+            
+         <l>"Tears! tears! tears!</l>
+         <l>In the night, in the solitude, tears;</l>
+         <l>On the white shore dripping, dripping, sicked in by the sand;</l>
+            <l>Tears, not a star shinning&#8212;all dark and desolate:</l>
+         <l>Moist tears from the eyes of a muffled head!</l>
+         <l>&#8212;O who is that ghost? That form in the dark, with tears? </l>
+         <l>What shapeless lump is that, bent, crouched there on the sand?"</l>
+         </lg>
+         
+         <p>Such is the latest Young Eagle of American poetry, who is to introduce a new literature into the darkened regions of Europe. Mr. Whitman, we are told, when in the agonies of composition, lies on his back, in the open air, with his eyes fixed on the sun. We can quite believe it.</p>
+         
+         
+      </body>
+   </text>       
+</TEI>

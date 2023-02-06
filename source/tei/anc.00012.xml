@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00012">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00012">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +41,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            
+            <idno>anc.00012</idno>
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -51,7 +53,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         <idno>anc.00012</idno></publicationStmt>
+         </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -64,9 +66,9 @@
                <monogr>
                   <title level="j">The Brooklyn Daily Eagle</title>
                   <imprint>
-                     <biblScope unit="volume">15</biblScope>
+                     <biblScope type="volume">15</biblScope>
                      <date when="1855-09-15">15 September 1855</date>
-                     <biblScope unit="pages">2</biblScope>
+                     <biblScope type="pages">2</biblScope>
                   </imprint>
                </monogr>
                

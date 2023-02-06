@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02158">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1882">"Specimen Days."</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk">Khadizatul Kubra</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02158</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">"Specimen Days."</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Daily Evening Bulletin</title>
+                  <imprint>
+                     <date when="1882-11-04">4 November 1882</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change who="#kk" when="2021-09-13">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"Specimen Days."</head>
+
+<p>The “Rugged School” of literature is not an attractive one. And Walt Whitman, in this volume to nearly four hundred pages, furnishes another illustration of that fact. He is careful to have it noted that the author is also the author of “Leaves of Grass,” as if that fact would serve to float this later nondescript volume. In this pudding and padding one may select here and there a bright paragraph. There is nothing, however, in this fragmentary collection of odds and ends worth perpetual preservation. There are war experiences, it is true, or rather hospital experiences, in connection with the army, where the author was useful in his way. But these experiences have been many times recounted. Among the scraps here gathered is the preface to the first edition of “Leaves of Grass”, scraps from contributions to newspapers, poems and prose articles written in the author’s spring time of life. These scraps were hardly worth rescuing from oblivion. Put together, or rather pitchforked into a volume, they have no unity or coherence. Walt Whitman served up wholo, or in “Leaves of Grass,” is very rank. But the same author served up in a kind of cold hash, without the piquancy of sauce, is tame and unsatisfactory. </p>
+         
+<p>Rees, Welsh and Co., publishers, Philadelphia. For sale by A.L. Bancroft and Co.</p>
+
+      </body>
+   </text>       
+</TEI>
