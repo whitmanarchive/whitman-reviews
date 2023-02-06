@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02032">  
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02032">  
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,7 +31,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                
+                <idno>anc.02032</idno>
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -41,7 +43,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            <idno>anc.02032</idno></publicationStmt>
+            </publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -55,7 +57,7 @@
                             <title level="m">Leaves of Grass Imprints: American and European Criticisms on "Leaves of Grass"</title>
                         <imprint>
                             <date xml:id="dat1" cert="high" when="1860">1860</date>
-                                <biblScope unit="pages">51</biblScope>
+                                <biblScope type="pages">51</biblScope>
                                 </imprint>
                     </monogr>
 </biblStruct>
@@ -79,7 +81,7 @@
                                 <text type="ancillary">
                                 <body>
                                 <head type="main-editorial"><hi rend="italic">From the Monthly Trade Gazette. (New York,</hi> 1856.)<ref xml:id="r1" target="n1" n="1"/></head>
-                                    <p><hi rend="smallcaps">LEAVES OF GRASS</hi>. By Walt Whitman. A poem that deserves and will eventually obtain a higher niche in Fame’s temple, than all the "—s" ever written. There is a sturdy strength—a far-reaching grasp of Titanic thought, boldly, manfully, and appositely expressed—and a filibuster-like daring running, like a strong, vigorous river, through its diction, which impress the reader with the conviction that he is in the presence of a more than ordinary man. The poem is written without regard to metrical rules, which the author evidently looks upon as puerile—in which we think he is nearer right than wrong—but it bears in every line the stamp of rude but sterling genius. The mean manner in which it is put forth by its publishers, however, will seriously interfere with its chances of publicity. Had it been issued in a dress worthy of the matter, it could hardly fail of mounting, at a single step, to the topmost floor of Novelty’s platform, and instantly commanding the public eye. As it is, its success will be a work of time. We give a cordial greeting to <hi rend="italic">Leaves of Grass</hi>, which we look upon as the most considerable poem that has yet appeared in our country.</p>
+                                    <p><hi rend="smallcaps">LEAVES OF GRASS</hi>. By Walt Whitman. A poem that deserves and will eventually obtain a higher niche in Fame’s temple, than all the "&#8212;s" ever written. There is a sturdy strength&#8212;a far-reaching grasp of Titanic thought, boldly, manfully, and appositely expressed&#8212;and a filibuster-like daring running, like a strong, vigorous river, through its diction, which impress the reader with the conviction that he is in the presence of a more than ordinary man. The poem is written without regard to metrical rules, which the author evidently looks upon as puerile&#8212;in which we think he is nearer right than wrong&#8212;but it bears in every line the stamp of rude but sterling genius. The mean manner in which it is put forth by its publishers, however, will seriously interfere with its chances of publicity. Had it been issued in a dress worthy of the matter, it could hardly fail of mounting, at a single step, to the topmost floor of Novelty’s platform, and instantly commanding the public eye. As it is, its success will be a work of time. We give a cordial greeting to <hi rend="italic">Leaves of Grass</hi>, which we look upon as the most considerable poem that has yet appeared in our country.</p>
                                     
                                 </body>
                                     <back>

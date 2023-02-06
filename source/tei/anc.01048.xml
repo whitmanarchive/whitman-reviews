@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.01048">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.01048">
     
     <teiHeader>
         <fileDesc>
@@ -32,7 +34,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                
+                <idno>anc.01048</idno>
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -44,7 +46,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            <idno>anc.01048</idno></publicationStmt>
+            </publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>                        
@@ -57,9 +59,9 @@
                     <monogr>
                         <title level="j">The Australasian</title>
                         <imprint>
-                            <biblScope unit="volume">118</biblScope>
+                            <biblScope type="volume">118</biblScope>
                             <date xml:id="dat1" cert="high" when="1868-07-04">4 July 1868</date>
-                            <biblScope unit="pages">8</biblScope>
+                            <biblScope type="pages">8</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>
@@ -82,9 +84,9 @@
     <text type="ancillary">
         <body>
             
-            <head type="main-authorial">POEMS OF WALT WHITMAN.*</head>
+            <head type="main-authorial">POEMS OF WALT WHITMAN.&#42;</head>
             
-            <p>Some eight or ten years ago there was delivered to the world a volume of what were called poems by a being who called himself in the preface a "Kosmos," but who in the flesh—and he was very much in the flesh—was known as Walt Whitman.  The Kosmos hailed from America, and was introduced to the reader in a frontispiece which represented an unkempt, dishevelled person in long hair and impossible eyes, crowned with a wide-awake hat.  This picturesque ruffian announced himself as "of the Manahatta, singing thereof, and no less in myself than the whole of Manahatta in itself."  In order to make himself and his mission still clearer to the minds of men, he thus spoke in his preface:—</p>
+            <p>Some eight or ten years ago there was delivered to the world a volume of what were called poems by a being who called himself in the preface a "Kosmos," but who in the flesh&#8212;and he was very much in the flesh&#8212;was known as Walt Whitman.  The Kosmos hailed from America, and was introduced to the reader in a frontispiece which represented an unkempt, dishevelled person in long hair and impossible eyes, crowned with a wide-awake hat.  This picturesque ruffian announced himself as "of the Manahatta, singing thereof, and no less in myself than the whole of Manahatta in itself."  In order to make himself and his mission still clearer to the minds of men, he thus spoke in his preface:&#8212;</p>
             
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -95,13 +97,13 @@
                 </floatingText>
                 </q>
             
-            <p>Unimpressed by these warnings, the critics scoffed at <hi rend="italic">Leaves of Grass</hi>.  They could not discover that the Kosmos wrote either poetry or sense.  They could perceive that he was obscene, filthy, and blasphemous—that he knew his filth and revelled in it—calling upon us to admire in him that which was most nasty—shouting and gibbering like an ill-conditioned chimpanzee. What small gleams of meaning there lay in these simious utterances was the veriest commonplace, the baldest platitude.  In fact, the critics declared that this new poet from beyond the seas was but a wild and inflated Tupper, that he was nebulous only because he had no meaning, that even when most distinct he was incoherent, and that altogether it was a very foolish and dull sort of monster.</p> 
+            <p>Unimpressed by these warnings, the critics scoffed at <hi rend="italic">Leaves of Grass</hi>.  They could not discover that the Kosmos wrote either poetry or sense.  They could perceive that he was obscene, filthy, and blasphemous&#8212;that he knew his filth and revelled in it&#8212;calling upon us to admire in him that which was most nasty&#8212;shouting and gibbering like an ill-conditioned chimpanzee. What small gleams of meaning there lay in these simious utterances was the veriest commonplace, the baldest platitude.  In fact, the critics declared that this new poet from beyond the seas was but a wild and inflated Tupper, that he was nebulous only because he had no meaning, that even when most distinct he was incoherent, and that altogether it was a very foolish and dull sort of monster.</p> 
             
             <p>Mr. W. M. Rosetti<ref target="n1" xml:id="r1" n="1"/> calls upon us now with much gravity to reverse all these judgments.  Walt Whitman, we are told, is not a man to be overlooked.  Walt Whitman is a true seer, a most subtle and profound poet.  Rough he may be, but he is the child of Nature.  Wild he may be, but he is the Spirit of the Young World.  In Walt Whitman we are called upon to recognise "the founder of American poetry rightly to be so called, and the most sonorous poetic voice of the tangibilities of actual and prospective democracy."  Before Walt Whitman we are called upon to bow, as the genius of the Future, the expounder of the To Be.  As for Mr. Rosetti, who, in other respects, is a sensible and decent man, and a delicate and acute critic; he is overwhlemed with the contemplation of this huge, blurred figure of a Titan which rises out of chaos.  He prostrates himself before the uncouth image of Whitman, just as a Hindoo grovels before Siva.  In the writings of Walt Whitman Mr. Rosetti discovers "a waif of prose amid the weft of poetry, such as Shakespeare himself furnishes the precedent for in drama."  Evidently Mr. Rosetti is only restrained by a feeling of delicacy towards public opinion from pronouncing Whitman a much greater man than Shakespeare.  "The entire book" (<hi rend="italic">Leaves of Grass</hi>) he declares to be "the poem of the natural man, not of the merely physical, still less of the disjunctively intellectual or spiritual man, but of him who, being a man first and foremost, is therein also a spirit and an intellect."  Certainly, nothing like this could be said of poor William Shakespeare. <hi rend="italic">He</hi> was but a small creature, and never wrote anything like "a poem of the natural man."  Of the disjunctively intellectual, it is probable that an English bard had but the dimmest notion. He was all very well for his time, but he was not a Kosmos.  It is probable that he never thought of a "mission" at all, and we are very sure that he received no hint in his soul of "the tangibilities of actual and prospective democracy."</p> 
             
-            <p>By way of showing us what a superior animal is this American poet, Mr. Rosetti has given us a selection of his works, with which he has taken what we must consider the unwarrantable liberty of cutting out all the blasphemies and obscenities.  Surely this is but scurvy treatment for the poet of the Future.  Surely the pæan of the natural man" ought to be given to us entire, as the prophet himself delivered it.  What right has Mr. Rosetti to blurt and spoil the great message which is intended for our salvation? The excuse that an editor gives for leaving out about one-half of what Walt Whitman really wrote, and for dressing up the remainder with headings and cutting it into arbitrary lengths, we must hold to be very insufficient.  Mr. Rosetti tells us that he has omitted "every poem which could with any tolerable fairness be deemed offensive to the feelings of morals or propriety in this peculiarly nervous age"—which is but a clumsy way of serving either the poet or the age.  Surely a Kosmos knows better than Mr. Rosetti what is best for the age.  The pæan of the natural man, to be of any value, should be given in the singer's own words. How are we to judge of whole man Whitman if we are to see only the most decent part of him?  Those who are acquainted with <hi rend="italic">Leaves of Grass</hi> in their original form know that it is this very indecency and bold out-speaking upon which Walt Whitman prides himself—which are his claims to the Kosmical distinction.  We presume it is not by school-girls that Whitman's place in literature is to be fixed.  Why then this foolish and insulting squeamishness?</p>
+            <p>By way of showing us what a superior animal is this American poet, Mr. Rosetti has given us a selection of his works, with which he has taken what we must consider the unwarrantable liberty of cutting out all the blasphemies and obscenities.  Surely this is but scurvy treatment for the poet of the Future.  Surely the p&#230;an of the natural man" ought to be given to us entire, as the prophet himself delivered it.  What right has Mr. Rosetti to blurt and spoil the great message which is intended for our salvation? The excuse that an editor gives for leaving out about one-half of what Walt Whitman really wrote, and for dressing up the remainder with headings and cutting it into arbitrary lengths, we must hold to be very insufficient.  Mr. Rosetti tells us that he has omitted "every poem which could with any tolerable fairness be deemed offensive to the feelings of morals or propriety in this peculiarly nervous age"&#8212;which is but a clumsy way of serving either the poet or the age.  Surely a Kosmos knows better than Mr. Rosetti what is best for the age.  The p&#230;an of the natural man, to be of any value, should be given in the singer's own words. How are we to judge of whole man Whitman if we are to see only the most decent part of him?  Those who are acquainted with <hi rend="italic">Leaves of Grass</hi> in their original form know that it is this very indecency and bold out-speaking upon which Walt Whitman prides himself&#8212;which are his claims to the Kosmical distinction.  We presume it is not by school-girls that Whitman's place in literature is to be fixed.  Why then this foolish and insulting squeamishness?</p>
             
-            <p>How the purged and shaved Whitman looks under Mr. Rosetti's hands we can best show by specimens of his poetry.  Here is one passage, which we are led to believe is a favourable sample of our poet's quality, which may be supposed to be valuable as explaining the "tangibilities of the prospective democracy":—</p>
+            <p>How the purged and shaved Whitman looks under Mr. Rosetti's hands we can best show by specimens of his poetry.  Here is one passage, which we are led to believe is a favourable sample of our poet's quality, which may be supposed to be valuable as explaining the "tangibilities of the prospective democracy":&#8212;</p>
             
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -114,13 +116,13 @@
                         <l>For those who belong here, and those to come,</l>
                         <l>I, exultant, to be ready for them will now shake out carols stronger and haughtier than have ever yet been heard upon the earth,</l>
                         <l>I will make the songs of passion, to give them their way,</l>
-                        <l>And your songs, outlawed offenders—for I scan you with kindred eyes, and carry you with me the same as any.</l>
-                        <l>I will make the true poem of riches,—</l>
+                        <l>And your songs, outlawed offenders&#8212;for I scan you with kindred eyes, and carry you with me the same as any.</l>
+                        <l>I will make the true poem of riches,&#8212;</l>
                         <l>To earn for the body and the mind whatever adheres, and goes forward, and is not dropped by death.</l>
-                        <l>I will effuse egotism, and show it underlying all—and I will be the bard of personality;</l>
+                        <l>I will effuse egotism, and show it underlying all&#8212;and I will be the bard of personality;</l>
                         <l>And I will show of male and female that either is but the equal of the other;</l>
-                        <l>And I will show that there is no imperfection in the present—and can be none in the future;</l>
-                        <l>And I will show that, whatever happens to anybody, it may be turned to beautiful results—and I will show that nothing can happen more beautiful than death;</l> 
+                        <l>And I will show that there is no imperfection in the present&#8212;and can be none in the future;</l>
+                        <l>And I will show that, whatever happens to anybody, it may be turned to beautiful results&#8212;and I will show that nothing can happen more beautiful than death;</l> 
                         <l>And I will thread a thread through my poems that time and events are compact,</l>
                         <l>And that all the things of the universe are perfect miracles, each as profound as any.</l>
                         <l>I will not make poems with reference to parts;</l>
@@ -133,7 +135,7 @@
                 </floatingText>
             </q>
             
-            <p>To those who may still hold that the tangibilities of democracy are a little hazy we can give no consolation.  If they will not believe Mr. Rosetti they will not believe Walt Whitman, who sent him.  The poetry of the future may be considered to be slightly wanting both in rhythm and reason; but those who make this objection are vulgar persons to whom the vision has never come.  They are only to be pitied and passed by—according to Mr. Rosetti.  To the enlightened few it will be only necessary to quote such a passage as this, and all is clear:—</p>
+            <p>To those who may still hold that the tangibilities of democracy are a little hazy we can give no consolation.  If they will not believe Mr. Rosetti they will not believe Walt Whitman, who sent him.  The poetry of the future may be considered to be slightly wanting both in rhythm and reason; but those who make this objection are vulgar persons to whom the vision has never come.  They are only to be pitied and passed by&#8212;according to Mr. Rosetti.  To the enlightened few it will be only necessary to quote such a passage as this, and all is clear:&#8212;</p>
             
             <q who="Walt Whitman" type="extract">
             <floatingText>
@@ -142,17 +144,17 @@
                         <head type="main-authorial">"WHEREFORE?</head> 
                         <lg type="linegroup">
                         <l>O me! O life! . . . of the questions of those recurring;</l>
-                        <l>Of the endless trains of the faithless—of cities filled with the foolish;</l>
+                        <l>Of the endless trains of the faithless&#8212;of cities filled with the foolish;</l>
                         <l>Of myself for ever reproaching myself (for who more foolish than I and who more faithless?);</l>
-                        <l>Of eyes that vainly crave the light—of the objects mean—of the struggle ever renewed;</l>
-                        <l>Of the poor results of all—of the plodding and sordid crowds I see around me;</l>
-                        <l>Of the empty and useless years of the rest—with the rest me intertwined;</l>
-                        <l>The question, O me! so sad, recurring,—What good amid these, O me, O life?"</l>
+                        <l>Of eyes that vainly crave the light&#8212;of the objects mean&#8212;of the struggle ever renewed;</l>
+                        <l>Of the poor results of all&#8212;of the plodding and sordid crowds I see around me;</l>
+                        <l>Of the empty and useless years of the rest&#8212;with the rest me intertwined;</l>
+                        <l>The question, O me! so sad, recurring,&#8212;What good amid these, O me, O life?"</l>
                         </lg>
                         
                     <lg type="linegroup">
                         <head type="main-authorial">"ANSWER.</head>
-                        <l>"That you are here—that life exists, and identity;</l>
+                        <l>"That you are here&#8212;that life exists, and identity;</l>
                         <l>That the powerful play goes on, and you will contribute a verse."</l>
                     </lg>
                     </lg>
@@ -160,7 +162,7 @@
             </floatingText>
                 </q>
             
-            <p>And part of another poem is as follows:—</p>
+            <p>And part of another poem is as follows:&#8212;</p>
             
             <q who="Walt Whitman" type="extract">
             <floatingText>
@@ -171,14 +173,14 @@
                         <l>Amelioration is one of the earth's words;</l>
                         <l>The earth neither lags nor hastens;</l>
                         <l>It has all attributes, growths, effects, latent in itself from the jump;</l>
-                        <l>It is not half beautiful only—defects and excrescences show just as much as perfections show,</l>
+                        <l>It is not half beautiful only&#8212;defects and excrescences show just as much as perfections show,</l>
                         <l>The earth does not withhold, it is generous enough;</l>
                         <l>The truths of the earth continually wait, they are not so concealed either;</l>
                         <l>They are calm, subtle, untransmissible by print;</l>
                         <l>They are imbued through all things, conveying themselves willingly,</l>
                         <l>Conveying a sentiment and invitation of the earth.  I utter and utter:</l>
                         <l>I speak not, yet if you hear me not, of what avail am I to you?</l>
-                        <l>To bear—to better; lacking these, of what avail am I?</l>
+                        <l>To bear&#8212;to better; lacking these, of what avail am I?</l>
                         <l>Accouche! Accouchez!</l>
                         <l>Will you rot your own fruit in yourself there?</l>
                         <l>Will you squat and stifle there?</l>
@@ -188,7 +190,7 @@
                         <l>Makes no discriminations, has no conceivable failures,</l>
                         <l>Closes nothing, refuses nothing, shuts none out,</l>
                         <l>Of all the powers, objects, states, it  notifies, shuts none out.</l>
-                        <l>The earth does not exhibit itself, nor refuse to exhibit itself—posesses still underneath;</l>
+                        <l>The earth does not exhibit itself, nor refuse to exhibit itself&#8212;posesses still underneath;</l>
                         <l>Underneath the ostensible sounds, the august chorus of heroes, the wail of slaves,</l>
                         <l>Persuasions of lovers, curses, gaps of the dying, laughter of young people, accents of bargainers,</l>
                         <l>Underneath these, possessing the words that never fail.</l>
@@ -200,7 +202,7 @@
             </floatingText>
                 </q>
             
-            <p>According to one of Walt Whitman's admirers, this is one of those portions of the work by which we perceive that "life is everything, that man is an integral part of the world's life, and that it is by the full unfolding of man's powers that life is ennobled and the world made beautiful."  After this, may we not put in a claim for our own Tupper?  Has <hi rend="italic">he</hi> not written to show that "life is everything," and that "man is an integral part of the world's life?"  What is the burden of our latter-day Solomon, if not that it is by the full unfolding of a man's powers that life is to be ennobled?  It is true that our Tupper does not violate the decencies, nor call himself a Kosmos.  But surely it is but a dissolute and an inebriate Tupper who writes most of the lines which Mr. Rosetti so admires.  What shall we say to this, for instance:—</p>
+            <p>According to one of Walt Whitman's admirers, this is one of those portions of the work by which we perceive that "life is everything, that man is an integral part of the world's life, and that it is by the full unfolding of man's powers that life is ennobled and the world made beautiful."  After this, may we not put in a claim for our own Tupper?  Has <hi rend="italic">he</hi> not written to show that "life is everything," and that "man is an integral part of the world's life?"  What is the burden of our latter-day Solomon, if not that it is by the full unfolding of a man's powers that life is to be ennobled?  It is true that our Tupper does not violate the decencies, nor call himself a Kosmos.  But surely it is but a dissolute and an inebriate Tupper who writes most of the lines which Mr. Rosetti so admires.  What shall we say to this, for instance:&#8212;</p>
             
             <q who="Walt Whitman" type="extract">
             <floatingText>
@@ -214,7 +216,7 @@
             </floatingText>
                 </q>
             
-            <p>Or in a higher key and in the most prophetic manner this, which really contains the only gem of a poetic idea which to our common understandings is perceptible in Walt Whitman:—</p>
+            <p>Or in a higher key and in the most prophetic manner this, which really contains the only gem of a poetic idea which to our common understandings is perceptible in Walt Whitman:&#8212;</p>
             
             <q who="Walt Whitman" type="extract">
             <floatingText>
@@ -222,9 +224,9 @@
                     <lg type="poem">
                         <l>"What whispers are these, O lands, running ahead of you, passing under the seas?</l>
                         <l>Are all nations communing?  Is there going to be but one heart to the globe?</l>
-                        <l>Is humanity forming en masse?—for lo! tyrants tremble, crowns grow dim;</l>
+                        <l>Is humanity forming en masse?&#8212;for lo! tyrants tremble, crowns grow dim;</l>
                         <l>The earth, restive, confronts a new era, perhaps a general divine war;</l>
-                        <l>No one knows what will happen next—such portents fill the days and nights;</l>
+                        <l>No one knows what will happen next&#8212;such portents fill the days and nights;</l>
                         <l>Years prophetical! the space ahead as I walk, as I vainly try to pierce it, is full of phantoms;</l>
                         <l>Unborn deeds, things soon to be, project their shapes around me;</l>
                         <l>This incredible rush and heat, this strange ecstatic fever of dreams, O years!</l>
@@ -238,11 +240,11 @@
             
             <p>We are entreated to give this kind of thing a patient hearing, and are asked to recognise it as at least a real voice arising out of the motion of the universe.  It may be that Walt Whitman is a true poet and that to him is given the key which is to unlock the secret of the future.  If so, we can only say that the world has been all wrong as to what constitutes poetry. If Walt Whitman is a poet, then we have greatly to enlarge the circle of Parnassus, and to make easy the way to the summit.  If to discharge one's imagination of all the crude shapes which gather there be to write poetry, then there are some thousands who have only to print what comes apparent to their mind to earn the title of seer.  Let it be cut into lengths, with a capital letter at the beginning of each length, and lo! it is a poem. Neither rhyme nor reason is required, and very little decency.  One has but to secure an editor like Mr. W. M. Rosetti, and the world is made acquainted with a new poet.</p>
             
-            <p>In the present instance it will require more than Mr. Rosetti's authority, we fear, to make Walt Whitman an acceptable poet to the multitude.  However familiar with the future, he is likely to remain a sealed book to the present.  This cannot be, of course, any disadvantage to a Kosmos—a Manahatta—a professor of the Tangibilities of Democracy—a singer of the pæan of natural life. Being all these things, Walt Whitman can afford to wait, and it is highly probable that to wait will be his only alternative.</p>
+            <p>In the present instance it will require more than Mr. Rosetti's authority, we fear, to make Walt Whitman an acceptable poet to the multitude.  However familiar with the future, he is likely to remain a sealed book to the present.  This cannot be, of course, any disadvantage to a Kosmos&#8212;a Manahatta&#8212;a professor of the Tangibilities of Democracy&#8212;a singer of the p&#230;an of natural life. Being all these things, Walt Whitman can afford to wait, and it is highly probable that to wait will be his only alternative.</p>
             
             <milestone unit="undeclared" rend="horbar-short-left"/>
             
-            <ab>*"Poems by Walt Whitman."  Selected and edited by W. M. Rosetti.  London: J.C. Hotten.  1868.</ab>
+            <ab>&#42;"Poems by Walt Whitman."  Selected and edited by W. M. Rosetti.  London: J.C. Hotten.  1868.</ab>
         </body>
         
         <back>
