@@ -59,7 +59,7 @@ class TeiToEs
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
   def category
-    "commentary"
+    "Commentary"
   end
 
   # note this does not sort the creators
@@ -81,19 +81,37 @@ class TeiToEs
             people << { "name" => bibl.value.gsub(/[\[\]]/, ""), "id" => "" }
           end
         else
-          people << { "name" => CommonXml.normalize_space(title_auth.text), "id" => "" }
+          people << { "name" => Datura::Helpers.normalize_space(title_auth.text), "id" => "" }
         end
       end
     # if creator is not in the header, then attempt to grab out of the body instead
     else
       persNames = @xml.xpath(@xpaths["creators"]["in_text"])
       persNames.each do |pers|
-        people << { "name" => CommonXml.normalize_space(pers["key"]), id => "" }
+        people << { "name" => Datura::Helpers.normalize_space(pers["key"]), id => "" }
       end
     end
     people.uniq
   end
 
+  def date(before=true)
+    date = get_text(@xpaths["date"]["notBefore"])
+    if !date || date.empty?
+      date = get_text(@xpaths["date"]["when"])
+    end
+    Datura::Helpers.date_standardize(date, before)
+  end
+
+  def date_display
+    date = get_text(@xpaths["date_display"]["imprint"])
+    if date.empty?
+      date = get_text(@xpaths["date_display"]["default"])
+    end
+    date
+  end
+
+  # TODO in production solr index this is always blank string, I am assuming it's a periodical
+  # for the purposes of this first quick pass
   def format
     get_text(@xpaths["format"])
   end
@@ -103,10 +121,10 @@ class TeiToEs
     "en"
   end
 
-  def languages
-    # TODO verify that none of these are multiple languages
-    [ "en" ]
-  end
+  # def languages
+  #   # TODO verify that none of these are multiple languages
+  #   [ "en" ]
+  # end
 
   # TODO medium, person
   def rights
@@ -120,9 +138,9 @@ class TeiToEs
   # TODO can change this behavior once datura is updated to
   # return nil instead of empty strings
   # TODO reusing source but look into whether this is actually the publisher
-  def publisher
+  def citation
     pub = get_text(@xpaths["source"])
-    pub.empty? ? nil : pub
+    pub.empty? ? nil : { "publisher" => pub }
   end
 
   # TODO source_sort not added
@@ -135,19 +153,15 @@ class TeiToEs
     source
   end
 
-  def subcategory
+  def category2
     "reviews"
   end
 
   # TODO text field requires an override for source
 
   def title
-    title = get_text(@xpaths["titles"]["main"])
-    if title.empty?
-      title = get_text(@xpaths["titles"]["alt"])
-    end
-    title.gsub!(/[\[\]]/, "")
-    return title
+    title = get_text(@xpaths["title"])
+    title.gsub(/[\[\]]/, "")
   end
 
   def uri

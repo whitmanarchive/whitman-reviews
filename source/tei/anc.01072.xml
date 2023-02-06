@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.01072">  
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.01072">  
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -34,7 +31,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.01072</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -46,7 +43,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>                            
+            <idno>anc.01072</idno></publicationStmt>                            
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -61,9 +58,9 @@
                     <monogr>
                         <title level="j">The Long-Islander</title>
                         <imprint>
-                            <biblScope type="volume">3</biblScope>
+                            <biblScope unit="volume">3</biblScope>
                             <date xml:id="dat1" cert="high" when="1858-12-10">10 December 1858</date>
-                            <biblScope type="pages">2</biblScope>
+                            <biblScope unit="pages">2</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>
@@ -88,9 +85,9 @@
             
             <head type="main-authorial">Leaves of Grass<ref xml:id="r1" target="n1" n="1"/></head>
             
-            <p>Rather a novel title, the above, for a volume of poems, yet such is the title of a very remarkable volume by Walter Whitman, who will be remembered by some of our readers as the originator, and for some time editor, of this paper. Mr. Whitman&#8212;or "Walt. Whitman" as he styles himself&#8212;has generally been considered by his acquaintances as a man of more eccentricity than genius or practical talent, and we think this volume does not wholly belie such reputation. The poems, "Leaves of Grass," or poem with variations, which it is rather, is the loudest and lustiest specimen of egotism with which types ever had to do. Walter sings the manhood, health, strength, beauty, dignity, passions and peculiarities of "Walt. Whitman," an American&#8212;one of the roughs&#8212;a kosmos, and what he says he will, he does&#8212;"utters his barbaric yawp over the roofs of the world." He holds "Walt." to be a type and large specimen of universal manhood, just as good and no better than any or every other man&#8212;and woman! for her claims the blossom and crown for the motherly sex!</p>
-            <p>Starting with this proposition, "Walt." "loafs" or "spreads himself," as he chances to think most illustrative. He tries his hand at universal occupation; sees great nobleness in the earth-delver and the sky-soarer; in clam-digging and ship-building, and swears&#8212;frequently&#8212;that there is more music in a broad axe, the rattle of a clam-rake, and the hi! hi's! of healthy Americans, than in never-so-much psalm-singing and opera. Patriotic, loving, idle, loafing, and independent is "Walt. Whitman" in his "Leaves of Grass." His wild, strange, nonchalant song, puts us in mind of Ecclesiastes; and in many of its thoughts and images, it is as vigorous and abrupt as that peculiar Bible poem. But with all its merits&#8212;its wonderful use of the English language, its endless hints of knowledge, its evidences of minute and extensive observation, its powers of fancy, satire and sarcasm, and its often sublime and exquisite touches of poetry&#8212;it is a repulsive and nasty book. On exhibiting himself, like the silly ostrich, the poet hastens to hide his better, and expose his more indecent parts&#8212;as though it were necessary to truth or manliness, to unduly expose human or other nature.</p>
-            <p>We have read the book, but cannot say with Emerson that we think it "the beginning of a great career," or that we could conscientiously hope for its wide circulation. We believe that all essential knowledge and truth, and all valuable ideas and fancies, may be projected and propagated without special resort to slang and obscenity.&#8212;"Walt." bares himself quite too literally for our taste. His "Leaves of Grass" may be proper food for any generation of immaculate purists, but the earth and society are not yet ripe enough for the grazing of that class of "critters." The "Come-outers" and "free Lovers" are the only ones at present fitted to do full homage to the genius displayed in "Leaves of Grass." It will become a "Household Book of Poetry" just about as soon as that other volume of which we read in advertisements, but never see in any household.</p>
+            <p>Rather a novel title, the above, for a volume of poems, yet such is the title of a very remarkable volume by Walter Whitman, who will be remembered by some of our readers as the originator, and for some time editor, of this paper. Mr. Whitman—or "Walt. Whitman" as he styles himself—has generally been considered by his acquaintances as a man of more eccentricity than genius or practical talent, and we think this volume does not wholly belie such reputation. The poems, "Leaves of Grass," or poem with variations, which it is rather, is the loudest and lustiest specimen of egotism with which types ever had to do. Walter sings the manhood, health, strength, beauty, dignity, passions and peculiarities of "Walt. Whitman," an American—one of the roughs—a kosmos, and what he says he will, he does—"utters his barbaric yawp over the roofs of the world." He holds "Walt." to be a type and large specimen of universal manhood, just as good and no better than any or every other man—and woman! for her claims the blossom and crown for the motherly sex!</p>
+            <p>Starting with this proposition, "Walt." "loafs" or "spreads himself," as he chances to think most illustrative. He tries his hand at universal occupation; sees great nobleness in the earth-delver and the sky-soarer; in clam-digging and ship-building, and swears—frequently—that there is more music in a broad axe, the rattle of a clam-rake, and the hi! hi's! of healthy Americans, than in never-so-much psalm-singing and opera. Patriotic, loving, idle, loafing, and independent is "Walt. Whitman" in his "Leaves of Grass." His wild, strange, nonchalant song, puts us in mind of Ecclesiastes; and in many of its thoughts and images, it is as vigorous and abrupt as that peculiar Bible poem. But with all its merits—its wonderful use of the English language, its endless hints of knowledge, its evidences of minute and extensive observation, its powers of fancy, satire and sarcasm, and its often sublime and exquisite touches of poetry—it is a repulsive and nasty book. On exhibiting himself, like the silly ostrich, the poet hastens to hide his better, and expose his more indecent parts—as though it were necessary to truth or manliness, to unduly expose human or other nature.</p>
+            <p>We have read the book, but cannot say with Emerson that we think it "the beginning of a great career," or that we could conscientiously hope for its wide circulation. We believe that all essential knowledge and truth, and all valuable ideas and fancies, may be projected and propagated without special resort to slang and obscenity.—"Walt." bares himself quite too literally for our taste. His "Leaves of Grass" may be proper food for any generation of immaculate purists, but the earth and society are not yet ripe enough for the grazing of that class of "critters." The "Come-outers" and "free Lovers" are the only ones at present fitted to do full homage to the genius displayed in "Leaves of Grass." It will become a "Household Book of Poetry" just about as soon as that other volume of which we read in advertisements, but never see in any household.</p>
         </body>
         
         <back>

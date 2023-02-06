@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00033">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00033">
 
 <teiHeader>
 <fileDesc>
@@ -33,7 +30,7 @@
 </editionStmt>
 <publicationStmt>
 
-<idno>anc.00033</idno>
+
 
 <distributor>The Walt Whitman Archive</distributor>
 <address>
@@ -49,7 +46,7 @@
 <availability>
 	<p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
 </availability>
-</publicationStmt>
+<idno>anc.00033</idno></publicationStmt>
 <sourceDesc>
 <biblStruct>
 <analytic>
@@ -62,7 +59,7 @@
 <title level="j">The Brooklyn Daily Times</title>
 <imprint>
 <date when="1856-12-17">17 December 1856</date>
-<biblScope type="pages">1</biblScope>
+<biblScope unit="pages">1</biblScope>
 </imprint>
 </monogr>
 
@@ -92,18 +89,18 @@ necessary</change>
 
 
 <ab>
-	 L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>.&#8212; 
+	 L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>.— 
  
  Brooklyn, N. Y. 
  
 </ab>
 
 
-<p>This is a new, enlarged and stereotyped edition of that singular production of "Walt Whitman," whose first appearance in '55 created such an extraordinary sensation in the literary world on both sides of the Atlantic. The first edition&#8212;which was duly noticed in these columns&#8212;contained twelve poems. In the present edition those poems are revised, and twenty others are added. The form of the book has been changed from 4 to 16mo, and the typography is much improved.</p>
+<p>This is a new, enlarged and stereotyped edition of that singular production of "Walt Whitman," whose first appearance in '55 created such an extraordinary sensation in the literary world on both sides of the Atlantic. The first edition—which was duly noticed in these columns—contained twelve poems. In the present edition those poems are revised, and twenty others are added. The form of the book has been changed from 4 to 16mo, and the typography is much improved.</p>
 
 <p>The work, in its singular character, we understand to be an assertion of a two-fold individuality for the author: of himself personally, and of himself nationally; and the author, by example at least, to be an advocate of as much for all of his nation. A bold example he sets. The titles of the poems are various, and the poems under them present differences; yet through them all, with whatever else, runs one vital view; one ontological lesson in the same idiosyncratic strain.</p> 
 
-<p>Fanciful, fertile, and free in words, yet often, conventionally speaking, inelegant, and sometimes downright low; simple, abrupt, and detached sentences; frequently aphoristic, yet diffuse and uniform, sometimes to tediousness; at times strikingly clear and forcible, and again impenetrably obscure; a meeting of the extremes of literalness and metaleptic figures&#8212;of tiresome superficial details and comprehensive subtle generalities, oddities, ruggedness and strength; these are the chief characteristics of his style. There occur frequent instances of all- important and majestic thought, and so fitly expressed that the dissonance to the unaccustomed ears of the reader cannot prevent his stopping to admire. The matter is characterized by thought rather than by sentiment. The right and duty of man with the passions are enjoined and celebrated, rather than the passions themselves. There are speculative philosophies advanced, upon which readers will differ with the author and with each other; and some of these to intolerant conventionalists will give offense. We are not prepared to endorse them all ourselves. And there are practical philosophies of which he treats, destined to encounter fiercer repugnance. But the book is not one that warrants its dismissal with disgust or contempt. There is a deep substratum of observant and contemplative wisdom as broad as the foundation of society, running through it all; and whatever else there is of questionable good, so much at least is a genuine pearl that we cannot afford to trample it under our feet. The poems contain some lessons of the highest importance, and possess a further value in their strong suggestiveness. We accord to the leading idea of the work alone, personal with national individuality, exemplified and recommended as it is, an incalculable value. The poems improve upon a second reading, and they may commonly require a repetition in order to [gain] a deserved appreciation, like a strange piece of music with subtle harmonies.</p>
+<p>Fanciful, fertile, and free in words, yet often, conventionally speaking, inelegant, and sometimes downright low; simple, abrupt, and detached sentences; frequently aphoristic, yet diffuse and uniform, sometimes to tediousness; at times strikingly clear and forcible, and again impenetrably obscure; a meeting of the extremes of literalness and metaleptic figures—of tiresome superficial details and comprehensive subtle generalities, oddities, ruggedness and strength; these are the chief characteristics of his style. There occur frequent instances of all- important and majestic thought, and so fitly expressed that the dissonance to the unaccustomed ears of the reader cannot prevent his stopping to admire. The matter is characterized by thought rather than by sentiment. The right and duty of man with the passions are enjoined and celebrated, rather than the passions themselves. There are speculative philosophies advanced, upon which readers will differ with the author and with each other; and some of these to intolerant conventionalists will give offense. We are not prepared to endorse them all ourselves. And there are practical philosophies of which he treats, destined to encounter fiercer repugnance. But the book is not one that warrants its dismissal with disgust or contempt. There is a deep substratum of observant and contemplative wisdom as broad as the foundation of society, running through it all; and whatever else there is of questionable good, so much at least is a genuine pearl that we cannot afford to trample it under our feet. The poems contain some lessons of the highest importance, and possess a further value in their strong suggestiveness. We accord to the leading idea of the work alone, personal with national individuality, exemplified and recommended as it is, an incalculable value. The poems improve upon a second reading, and they may commonly require a repetition in order to [gain] a deserved appreciation, like a strange piece of music with subtle harmonies.</p>
 
 <p>The work is altogether <hi rend="italic">sui generis</hi>, unless we may call it Emersonian. That name is ample enough to cover a multitude of oddities and excellencies; but that it is not shaped to all the radiations of the unbridled muse of the author under notice we think a single extract from his first poem will show:</p>
 
@@ -131,7 +128,7 @@ necessary</change>
 
 <lg type="linegroup">
 <l>Have you outstript the rest? Are you the <choice><orig>Presi-</orig><reg>President</reg></choice> <lb/>dent?</l>
-<l>It is a trifle&#8212;they will more than arrive there every <lb/>one, and still pass on.</l>
+<l>It is a trifle—they will more than arrive there every <lb/>one, and still pass on.</l>
 <l>I am he that walks with the tender and growing <lb/>night;</l>
 <l>I call to the earth and sea half-held by the night.</l>
 </lg>
@@ -167,7 +164,7 @@ necessary</change>
 <l>You sea! I resign myself to you also, I guess what <lb/>you mean,</l>
 <l>I behold from the beach your crooked inviting <lb/>fingers,</l>
 <l>I believe you refuse to go back without feeling of <lb/>me;</l>
-<l>We must have a turn together&#8212;I undress&#8212;hurry <lb/>me out of sight of the land,</l>
+<l>We must have a turn together—I undress—hurry <lb/>me out of sight of the land,</l>
 <l>Cushion me soft, rock me in billowy drowse,</l>
 <l>Dash me with amorous wet, I can repay you.</l>
 </lg>
@@ -177,7 +174,7 @@ necessary</change>
 <l>Sea breathing broad and convulsive breaths!</l>
 <l>Sea of the brine of life! sea of unshovelled and <choice><orig>al-</orig><reg>always</reg></choice> <lb/>ways-ready graves!</l>
 <l>Howler and scooper of storms! capricious and dainty <lb/>sea!</l>
-<l>I am integral with you&#8212;I too am of one phase, and <lb/>of all phases!</l>
+<l>I am integral with you—I too am of one phase, and <lb/>of all phases!</l>
 </lg>
 </lg>
 </body>

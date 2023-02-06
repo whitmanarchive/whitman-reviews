@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00041">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00041">
 
 <!-- Group:  1860 Leaves -->
 
@@ -40,7 +37,7 @@
 </editionStmt>
 <publicationStmt>
 
-<idno>anc.00041</idno>
+
 
 <distributor>The Walt Whitman Archive</distributor>
 <address>
@@ -56,7 +53,7 @@
 <availability>
  <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
 </availability>
-</publicationStmt>
+<idno>anc.00041</idno></publicationStmt>
 <sourceDesc>
 <biblStruct>
 <analytic>
@@ -70,7 +67,7 @@
 <title level="j">The Leader and Saturday Analyst</title>
 <imprint>
 <date when="1860-06-30">30 June 1860</date>
-<biblScope type="pages">614-15</biblScope>
+<biblScope unit="pages">614-15</biblScope>
 </imprint>
 </monogr>
 
@@ -99,9 +96,9 @@ necessary</change>
 <text type="ancillary">
 <body>
 
-<head type="main-authorial">WALT WHITMAN AND HIS CRITICS.<hi rend="superscript"><ref>&#8727;</ref></hi> <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
+<head type="main-authorial">WALT WHITMAN AND HIS CRITICS.<hi rend="superscript"><ref>∗</ref></hi> <!-- [Review of Leaves of Grass (1860&#8211;1861)] --> </head>
 
-<p>T<hi rend="smallcaps">HERE</hi> is a tendency in the critical mind of America, and, for that matter, of other countries too, to create wonders where in the natural course of things, no wonder, or a very small wonder, exists. Among American authors there is one named Walt Whitman, who, in 1855, first issued a small quarto volume of ninety-five pages, under the title of "Leaves of Grass". In appearance and mode of publication it was an oddity, this same small volume, which, it appears, the author had printed himself, and then 'left to the winds of heaven to publish.' By the booksellers of the United States generally the book was ignored, but it <hi rend="italic">could</hi> be obtained by the persevering applicant. Walt Whitman was then about thirty-six years of age, a native of Long Island, born on the hills about thirty miles from the greatest American city, and brought up in Brooklyn and in New York. Mr. R. W. Emerson, it seems, recognized the first issue of the Leaves and hastened to welcome the author, then totally unknown. Among other things, said Emerson to the new avatar, "I greet you at the beginning of a great career, which <hi rend="italic">yet must have had a long foreground somewhere for such a start.</hi>This last clause was, however, overlooked entirely by the critics, who treated the new author as one self-educated, yet in the rough, unpolished, and owing nothing to instruction. Fudge! The authority for so treating the author was derived from himself, who thus described, in one of his poems, his person, character, and name, having omitted the last from his title-page:&#8212;</p> 
+<p>T<hi rend="smallcaps">HERE</hi> is a tendency in the critical mind of America, and, for that matter, of other countries too, to create wonders where in the natural course of things, no wonder, or a very small wonder, exists. Among American authors there is one named Walt Whitman, who, in 1855, first issued a small quarto volume of ninety-five pages, under the title of "Leaves of Grass". In appearance and mode of publication it was an oddity, this same small volume, which, it appears, the author had printed himself, and then 'left to the winds of heaven to publish.' By the booksellers of the United States generally the book was ignored, but it <hi rend="italic">could</hi> be obtained by the persevering applicant. Walt Whitman was then about thirty-six years of age, a native of Long Island, born on the hills about thirty miles from the greatest American city, and brought up in Brooklyn and in New York. Mr. R. W. Emerson, it seems, recognized the first issue of the Leaves and hastened to welcome the author, then totally unknown. Among other things, said Emerson to the new avatar, "I greet you at the beginning of a great career, which <hi rend="italic">yet must have had a long foreground somewhere for such a start.</hi>This last clause was, however, overlooked entirely by the critics, who treated the new author as one self-educated, yet in the rough, unpolished, and owing nothing to instruction. Fudge! The authority for so treating the author was derived from himself, who thus described, in one of his poems, his person, character, and name, having omitted the last from his title-page:—</p> 
 
 <q who="Walt Whitman">
 <floatingText>
@@ -116,9 +113,9 @@ necessary</change>
 </floatingText>
 </q>
 
-<p>and in various other passages confessed to all the vices, as well as the virtues of man. All this, with intentional wrong-headedness, was attributed by the sapient reviewers to the individual writer, and not to the subjective-hero supposed to be writing. Notwithstanding the word "Kosmos," the writer was taken to be an ignorant man. Emerson perceived at once that there had been "a long foreground somewhere" or somehow&#8212;not so they. <hi rend="italic">Every page teems with knowledge, with information,</hi>&#8212;but they saw it not, because it did not answer their purpose to see it.</p>
+<p>and in various other passages confessed to all the vices, as well as the virtues of man. All this, with intentional wrong-headedness, was attributed by the sapient reviewers to the individual writer, and not to the subjective-hero supposed to be writing. Notwithstanding the word "Kosmos," the writer was taken to be an ignorant man. Emerson perceived at once that there had been "a long foreground somewhere" or somehow—not so they. <hi rend="italic">Every page teems with knowledge, with information,</hi>—but they saw it not, because it did not answer their purpose to see it.</p>
  
-<p>The poem in which the word <hi rend="italic">Kosmos</hi> appears explains in fact the whole mystery&#8212;nay the word itself explains it. The poem is nominally upon himself, but really includes everybody. It begins,</p> 
+<p>The poem in which the word <hi rend="italic">Kosmos</hi> appears explains in fact the whole mystery—nay the word itself explains it. The poem is nominally upon himself, but really includes everybody. It begins,</p> 
 
 <q who="Walt Whitman">
 <floatingText>
@@ -136,26 +133,26 @@ necessary</change>
 </q>
 
 
-<p>In a word Walt Whitman represents the Kosmical Man&#8212;he is the Adamus of the 19th century&#8212;not an Individual, but mankind. As such, in celebrating himself, he proceeds to celebrate universal humanity in its attributes, and accordingly commences his dithyramb with the five senses, beginning with that of smell. Afterwards, he deals with the intellectual, rational, and moral powers; showing throughout his treatment an intimate acquaintance with Kant's transcendental method, and perhaps including in his development the whole of the German school, down to Hegel; at any rate as interpreted by Cousin<ref target="n2" xml:id="r2" n="1"/> and others in France, and Emerson in the United States. He certainly includes Fichte,<ref target="n3" xml:id="r3" n="2"/> for he mentions the Egotist as the only true philosopher; and consistently identifies himself not only with every man, but with the Universe and its Maker;&#8212;and it is in doing so that the strength of his description consists. It is from such an ideal elevation that he looks down on Good and Evil, regards them as equal, and extends to them the like measure of equity.</p>
+<p>In a word Walt Whitman represents the Kosmical Man—he is the Adamus of the 19th century—not an Individual, but mankind. As such, in celebrating himself, he proceeds to celebrate universal humanity in its attributes, and accordingly commences his dithyramb with the five senses, beginning with that of smell. Afterwards, he deals with the intellectual, rational, and moral powers; showing throughout his treatment an intimate acquaintance with Kant's transcendental method, and perhaps including in his development the whole of the German school, down to Hegel; at any rate as interpreted by Cousin<ref target="n2" xml:id="r2" n="1"/> and others in France, and Emerson in the United States. He certainly includes Fichte,<ref target="n3" xml:id="r3" n="2"/> for he mentions the Egotist as the only true philosopher; and consistently identifies himself not only with every man, but with the Universe and its Maker;—and it is in doing so that the strength of his description consists. It is from such an ideal elevation that he looks down on Good and Evil, regards them as equal, and extends to them the like measure of equity.</p>
 
 <p>Instead therefore of regarding these "Leaves of Grass" as a marvel, they seem to us as the most natural product of the American soil. They are certainly filled with an American spirit, breathe the American air, and assert the fullest American freedom. Nay it may be said also that they assert the fullest Yankee license. Respecting the latter feature, his American puffers, in the disguise of critics, charge the author with irreligion and indecency; and these charges are unblushingly reprinted by his publishers, among the critical recommendations of his performances, as if thereby they would attract a numerous class of prurient readers.</p> 
 
 <p>All this is undoubtedly an unworthy trade-trick, to be thoroughly denounced, condemned, and punished. That class of readers, however, will be disappointed, as the passages intended are only so many instances adduced in support of a philosophical principle; not meant for obscenity, but for scientific examples, introduced as they might be in any legal, medical, or physiological book, for the purpose of instruction. They chiefly relate to the sense of touch, and might be found in substance in any Cyclopedic article on the specific topic.</p> 
 
-<p>So much for the matter of the book. As to the manner, it is the same as that with which Mr. Martin Tupper<ref target="n4" xml:id="r4" n="3"/> has made us familiar in his "Proverbial Philosophy," and Mr. Warren<ref target="n5" xml:id="r5" n="4"/> in his "Lily and the Bee." There is nothing that we can see miraculous in such an imitation. The result is a rhapsody, somewhat Oriental in appearance, prose in form, but rhythmical in its effect on the ear, producing a disjointed impression, such as might be produced by a bold prose-translation of Klopstock's<ref target="n6" xml:id="r6" n="5"/> famous odes, which would then present so many unconnected assertions, expressed in extravagant diction. The style of the work is therefore anything but attractive&#8212;calculated rather to puzzle than to please. It is however, as a printed book, got up in a splendid manner, and is electrotyped for the sake of cheapness, the publishers evidently designing to sell it by millions, if possible.</p> 
+<p>So much for the matter of the book. As to the manner, it is the same as that with which Mr. Martin Tupper<ref target="n4" xml:id="r4" n="3"/> has made us familiar in his "Proverbial Philosophy," and Mr. Warren<ref target="n5" xml:id="r5" n="4"/> in his "Lily and the Bee." There is nothing that we can see miraculous in such an imitation. The result is a rhapsody, somewhat Oriental in appearance, prose in form, but rhythmical in its effect on the ear, producing a disjointed impression, such as might be produced by a bold prose-translation of Klopstock's<ref target="n6" xml:id="r6" n="5"/> famous odes, which would then present so many unconnected assertions, expressed in extravagant diction. The style of the work is therefore anything but attractive—calculated rather to puzzle than to please. It is however, as a printed book, got up in a splendid manner, and is electrotyped for the sake of cheapness, the publishers evidently designing to sell it by millions, if possible.</p> 
 
-<p>Notwithstanding all its drawbacks, we have little hesitation in saying that they will probably succeed,&#8212;on the principle, perhaps, of the quack, who calculated there were many more fools than wise men in the world. No matter, if the fools are all made wise, by the perusal of these "Leaves." They may be; it is not utterly impossible; but we doubt it.</p>
+<p>Notwithstanding all its drawbacks, we have little hesitation in saying that they will probably succeed,—on the principle, perhaps, of the quack, who calculated there were many more fools than wise men in the world. No matter, if the fools are all made wise, by the perusal of these "Leaves." They may be; it is not utterly impossible; but we doubt it.</p>
 
-<milestone unit="undeclared" rend="horbar-full" />
+<milestone unit="undeclared" rend="horbar-full"/>
 
-<ab><hi rend="superscript">&#8727;</hi>
+<ab><hi rend="superscript">∗</hi>
  <hi rend="italic">Leaves of Grass</hi> 
  
  Boston:  
- Thayer &#38; Eldridge.  
- <hi rend="italic">Year</hi> 85 <hi rend="italic">of the States</hi> (1860&#8212;61).  
+ Thayer &amp; Eldridge.  
+ <hi rend="italic">Year</hi> 85 <hi rend="italic">of the States</hi> (1860—61).  
  London:  
- Tr&#252;bner &#38; Co.  
+ Trübner &amp; Co.  
  
 </ab>
  

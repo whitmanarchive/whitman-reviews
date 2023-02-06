@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.01079">  
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.01079">  
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title level="m" type="main" corresp="lg1881">Walt Whitman</title>
-                <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881&#8211;82)]</title>
+                <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1881–82)]</title>
                 <title level="a" type="sub">a machine readable transcription</title>
                 <author>G. C. Macaulay</author>
                 <editor>Kenneth M. Price</editor>
@@ -29,7 +27,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.01079</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -41,7 +39,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>
+            <idno>anc.01079</idno></publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -51,9 +49,9 @@
                     <monogr>
                         <title level="j">The Nineteenth Century</title>
                         <imprint>
-                            <biblScope type="volume">12</biblScope>
+                            <biblScope unit="volume">12</biblScope>
                             <date xml:id="dat1" cert="high" when="1882-12">December 1882</date>
-                            <biblScope type="pages">903&#8211;918</biblScope>
+                            <biblScope unit="pages">903&#8211;918</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>
@@ -84,9 +82,9 @@
             
             <head type="main-authorial">WALT WHITMAN.</head>
             
-            <p>In publishing, some fifteen years ago, a volume of selections from the works of Whitman, Mr. Rossetti considered that he was preparing the ground for the ultimate publication in England of a complete edition of the poems of that remarkable, if rather eccentric, writer. That event has now at length taken place (though not, it seems, without unforeseen difficulty of some kind, marked by a long interval between the advertisement and the appearance of the volume, and by a change of publishers apparently at the last moment), and London can at length supply us from its own resources with copies of <hi rend="italic">Leaves of Grass</hi>, under which title the author apparently now wishes to include all his poetical works up to the present time.<ref>&#42;</ref> We are presented at the same time with another work of the same author, the preface to the first edition of <hi rend="italic">Leaves of Grass</hi> (published 1855 in a thin quarto, type set up by the author himself), which is now not easily to be met with. This preface was not reprinted in subsequent editions, but was prefixed with some omissions by Mr. Rossetti to his volume of selections. For what has been given us we must be thankful, though we may mildly complain that Whitman's other prose works, consisting of two books&#8212;one a magnificent political prophecy, and the other a personal narrative of deep interest&#8212;are apparently to be withheld from the English reader, though long ago advertised as published or to be published in company with the preface afore-mentioned. Even in America, says a personal friend of the author, these books can hardly be said to have been published, though readers occasionally find them out, and certainly in England they are little enough known. The reader at the British Museum may find there a copy of <hi rend="italic">Democratic Vistas</hi>, but he will search in vain for <hi rend="italic">Memoranda during the War</hi>.</p>
+            <p>In publishing, some fifteen years ago, a volume of selections from the works of Whitman, Mr. Rossetti considered that he was preparing the ground for the ultimate publication in England of a complete edition of the poems of that remarkable, if rather eccentric, writer. That event has now at length taken place (though not, it seems, without unforeseen difficulty of some kind, marked by a long interval between the advertisement and the appearance of the volume, and by a change of publishers apparently at the last moment), and London can at length supply us from its own resources with copies of <hi rend="italic">Leaves of Grass</hi>, under which title the author apparently now wishes to include all his poetical works up to the present time.<ref>*</ref> We are presented at the same time with another work of the same author, the preface to the first edition of <hi rend="italic">Leaves of Grass</hi> (published 1855 in a thin quarto, type set up by the author himself), which is now not easily to be met with. This preface was not reprinted in subsequent editions, but was prefixed with some omissions by Mr. Rossetti to his volume of selections. For what has been given us we must be thankful, though we may mildly complain that Whitman's other prose works, consisting of two books—one a magnificent political prophecy, and the other a personal narrative of deep interest—are apparently to be withheld from the English reader, though long ago advertised as published or to be published in company with the preface afore-mentioned. Even in America, says a personal friend of the author, these books can hardly be said to have been published, though readers occasionally find them out, and certainly in England they are little enough known. The reader at the British Museum may find there a copy of <hi rend="italic">Democratic Vistas</hi>, but he will search in vain for <hi rend="italic">Memoranda during the War</hi>.</p>
             
-            <p>Meanwhile, however, a real service has been rendered to us by the publication in London of <hi rend="italic">Leaves of Grass</hi>, and against the printing of the volume there is nothing to be said; it is, in fact, a fine specimen of typography, with few apparent misprints, excellencies which no doubt are fully appreciated by the author, who knows practically what printing is. For those who are acquainted with previous editions of the poems this publication has an interest of its own quite apart from the fact that it is the first complete English edition. There are poems contained in it which have either never appeared before, or only in a separate form not readily to be obtained in this country, as, for instance, the 'Song of the Exposition,' 'After all not to create only,' with its funeral chant for feudalism, which has passed now to its charnel vault&#8212;
+            <p>Meanwhile, however, a real service has been rendered to us by the publication in London of <hi rend="italic">Leaves of Grass</hi>, and against the printing of the volume there is nothing to be said; it is, in fact, a fine specimen of typography, with few apparent misprints, excellencies which no doubt are fully appreciated by the author, who knows practically what printing is. For those who are acquainted with previous editions of the poems this publication has an interest of its own quite apart from the fact that it is the first complete English edition. There are poems contained in it which have either never appeared before, or only in a separate form not readily to be obtained in this country, as, for instance, the 'Song of the Exposition,' 'After all not to create only,' with its funeral chant for feudalism, which has passed now to its charnel vault—
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
@@ -110,7 +108,7 @@
             
             <p>It is said, and, so far as I know, said truly, that this prophet is not honoured in his own country. This does not mean that his books have not been bought and read: indeed, the number of copies sold of the first editions of <hi rend="italic">Leaves of Grass</hi> is to me rather a subject of surprise. Astonishment at the audacity of the venture must have had some share in raising the public interest, for the book unquestionably sold well. Nor does it mean that the merit of the author was quite unrecognized: on the contrary, by some who were most competent to judge, he was estimated at a very high value. 'The most extraordinary piece of wit and wisdom that America has yet contributed' was Emerson's verdict on the book, and Thoreau thought he saw something almost more than human in the personality of the man. But the mass of his countrymen were not and are not strong enough to accept him; they have perhaps too little confidence in their own literary originality to appreciate duly one from among themselves who breaks through all the conventional usages of literature; they have too much squeamish delicacy to admit to their society one who is so brutally outspoken and unrefined. It is necessary perhaps that this writer, for we need not be zealous to claim for him the title of poet, should be first accepted in the Old World before he can be recognised by the New, which at present can see nothing in literature but by reflected light. Strange irony of fate, if such should be the destiny of one who cast off the conventional forms in order to free himself and his country from Old World influences! 'The proof of a poet shall be sternly deferr'd till his country absorbs him as affectionately as he has absorbed it.' This he has said and still believes, waiting in confidence for that proof of his title to be forthcoming. But there are many reasons why he should be slowly if at all admitted to his rights, whether in Old World or in New, and to glance at some of these reasons before we proceed further will not be amiss.</p>
             
-                 <p>He is perhaps of all writers the most repellent to the reader who glances at him superficially. In the first place he is indecent, and that too not accidentally but on principle. Whatever may be thought of his morality, and that I hold to be essentially sound and healthy, it cannot be denied that in one section of his work, and occasionally throughout the poems and prose, he outrages every ordinary rule of decency. There is nothing impure in this kind of exposure; it has indeed the direct antithesis to prurient suggestion, and the intention of it is unquestionably honest, but from an artistic point of view it is the gravest of faults, it is essentially and irredeemably ugly and repulsive. We are most of us agreed that there is and ought to be a region of reticence, and in to this region the writer had rushed himself and drags us unwillingly after him. He stands convicted of &#787;&#960;&#949;&#953;&#961;&#959;&#954;&#945;&#955;&#943;&#945;, if of nothing worse. Akin to this first instance of defect in artistic perception is a second&#8212;his use, namely, of words which are either not English or essentially vulgar; and to this must be added a not unfrequent neglect of syntax, which, together with looseness in the application of some words, makes him at times vague or unintelligible. Occasionally there occur words or expressions which, though not ordinarily found in literature, have a native force which justifies them; but generally it is the case that for the French word or for the vulgarism savouring either of the gutter on the one hand or of the Yankee penny-a-liner on the other might be substituted a good English word equally expressive. But here also we too probably have before us a fault of willfulness, for we know that he will not allow the language of English literature to be large enough for the poets of America, but expects accessions to it from Tennessee and California. If, however, he has in his choice of words sought that simplicity which (to quote his own words) is 'the art of art, the glory of expression, and the sunshine of the light of letters,' he has certainly not seldom failed to attain it, and it was hardly to be attained by pouring out indiscriminately into his pages the words which ran naturally off his pen. The 'art of sinking' is illustrated in his juxtaposition of the most incongruous things, and this especially in his well-known catalogues, which, though sometimes picturesque and interesting, are generally only absurd and dull. The fact that they are introduced on principle is not to be admitted as an excuse for the inartistic and formless character, any more than a similar excuse is to be allowed for offences against decency. From many of these faults a sense of humour would have protected him; and this also might have preserved him from some of that violently feeble exaggeration with which he speaks especially of his own countrymen and their institutions, and from the parade with which he sometimes announces truisms, as if they had been just now for the first time discovered by himself. His defence on the general charge is finely given in a poem now published for the first time, written in Platte Ca&#241;on, Colorado.
+                 <p>He is perhaps of all writers the most repellent to the reader who glances at him superficially. In the first place he is indecent, and that too not accidentally but on principle. Whatever may be thought of his morality, and that I hold to be essentially sound and healthy, it cannot be denied that in one section of his work, and occasionally throughout the poems and prose, he outrages every ordinary rule of decency. There is nothing impure in this kind of exposure; it has indeed the direct antithesis to prurient suggestion, and the intention of it is unquestionably honest, but from an artistic point of view it is the gravest of faults, it is essentially and irredeemably ugly and repulsive. We are most of us agreed that there is and ought to be a region of reticence, and in to this region the writer had rushed himself and drags us unwillingly after him. He stands convicted of ̓πειροκαλία, if of nothing worse. Akin to this first instance of defect in artistic perception is a second—his use, namely, of words which are either not English or essentially vulgar; and to this must be added a not unfrequent neglect of syntax, which, together with looseness in the application of some words, makes him at times vague or unintelligible. Occasionally there occur words or expressions which, though not ordinarily found in literature, have a native force which justifies them; but generally it is the case that for the French word or for the vulgarism savouring either of the gutter on the one hand or of the Yankee penny-a-liner on the other might be substituted a good English word equally expressive. But here also we too probably have before us a fault of willfulness, for we know that he will not allow the language of English literature to be large enough for the poets of America, but expects accessions to it from Tennessee and California. If, however, he has in his choice of words sought that simplicity which (to quote his own words) is 'the art of art, the glory of expression, and the sunshine of the light of letters,' he has certainly not seldom failed to attain it, and it was hardly to be attained by pouring out indiscriminately into his pages the words which ran naturally off his pen. The 'art of sinking' is illustrated in his juxtaposition of the most incongruous things, and this especially in his well-known catalogues, which, though sometimes picturesque and interesting, are generally only absurd and dull. The fact that they are introduced on principle is not to be admitted as an excuse for the inartistic and formless character, any more than a similar excuse is to be allowed for offences against decency. From many of these faults a sense of humour would have protected him; and this also might have preserved him from some of that violently feeble exaggeration with which he speaks especially of his own countrymen and their institutions, and from the parade with which he sometimes announces truisms, as if they had been just now for the first time discovered by himself. His defence on the general charge is finely given in a poem now published for the first time, written in Platte Cañon, Colorado.
             <q who="Walt Whitman" type="extract">
                 <floatingText>
                     <body>
@@ -129,9 +127,9 @@
             </q>
             But the grandeur of nature is not always to be attained by heaping together uncouth masses. We complain not so much that the work lacks polish, as that the writer has not been preserved by his own native genius from ugly excrescences.</p>
             
-                 <p>These artistic defects and his general disregard of form make many of his works repulsive, and do not allow us to accept any one as faultless. But they are mostly such as expurgation could remove, and therefore are not vital. The characteristic which cannot be got rid of, and yet repels, is his intense egotism and self-assertion. His longest, and in some respects most important, work&#8212;a poem of twelve or fourteen hundred lines, with which the original <hi rend="italic">Leaves of Grass</hi> opened&#8212;has or had his own name as the title<ref>&#8224;</ref> and his own personality as the subject; and this self-assertion of the individual is perhaps the prevailing characteristic of Whitman's work, that which makes it in fact representative in some degree of the spirit of the age; and the egotism, after all, is not so much personal as typical. The poet is a Kosmos, and contains within himself all unity and all diversity. What he claims for himself he thereby claims for others on the same terms. 'Underneath all, to me is myself, to you yourself.' We feel when the poet proclaims himself 'an acme of things accomplished,' for whose birth all the forces of the universe have been a preparation, he is speaking less for himself individually than for humanity, the humanity of his own day and of future days. The egotism becomes more offensive when it is obviously personal and indicates himself as the Michael Angelo of literature; and that, it must be admitted, is not unseldom, though here too he claims to be speaking less for himself than for the future of democratic poets. To these charges it may be added that, notwithstanding his boasted freedom from the trammels of conventionality, he is in his more ordinary work a mannerist of the most vulgar kind. 'Oh! to realise space!' 'Have you reckoned a thousand acres much?' 'Has any one supposed it lucky to be born? I hasten to inform him or her that it is just as lucky to die.' 'I have said that the soul is not more than the body, and I have said that the body is not more than the soul.' 'I swear I think there is nothing but immortality, that the exquisite scheme is for it, and the nebulous float is for it, and the cohering is for it!' If these are not all exact quotations, every one will recognise them as genuine types. No style lends itself more readily to parody and burlesque. But when he is at his best the mannerism is in a great measure shaken off.</p>
+                 <p>These artistic defects and his general disregard of form make many of his works repulsive, and do not allow us to accept any one as faultless. But they are mostly such as expurgation could remove, and therefore are not vital. The characteristic which cannot be got rid of, and yet repels, is his intense egotism and self-assertion. His longest, and in some respects most important, work—a poem of twelve or fourteen hundred lines, with which the original <hi rend="italic">Leaves of Grass</hi> opened—has or had his own name as the title<ref>†</ref> and his own personality as the subject; and this self-assertion of the individual is perhaps the prevailing characteristic of Whitman's work, that which makes it in fact representative in some degree of the spirit of the age; and the egotism, after all, is not so much personal as typical. The poet is a Kosmos, and contains within himself all unity and all diversity. What he claims for himself he thereby claims for others on the same terms. 'Underneath all, to me is myself, to you yourself.' We feel when the poet proclaims himself 'an acme of things accomplished,' for whose birth all the forces of the universe have been a preparation, he is speaking less for himself individually than for humanity, the humanity of his own day and of future days. The egotism becomes more offensive when it is obviously personal and indicates himself as the Michael Angelo of literature; and that, it must be admitted, is not unseldom, though here too he claims to be speaking less for himself than for the future of democratic poets. To these charges it may be added that, notwithstanding his boasted freedom from the trammels of conventionality, he is in his more ordinary work a mannerist of the most vulgar kind. 'Oh! to realise space!' 'Have you reckoned a thousand acres much?' 'Has any one supposed it lucky to be born? I hasten to inform him or her that it is just as lucky to die.' 'I have said that the soul is not more than the body, and I have said that the body is not more than the soul.' 'I swear I think there is nothing but immortality, that the exquisite scheme is for it, and the nebulous float is for it, and the cohering is for it!' If these are not all exact quotations, every one will recognise them as genuine types. No style lends itself more readily to parody and burlesque. But when he is at his best the mannerism is in a great measure shaken off.</p>
             
-                 <p>The disregard of metrical uniformity is another fact which is observed by the most superficial reader, and probably repels him, but with far less reason than the points above mentioned. It is not indeed correct to say that 'there is no trace of rhyme or metre' in these poems. There is at least one poem which affords an instance of perfectly regular metre and rhyme throughout, and in another the regularity in these respects is all but complete; while in some others, such as 'Pioneers' and the 'Dirge for two Veterans,' though there is no rhyme nor an absolute uniformity in the length of lines, there is a stanzaic uniformity, which satisfies, or almost satisfies, the conventional expectations. As for the rest, some is quite formless; but for the most part there is a strongly marked and characteristic rhythm, not strictly metrical, though with metrical tendencies, nor properly to be called the rhythm of prose. It has rather the monotony of a chant than the varied tones of the best rhythmical prose, though it must be said that it not only resembles but is identical with the early prose rhythm of the same author.<ref>&#8225;</ref> Every reader of the preface before us will perceive this; and we are relieved from the possibility of doubt by the fact that passages from this preface have been introduced word for word, or with insignificant changes, into subsequently published poems, being divided stichometrically into lines by the natural pauses of the sentence. The words which he himself uttered in this preface on the subject of the rhythmical uniformity are among the best which have been spoken on that subject yet, and no apology is needed for quoting them.</p>
+                 <p>The disregard of metrical uniformity is another fact which is observed by the most superficial reader, and probably repels him, but with far less reason than the points above mentioned. It is not indeed correct to say that 'there is no trace of rhyme or metre' in these poems. There is at least one poem which affords an instance of perfectly regular metre and rhyme throughout, and in another the regularity in these respects is all but complete; while in some others, such as 'Pioneers' and the 'Dirge for two Veterans,' though there is no rhyme nor an absolute uniformity in the length of lines, there is a stanzaic uniformity, which satisfies, or almost satisfies, the conventional expectations. As for the rest, some is quite formless; but for the most part there is a strongly marked and characteristic rhythm, not strictly metrical, though with metrical tendencies, nor properly to be called the rhythm of prose. It has rather the monotony of a chant than the varied tones of the best rhythmical prose, though it must be said that it not only resembles but is identical with the early prose rhythm of the same author.<ref>‡</ref> Every reader of the preface before us will perceive this; and we are relieved from the possibility of doubt by the fact that passages from this preface have been introduced word for word, or with insignificant changes, into subsequently published poems, being divided stichometrically into lines by the natural pauses of the sentence. The words which he himself uttered in this preface on the subject of the rhythmical uniformity are among the best which have been spoken on that subject yet, and no apology is needed for quoting them.</p>
             
             <q who="Walt Whitman">
                 <floatingText>
@@ -141,7 +139,7 @@
                 </floatingText>
             </q>
             
-            <p>It has been said already that though Whitman's lines are not ordinarily metrical, yet they have metrical tendencies, and this will readily be perceived by any one who reads them aloud. The prevailing rhythm is dactylic. Every reader of Whitman will recognise as characteristic the following examples, chosen purely to illustrate the movement:&#8212;
+            <p>It has been said already that though Whitman's lines are not ordinarily metrical, yet they have metrical tendencies, and this will readily be perceived by any one who reads them aloud. The prevailing rhythm is dactylic. Every reader of Whitman will recognise as characteristic the following examples, chosen purely to illustrate the movement:—
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
@@ -155,12 +153,12 @@
                         </body>
                     </floatingText>
                 </q>
-                Or again&#8212; 
+                Or again— 
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
                             <lg type="poem">
-                                <l>It is well&#8212;against such I say not a word, I am their poet also;</l>
+                                <l>It is well—against such I say not a word, I am their poet also;</l>
                                 <l>But behold such swiftly subside, burnt up for Religion's sake;</l>
                                 <l>For not all matter is fuel to heat, impalpable flame, the essential life of the earth,</l>
                                 <l>Any more than such are to Religion.</l>
@@ -170,7 +168,7 @@
                 </q>
             </p>
             
-            <p>Not unseldom we find regular or slightly irregular hexameters, sometimes several in succession, and occasionally also pentameters, <hi rend="italic">e.g.</hi>&#8212;
+            <p>Not unseldom we find regular or slightly irregular hexameters, sometimes several in succession, and occasionally also pentameters, <hi rend="italic">e.g.</hi>—
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
@@ -191,7 +189,7 @@
                         </body>
                     </floatingText>
                 </q>
-                Or again (an elegiac couplet)&#8212; 
+                Or again (an elegiac couplet)— 
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
@@ -227,7 +225,7 @@
                         </body>
                     </floatingText>
                 </q>
-                Or again, in the still more recent 'Song of the Redwood Tree'&#8212; 
+                Or again, in the still more recent 'Song of the Redwood Tree'— 
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
@@ -250,7 +248,7 @@
                 <div1 type="section">
                     <head type="sub">II.</head>
          
-        <p>If we were asked for justification of the high estimate of this poet, which has been implied, if not expressed, in what has been hitherto said, the answer would be perhaps first, that he has a power of passionate expression, of strong and simple utterance of the deepest tones of grief, which is almost or altogether without its counterpart in the world. Not often has he exerted his power, but often enough to let us understand that he possesses it, and to stamp him as a poet inferior to few, if any, of our time in strength of native genius, however he may fall behind many in artistic perception. Two poems of death, indicated often by himself as the highest theme, though not faultless, for none of his work is so, are enough in themselves to rest his claim upon. The first is 'Out of the Cradle endlessly rocking;' and the other that funeral hymn for President Lincoln which begins, 'When Lilacs last in the Door-yard bloomed.' Nothing illustrates more strongly than these two poems the intense sympathy of the writer with nature, animate and inanimate, and the deep emotional significance which it has for him. Both are saturated with influences of sky, sea, or forest. The first is of the ocean, whose husky meaning is a fit accompaniment to the song of desolate loneliness; the second is of the forest, whose pine-fragrance is as the perfume of the sweet soul that is gone. In both the most passionate outpourings come forth in the notes of birds&#8212;the mocking-bird, the most magnificent of songsters, and the hermit thrush, the grey-brown minstrel of the cedar swamp, lyrical mourners whose chant is fused and translated into words by the ecstatic listener. Shelley's skylark pours forth a harmonious madness of joy, Keats' nightingale seems to be intoxicated with passionate yearning; but never before has a bird poured forth to a poet a song so capable of stirring the depths of emotion in the heart, as heart-breaking indeed in its intensity of grief, as that of the lone singer 'on the prong of a moss-scalloped stake, down almost among the slapping waves.' The burden of the first division of the chant is 'Two together.'
+        <p>If we were asked for justification of the high estimate of this poet, which has been implied, if not expressed, in what has been hitherto said, the answer would be perhaps first, that he has a power of passionate expression, of strong and simple utterance of the deepest tones of grief, which is almost or altogether without its counterpart in the world. Not often has he exerted his power, but often enough to let us understand that he possesses it, and to stamp him as a poet inferior to few, if any, of our time in strength of native genius, however he may fall behind many in artistic perception. Two poems of death, indicated often by himself as the highest theme, though not faultless, for none of his work is so, are enough in themselves to rest his claim upon. The first is 'Out of the Cradle endlessly rocking;' and the other that funeral hymn for President Lincoln which begins, 'When Lilacs last in the Door-yard bloomed.' Nothing illustrates more strongly than these two poems the intense sympathy of the writer with nature, animate and inanimate, and the deep emotional significance which it has for him. Both are saturated with influences of sky, sea, or forest. The first is of the ocean, whose husky meaning is a fit accompaniment to the song of desolate loneliness; the second is of the forest, whose pine-fragrance is as the perfume of the sweet soul that is gone. In both the most passionate outpourings come forth in the notes of birds—the mocking-bird, the most magnificent of songsters, and the hermit thrush, the grey-brown minstrel of the cedar swamp, lyrical mourners whose chant is fused and translated into words by the ecstatic listener. Shelley's skylark pours forth a harmonious madness of joy, Keats' nightingale seems to be intoxicated with passionate yearning; but never before has a bird poured forth to a poet a song so capable of stirring the depths of emotion in the heart, as heart-breaking indeed in its intensity of grief, as that of the lone singer 'on the prong of a moss-scalloped stake, down almost among the slapping waves.' The burden of the first division of the chant is 'Two together.'
         
         <q who="Walt Whitman" type="extract">
             <floatingText>
@@ -271,14 +269,14 @@
         </q>
         </p>
                     
-                    <p>Such is the joyous and careless song of the two feathered guests on the seashore of Paum&#225;nok, when the snows had melted and the lilac scent was in the air, while every day the boy, curious but never disturbing them, peered cautiously at the he-bird flitting to and fro, and the she-bird 'crouch'd on her nest, silent with bright eyes,' till on a sudden, 'may-be killed unknown to her mate,' she disappeared, nor returned that day nor the next, nor ever appeared again. And thenceforward all the summer, day and night over the surging of the fierce mother the sea, the boy hears at intervals the solitary one who is left.
+                    <p>Such is the joyous and careless song of the two feathered guests on the seashore of Paumánok, when the snows had melted and the lilac scent was in the air, while every day the boy, curious but never disturbing them, peered cautiously at the he-bird flitting to and fro, and the she-bird 'crouch'd on her nest, silent with bright eyes,' till on a sudden, 'may-be killed unknown to her mate,' she disappeared, nor returned that day nor the next, nor ever appeared again. And thenceforward all the summer, day and night over the surging of the fierce mother the sea, the boy hears at intervals the solitary one who is left.
             
             <q who="Walt Whitman" type="extract">
                 <floatingText>
                     <body>
                         <lg type="poem">
                             <l>Blow! blow! blow!</l>
-                            <l>Blow up, sea winds, along Paum&#225;nok's shore,</l>
+                            <l>Blow up, sea winds, along Paumánok's shore,</l>
                             <l>I wait and I wait till you blow my mate to me.</l>
                         </lg>
                     </body>
@@ -297,7 +295,7 @@
                             <l>And again another behind, embracing and lapping, every one close,</l>
                             <l>But my love soothes not me, not me.</l>
                             <l>Low hangs the moon, it rose late,</l>
-                            <l>It is lagging&#8212;O I think it is heavy with love, with love.</l>
+                            <l>It is lagging—O I think it is heavy with love, with love.</l>
                             <l>O madly the sea pushes upon the land,</l>
                             <l>With love, with love.</l>
                             <l>O night! do I not see my love fluttering out among the breakers?</l>
@@ -368,7 +366,7 @@
                 </floatingText>
             </q>
             
-                    <p>This is the only solution of the cries of unsatisfied love, and here lies the highest problem which awaits the poet always with its unconquerable, almost unassailable, mysteriousness. This word it is which he gives as the key to the thousand responsive songs awakened in him from that hour, the word which the sea whispered, 'like some old crone rocking the cradle, swathed in sweet garments, bending aside.'<ref>&#167;</ref> 'Whispers of Heavenly Death' is the title of one section of these poems, and it is the 'Carol of Death' which forms the centre of the second of the two poems to which attention has not been called. Splendidly imaginative is this 'nocturne,' with its three ever-recurring chords, 'lilac, and star, and bird.' Of more intricate construction than the other and less directly passionate, because expressive of a more reflecting sorrow, it is yet a composition which few can read or hear unmoved.
+                    <p>This is the only solution of the cries of unsatisfied love, and here lies the highest problem which awaits the poet always with its unconquerable, almost unassailable, mysteriousness. This word it is which he gives as the key to the thousand responsive songs awakened in him from that hour, the word which the sea whispered, 'like some old crone rocking the cradle, swathed in sweet garments, bending aside.'<ref>§</ref> 'Whispers of Heavenly Death' is the title of one section of these poems, and it is the 'Carol of Death' which forms the centre of the second of the two poems to which attention has not been called. Splendidly imaginative is this 'nocturne,' with its three ever-recurring chords, 'lilac, and star, and bird.' Of more intricate construction than the other and less directly passionate, because expressive of a more reflecting sorrow, it is yet a composition which few can read or hear unmoved.
             
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -399,7 +397,7 @@
             </q>
             </p>
             
-            <p>To the coffin that slowly passes, with the great cloud darkening the land, with the people's mourning and 'the tolling tolling bells' perpetual clang,' he brings a sprig with its flower broken from the lilac bush, with its delicate blossoms and heart-shaped leaves. Nor for this coffin alone, but for all he would bring blossoms and branches and chant a song 'for you, O sane and sacred Death.' This, after all, was what the great star must have meant a month since&#8212;
+            <p>To the coffin that slowly passes, with the great cloud darkening the land, with the people's mourning and 'the tolling tolling bells' perpetual clang,' he brings a sprig with its flower broken from the lilac bush, with its delicate blossoms and heart-shaped leaves. Nor for this coffin alone, but for all he would bring blossoms and branches and chant a song 'for you, O sane and sacred Death.' This, after all, was what the great star must have meant a month since—
             
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -441,7 +439,7 @@
                         <lg type="poem">
                             <l>Prais'd be the fathomless universe,</l>
                             <l>For life and joy, and for objects and knowledge curious,</l>
-                            <l>And for love, sweet love&#8212;but praise! praise! praise!</l>
+                            <l>And for love, sweet love—but praise! praise! praise!</l>
                             <l>For the sure-enwinding arms of cool-enfolding death.</l>
                         </lg>
                     </body>
@@ -474,7 +472,7 @@
                             <l>With the lustrous and drooping star, with the countenance full of woe,</l>
                             <l>With the holders holding my hand nearing the call of the bird,</l>
                             <l>Comrades mine, and I in the midst, and their memory ever I keep, for the dead I loved so well,</l>
-                            <l>For the sweetest, wisest soul of all my days and lands&#8212;and this for his dear sake,</l>
+                            <l>For the sweetest, wisest soul of all my days and lands—and this for his dear sake,</l>
                             <l>Lilac and star and bird twined with the chant of my soul,</l>
                             <l>There in the fragrant pines and the cedars dusk and dim.</l>
                         </lg>
@@ -524,7 +522,7 @@
                 </q>
                 of whom, whether he be ideal or real, we cannot pronounce.</p>
             
-            <p>About immortality he doubts, yet strongly believes. In moments of cool reflection he feels that the questions of 'identity beyond the grave' is the great unsolved problem. Yet his poetical optimism continually leads him to assert immortality, and that not merely the merging of our life in the vital forces of the universe, though that is sometimes his meaning, but actual personal identity of the human soul after death. We have, on the one hand, among his first utterances&#8212;
+            <p>About immortality he doubts, yet strongly believes. In moments of cool reflection he feels that the questions of 'identity beyond the grave' is the great unsolved problem. Yet his poetical optimism continually leads him to assert immortality, and that not merely the merging of our life in the vital forces of the universe, though that is sometimes his meaning, but actual personal identity of the human soul after death. We have, on the one hand, among his first utterances—
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
@@ -545,7 +543,7 @@
                         </body>
                     </floatingText>
                 </q>
-                and again the cry&#8212;
+                and again the cry—
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
@@ -583,12 +581,12 @@
                 </q>
                 But religion is the thing above all, and he rarely fails to point the way to spiritual meanings.</p>
             
-            <p>His morality is almost comprised in the one word 'health,' health of body and health of soul, the healthy and sane man to be the ultimate standard. These are Greek ethics, and the maxim on which they seem to be based&#8212;
+            <p>His morality is almost comprised in the one word 'health,' health of body and health of soul, the healthy and sane man to be the ultimate standard. These are Greek ethics, and the maxim on which they seem to be based—
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
                             <lg type="poem">
-                                <l>Whatever tastes sweet to the most perfect person, that is finally right&#8212;</l>
+                                <l>Whatever tastes sweet to the most perfect person, that is finally right—</l>
                             </lg>
                         </body>
                     </floatingText>
@@ -611,7 +609,7 @@
                 </floatingText>
             </q>
             
-            <p>And again of a future life&#8212;
+            <p>And again of a future life—
             
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -625,7 +623,7 @@
                     </body>
                 </floatingText>
             </q>
-                But underlying all, so far as he himself is concerned, is a sympathy embracing all human beings, however vile, and all animals and plants, however irresponsive. It is this which leads him at times to emphasise his own sensuality, that he may make himself the equal of the most depraved, to draw them if it may be in the bonds of sympathy to himself. It is this which is the open secret of that magnetic influence which he is said to exercise over those whom he casually meets. It was this which led him to the hospitals rather than to the field of battle, and makes him recall in memory now the experiences of the 'Dresser,' rather than the great battles and sieges at which he was present. No study of the poet would be complete which did not include the section of his work which deals with the war and after, which indeed contains some of the most magnificent and spirit-stirring trumpet-blasts, as well as some of the most deeply-moving aspects of suffering and death ever expressed by poet. Here was a great theme, and he treated it nobly; with all notes of patriotism and devotion to the flag is beautifully blended sympathy for the vanquished, and deep desire to relieve the sufferings of the wounded. On the whole no part of his work is more interesting than this; it is as if he were the born poet of emancipation, tender to all suffering persons, yet with nerve strong enough to endure without fainting or shrieking the stroke of necessary surgery. Magnificent is his war cry, as in the 'Song of the Banner at Daybreak,' and his note of triumph, 'The war is completed, the price is paid, the title settled beyond recall;' yet finer still is the 'Vigil on the Field of Battle,' the memories of the hospital tent with its long row of cots, the vision of the Mother of All gazing desperate on her dead, the reflection on those 'Camps of Green' where friend and foe without hatred sleep, and need not any longer provide for outposts, nor word for the countersign, nor drummer to beat the morning drum. Other things, too, he gathered from the experiences of the war: he gathered from them more than from all else the steadfastness of his belief in democracy, in the nobleness and courage of common men. But to speak of this would belong rather to a review of the <hi rend="italic">Democratic Vistas</hi>, which is not my task; the poetical aspects of the theme are enough. The poet then believes in the power of sympathy, but he believes also in individuality 'underneath all&#8212;individuals.' At least half his work is devoted to the assertion of this, and yet with this sympathy and 'adhesiveness' is to go hand in hand, and he has as his watchword still the word of democracy, the word En-masse. The reconciliation is to be found in the prose more clearly than in the verse, but Whitman is not over-anxious for reconciliation; he is large, he contains multitudes, and has room for contradictions.
+                But underlying all, so far as he himself is concerned, is a sympathy embracing all human beings, however vile, and all animals and plants, however irresponsive. It is this which leads him at times to emphasise his own sensuality, that he may make himself the equal of the most depraved, to draw them if it may be in the bonds of sympathy to himself. It is this which is the open secret of that magnetic influence which he is said to exercise over those whom he casually meets. It was this which led him to the hospitals rather than to the field of battle, and makes him recall in memory now the experiences of the 'Dresser,' rather than the great battles and sieges at which he was present. No study of the poet would be complete which did not include the section of his work which deals with the war and after, which indeed contains some of the most magnificent and spirit-stirring trumpet-blasts, as well as some of the most deeply-moving aspects of suffering and death ever expressed by poet. Here was a great theme, and he treated it nobly; with all notes of patriotism and devotion to the flag is beautifully blended sympathy for the vanquished, and deep desire to relieve the sufferings of the wounded. On the whole no part of his work is more interesting than this; it is as if he were the born poet of emancipation, tender to all suffering persons, yet with nerve strong enough to endure without fainting or shrieking the stroke of necessary surgery. Magnificent is his war cry, as in the 'Song of the Banner at Daybreak,' and his note of triumph, 'The war is completed, the price is paid, the title settled beyond recall;' yet finer still is the 'Vigil on the Field of Battle,' the memories of the hospital tent with its long row of cots, the vision of the Mother of All gazing desperate on her dead, the reflection on those 'Camps of Green' where friend and foe without hatred sleep, and need not any longer provide for outposts, nor word for the countersign, nor drummer to beat the morning drum. Other things, too, he gathered from the experiences of the war: he gathered from them more than from all else the steadfastness of his belief in democracy, in the nobleness and courage of common men. But to speak of this would belong rather to a review of the <hi rend="italic">Democratic Vistas</hi>, which is not my task; the poetical aspects of the theme are enough. The poet then believes in the power of sympathy, but he believes also in individuality 'underneath all—individuals.' At least half his work is devoted to the assertion of this, and yet with this sympathy and 'adhesiveness' is to go hand in hand, and he has as his watchword still the word of democracy, the word En-masse. The reconciliation is to be found in the prose more clearly than in the verse, but Whitman is not over-anxious for reconciliation; he is large, he contains multitudes, and has room for contradictions.
                 <q who="Walt Whitman" type="extract">
                     <floatingText>
                         <body>
@@ -697,33 +695,14 @@
             <milestone unit="undeclared" rend="horbar-short-left"/>
             
             <div1 type="notes">
-                <ab>&#42; <hi rend="italic">Leaves of Grass</hi>. By Walt Whitman. London, David Bogue, 1881. <hi rend="italic">Leaves of Grass</hi>. Preface to the original edition, 1855. London, Tr&#252;bner &#38; Co., 1881.</ab>
+                <ab>* <hi rend="italic">Leaves of Grass</hi>. By Walt Whitman. London, David Bogue, 1881. <hi rend="italic">Leaves of Grass</hi>. Preface to the original edition, 1855. London, Trübner &amp; Co., 1881.</ab>
                 
-                <ab>&#8224; The title 'Walt Whitman,' which this poem has originally borne in American editions, is now altered to 'Song of Myself.'</ab>
+                <ab>† The title 'Walt Whitman,' which this poem has originally borne in American editions, is now altered to 'Song of Myself.'</ab>
                 
-                <ab>&#8225;It should be observed that in the later prose of <hi rend="italic">Democratic Vistas</hi>, a book which is comparatively free from his characteristic weaknesses, the writer attains to a prose style of much greater excellence. This book, with its Carlylian eloquence and anti-Carlylian optimism, is not more remarkable on account of the robust faith of the writer in the future of American Democracy, than on account of his keen perception and vigorous denunciation of its present faults and failings, and is enough by itself to stamp him as a master of the English language and a prose poet of the first order. The English reader who would understand the author's drift and hear the key-note of his philosophy could not do better than begin with this book, but that it is in England almost unobtainable.</ab>
+                <ab>‡It should be observed that in the later prose of <hi rend="italic">Democratic Vistas</hi>, a book which is comparatively free from his characteristic weaknesses, the writer attains to a prose style of much greater excellence. This book, with its Carlylian eloquence and anti-Carlylian optimism, is not more remarkable on account of the robust faith of the writer in the future of American Democracy, than on account of his keen perception and vigorous denunciation of its present faults and failings, and is enough by itself to stamp him as a master of the English language and a prose poet of the first order. The English reader who would understand the author's drift and hear the key-note of his philosophy could not do better than begin with this book, but that it is in England almost unobtainable.</ab>
                 
-                <ab>&#167; A line added in this edition.</ab>
+                <ab>§ A line added in this edition.</ab>
             </div1>
         </body>
     </text>
 </TEI>
-
-                                
-                
-                                
-            
-            
-                            
-                            
-                           
-                            
-                            
-                            
-                            
-                            
-               
-                               
-            
-                            
-            
