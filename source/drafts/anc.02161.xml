@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02161">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Walt Whitman.* [First Article]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk"> Khadizatul Kubra</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02161</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">Walt Whitman.* [First Article]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">St.James Gazette</title>
+                  <imprint>
+                     <date when="1887-08-10">10 August 1887</date>
+                     <biblScope type="pages">7</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#kk" when="2021-10-13">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Walt Whitman.*</head> 
+         
+         <head type="sub">[First Article]</head>
+         
+         <p>However little sympathy one may feel with the object they have in view it is impossible not to admire the perseverance shown by the Walt Whitmanites in pushing their bard into popularity. What they lack in numbers they certainly make up in energy. They are indefatigable in warning us that, if we would find poetical salvation, it is in Walt Whitman, we must seek it; all other poetry being&#8212;as the prophet himself would say&#8212;played out. In fact, if he was a patent pill, or an aerated water, or an omnipotent soap, they could scarcely be more persistent in calling attention to his virtues and keeping him before the public eye. And yet the public does not seem to take. It does itself with pills, deluges itself with mineral water, and lives in lather (or else there is a reckless waste of advertisement); but somehow it will not take to Walt Whitman. A convert may be made and then, and the accession announced as promptly as when Mr. Vincent Crumples came running back to say that “another man had come into the pit.” But still the circle of believers remains small and select; the mass of English readers shows no disposition to elect an American laureate it inclines to Longfellow&#8212;Longfellow mellifluous and goody-goody, the two qualities of all most odious to such as have drunk deep of the Whitman spring. The Whitmanites belong for the most part to sect of aesthetes whose aestheticism resembles Mr. Pullet’s cravat, which , as readers of “The Mall on the Floss” may remember, was tied on some higher principle than personal ease. a thing of beauty is no joy for ever to them. The idea that art has anything to do with the production of pleasure fill them with supreme contempt. Painters, old masters or new, must be masters of the grim, the gaunt, the angular and the body, and rigorously eschew everything that savour s of health of cheerfulness. Architecture must religiously preserve all that is unsightly and inconvenient in the buildings of the Middle Ages, else it is stark naught; and, even in upholstery, the principle must assert itself in the shape of divers articles of furniture as hideous and uncomfortable as anything in use at the time of the Heptarchy. There was great indignation, it is said, among these people when London resolved to get rid of the rotten wharves, reeking slime, dead cats, and old shoes that fringed its river, and loud were the protests against that piece of modern Vandalism, the Embankment. It is said, too&#8212;but this may be only malicious invention&#8212;that they have taken for the their favourite flower the sunflower, and for their favourite colour sage-green, these being the ugliest things in flowers or colours that they could find. It would be unjust to set all this down to mere perverseness, affection of singularity, or love of paradox. There is a philosophy and a purpose in it. What merit is there in perceiving the beauty of a thing that is obviously beautiful? Any dullard can do that. But to see beauty in a thing that to ordinary eyes and judged by the ordinary standards in ugly, this is the privilege of persons who are not ordinary&#8212;superior persons, in short; and in virtue thereof it becomes their duty to snub the Philistine and bring his utter philistinism home to poor creature.</p>
+            
+         
+         <p>For this purpose Walt Whitman was a positive godsend. Blake was very well in his way; he was mawkish and crazy enough; but a stronger dose was desirable, and this the American poet supplied. The strength was in a manner guaranteed by the fact that his writing had been tabooed by the prudery of his own countrymen, most of whom, with reprehensible levity, declared them to be not only nasty but nonsense. And this was a further recommendation; for, of course, it would never have done to cry Eureka over a poet who had already met with any measure of acceptance. Wisely they abstained from giving any reasons why Walt Whitman should be adopted. From pills to poetry, ever thing stands a better chance of being accepted when it is put forward dictatorially; and, indeed, in aesthetic matters the public expects dogmatism, and, what is more, likes it. Besides which Walt Whitman would have been almost as difficult to argue over as Lord Peter’s brown loaf. Consequently, when weaker brethren confronted with his utterances, said, “Do you really mean to say you call this sort of thing poetry; for to our senses and faculties it seems to be nothing but very prosaic stuff,” the answer in effect was, “By all that’s supreme it is true, good, natural poetry as ever came out Paternoster-row, and nobody but a benighted Philistine would offer to believe otherwise.” Mr. Rossetti, it is true, in the prefatory notice to the edition before us ( a reprint of that published twenty years ago) makes a concession so far as to put what he considers the issue before the reader. The questions as regards Walt Whitman are, he conceives, “ is he powerful? Is he American? Is he new? Is he rousing? Does he feel and make me feel?” Even if they could be answered in the affirmative, these, we submit, would not be conclusive; but they cannot. If bluster, noise, arrogance, and self-assertion are power, Walt Whitman is powerful; but not otherwise. That he is American in the sense intended is just what Americans themselves (who may be supposed to know something about it) deny, and with some degree of indignation on the part of those who over estimate the importance of Whitman-worship on this side of the Atlantic. That he is new in anything except from we cannot admit. His poetry consists entirely of variations upon one or two themes&#8212;such as, that one man is as good as another, and that every one is to do as he likes and resist all attempts to make him do otherwise, and that he, Walt Whitman, will back him up and, as Mrs. Micawber says, will never, never desert him: all which, we maintain, has been said <hi rend="italic">mutatis mutandis</hi>, not perhaps as noisily but quite as forcibly, many times before Walt Whitman was born. He may be an original thinker, and no doubt he has an original way of expressing himself, but the thoughts he gives expression to are new ones by any means; and as to his being rousing or stimulating, that altogether depends on the idiosyncrasy of his reader. One of the claims commonly set up for him is that he is one of the great poets of democracy, like Shelly and Victor Hugo; but if the truth is to be told, these great children, and their poetry a very childish affair. It really amounts to no more than the children’s prattle when they say ‘ wouldn’t it be nice if all the pebbles in the gravel -walk were to be turned into bullseyes and all the cabbage-leaves in the kitchen-garden were to be turned into bullyseyes and all the cabbage-leaves in the kitchen-garden were to become pancakes?” “ Wouldn’t it be nice,” says the poet of democracy, “If all inequalities between man and man whereto be done away with, all conventions that prevent a man from doing exactly as he likes got rid of, if there were to be no more lawyers or priests or policemen, no more rich men or poor men; if nobody ever strove to get the better of his fellow-man, or tried to get for twopence-ha’penny what he knew to be worth threepence, or to get threepence for what is only worth twopence ha’penny&#8212;wouldn’t it be nice?” Perhaps it would; and perhaps a diet of lollipops and pancakes would be naive too; but as the one vision is just as likely to be realized as the other, there is not much use in speculating upon the point. Walt Whitman, to do him justice, does not speculate; he says roundly it must and shall be. “There will soon be no more priests,” he says. “Their work is done. A superior breed shall take their place&#8212;the gangs of kosmos and prophets <hi rend="italic">en masse</hi>":-.” Well, we in London know something of the gangs of kosmos that take the place of priests when the Salvation Army marches out to music that, like Walt Whitman’s poetry is rousing. There is no reason to doubt that he is, as Mr. Rossetti says, “incapable of all compromise;” and that he is “an initiator in the scheme and from of his works” is indisputable. When a man writes </p>
+         
+         <lg>
+            <l>Because you are greasy or pimpled , or that you was once drunk, or a thief,</l>
+            <l>Or diseased, or rheumatic, or a prostitute, or are so now;</l>
+            <l>Or from frivolity or importance, or that you are no scholar, and never saw your name in print,</l>
+            <l>Do yo give in that you are any less immortal?</l>
+         </lg>
+         
+         <p>and calls that poetry, there can be no question about his having struck out a line for himself. It may be granted, too, that he is “a man of audacious personal ascendant”&#8212;assuming the phrase to be a transcendental rendering of his own description of “disorderly, fleshy, sensual, one of the roughs, a kosmos.” All this may be; but we must demur to the proposition that these are sufficient grounds for recognizing him as “<hi rend="italic">the</hi> poet of the epoch,” as Mr. Rossetti suggests: a recognition, be if Walt Whitman is right, homer and all the rest are wrong.</p>
+            
+         
+         
+      </body>
+   </text>       
+</TEI>

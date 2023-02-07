@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02151">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">Specimen Days and Collect</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk"> Khadizatul Kubra</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02151</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">Specimen Days and Collect</title>
+               </analytic>
+               <monogr>
+                  <title level="j">San Francisco Chronicle</title>
+                  <imprint>
+                     <date when="1882-10-29">29 October 1882</date>
+                     <biblScope type="pages">6</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#kk" when="2021-10-22">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Specimen Days and Collect</head>
+
+         <head type="sub">Walt Whitman's Prose.</head>
+         
+         <p>A collection of the prose writings of Walt Whitman has been issued under the peculiar title,“Specimen Days and Collect,” by Rees, Welsh &#38; Co. of Philadelphia, the publishing-house which issued “Leaves of Grass” after the Massachusetts Court had placed its anathema upon it. To the general reader Whitman’s prose will be far more attractive than his poetry, although it shows many of the same features. If the good passages could be culled out from the mass of rubbish, it would be a great saving of time; but as it is, after reading several pages of tinged commonplace, one comes upon a bit of prose, filled with the spirit of poetry and far-reaching suggestion; or one finds a sketch of nature which shows the same kinship with all growing things that Thoreau possessed. The first half of the book will be found the best. It contains Walt’s diary when he was a hospital nurse during the Rebellion, and there is much pathos in many of the entries. The notes of rambles about new York&#8212;contributed to several periodicals during the last two or three years&#8212;also contain many good things. One of the curiosities of the book is the preface to the first edition of “Leaves of grass”&#8212;which, it must be confessed, is better reading then the poems themselves. In an appendix are included a half-dozen pieces written in early youth. They are worth notice only because they show that Whitman’s peculiar style was not adopted in his youth, but was the result of mature deliberation. </p>
+         
+         
+      </body>
+   </text>       
+</TEI>

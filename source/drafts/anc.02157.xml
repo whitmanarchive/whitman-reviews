@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02157">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">"Specimen Days and collect"</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk"> Khadizatul Kubra</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02157</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">"Specimen Days and Collect"</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Daily Evening Bulletin</title>
+                  <imprint>
+                     <date when="1883-02-03">3 February 1883</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#kk" when="2021-10-29">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">Specimen Days and Collect</head>
+
+         <p>At last we have the real Walt Whitman,. What we found in his “Leave of Grass” was only his clothes&#8212;and very dirty clothes they were at that. His poetry was so much his ragbag and bobtail, that one cared nothing for such a beggar as must be covered. But here, to our great surprise, is a man whose true poetry is in his prose. By whatever name it is to be called, and disjointed, regard as it may be, this prose has the veritable brilliance of poetry. True, it is full of extravagances and robustious passions, but when all these passages are dropped from further notice, enough remains of actual value to show why Walt Whitman has really earned high literary recognition. In this volume he explains the <hi rend="italic">motif</hi> of his “Leaves of Grass,” and defends the nastiness which made the book so offensive, but the defense is at least in clean words and suggestions. There are many things in “Specimen Days” which a fine taste would omit, but there is nothing to be expurgated in he name of decency. A fair specimen of his sketchy, loose, but really rich style is found in his description of a waterfall in Ulster county;</p>
+            
+            <p>“I jot this mem. In a wild scene of woods and hills, where we have come to visit a waterfall. I never saw finer or more copious hemlocks,many of them, secretive, shaggy&#8212;what i call weather-beaten and let alone&#8212;a rich underlay of ferns, yew sprouts and mosses, beginning to be spotted with the early summer wildflowers. Enveloping all, the monotone and liquid gurgle from the hoarse, impetuous, copious fall&#8212;the greenish, tawny, darkly transparent waters, plunging with velocity down the rocks, with patches of milk-white foam, a stream of hurrying amber, thirty feet wide, risen far back in the bill sand woods,now rushing with volume&#8212; every hundred rods a full and sometimes three or four in that distance. A primitive forest, druidical, solitary, and savage&#8212;not ten visitors a year&#8212;broken rocks everywhere, shade overhead, think under foot with leaves&#8212;a just palpable wild and delicate aroma.”</p>
+            <p>Somewhat akin to this, but far more rapture are his many descriptions of what he call, “full-starr’d nights:” Here is one:</p>
+            <p>“Again commencing one of those usually transparent, full-starr’d, blue-black nights, as if to slow that however lush and pompous the day may be, there is something left in the not-day that can outvie it. The rarest, finest sample of long-drawn-out clear-obscure from sundown to nine o’clock. Venus , like blazing silver, well up in the west. The large pale thin crescent of the new moon, half an hour high, sinking languidly under a bar sinister of cloud and then emerging. Areturus right overhead. A faint fragrant sea odor wafted up from the south. The gloaming, the temper’d coolness and every feature of the scene, so indescribably soothing and tonic&#8212;one of those hours that gives hints to the soul, impossible to put in a statement. (Ah, where would be any food fr spiritually without night and the stars?)The vacant spaciousness of the air and the vell’d blue of the heavens seem’d miracles enough. As the night advance’d it chang’d its spirit and garments to ampler stateliness. I was almost conselous of a definite presence. Nature silently near. The great constellation of the Water Serpent streche’d its doils over more than half the heavens. The Swan, with outspread wings, was flying down the Milky Way. The northern Crown, the Eagle, Lyra, all up there in their places. From the whole dome shot down points of light, rapport with me, through the clear blue-black. All the usual sense of motion, all animal life seem’d discarded, seem’d a fiction; a curious power, like the placid rest of Egyptian gods, took possession, none the less potent for being impalpable. Earlier i had seen many bats balancing in the luminous twilight, darting their black forms hither and yon over the river ; but now they altogether disappear’d. The evening star and the moon had gone. Alertness and peace lay calmly couching together through the fluid universal shadows.”</p>
+            <p>Had Whitman confined himself to intense objective pleasure, his titles as a poet would hardly be questioned, but he alms far beyond that&#8212;“to break down the barriers of form between prose and poetry”&#8212;and makes his assault upon verse in supra-Alexandrine lines and dislocations of rhythm. It is, therefore, most refreshing to turn from the muddled “leaves of Grass” to this Irregulous, but clean and picturesque book. But really, Whitman should rest himself upon the objective. When he criticises Emerson; and, much more, when he undertakes to show his habit to thought akin to that of Kant, Schelling and Hegel, it is like the driving for of Osslan striving to outwhiten the steady stars. In “Democratic Vistas,” he attempts philosophic politics and fails. Into that essay he has infused many bright and startling suggestion, but it has no logical continuity, little breadth, and supplies small food for resting thought.</p>
+         
+         
+      </body>
+   </text>       
+</TEI>
