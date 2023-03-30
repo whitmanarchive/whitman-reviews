@@ -7,6 +7,7 @@ default:
   tei_html_xsl: scripts/overrides/tei_to_html.xsl
 
 development:
+  data_base: https://whitman-dev.unl.edu/media
   api_version: "2.0"
   es_path: https://whitman-dev.unl.edu/elastic
   es_index: api_v2
@@ -19,6 +20,7 @@ development:
     site_url: https://whitman-dev.unl.edu
 
 production:
+  data_base: https://whitmanarchive.org/media
   site_url: https://whitmanarchive.org
   solr_path: https://whitman-prod.unl.edu/solr
 
@@ -26,10 +28,3 @@ production:
     project: The_Walt_Whitman_Archive
     slug: whitman-reviews
     site_url: https://whitmanarchive.org
-
-grant:
-  # NOTE: different collection name!!!
-  collection: whitman-grant
-  es_path: https://whitman-dev.unl.edu/elastic
-  es_index: api_v1_grant
-  site_url: https://whitmanarchive.org
