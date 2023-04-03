@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00015">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">"Leaves of Grass."</title>
+            <title level="m" type="sub">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>Hesperus</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               
+               
+               
+               <persName xml:id="cg">Charles Green</persName>
+               
+               <persName xml:id="fe">Franklin E. Menius Jr.</persName>
+               <persName xml:id="nhg">Nicole Gray</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00015</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Christian Spiritualist</title>
+                  <imprint>
+                     <date when="1855-11-03">3 November 1855</date>
+                     <biblScope type="pages">[1]</biblScope>
+                  </imprint>
+               </monogr>
+               <note type="project" rend="bracketed">reprinted in Whitman,
+<hi rend="italic">Leaves of Grass Imprints</hi>(Boston: Thayer &amp; Eldridge, 1860), 32-36</note>
+            </biblStruct>
+
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+      	<change when="2021-02-10" who="#nhg">updated transcription with reference to scan of original</change>
+<change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">fixed capitalization and deleted extraneous punctuation in titleStmt</change>
+         <change who="#cg" when="2005-06-17">Corrected, validated</change>
+         <change who="#cg" when="2005-06-03">Corrected, validated</change>
+         <change who="#fe" when="2004-10-25">Encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"LEAVES OF GRASS."*<!--  [Review of Leaves of Grass (1855)] --></head>
+
+
+         <p>C<hi rend="smallcaps">ARLYLE</hi> represents a contemporary Reviewer, taking leave of the Belles-Lettres' department somewhat in this abrupt manner:
+
+         <q who="Thomas John Carlisle">
+            <floatingText>
+               <body>
+
+                  <p>"The end having come, it is fit that we end—Poetry having ceased to be read, or published, or written, how can it continue to be reviewed? With your Lake Schools, and Border-Thief Schools, and Cockney and Satanic Schools, there has been enough to do; and now, all these Schools having burnt or smouldered themselves out, and left nothing but a wide-spread wreck of ashes, dust, and cinders—or perhaps dying embers, kicked to and fro under the feet of innumerable women and children in the Magazines, and at best blown here and there into transient sputters . . . . What remains but to adjust ourselves to circumstances? Urge me not," continues this desperate <hi rend="italic">Literateur</hi>, "with considerations that Poetry, as the inward Voice of Life, must be perennial; only dead in one form to become alive in another; that this still abundant deluge of Metre, seeing there must needs be fractions of Poetry floating, scattered in it, ought still to be net-fished, at all events, surveyed and taken note of: The survey of English metre, at this epoch, perhaps transcends the human faculties; to hire out the reading of it by estimate, at a remunerative rate per page, would, in a few quarters, reduce the cash-box of any extant review to the verge of insolvency."</p>
+               </body>
+            </floatingText>
+         </q>
+
+         Such is the humorous but essentially truthful picture of the condition and product of the creative faculties during the second quarter of the present century. The great Poets, Byron, Shelley, Wordsworth, Goethe, and Schiller, had fulfilled their tasks and gone to other spheres; and all that remained, with few exceptions, were weak and feeble echoes of their dying strains, caught up and repeated by numerous imitators and pretenders. And so has it ever been; the visions and perceptions of one man become the creed and superficial life-element of other minds. Swedenborg<ref target="n1" xml:id="r1" n="1"/> is worthy to be enrolled among the master-minds of the world, because he entered for himself into the Arcana of the profoundest mysteries that can concern human intelligences; his great thoughts are revolved, quoted and represented in all "New Church" publications, but very rarely digested and assimilated by those who claim to be his followers. Still more rare is it to find any receiver of "the heavenly doctrines" determined to enter for himself into the very interiors of all that Swedenborg taught—to see, not the mighty reflections that Swedenborg was able to give of interior realities, but their originals, as they stand constellated in the heavens!</p>
+
+         <p>But Divine Providence, leading forth the race, as a father the tottering steps of his children, causes the outward form on which all men are prone to rely, to be for ever changing and passing away before their eyes. The seeds of death are ever found <unclear reason="illegible">lurking</unclear> in the fairest external appearances, till those externals become the mere correspondences and representatives of interior realities, and then, though enduring as the fadeless garments of the blest, they are ever-varying, as those robes of light change with each changing state. The Coming Age will recognize the profoundest truths in the internal thought of the Swedish Sage, whilst his most tenacious adherents will be forced to admit that, in externals, he often erred, and was not unfrequently deceived. But the discovered error will not only wean them from a blind and bigoted reliance upon frail man, but confirm the sincere lovers of truth in loyalty to her standard. So, also, the Spiritualists are being taught a severe but salutary lesson, that if they will penetrate into the heavenly Arcana of the Inner Life, they must do so by purifying and elevating their own minds, and not by 'sitting in Circles' or ransacking town and country to find the most 'reliable Mediums.' Still no step in human progress and development is in vain; even the falls of the child are essential to its discipline. The mistakes and errors of men are needful while in their present imperfect state. They are to the seekers of truth what trials and losses are to those in the pursuit of wealth; they but enhance the value of the prize, and confirm the devotion of the true aspirant, as frowns rekindle the ardor of lovers.</p>
+
+         <p>Moreover, as man must ever enter into the kingdom of a new unfolding truth with the simplicity and teachableness of little children, it is well that the outer form of the old disappear, that the new may stand alone in its place. It seems also to be a Law that when a change entire and universal is to be outwrought, the means preparatory to its introduction shall be equally wide-spread, and ultimated to the lowest possible plane. Hence the Spiritual manifestations meet the most external minds; and allow even the unregenerate to know by experience the fact and process of Spiritual inspiration; so that scepticism becomes impossible to the candid and living mind. The second step will be, after such have been convinced, that Spiritual intercourse is possible, that they learn that it is worse than useless for the purpose of attaining any thing desirable, beyond this conviction;—except so far as it orderly and directed, not by the will of man, but of God. But as the old form of poetic inspiration died out with Byron and Shelley, Wordsworth and Goethe, and as the miscellaneous Spirit-intercourse itself, also as quickly passes away, there will, we apprehend, spring up forms of mediatorial inspiration, of which there will be two permanent types. The first and highest, as it seems to us, will be the opening of the interiors to direct influx to the inspiring sources of love and wisdom. The heavens will flow down into the hearts and lives, into the thought and speech of harmonic natures, as the silent dews impregnate the patient earth. Men will live in heaven, hence they must be inspired by that breath of life that fills its ethereal expanse. A second class of Media will be used for the ultimation, for ends of use and in accordance with Laws of Order, of the creative thoughts and hymns, the Epics and Lyrics, of individual Spirits and societies of Spirits. These will be to the former Media as the youthful artist who copies the work of a master, to the Angelos and Raphaels, who both design and execute their plans, though they themselves, in their deepest interiors, are instructed and sustained from above. </p>
+
+         <p>But in the transition period in which we now are, many varieties of Mediumship must be expected. There are those who stand in rapport with the diseased mentalities of the past and present, and pour forth as Divine Revelations the froth and scum of a receding age; they are the sponges who absorb the waste and impurities of humanity. They are also like running sores that gather the corrupt humors and drain the body of its most noxious fluids. There are others who come in contact with the outmost portion of the Spirit-life. These give crude, and in themselves, false notions of the state of man after death; yet they prepare the way for more truthful disclosures; if in no other way by stimulating the appetite for more substantial nourishment. There are those also who are lifted by genial inspirations to receive influxes from the upper mind-sphere of the age. They stand, as it were, on clear mountains of intellectual elevation, and with keenest perception, discern the purer forms of new unfolding truths ere they become sufficiently embodied to be manifest to the grosser minds of the race. Of these, R<hi rend="smallcaps">ALPH</hi> W<hi rend="smallcaps">ALDO</hi> E<hi rend="smallcaps">MERSON</hi>* is the highest type. He sees the future of truths as our Spirit-seers discern the future of man; he welcomes those impalpable forms, as Spiritualists receive with gladdened minds the returning hosts of Spirit-friends.</p>
+
+         <p>There are other mediatorial natures who are in mental and heart-sympathy with man, as he now is, struggling to free himself from the tyranny of the old and effete, and to grasp and retain the new life flowing down from the heavens. And as the kindling rays at first produce more smoke than fire, so their lay is one of promise rather than performance. Such we conceive to be the interior condition of the author of "LEAVES OF GRASS." He accepts man as he is as to his whole nature, and all men as his own brothers. The lambent flame of his genius encircles the world—nor does he clearly discern between that which is to be preserved and that which is but as fuel for the purification of the ore from its dross. There is a wild strength, a Spartan simplicity about the man, and he stalks among the dapper gentlemen of this generation, like a drunken Hercules amid the dainty dancers. That his song is highly mediatorial, he himself asserts, though probably he is unacquainted with the Spiritual developments of the age.</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"Through me," he sings, "many long dumb voices,</l>
+                        <l>Voices of the interminable generations of slaves,</l>
+                        <l>Voices of the diseased and despairing,</l>
+                        <l>Voices of cycles of preparation and accretion,</l>
+                        <l>And of threads that connect the stars,</l>
+                        <l>And of the rights of them the others are down upon.</l>
+                        <l>Through me forbidden voices—voices veiled—</l>
+                        <l>Voices indecent, by me clarified and transfigured."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+
+         <p>We omit much even in this short extract, for the book abounds in passages that cannot be quoted in drawing-rooms, and expressions that fall upon the tympanums of ears polite, with a terrible dissonance. His very gate, as he walks through the world, makes dainty people nervous, and conservatives regard him as a social revolution. His style is everywhere graphic and strong, and he sings many things before untouched in prose or rhyme, in an idiom that is neither prose nor rhyme, nor yet orthodox blank verse. But it serves his purpose well. He wears his strange garb, cut and made by himself, as gracefully as a South-American cavalier his poncho. We will continue our quotations:—</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"A child said, What is the grass? fetching it to me with full hands;</l>
+<l>How could I answer the child? I do not know what it is any more than he.</l>
+<l>I guess it is the flag of my disposition, out of hopeful green stuff woven.</l>
+<l>Or I guess it is the handkerchief of the Lord,</l>
+<l>A scented gift and remembrancer designedly dropt,</l>
+<l>Bearing the Owner's name someway in the corners, that we may see and remark,
+and say, Whose?</l>
+<l>And now it seems to me <hi rend="italic">the beautiful uncut hair of graves</hi>."</l>
+                     </lg>
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>A Swedenborgian will easily perceive that he does not understand the language of correspondences, as unfolded by 'our Author;' nevertheless there is often a deep insight and profound Spiritual truth veiled in his singular allusions. But to continue:—</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00048" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                        <l>"I am the Poet of Woman as well as of Man,</l>
+<l>And I say it is as great to be a Woman as to be a Man,</l>
+<l>And I say there is nothing greater than the Mother of Men."</l>
+<l>"I am a free companion—I bivouac by invading watch-fires."</l>
+<l>"My voice is the wife's voice, the screech by the rail of the stairs:</l>
+<l>They fetch my man's body up dripping and drowned."</l>
+                     </lg>
+                     <lg type="linegroup">
+                     	<l>I understand the large hearts of heroes,</l>
+<l>The courage of present times and all times;</l>
+<l>How the skipper saw the crowded and rudderless wreck of the steamship, and death
+chasing it up and down the storm,</l>
+<l>How he knuckled tight and gave not back one inch, and was faithful of days and
+faithful of nights,</l>
+<l>And chalked in large letters on a board, Be of good cheer, We will not desert you;</l>
+<l>How he saved the drifting company at last,</l>
+<l>How the lank loose-gowned women looked when boated from the side of their
+prepared graves,</l>
+<l>How the silent old-faced infants, and the lifted sick, and the sharp-lipped unshaved
+men;</l>
+<l>All this I swallow and it tastes good&#8212;I like it well, and it becomes mine,</l>
+<l>I am the man&#8212;I suffered&#8212;I was there.</l>
+</lg>
+<lg type="linegroup">
+<l>The disdain and calmness of martyrs,</l>
+<l>The mother condemned for a witch and burnt with dry wood, and her children
+gazing on;</l>
+<l>The hounded slave that flags in the race and leans by the fence, blowing and
+covered with sweat,</l>
+<l>The twinges that sting like needles his legs and neck,</l>
+<l>The murderous buckshot and the bullets,</l>
+<l>All these I feel or am.</l>
+</lg>
+<lg type="linegroup">
+<l>I am the hounded slave&#8212;I wince at the bite of the dogs,</l>
+<l>Hell and despair are upon me&#8212;crack and again crack the marksmen,</l>
+<l>I clutch the rails of the fence&#8212;my gore dribs thinned with the ooze of my skin,</l>
+<l>I fall on the weeds and stones,</l>
+<l>The riders spur their unwilling horses and haul close,</l>
+<l>They taunt my dizzy ears&#8212;they beat me violently over the head with their
+whip-stocks.</l>
+</lg>
+<lg type="linegroup">
+<l>Agonies are one of my changes of garments;</l>
+<l>I do not ask the wounded person how he feels&#8212;I myself become the wounded
+person,</l>
+<l>My hurt turns livid upon me as I lean on a cane and observe.</l>
+</lg>
+<lg type="linegroup">
+<l>I am the mashed fireman with breastbone broken&#8212;tumbling walls buried me in
+their debris,</l>
+<l>Heat and smoke I inspired&#8212;I heard the yelling shouts of my comrades,</l>
+<l>I heard the distant click of their picks and shovels;</l>
+<l>They have cleared the beams away&#8212;they tenderly lift me forth.</l>
+</lg>
+<lg type="linegroup">
+<l>I lie in the night air in my red shirt&#8212;the pervading hush is for my sake,</l>
+<l>Painless after all I lie exhausted but not so unhappy,</l>
+<l>White and beautiful are the faces around me&#8212;the heads are bared of their firecaps,</l>
+<l>The kneeling crowd fades with the light of the torches.</l>
+                  </lg>
+                  <lg type="linegroup">
+               <l>Distant and dead resuscitate,</l>
+               <l>They show as the dial or move as the hands of me&#8212;and I am the clock myself.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>I am an old artillerist, and tell of some fort's bombardment&#8212;and am there again.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Again the reveille of drummers&#8212;again the attacking cannon and mortars and howitzers,</l>
+               <l>Again the attacked send their cannon responsive.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>I take part&#8212;I see and hear the whole,</l>
+               <l>The cries and curses and roar&#8212;the plaudits for well aimed shots,</l>
+               <l>The ambulanza slowly passing and trailing its red drip,</l>
+               <l>Workmen searching after damages and to make in dispensible repairs,</l>
+               <l>The fall of grenades through the rent roof&#8212;the fan-shaped explosion,</l>
+               <l>The whizz of limbs, heads, stone. wood and iron high in the air.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Again gurgles the mouth of my dying general&#8212;he furiously waves with his hand,</l>
+               <l>He gasps through the clot&#8212;mind not me&#8212;mind&#8212;the entrenchments.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>I tell not the fall of Alamo&#8212;not one escaped to tell the fall of Alamo,</l>
+               <l>The hundred and fifty are dumb yet at Alamo.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Hear now the tale of a jetblack sunrise,</l>
+               <l>Hear of the murder in cold blood of four hundred and twelve young men.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Retreating they had formed in a hollow square with their baggage for breastworks,</l>
+               <l>Nine hundred lives out of the surrounding enemy's nine times their number was the price they took in advance,</l>
+               <l>Their colonel was wounded and their ammunition gone,</l>
+               <l>They treated for an honorable capitulation, received writing and seal, gave up their arms, and marched back prisoners of war.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>They were the glory of the race of rangers,</l>
+               <l>Matchless with a horse, a rifle, a song, a supper or a courtship,</l>
+               <l>Large, turbulent, brave, handsome, generous, proud and affectionate,</l>
+               <l>Bearded, sunburnt, dressed in the free costume of hunters,</l>
+               <l>Not a single one over thirty years of age.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>The second Sunday morning they were brought out in squads and massacred&#8212;it was beautiful early summer,</l>
+               <l>The work commenced about five o'clock and was over by eight.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>None obeyed the command to kneel,</l>
+               <l>Some made a mad and helpless rush&#8212;some stood stark and straight,</l>
+               <l>A few fell at once, shot in the temple or heart&#8212;the living and dead lay together</l> 
+               <l>The maimed and mangled dug in the dirt&#8212;the new-comers saw them there;</l>
+               <l>Some, half killed, attempted to crawl away,</l>
+               <l>These were dispatched with bayonets or battered with the blunts of muskets;</l>
+               <l>A youth, not seventeen years old, seized his assassin till two more came to release him.</l>
+               <l>The three were all torn, and covered with the boy's blood.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>At eleven o'clock began the burning of the bodies;</l>
+               <l>And that is the tale of the murder of the four hundred and twelve young men,</l>
+               <l>And that was a jetblack sunrise.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Did you read in the sea-books of the oldfashioned frigate-fight?</l>
+               <l>Did you learn who won by the light of the moon and stars?</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Our foe was no skulk in his ship, I tell you,</l>
+               <l>His was the English pluck, and there is no tougher or truer, and never was, and never will be;</l>
+               <l>Along the lowered eve he came, horribly raking us.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>We closed with him&#8212;the yards entangled&#8212;the cannon touched,</l>
+               <l>My captain lashed fast with his own hands.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>We had received some eighteen-pound shots under the water,</l>
+               <l>On our lower-gun-deck two large pieces had burst at the first fire, killing all around and blowing up overhead.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Ten o'clock at night, and the full moon shining and the leaks on the gain, and five feet of water reported,</l>
+               <l>The master-at-arms loosing the prisoners confined in the after-hold to give them a chance for themselves.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>The transit to and from the magazine was now stopped by the sentinels,</l>
+               <l>They saw so many strange faces they did not know whom to trust.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Our frigate was afire&#8212;the other asked if we demanded quarters? if our colors were struck and the fighting done?</l>
+            </lg>
+            <lg type="linegroup">
+               <l>I laughed content when I heard the voice of my little captain.</l>
+               <l>We have not struck, he composedly cried; we have just begun our part of the fighting.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Only three guns were in use.</l>
+               <l>One was directed, by the captain himself, against the enemy's mainmast.</l>
+               <l>Two, well-served with grape and canister, silenced his musketry and cleared his decks.</l>
+            </lg> 
+            <lg type="linegroup">
+               <l>The tops alone seconded the fire of this little battery, especially the maintop.</l>
+               <l>They all held out bravely during the whole of the action.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Not a moment's cease;</l>
+               <l>The leaks gained fast on the pumps&#8212;the fire eat toward the powder-magazine;</l>
+               <l>One of the pumps was shot away&#8212;it was generally thought we were sinking.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Serene stood the little captain;</l>
+               <l>He was not hurried&#8212;his voice was neither high nor low;</l>
+               <l>His eyes gave more light to us than our battle-lanterns.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Toward twelve at night, there, in the beams of the moon, they surrendered to us.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Stretched and still lay the midnight,</l>
+               <l>Two great hulls motionless on the breast of the darkness,</l>
+               <l>Our vessel riddled and slowly sinking&#8212;preparations to pass to the one we had conquered,</l>
+               <l>The captain on the quarter-deck coldly giving his orders through a countenance white as a sheet,</l>
+               <l>Near by the corpse of the child that served in the cabin,</l>
+               <l>The dead face of an old salt, with long white hair and carefully curled whiskers,</l>
+               <l>The flames, spite of all that could be done, flickering aloft and below,</l>
+               <l>The husky voices of the two or three officers yet fit for duty,</l>
+               <l>Formless stacks of bodies and bodies by themselves&#8212;dabs of flesh upon the masts and spars,</l>
+               <l>The cut of cordage and dangle of rigging&#8212;the slight shock of the soothe of waves,</l>
+               <l>Black and impassive guns, and litter of powder parcels, and the strong scent,</l>
+               <l>Delicate sniffs of the seabreeze&#8212;smells of sedgy grass and fields by the shore&#8212;death-messages given in charge to survivors,</l>
+               <l>The hiss of the surgeon's knife and the gnawing teeth of his saw,</l>
+               <l>The wheeze, the cluck, the swash of falling blood&#8212;the short wild scream, the long dull tapering groan,</l>
+               <l>These so&#8212;these irretrievable.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>O Christ! My fit is mastering me!</l>
+               <l>What the rebel said gaily adjusting his throat to the rope-noose,</l>
+               <l>What the savage at the stump, his eye-sockets empty, his mouth spirting whoops and defiance,</l>
+               <l>What stills the traveller come to the vault at Mount Vernon,</l>
+               <l>What sobers the Brooklyn boy as he looks down the shores of the Wallabout and remembers the prison ships,</l>
+               <l>What burnt the gums of the redcoat at Saratoga when he surrendered his brigades,</l>
+               <l>These become mine and me every one, and they are but little,</l>
+               <l>I become as much more as I like.</l>
+            </lg> 
+            <lg type="linegroup">
+               <l>I become any presence or truth of humanity here,</l>
+               <l>And see myself in prison shaped like another man,</l>
+               <l>And feel the dull unintermitted pain.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>For me the keepers of convicts shoulder their carbines and keep watch,</l>
+               <l>It is I let out in the morning and barred at night.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Not a mutineer walks handcuffed to the jail, but I am handcuffed to him and walk by his side,</l>
+               <l>I am less the jolly one there, and more the silent one with sweat on my twitching lips.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Not a youngster is taken for larceny, but I go up too and am tried and sentenced.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Not a cholera patient lies at the last gasp, but I also lie at the last gasp,</l>
+               <l>My face is ash-colored, my sinews gnarl&#8212;away from me people retreat.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Askers embody themselves in me, and I am embodied in them,</l>
+               <l>I project my hat and sit shamefaced and beg.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>I rise extatic through all, and sweep with the true gravitation,</l>
+               <l>The whirling and whirling is elemental within me.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Somehow I have been stunned. Stand back!</l>
+               <l>Give me a little time beyond my cuffed head and slumbers and dreams and gaping,</l>
+               <l>I discover myself on a verge of the usual mistake.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>That I could forget the mockers and insults!</l>
+               <l>That I could forget the trickling tears and the blows of the bludgeons and hammers!</l>
+               <l>That I could look with a separate look on my own crucifixion and bloody crowning!"</l>
+           </lg>
+       </lg>
+               </body>
+            </floatingText>
+         </q>
+
+         <p>Such are the graphic pictures which this new world-painter flings from his easel and dashes upon the moving panorama of life. His night-thoughts are not less striking, as borne by the Muse, he looks into every chamber, and hears the quiet breathing of slumbering humanity:&#8212;</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00264" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+                     	<l>"I wander all night in my vision,</l>
+               <l>Stepping with light feet&#8212;swiftly and noiselessly stepping and stopping,</l>
+               <l>Bending with open eyes over the shut eyes of sleepers;</l>
+               <l>Wandering and confused&#8212;lost to myself&#8212;ill-assorted&#8212;contradictory,</l>
+               <l>Pausing and gazing and bending and stopping.</l>
+                     </lg>
+                     <lg type="linegroup">
+               <l>How solemn they look there, stretched and still;</l>
+               <l>How quiet they breathe, the little children in their cradles.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>The blind sleep, and the deaf and dumb sleep,</l>
+               <l>The prisoner sleeps well in the prison&#8212;the runaway son sleeps,</l> 
+               <l>The murderer that is to be hung next day&#8212;how does he sleep?</l>
+               <l>And the murdered person&#8212;how does he sleep?</l>
+            </lg>
+            <lg type="linegroup">
+               <l>The female that loves, unrequited sleeps,</l>
+               <l>And the male that loves, unrequited sleeps;</l>
+               <l>The head of the moneymaker that plotted all day, sleeps,</l>
+               <l>And the enraged and treacherous dispositions, sleep."</l>
+            </lg>
+                 </lg>
+             </body>
+         </floatingText>
+     </q>
+
+         <p>As the volume advances towards its conclusion, the Spirit of the Poet becomes calmer and more serenely elevated. But everywhere his sympathy is with <hi rend="italic">man</hi>, and not with conventionalisms:&#8212;</p>
+
+         <q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00264" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+               <l>"A red squaw came one breakfasttime to the old homestead,</l>
+               <l>On her back she carried a bundle of rushes for rushbottoming chairs;</l>
+               <l>Her hair straight shiny coarse black and profuse half enveloped her face,</l>
+               <l>Her step was free and elastic&#8212;her voice sounded exquisitely as she spoke.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>My mother looked in delight and amazement at the stranger,</l>
+               <l>She looked at the beauty of her tallborne face and full and pliant limbs,</l>
+               <l>The more she looked upon her she loved her,</l>
+               <l>Never before had she seen such wonderful beauty and purity;</l>
+               <l>She made her sit on a bench by the jamb of the fire-place&#8212;she cooked food for her,</l>
+               <l>She had no work to give her but she gave her remembrance and fondness.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>The red squaw staid all the forenoon, and toward the middle of the afternoon she went away;</l>
+               <l>O my mother was loth to have her go away,</l>
+               <l>All the week she thought of her&#8212;she watched for her many a month,</l>
+               <l>She remembered her many a winter and many a summer,</l>
+               <l>But the red squaw never came nor was heard of there again."</l>
+            </lg>
+        </lg>
+    </body>
+</floatingText>
+</q>
+
+<p>The following also may be taken as a counterpart of the beautiful womanhood of the forest:&#8212;</p>
+
+<q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                  <lg type="poem">
+                     <relations>
+                        <work ref="xxx.00052" cert="absolute"/>
+                     </relations>
+                     <lg type="linegroup">
+               <l>"I knew a man&#8212;he was a common farmer&#8212;he was the father of five sons&#8212;and in them were the fathers of sons&#8212;and in them were the fathers of sons.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>This man was of wonderful vigor and calmness and beauty of person;</l>
+           </lg>
+           <lg type="linegroup">
+               <l>The shape of his head, the richness and breadth of his manners, the pale yellow and white of his hair and beard, the immeasurable meaning of his black eyes,</l>
+               <l>These I used to go and visit him to see&#8212;he was wise also,</l>
+               <l>He was six feet tall&#8212;he was over eighty years old&#8212;his sons were massive clean bearded tanfaced and handsome,</l> 
+               <l>They and his daughters loved him&#8212;all who saw him loved him&#8212;they did not love him by allowance&#8212;they loved him with personal love;</l>
+               <l>He drank water only&#8212;the blood showed like scarlet through the clear brown skin of his face;</l>
+               <l>He was a frequent gunner and fisher&#8212;he sailed his boat himself&#8212;he had a fine one presented to him by a shipjoiner&#8212;he had fowling-pieces, presented to him by men that loved him;</l>
+               <l>When he went with his five sons and many grandsons to hunt or fish you would pick him out as the most beautiful and vigorous of the gang.</l>
+               <l>You would wish long and long to be with him&#8212;you would wish to sit by him in the boat that you and he might touch each other.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>I have perceived that to be with those I like is enough,</l>
+               <l>To stop in company with the rest at evening is enough,</l>
+               <l>To be surrounded by beautiful curious breathing laughing flesh is enough,</l>
+               <l>To pass among them&#8212;to touch any one&#8212;to rest my arm ever so lightly round his or her neck for a moment&#8212;what is this then?</l>
+               <l>I do not ask any more delight&#8212;I swim in it as in a sea."</l>
+            </lg>
+        </lg>
+    </body>
+</floatingText>
+</q>
+
+<p>And now with a paragraph from the Preface&#8212;which is not less unique and original than the Poem itself&#8212;we will close our lengthened extracts:&#8212;
+
+<q who="Walt Whitman" type="printed">
+            <floatingText>
+               <body>
+                     <relations>
+                        <work ref="xxx.00526" cert="absolute"/>
+                     </relations>
+                     <p>"A great poem is for ages and ages in common and for all degrees and complexions and all departments and sects and for a woman as much as a man and a man as much as a woman. A great poem is no finish to a man or woman but rather a beginning. Has any one fancied he could sit a last under some due authority and rest satisfied with explanations and realize and be content and full? To no such terminus does the greatest poet bring . . . he brings neither cessation or sheltered fatness and ease. The touch of him tells in action. Whom he takes he takes with firm sure grasp into live regions previously unattained . . . thenceforward is no rest . . . they see the space and ineffable sheen that turn the old spots and lights into dead vacuums. The companion of him beholds the birth and progress of stars and learns one of the meanings. Now there shall be a man cohered out of tumult and chaos . . . the elder encourages the younger and shows him how . . . . they two shall launch off fearlessly together till the new world fits an orbit for itself and looks unabashed on the lesser orbits of the stars and sweeps through the ceaseless rings and shall never be quiet again."</p>
+           
+            <p>"The poems distilled from other poems will probably pass away. The coward will surely pass away. The expectation of the vital and great can only be satisfied by the demeanor of the vital and great. The swarms of the polished and deprecating the reflectors and the polite, float off and leave no remembrance. America prepares with composure and goodwill for the visitors that have sent word. It is not intellect that is to be their warrant and welcome. The talented, the artist, the ingenious, the editor, the statesman, the erudite . . . they are not unappreciated . . . they fall in their place and do their work. The soul of the nation also does its work. No disguise can pass on it . . . no disguise can conceal from it.  It rejects none, it permits all. Only towards as good as itself and toward the like of itself will it advance half way. An individual is as superb as a nation when he has the qualities which make a superb nation. The soul of the largest and wealthiest and proudest nation may well go half way to meet that of its poets. The signs are effectual. There is no fear of mistake. If the one is true the other is true. The proof of a poet is that his country absorbs him as affectionately as he has absorbed it."</p>
+    
+    </body>
+    </floatingText>
+</q>
+</p>
+
+         <p>But we cannot take leave of this remarkable volume without advising our friends, who are not too delicately nerved, to study the work as a sign of the times; written, as we perceive, under powerful influxes; a prophecy and promise of much that awaits all who are entering with us into the opening doors of a new Era. A portion of that thought, which broods over the American nation, is here seized and bodied forth by a son of the people, rudely, wildly, and with some perversions, yet strongly and genuinely, according to the perception of this bold writer. He is the young Hercules who has seized the serpents that would make him and us their prey; but instead of strangling, he would change them to winged and beautiful forms, who shall become the servants of mankind.</p>
+
+         <p>H<hi rend="smallcaps">ESPERUS</hi>.</p>
+
+         <milestone unit="undeclared" rend="horbar-short-center"/>
+
+         <p>* L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>: Brooklyn, N. Y., 1855. [Quarto, with Portrait. Price $1. Sold by Fowlers &amp; Wells, 308 Broadway.]</p>
+
+         <p>* Perhaps our readers would not unwillingly hear what the Boston philosopher has to say to this young son of Anak. We find the following in the New York Tribune: 
+<q type="printed">
+            <floatingText>
+               <body>
+               	<p>"L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>."—We some time since had occasion to call the attention of our readers to this original and striking collection of Poems, by Mr. Whitman, of Brooklyn. In so doing, we could not avoid noticing certain faults which seemed to us to be prominent in the work. The following opinion, from a distinguished source, views the matter from a more positive and less critical standpoint:—</p>
+               	<ab>"C<hi rend="smallcaps">ONCORD</hi>, Mass, July 21, 1855.</ab>
+               	<p>D<hi rend="smallcaps">EAR</hi> S<hi rend="smallcaps">IR</hi>: I am not blind to the worth of the wonderful gift of 'Leaves of Grass.' I find it the most extraordinary piece of wit and wisdom that America has yet contributed. I am very happy in reading it, as great power makes us happy. It makes the demand I am always making of what seemed the sterile and stingy nature, as if too much handiwork, or too much lymph in the temperament, were making our western wits fat and mean.</p>
+               	<p>"I give you joy of your free and brave thought. I have great joy in it. I find incomparable things said incomparably well, as they must be. I find the courage of treatment which so delights us, and which large perception only can inspire.</p>
+               	<p>"I great you at the beginning of a great career, which yet must have had a long foreground somewhere for such a start. I rubbed my eyes a little to see if this sunbeam were no illusion; but the solid sense of the book is a sober certainty. It has the best merits, namely, of fortifying and encouraging.</p>
+               	<p>"I did not know until I last night saw the book advertised in a newspaper that I could trust the name as real and available for a Post-office. I wish to see my benefactor, and have felt much like striking my tasks and visiting New York, to pay you my respects.</p>
+               	<ab>Walt. Whitman.</ab>
+               	<ab>R. W. E<hi rend="smallcaps">MERSON</hi>."</ab>
+               </body>
+           </floatingText>
+       </q>
+
+         </p>
+
+      </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" xml:id="n1" target="r1" n="1">
+Emanuel Swedenborg (1688-1772) was a Swedish scientist, Christian mystic, philosopher and theologian.  He wrote prolifically about his dream- and vision-inspired interpretations of the Scriptures and Christianity.  His followers formed the Church of the New Jerusalem or, New Church, based on his principles.
+</note>
+            </p>
+         </div1>
+      </back>
+   </text>
+</TEI>
