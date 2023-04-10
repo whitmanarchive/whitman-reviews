@@ -62,6 +62,10 @@ class TeiToEs
     "Commentary"
   end
 
+  def category2
+    "Commentary / Reviews"
+  end
+
   # note this does not sort the creators
   def creator
     people = []
@@ -147,10 +151,6 @@ class TeiToEs
       break if source && source.length > 0
     end
     source
-  end
-
-  def category2
-    "reviews"
   end
 
   # TODO text field requires an override for source
