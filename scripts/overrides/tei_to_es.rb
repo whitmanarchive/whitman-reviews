@@ -1,3 +1,4 @@
+require_relative "../../../whitman-scripts/scripts/ruby/get_works_info.rb"
 class TeiToEs
 
   ################
@@ -64,6 +65,28 @@ class TeiToEs
 
   def category2
     "Commentary / Reviews"
+  end
+
+  def citation
+    # WorksInfo is get_works_info.rb in whitman-scripts repo
+    @works_info = WorksInfo.new(xml, @id, work_xpath = ".//relations/work/@ref")
+    ids, names = @works_info.get_works_info
+    citations = []
+    if ids && ids.length > 0
+      ids.each_with_index do |id, idx|
+        name = names[idx]
+        citations << {
+          "id" => id,
+          "title" => name,
+          "role" => "whitman_id"
+        }
+      end
+    end
+    pub = get_text(@xpaths["source"])
+    if !pub.empty? 
+      citations << { "publisher" => pub }
+    end
+    citations
   end
 
   # note this does not sort the creators
@@ -133,14 +156,6 @@ class TeiToEs
 
   def rights_uri
     get_text(@xpaths["rights_uri"])
-  end
-
-  # TODO can change this behavior once datura is updated to
-  # return nil instead of empty strings
-  # TODO reusing source but look into whether this is actually the publisher
-  def citation
-    pub = get_text(@xpaths["source"])
-    pub.empty? ? nil : { "publisher" => pub }
   end
 
   # TODO source_sort not added
