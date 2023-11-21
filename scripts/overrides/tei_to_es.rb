@@ -69,7 +69,7 @@ class TeiToEs
 
   def citation
     # WorksInfo is get_works_info.rb in whitman-scripts repo
-    @works_info = WorksInfo.new(xml, @id, work_xpath = ".//relations/work/@ref")
+    @works_info = WorksInfo.new(xml, @id, @options["threads"], work_xpath = ".//relations/work/@ref")
     ids, names = @works_info.get_works_info
     citations = []
     if ids && ids.length > 0
