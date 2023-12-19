@@ -24,6 +24,18 @@
   <!-- For display in TEI framework, have changed all namespace declarations to http://www.tei-c.org/ns/1.0. If different (e.g. Whitman), will need to change -->
   <xsl:output method="xml" indent="no" encoding="UTF-8" omit-xml-declaration="no"/>
   
+  <!-- consider moving to overrides.xsl -->
+  <xsl:template match="hi[@rend='superscript']">
+    <sup>
+      <xsl:attribute name="class">
+        <xsl:value-of select="@rend"/>
+        <xsl:text> </xsl:text>
+        <xsl:call-template name="add_attributes"/>
+      </xsl:attribute>
+      <xsl:apply-templates/>
+    </sup>
+  </xsl:template>
+  
   <!-- add overrides for this section here -->
   
   <xsl:variable name="top_metadata">
@@ -85,6 +97,83 @@
         </li>
     </ul>
   </xsl:variable>
+
+
+  <!-- notes -->  
+    <xsl:template match="text//ref">
+      <xsl:choose>
+        <xsl:when test="@n">
+          <a>
+            <xsl:attribute name="href">
+                <xsl:text>#</xsl:text>
+                <xsl:value-of select="@target"/>
+            </xsl:attribute>
+            <sup class="footnote_sup_link">
+                <xsl:attribute name="id">
+                    <xsl:text>ref_</xsl:text>
+                    <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
+                <xsl:value-of select="@n"/>
+            </sup>
+        </a>
+        </xsl:when>
+      <!-- display non-linked, non-footnote <ref>s like * and † in anc.00065 -->
+        <xsl:otherwise>
+          <xsl:apply-templates />
+        </xsl:otherwise>
+      </xsl:choose>
+        
+    </xsl:template>
+    
+    <xsl:template match="text">
+      <xsl:apply-templates/>
+      <xsl:if test="//note[@type='editorial'] or //note[@type='authorial']">
+        <hr />
+        <div class="notes">
+          <h3 span="notes_title">Notes</h3>
+          <xsl:for-each select="//text//note">
+            <p>
+              <xsl:attribute name="id">
+                  <xsl:value-of select="@xml:id"/>
+              </xsl:attribute>
+              <xsl:value-of select="count(preceding::note[ancestor::text]) +1"/>
+              <xsl:text>. </xsl:text>
+              <xsl:apply-templates/>
+              <xsl:text> [</xsl:text>
+              <a>
+                  <xsl:attribute name="href">
+                      <xsl:text>#ref_</xsl:text>
+                      <xsl:value-of select="@target"/>
+                  </xsl:attribute>
+                  <xsl:text>back</xsl:text>
+              </a>
+              <xsl:text>]</xsl:text>
+            </p>
+                <xsl:text>
+          
+        </xsl:text>
+          </xsl:for-each>
+        </div>
+      </xsl:if>
+    </xsl:template>
+
+    <!-- don't display div1 notes as if it's part of the text -->
+    <xsl:template match="//div1[@type='notes']">
+    </xsl:template>
+
+    <!-- / notes -->
+
+
+  <!-- sic and corr -->
+  <!-- overriding because (in anc.00062 at least) sic is shown and corr is hidden -->
+  <xsl:template match="choice[child::sic]">
+    <span class="tei_choice">
+      <span class="tei_sic tei_sic_no_strikethrough">
+        <xsl:value-of select="sic"/>&#8203;
+      </span>
+    </span>
+  </xsl:template>
+<!-- / sic and corr -->
 
 
 
