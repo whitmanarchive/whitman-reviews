@@ -98,9 +98,8 @@
     </ul>
   </xsl:variable>
 
-
-  <!-- notes -->  
-    <xsl:template match="text//ref">
+  <!-- <ref>s footnotes -->  
+    <xsl:template match="text//ref[@target]">
       <xsl:choose>
         <xsl:when test="@n">
           <a>
@@ -117,14 +116,97 @@
             </sup>
         </a>
         </xsl:when>
-      <!-- display non-linked, non-footnote <ref>s like * and † in anc.00065 -->
+      <!-- make sure non-linked, non-footnote <ref>s like * and † in anc.00065 are still displayed -->
         <xsl:otherwise>
           <xsl:apply-templates />
         </xsl:otherwise>
       </xsl:choose>
         
     </xsl:template>
-    
+
+    <!-- / <ref>s footnotes -->
+
+    <!-- don't display duplicated <div1 type="notes"> -->
+      <xsl:template match="//div1[@type='notes']">
+      </xsl:template>
+    <!-- / don't display -->
+
+  <!-- note -->
+  <xsl:template match="note">
+    <xsl:choose>
+      <xsl:when test="@place='foot'">
+        <span>
+          <xsl:attribute name="class">
+            <xsl:call-template name="add_attributes"/>
+            <xsl:text>foot </xsl:text>
+          </xsl:attribute>
+          <xsl:if test="@xml:id">
+            <xsl:attribute name="id" select="@xml:id"/>
+          </xsl:if>
+          <a>
+            <xsl:attribute name="href">
+              <xsl:text>#</xsl:text>
+              <xsl:text>foot</xsl:text>
+              <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+            <xsl:attribute name="id">
+              <xsl:text>body</xsl:text>
+              <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+
+            <xsl:text>(</xsl:text>
+            <xsl:value-of select="substring(@xml:id, 2)"/>
+            <xsl:text>)</xsl:text>
+          </a>
+        </span>
+      </xsl:when>
+
+      <!-- resp wwa from legacy_xslt -->
+      <xsl:when test="@resp='wwa'">
+        <span>
+          <sup xmlns="http://www.w3.org/1999/xhtml">
+            <a>
+              <xsl:attribute name="href">
+                <xsl:text>#</xsl:text>
+                <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+            <xsl:attribute name="id">
+              <xsl:text>r</xsl:text>
+              <xsl:number count="note[@resp='wwa']" level="any"/></xsl:attribute>
+              <xsl:number count="note[@resp='wwa']" level="any"/>
+            </a>
+          </sup>
+        </span>
+      </xsl:when>
+      <!-- /resp wwa -->
+
+      <!-- rep unk from legacy_xslt -->
+      <xsl:when test="@resp='unk'">
+        <p>
+        <xsl:apply-templates/></p>
+      </xsl:when>
+      <!-- / resp unk -->
+
+      <xsl:otherwise>
+        <span>
+          <xsl:attribute name="class">
+            <xsl:call-template name="add_attributes"/><xsl:text> </xsl:text>
+            <xsl:value-of select="name()"/>
+          </xsl:attribute>
+          <xsl:if test="@xml:id">
+            <xsl:attribute name="id" select="@xml:id"/>
+          </xsl:if>
+          <span>
+            <xsl:apply-templates/>
+            <xsl:text> </xsl:text>
+          </span>
+        </span>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
+
+   <!-- move notes to end of doc -->
     <xsl:template match="text">
       <xsl:apply-templates/>
       <xsl:if test="//note[@type='editorial'] or //note[@type='authorial']">
@@ -141,11 +223,11 @@
               <xsl:apply-templates/>
               <xsl:text> [</xsl:text>
               <a>
-                  <xsl:attribute name="href">
-                      <xsl:text>#ref_</xsl:text>
-                      <xsl:value-of select="@target"/>
-                  </xsl:attribute>
-                  <xsl:text>back</xsl:text>
+                <xsl:attribute name="href">
+                    <xsl:text>#ref_</xsl:text>
+                    <xsl:value-of select="@target"/>
+                </xsl:attribute>
+                <xsl:text>back</xsl:text>
               </a>
               <xsl:text>]</xsl:text>
             </p>
@@ -156,12 +238,7 @@
         </div>
       </xsl:if>
     </xsl:template>
-
-    <!-- don't display div1 notes as if it's part of the text -->
-    <xsl:template match="//div1[@type='notes']">
-    </xsl:template>
-
-    <!-- / notes -->
+  <!-- / move notes -->
 
 
   <!-- sic and corr -->
