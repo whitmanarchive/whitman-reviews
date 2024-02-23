@@ -76,7 +76,7 @@
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>
          <change who="#vs" when="2010-03-05">checked and approved encoding and transcription</change>
-         <change who="#br" when="2010-01-27">copied and encoded from image of original</change>
+         <change who="#br" when="2010-01-27">transcribed and encoded from image of original</change>
       </revisionDesc>
    </teiHeader>
    <text>
