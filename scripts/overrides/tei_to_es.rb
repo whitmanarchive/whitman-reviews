@@ -1,3 +1,6 @@
+require_relative "../../../whitman-scripts/scripts/ruby/get_works_info.rb"
+require_relative "../../../whitman-scripts/scripts/archive-wide/overrides.rb"
+
 class TeiToEs
 
   ################
@@ -7,25 +10,27 @@ class TeiToEs
   # in the below example, the xpath for "person" is altered
   def override_xpaths
     xpaths = {}
-    # xpaths["date"] = "/TEI/text[1]/body[1]/head[1]/date[1]/@when"
-    #   # a non normalized date taken directly from the source material ("Dec 9", "Winter 1889")
-    # xpaths["date_display"] = "/TEI/text[1]/body[1]/head[1]/date"
     # xpaths["image_id"] = "/TEI/text/body/pb/@n"
     # xpaths["person"] = "//q/@who"
     # xpaths["source"] = "/TEI/teiHeader/fileDesc/sourceDesc//bibl[1]"
+    xpaths["contributors"] =
+      ["/TEI/teiHeader/fileDesc/titleStmt/respStmt/persName"]
     xpaths["creators"] = {
         "header" => "/TEI/teiHeader/fileDesc/titleStmt/author",
         "bibl" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/analytic/author",
         "in_text" => "//persName[@type = 'author']"
     }
     xpaths["date"] = {
-      "notBefore" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@notBefore",
       "when" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date/@when"
     }
-    xpaths["date_display"] = {
-      "imprint" => "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date",
-      "default" => "TEI/teiHeader/fileDesc/sourceDesc/bibl/date"
-    }
+    xpaths["date_display"] =
+      "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct/monogr/imprint/date"
+    xpaths["format"] = "/TEI/text/@type"
+    xpaths["rights"] = "/TEI/teiHeader/fileDesc/publicationStmt/availability"
+    xpaths["rights_holder"] =
+      "/TEI/teiHeader/fileDesc/publicationStmt/distributor"
+    xpaths["rights_uri"] =
+      "/TEI/teiHeader/fileDesc/publicationStmt/availability//ref/@target"
     xpaths["source"] = [
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level = 'j']",
       "/TEI/teiHeader/fileDesc/sourceDesc/biblStruct[1]/monogr/title[@level = 'j']",
@@ -59,9 +64,31 @@ class TeiToEs
   def category
     "Commentary"
   end
-  
-  def subcategory
-    "Commentary / Contemporary Reviews"
+
+  def category2
+    "Commentary / Reviews"
+  end
+
+  def citation
+    # WorksInfo is get_works_info.rb in whitman-scripts repo
+    @works_info = WorksInfo.new(xml, @id, @options["threads"], work_xpath = ".//relations/work/@ref")
+    ids, names = @works_info.get_works_info
+    citations = []
+    if ids && ids.length > 0
+      ids.each_with_index do |id, idx|
+        name = names[idx]
+        citations << {
+          "id" => id,
+          "title" => name,
+          "role" => "whitman_id"
+        }
+      end
+    end
+    pub = get_text(@xpaths["source"])
+    if !pub.empty? 
+      citations << { "publisher" => pub }
+    end
+    citations
   end
 
   # note this does not sort the creators
@@ -105,17 +132,13 @@ class TeiToEs
   end
 
   def date_display
-    date = get_text(@xpaths["date_display"]["imprint"])
-    if date.empty?
-      date = get_text(@xpaths["date_display"]["default"])
-    end
-    date
+    get_text(@xpaths["date_display"])
   end
 
   # TODO in production solr index this is always blank string, I am assuming it's a periodical
   # for the purposes of this first quick pass
   def format
-    "periodical"
+    get_text(@xpaths["format"])
   end
 
   def language
@@ -123,19 +146,18 @@ class TeiToEs
     "en"
   end
 
-  def languages
-    # TODO verify that none of these are multiple languages
-    [ "en" ]
+  # def languages
+  #   # TODO verify that none of these are multiple languages
+  #   [ "en" ]
+  # end
+
+  # TODO medium, person
+  def rights
+    get_text(@xpaths["rights"])
   end
 
-  # TODO medium, person, rights, rights_uri, rights_holder
-
-  # TODO can change this behavior once datura is updated to
-  # return nil instead of empty strings
-  # TODO reusing source but look into whether this is actually the publisher
-  def publisher
-    pub = get_text(@xpaths["source"])
-    pub.empty? ? nil : pub
+  def rights_uri
+    get_text(@xpaths["rights_uri"])
   end
 
   # TODO source_sort not added

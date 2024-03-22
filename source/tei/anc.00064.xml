@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00064">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00064">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -37,7 +35,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <idno>anc.00064</idno>
+            
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -49,7 +47,7 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-         </publicationStmt>
+         <idno>anc.00064</idno></publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
@@ -64,7 +62,7 @@
                   <title level="j">The New York Times</title>
                   <imprint>
                      <date when="1866-12-02">2 December 1866</date>
-                     <biblScope type="pages">2</biblScope>
+                     <biblScope unit="pages">2</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>
@@ -149,7 +147,7 @@
                         <l>Unfolded out of the justice of the woman, all justice is unfolded;</l>
                         <l>Unfolded out of the sympathy of the woman is all sympathy<choice><sic>;</sic><corr>:</corr></choice>
                         </l>
-                        <l>A man is a great thing upon the earth, and through <choice><sic>all</sic><corr></corr></choice> eternity—but every jot of the greatness of man is unfolded out of woman.</l>
+                        <l>A man is a great thing upon the earth, and through <choice><sic>all</sic><corr/></choice> eternity—but every jot of the greatness of man is unfolded out of woman.</l>
                      </lg>
                   </lg>
                </body>
@@ -355,7 +353,7 @@
                      </lg>
      
                      <lg type="linegroup">
-                        <l>Perfume<choice><sic>,</sic><corr></corr></choice> therefore<choice><sic>,</sic><corr></corr></choice> my chant, O Love! immortal Love!</l>
+                        <l>Perfume<choice><sic>,</sic><corr/></choice> therefore<choice><sic>,</sic><corr/></choice> my chant, O Love! immortal Love!</l>
                         <l>Give me to bathe the memories of all dead soldiers.</l>
                      </lg>
  
@@ -386,7 +384,7 @@
                      </relations>
                      <lg type="linegroup">
                         <l>
-                           <choice><sic></sic><corr>(</corr></choice>Lo! high<choice><sic>-</sic><corr> </corr></choice>toward <choice><sic>H</sic><corr>h</corr></choice>eaven, this day,</l>
+                           <choice><sic/><corr>(</corr></choice>Lo! high<choice><sic>-</sic><corr> </corr></choice>toward <choice><sic>H</sic><corr>h</corr></choice>eaven, this day,</l>
                         <l>Libertad! from the conqueress' field <choice><sic>returned</sic><corr>return'd</corr></choice>,</l>
                         <l>I mark the new aureol<choice><sic>s</sic><corr>a</corr></choice> around your head;</l>
                         <l>No more of soft astral, but dazzling and fierce,</l>
@@ -397,7 +395,7 @@
                         <l>The menacing, arrogant one, that strode and advanced with his senseless scorn, bearing the murderous knife;</l> 
                         <l>Lo! The wide-swelling one, the braggart, that would yesterday do so much!</l>
                         <l>To-day a carrion dead and damn'd, the despised of all the earth,</l>
-                        <l>An offal rank, to the dunghill maggots <choice><sic>spurned</sic><corr>spurn'd</corr></choice>.<choice><sic></sic><corr>)</corr></choice>
+                        <l>An offal rank, to the dunghill maggots <choice><sic>spurned</sic><corr>spurn'd</corr></choice>.<choice><sic/><corr>)</corr></choice>
                         </l>
                      </lg>
                   </lg>
@@ -418,8 +416,8 @@
                      <lg type="linegroup">
                         <l>For the great Idea, the idea of perfect and free individuals<choice><sic>;</sic><corr>,</corr></choice>
                         </l>
-                        <l>For that idea<choice><sic></sic><corr>,</corr></choice> the bard walks in advance, leader of leaders,</l>
-                        <l>The attitude of him cheers up slaves<choice><sic></sic><corr>,</corr></choice> and horrifies foreign despots.</l>
+                        <l>For that idea<choice><sic/><corr>,</corr></choice> the bard walks in advance, leader of leaders,</l>
+                        <l>The attitude of him cheers up slaves<choice><sic/><corr>,</corr></choice> and horrifies foreign despots.</l>
                      </lg>
 
                      <lg type="linegroup">
@@ -443,7 +441,7 @@
 
                      <lg type="linegroup">
                         <l>
-                           <choice><sic></sic><corr>(</corr></choice>Angry cloth I saw there leaping!</l>
+                           <choice><sic/><corr>(</corr></choice>Angry cloth I saw there leaping!</l>
                         <l>I stand again in the leaden rain, your flapping folds saluting;</l>
                         <l>I sing you over all, flying, beckoning through the fight—O, the hard-contested fight!</l>
                         <l>O, the cannons ope their <choice><sic>rosy-slashing</sic><corr>rosy-flashing</corr></choice> muzzles! the hurtled balls scream!</l>
@@ -479,7 +477,7 @@
                      <!-- A stanza break not in the original Whitman is indicated here in the transcript.  Not sure how to proceed.  If there is a need to record the discrepancy, would need a photocopy of the review to check, and information about how to encode if the discrepancy is part of the actual review and not just a transcription error. -->
                      <lg type="linegroup">
                         <l>
-                           <choice><sic></sic><corr>…</corr></choice>For my enemy is dead—a man divine as myself is dead;</l>
+                           <choice><sic/><corr>…</corr></choice>For my enemy is dead—a man divine as myself is dead;</l>
                         <l>I look where he lies, white-faced and still in the coffin—I draw near;</l>    
                         <l>I bend down and touch lightly with my lips the white face in the coffin.</l>
                      </lg>

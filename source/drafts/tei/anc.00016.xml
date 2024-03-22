@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00016">
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>
+               <choice>
+                  <orig>unsigned</orig>
+                  <reg>Rufus W. Griswold</reg>
+               </choice>
+            </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="no">Natalie O'Neal</persName>
+<persName xml:id="el">Elizabeth Lorang</persName>
+               <persName xml:id="sd">Sara Duke</persName>
+               
+               
+               <persName xml:id="vs">Vanessa Steinroetter</persName>
+               <persName xml:id="cg">Charles Green</persName>
+               <persName xml:id="fm">Frank Menius</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>National Endowment for the Humanities</funder>
+            <funder>The United States Department of Education</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.00016</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Griswold, Rufus W.">
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Rufus W. Griswold</reg>
+                     </choice>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j">The Criterion</title>
+                  <imprint>
+                     <date when="1855-11-10">10 November 1855</date>
+                     <biblScope type="pages">[24]</biblScope>
+                  </imprint>
+               </monogr>
+               
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+<encodingDesc>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          </encodingDesc>
+      <revisionDesc>
+         <change when="2016-03-30" who="#sd">updated page number</change>
+         <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
+                   <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
+         <change who="#no" when="2015-02-26">converted to P5</change>
+         <change who="#el" when="2009-10-03">updated TEI header</change>
+         <change who="#el" when="2007-12-18">added note to revisionDesc</change>
+         <change who="#el" when="2007-12-18">changed author's name in sourceDesc to last name, first</change>
+         <change who="#vs" when="2007-07-18">"purified" xml; copy-edited transcription and made changes as
+necessary</change>
+         <change who="#cg" when="2006-06-17">Corrected, validated</change>
+         <change who="#fm" when="2004-07-22">Converted from HTML to XML</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+         <ab><hi rend="italic">Leaves of Grass</hi>. By Walt Whitman. 1855.</ab>
+
+         <p>An unconsidered letter of introduction has oftentimes procured the admittance of a scurvy fellow into good society, and our apology for permitting any allusion to the above volume in our columns is, that it has been unworthily recommended by a gentleman of wide repute, and might, on that account, obtain access to respectable people, unless its real character were exposed.</p>
+
+         <p>Mr. Ralph Waldo Emerson either recognises and accepts these 'leaves,' as the gratifying results of his own peculiar doctrines, or else he has hastily endorsed them, after a partial and superficial reading. If it is of any importance, he may extricate himself from the dilemma. We, however, believe that this book does express the bolder results of a certain transcendental kind of thinking, which some have styled philosophy.</p>
+
+         <p>As to the volume itself, we have only to remark, that it strongly fortifies the doctrines of the Metempsychosists, for it is impossible to imagine how any man's fancy could have conceived such a mass of stupid filth, unless he were possessed of the soul of a sentimental donkey that had died of disappointed love. This <hi rend="italic">poet</hi> (?) without wit, but with a certain vagrant wildness, just serves to show the energy which natural imbecility is occasionally capable of under strong excitement.</p>
+
+         <p>There are too many persons, who imagine they demonstrate their superiority to their fellows, by disregarding all the politenesses and decencies of life, and, therefore, justify themselves in indulging the vilest imaginings and shamefullest license. But nature, abhorring the abuse of the capacities she has given to man, retaliates upon him, by rendering extravagant indulgence in any direction followed by an insatiable, ever-consuming, and never to be appeased passion.</p>
+
+         <p>Thus, to these pitiful beings, virtue and honor are but names. Bloated with self-conceit, they strut abroad unabashed in the daylight, and expose to the world the festering sores that overlay them like a garment. Unless we admit this exhibition to be beautiful, we are at once set down for non-progressive conservatives, destitute of the "inner light," the far-seeingness which, of course, characterize those gifted individuals. Now, any one who has noticed the tendency of thought in these later years, must be aware that a quantity of this kind of nonsense is being constantly displayed. The immodesty of presumption exhibited by these <hi rend="italic">seers</hi>; their arrogant pretentiousness; the complacent smile with which they listen to the echo of their own braying, should be, and we believe is, enough to disgust the great majority of sensible folks; but, unfortunately, there is a class that, mistaking sound for sense, attach some importance to all this rant and cant. These candid, these ingenuous, these honest "progressionists;" these human diamonds without flaws; these men that have <hi rend="italic">come</hi>, detest furiously all shams; "to the pure, all things are pure;" they are pure, and, consequently, must thrust their reeking presence under every man's nose.</p>
+
+         <p>They seem to think that man has no instinctive delicacy; is not imbued with a conservative and preservative modesty, that acts as a restraint upon the violence of passions, which, for a wise purpose, have been made so strong. No! these fellows have no secrets, no disguises; no, indeed! But they do have, conceal it by whatever language they choose, a degrading, beastly sensuality, that is fast rotting the healthy core of all the social virtues.</p>
+
+         <p>There was a time when licentiousness laughed at reproval; now it writes essays and delivers lectures. Once it shunned the light; now it courts attention, writes books showing how grand and pure it is, and prophesies from its lecherous lips its own ultimate triumph.</p>
+
+         <p>Shall we argue with such men? Shall we admit them into our houses, that they may leave a foul odor, contaminate the pure, healthful air? Or shall they be placed in the same category with the comparatively innocent slave of poverty, ignorance and passion, that skulks along in the shadows of by-ways; even in her deep degradation possessing some sparks of the Divine light, the germ of good that reveals itself by a sense of shame?</p>
+
+         <p>Thus, then, we leave this gathering of muck to the laws which, certainly, if they fulfil their intent, must have power to suppress such gross obscenity. As it is entirely destitute of wit, there is no probability that any one would, after this exposure, read it in the hope of finding that; and we trust no one will require further evidence—for, indeed, we do not believe there is a newspaper so vile that would print confirmatory extracts.</p>
+
+         <p>In our allusions to this book, we have found it impossible to convey any, even the most faint idea of its style and contents, and of our disgust and detestation of them, without employing language that cannot be pleasing to ears polite; but it does seem that some one should, under circumstances like these, undertake a most disagreeable, yet stern duty. The records of crime show that many monsters have gone on in impunity, because the exposure of their vileness was attended with too great indelicacy. <hi rend="italic">"Peccatum illud horribile, inter Christianos non nominandum."</hi>
+         </p>
+
+      </body>
+   </text>
+</TEI>

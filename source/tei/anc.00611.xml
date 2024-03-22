@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00611">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00611">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,7 +29,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.00611</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -44,7 +41,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>
+            <idno>anc.00611</idno></publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -56,9 +53,9 @@
                     <monogr>
                         <title level="j">New Haven Daily Palladium</title>
                         <imprint>
-                            <biblScope type="volume">294</biblScope>
+                            <biblScope unit="volume">294</biblScope>
                             <date xml:id="dat1" cert="high" when="1865-11-28">28 November 1865</date>
-                            <biblScope type="pages">[unknown]</biblScope>
+                            <biblScope unit="pages">[unknown]</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>
@@ -83,9 +80,9 @@
             
             
 
-            <ab>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN'S</hi> D<hi rend="smallcaps">RUM</hi> T<hi rend="smallcaps">APS</hi>, Bunce &#38; Huntington, New York.</ab>
+            <ab>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN'S</hi> D<hi rend="smallcaps">RUM</hi> T<hi rend="smallcaps">APS</hi>, Bunce &amp; Huntington, New York.</ab>
             
-            <p>It is hard to criticise the book of a friend. Walt Whitman is a brawny, sensitive, brave, tender-hearted man, with untrimmed beard and broad shoulders, but as gentle as a girl. He felt the workings of a quaint sort of afflatus years ago, and wrote "Leaves of Grass," which Emerson said was "the best thing America has yet produced," but which, <hi rend="italic">per contra</hi>, prompted Salmon P. Chase to say in a burst of disgust, "he ought to be hanged for it." Now he brings out "Drum Taps" in the same style&#8212;a sort of poetic madness without a method. It is little to say of it that it is a bold defiance of good taste, for that is just what it <hi rend="italic">claims</hi> to be. It does not merely undertake to subordinate the mind to the feelings, but to ignore the intellectual and &#230;sthetic altogether. This book, like Leaves of Grass, consists in disjointed exclamations with no attempt at either rhyme or meter&#8212;ten thousand unfinished sentences with ten thousand exclamation points at the end. We give a sample.</p>          
+            <p>It is hard to criticise the book of a friend. Walt Whitman is a brawny, sensitive, brave, tender-hearted man, with untrimmed beard and broad shoulders, but as gentle as a girl. He felt the workings of a quaint sort of afflatus years ago, and wrote "Leaves of Grass," which Emerson said was "the best thing America has yet produced," but which, <hi rend="italic">per contra</hi>, prompted Salmon P. Chase to say in a burst of disgust, "he ought to be hanged for it." Now he brings out "Drum Taps" in the same style—a sort of poetic madness without a method. It is little to say of it that it is a bold defiance of good taste, for that is just what it <hi rend="italic">claims</hi> to be. It does not merely undertake to subordinate the mind to the feelings, but to ignore the intellectual and æsthetic altogether. This book, like Leaves of Grass, consists in disjointed exclamations with no attempt at either rhyme or meter—ten thousand unfinished sentences with ten thousand exclamation points at the end. We give a sample.</p>          
             
             <q who="Walt Whitman" type="printed">
                 <floatingText>
@@ -114,7 +111,7 @@
                 </floatingText>
             </q> 
 
-<p>That is the whole of another! What shall we say of this person?&#8212;that he is an idiot? No; for he is a refined and educated gentleman, an agreeable companion, something of a scholar. Shall we reckon his publishers fools? Hardly; for they sold a large edition of "Leaves of Grass" which was not a whit better. Moreover, that was justly offensive for its impurities of thought and expression, and there was talk of suppressing it for its immorality. Yet from personal acquaintance we believe Walt Whitman to be a pure man. He is delicate and thoroughly conscientious. He expended the money which he received for "Leaves of Grass" in the most devoted ministrations to the wounded soldiers during the war, and they loved him as if he had been a mother, and he bore them in his strong arms with the fidelity of an elder brother. He is a moral man; but "Leaves of Grass" has a bad tendency. He is a learned man, but "Drum Taps" is utterly without any continous sense, or else an intelligent public is very addle-headed.</p>
+<p>That is the whole of another! What shall we say of this person?—that he is an idiot? No; for he is a refined and educated gentleman, an agreeable companion, something of a scholar. Shall we reckon his publishers fools? Hardly; for they sold a large edition of "Leaves of Grass" which was not a whit better. Moreover, that was justly offensive for its impurities of thought and expression, and there was talk of suppressing it for its immorality. Yet from personal acquaintance we believe Walt Whitman to be a pure man. He is delicate and thoroughly conscientious. He expended the money which he received for "Leaves of Grass" in the most devoted ministrations to the wounded soldiers during the war, and they loved him as if he had been a mother, and he bore them in his strong arms with the fidelity of an elder brother. He is a moral man; but "Leaves of Grass" has a bad tendency. He is a learned man, but "Drum Taps" is utterly without any continous sense, or else an intelligent public is very addle-headed.</p>
             
         </body>
     </text>

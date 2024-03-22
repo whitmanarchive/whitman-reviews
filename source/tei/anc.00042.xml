@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.00042">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.00042">
 
 <!-- Group:  1860 Leaves -->
 
@@ -38,7 +35,7 @@
         </edition>
     </editionStmt>
 <publicationStmt>
-<idno>anc.00042</idno>
+
 
     <distributor>The Walt Whitman Archive</distributor>
     <address>
@@ -51,7 +48,7 @@
 <availability>
     <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p>
 </availability>
-</publicationStmt>
+<idno>anc.00042</idno></publicationStmt>
     <sourceDesc>
 <biblStruct>
 <analytic>
@@ -64,8 +61,8 @@
 <title level="j">The Crayon</title>
 <imprint>
 <date when="1860-07">July 1860</date>
-<biblScope type="volume">7</biblScope>
-<biblScope type="pages">211</biblScope>
+<biblScope unit="volume">7</biblScope>
+<biblScope unit="pages">211</biblScope>
 </imprint>
 </monogr>
 
@@ -98,13 +95,13 @@ necessary</change>
  L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>, 
 by Walt Whitman. 
  
- Eldridge &#38; Thayer,  
+ Eldridge &amp; Thayer,  
  Boston.  
  
 </ab>
 
 
-<p>It seems as if the author of Leaves of Grass had converted his mind into a mental reservoir by tumbling into it p&#234;le-m&#234;le all the floating conceits his brain ever gave birth to. He manifests no other sign of mental capacity; for we find no trace of judgment, taste, or healthy sensibility in the work. It is a book of poetry such as may well please twenty-one year old statesmen and philosophers, and people who pride themselves more in being able to read and write than able to think. Such poetry(!) is characteristic of a country like ours, where there is abundance of everything to eat and drink, and to wear, and good pay for labor.</p> 
+<p>It seems as if the author of Leaves of Grass had converted his mind into a mental reservoir by tumbling into it pêle-mêle all the floating conceits his brain ever gave birth to. He manifests no other sign of mental capacity; for we find no trace of judgment, taste, or healthy sensibility in the work. It is a book of poetry such as may well please twenty-one year old statesmen and philosophers, and people who pride themselves more in being able to read and write than able to think. Such poetry(!) is characteristic of a country like ours, where there is abundance of everything to eat and drink, and to wear, and good pay for labor.</p> 
  
 
 </body>

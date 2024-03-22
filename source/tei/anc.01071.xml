@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.01071">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.01071">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,7 +32,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>anc.01071</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -47,7 +44,7 @@
                 <availability>
                     <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
                 </availability>
-            </publicationStmt>
+            <idno>anc.01071</idno></publicationStmt>
             <sourceDesc>
                 <biblStruct>
                     <analytic>
@@ -62,9 +59,9 @@
                     <monogr>
                         <title level="j">The Spiritual Magazine</title>
                         <imprint>
-                            <biblScope type="volume">5</biblScope>
+                            <biblScope unit="volume">5</biblScope>
                             <date xml:id="dat1" cert="high" when="1870-09">September 1870</date>
-                            <biblScope type="pages">34-40</biblScope>
+                            <biblScope unit="pages">34-40</biblScope>
                         </imprint>
                     </monogr>
 </biblStruct>
@@ -93,7 +90,7 @@
             <head type="main-authorial">The Poems of Walt Whitman</head>
 
            <div1 type="section"> <p>The poems of Walt Whitman have been much praised and wondered at in this country
-                since they were published here by Tr&#252;bner and by Hotten, but though they are of the
+                since they were published here by Trübner and by Hotten, but though they are of the
                 most decidedly and avowedly spiritualistic character, nobody seems to see that fact.
                 They are in a singular, unrhymed style; sometimes in irregular hexameters, sometimes
                 in the Ossianic metre, sometimes in that of <hi rend="italic">Hiawatha</hi>,
@@ -132,7 +129,7 @@
                         <lg type="poem">
                             <l>As for me (torn, stormy, even as I, amid these vehement days;)</l>
                             <l>I have the idea of all and am all, and believe in all:</l>
-                            <l>I believe Materialism is true, and Spiritualism is true&#8212;I
+                            <l>I believe Materialism is true, and Spiritualism is true—I
                                 reject no part.</l>
                         </lg>
                     </body>
@@ -143,7 +140,7 @@
                 it is false, or rather defective only, when it is a mere part.</p>
 
             <p>In a succeeding poem, we have him clearly in trance, and the impressing spirit
-                speaking through him:&#8212;</p>
+                speaking through him:—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -153,7 +150,7 @@
                                 <l>Take my hand, Walt Whitman!</l>
                                 <l>Such gliding wonders! such sights and sounds!</l>
                                 <l>Such joined unended links, each hooked to the next!</l>
-                                <l>Each answering all&#8212;each sharing the earth with all.</l>
+                                <l>Each answering all—each sharing the earth with all.</l>
                             </lg>
 
                             <lg type="linegroup">
@@ -171,12 +168,12 @@
 
                             <lg type="lingroup">
                                 <l>Within me latitude widens, longitude lengthens;</l>
-                                <l>Asia, Africa, Europe, are to the east&#8212;America is provided
+                                <l>Asia, Africa, Europe, are to the east—America is provided
                                     for in the west:</l>
                                 <l>Banding the bulge of the earth winds the hot equator;</l>
                                 <l>Curiously north and south turn the axis-ends;</l>
-                                <l>Within me is the longest day&#8212;the sun wheels in slanting
-                                    rings&#8212;it does not set for months</l>
+                                <l>Within me is the longest day—the sun wheels in slanting
+                                    rings—it does not set for months</l>
                                 <l>Stretched in due time within me the midnight sun just rises above
                                     the horizon and sinks again;</l>
                                 <l>Within me zones, seas, cataracts, plants, volcanoes, groups,</l>
@@ -199,8 +196,8 @@
                 mediumistic poet all the epithets of "fool, madman, idiot," which the critic
                 vocabulary can so plentifully furnish, with occasional praise equally extravagant.
                 We have the key, and all is to us lucid as the sky and saner far than his deriders.
-                How perfectly spiritual is this passage,&#8212;amongst the sights "of the deaths of
-                the bodies of Gods"&#8212;Christ and others:&#8212;</p>
+                How perfectly spiritual is this passage,—amongst the sights "of the deaths of
+                the bodies of Gods"—Christ and others:—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -209,7 +206,7 @@
                             <l>I see Hermes, unsuspected, dying, well-beloved, saying to the people,
                                     <hi rend="italic">Do not weep for me,</hi></l>
                             <l rend="italic">This is not my true country, I have lived banished from
-                                my true country&#8212; I now go back there;</l>
+                                my true country— I now go back there;</l>
                             <l rend="italic">I return to the celestial sphere, where every one goes
                                 in his turn.</l>
                         </lg>
@@ -219,7 +216,7 @@
             </q>
 
             <p>In the "Song of the Broad Axe" we have the same unmistakable spirit
-                vision:&#8212;</p>
+                vision:—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -258,7 +255,7 @@
             </q>
 
             <p>But let us take a few passages as they occur <hi rend="italic">seriatim</hi> in the
-                volume. Here is one which again proclaims his purpose:&#8212;</p>
+                volume. Here is one which again proclaims his purpose:—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -267,7 +264,7 @@
                             <lg type="linegroup">
                                 <l>I stand in my place, with my own day, here.</l>
                                 <l>Here lands female and male;</l>
-                                <l>Here the heirship and heiress-ship of the world&#8212;here the
+                                <l>Here the heirship and heiress-ship of the world—here the
                                     flame of materials;</l>
                                 <l>Here Spirituality, the translatress, the open-avowed,</l>
                                 <l>The ever-tending, the finale of visible forms;</l>
@@ -277,8 +274,8 @@
 
                             <lg type="linegroup">
                                 <l>The Soul!</l>
-                                <l>For ever and for ever&#8212;longer than soil is brown and
-                                    solid&#8212;longer than water ebbs and flows.</l>
+                                <l>For ever and for ever—longer than soil is brown and
+                                    solid—longer than water ebbs and flows.</l>
                                 <l>I will make the poems of materials, for I think they are to be
                                     the most spiritual poems;</l>
                                 <l>And I will make the poems of my body and of mortality,</l>
@@ -290,7 +287,7 @@
                 </floatingText>
             </q>
 
-            <p>To be truly spiritual is to be devout, and he adds&#8212;</p>
+            <p>To be truly spiritual is to be devout, and he adds—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -307,7 +304,7 @@
                 </floatingText>
             </q>
 
-            <p>But the spiritual poet must shew this:&#8212;</p>
+            <p>But the spiritual poet must shew this:—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -325,13 +322,13 @@
                 </floatingText>
             </q>
 
-            <p>And he proceeds:&#8212;</p>
+            <p>And he proceeds:—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
                     <body>
                         <lg type="poem">
-                            <l>I will make the true poem of riches,&#8212;</l>
+                            <l>I will make the true poem of riches,—</l>
                             <l>To earn for the body and the mind whatever adheres, and goes forward
                                 and is not dropped at death.</l>
 
@@ -340,14 +337,14 @@
                 </floatingText>
             </q>
 
-            <p>And again, of death and the soul:&#8212;</p>
+            <p>And again, of death and the soul:—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
                     <body>
                         <lg type="poem">
                             <l>Was somebody asking to see the Soul?</l>
-                            <l>See! your own shape and countenance&#8212;persons, substances,
+                            <l>See! your own shape and countenance—persons, substances,
                                 beasts, the trees, the running rivers, the rocks and sands.</l>
                             <l>All hold spiritual joys, and afterwards loosen them:</l>
                             <l>How can the real body ever die and be buried?</l>
@@ -364,7 +361,7 @@
 
             <p>In the most outward city pageant the open-eyed poet sees what the mere world-eyed
                 mass never sees. In the reception of the Japanese Embassy at New York, he
-                says:&#8212;</p>
+                says:—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -375,14 +372,14 @@
                                 errand-bearers,</l>
                             <l>Bringing up the rear, hovering above, or in the ranks marching;</l>
                             <l>But I will sing you a song of what I behold</l>
-                            <l>&#42; &#42; &#42; &#42; &#42; &#42; </l>
+                            <l>* * * * * * </l>
                             <l>Not the errand-bearing princes, nor the tanned Japanese only;</l>
-                            <l>Lithe and silent the Hindoo appears&#8212;the Past, the Dead.</l>
+                            <l>Lithe and silent the Hindoo appears—the Past, the Dead.</l>
                             <l>The murky night-morning of wonder and fable, inscrutable,</l>
                             <l>The enveloped mysteries, the old and unknown hive-bees,</l>
-                            <l>The North&#8212;the sweltering South&#8212;Assyria&#8212;the
-                                Hebrews&#8212;the Ancient of ancients,</l>
-                            <l>Vast, desolated cities&#8212;the gliding Present&#8212;all of these,
+                            <l>The North—the sweltering South—Assyria—the
+                                Hebrews—the Ancient of ancients,</l>
+                            <l>Vast, desolated cities—the gliding Present—all of these,
                                 and more are in the pageant procession.</l>
 
                         </lg>
@@ -390,7 +387,7 @@
                 </floatingText>
             </q>
 
-            <p>Yes! to the poet of the opened eye&#8212;the spiritual poet and seer&#8212;all worlds
+            <p>Yes! to the poet of the opened eye—the spiritual poet and seer—all worlds
                 and ages are open. The walls of Time, the barriers of the distant and of ages are
                 thrown down; the manacles of the flesh are rent asunder; the mortal film has fallen
                 from the eye of the temporal probationer, and, spirit-like, he walks cognizant amid
@@ -398,7 +395,7 @@
                 with him. He sees everything as it is, and knows better than ever that everything is
                 miracle.</p>
 
-            <p>Let us see what he says on this point:&#8212;</p>
+            <p>Let us see what he says on this point:—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -422,7 +419,7 @@
                                 <lg type="linegroup">
                                     <l>Why! who makes much of miracles?</l>
                                     <l>As for me I know of nothing else but miracles,</l>
-                                    <l>Whether I walk the streets of Manhattan,<ref>&#42;</ref></l>
+                                    <l>Whether I walk the streets of Manhattan,<ref>*</ref></l>
                                     <l>Or dart my sight over the roofs of houses toward the sky,</l>
                                     <l>Or wade with naked feet, along the beach, just in the edge of
                                         the water,</l>
@@ -433,16 +430,15 @@
                                     <l>Or watch honey-bees busy round the hive, of a summer
                                         forenoon,</l>
                                     <l>Or animals feeding in the fields,</l>
-                                    <l>Or birds&#8212;or the wonderfulness of insects in the
+                                    <l>Or birds—or the wonderfulness of insects in the
                                         air,</l>
-                                    <l>Or the wonderfulness of the sun-down&#8212;or of stars
+                                    <l>Or the wonderfulness of the sun-down—or of stars
                                         shining, so quiet and bright,</l>
                                     <l>Or the exquisite, delicate, thin curve of the new moon in
                                         spring;</l>
                                     <l>Or whether I go among those I like best, and that like me
-                                        best&#8212;mechanics, boatmen, farmers,</l>
-                                    <l>Or among the <hi rend="italics">savans</hi>&#8212;or to the <hi 
-                                        rend="italic">soir&#233;e</hi>&#8212;or to the opera,</l>
+                                        best—mechanics, boatmen, farmers,</l>
+                                    <l>Or among the <hi rend="italics">savans</hi>—or to the <hi rend="italic">soirée</hi>—or to the opera,</l>
                                     <l>Or stand a long while looking at the movements of
                                         machinery,</l>
                                     <l>Or behold children at their sports,</l>
@@ -452,7 +448,7 @@
                                         burial,</l>
                                     <l>Or my own eyes and figure in the glass;</l>
                                     <l>These, with the rest, one and all, are to me miracles,</l>
-                                    <l>The whole referring&#8212;yet each distinct and in its
+                                    <l>The whole referring—yet each distinct and in its
                                         place.</l>
 
                                 </lg>
@@ -464,7 +460,7 @@
                                     <l>Every square yard of the surface of the earth is spread with
                                         the same;</l>
                                     <l>Every cubit foot of the interior swarms with the same;</l>
-                                    <l>Every spear of grass&#8212;the frames, limbs, organs of men
+                                    <l>Every spear of grass—the frames, limbs, organs of men
                                         and women, and all that concerns them,</l>
                                     <l>All these are to me unspeakably perfect miracles.</l>
 
@@ -472,8 +468,8 @@
 
                                 <lg type="linegroup">
                                     <l>To me the sea is a continual miracle;</l>
-                                    <l>The fishes that swim&#8212;the rocks&#8212;the motion of the
-                                        waves&#8212;the ships with men in them,</l>
+                                    <l>The fishes that swim—the rocks—the motion of the
+                                        waves—the ships with men in them,</l>
                                     <l>What stranger miracles are there?</l>
                                 </lg>
                             </lg>
@@ -483,7 +479,7 @@
             </q>
 
             <p>But enough: our object is not to bring forward all the spiritual matter of the
-                volume&#8212;for it is all spiritual; we want only to shew our readers that another
+                volume—for it is all spiritual; we want only to shew our readers that another
                 spiritual poet is amongst us, whom the world accepts because it thinks him merely
                 eccentric and original. The poetry of Harris is very fine, but then he said out
                 plumply that the spirits of departed poets gave it him, and the wise ones turned up
@@ -522,25 +518,25 @@
                     <body>
                         <lg type="poem">
                             <l>Wild flowers and vines and weeds come up through the stones, and
-                                hardly cover them.&#8212;Beyond these I pass,</l>
+                                hardly cover them.—Beyond these I pass,</l>
                             <l>Far, far in the forest, before I think where I go,</l>
                             <l>Solitary, smelling the earthly smell, stopping now and then in the
                                 silence;</l>
-                            <l>Alone I had thought&#8212;yet soon a silent troop gathers around
+                            <l>Alone I had thought—yet soon a silent troop gathers around
                                 me;</l>
                             <l>Some walk by my side, and some behind, and some embrace my arms and
                                 neck.</l>
-                            <l>They, the spirits of friends dead or alive&#8212;thicker they come, a
+                            <l>They, the spirits of friends dead or alive—thicker they come, a
                                 great crowd, and I in the middle,</l>
                             <l>Collecting, dispensing, singing in spring, there I wander with
                                 them.</l>
-                            <l>&#42; &#42; &#42; &#42; &#42; &#42; &#42; </l>
+                            <l>* * * * * * * </l>
                             <l>And twigs of maple, and a bunch of wild orange, and chestnut,</l>
                             <l>And stems of currants, and plum-blows, and the aromatic cedar.</l>
                             <l>These, I, compassed around by a thick cloud of spirits,</l>
                             <l>Wandering, point to, or touch as I pass, or throw them loosely from
                                 me,</l>
-                            <l>Indicating to each one what he shall have&#8212;giving something to
+                            <l>Indicating to each one what he shall have—giving something to
                                 each.</l>
 
                         </lg>
@@ -548,7 +544,7 @@
                 </floatingText>
             </q>
 
-            <p>With your poet you say finally&#8212;</p>
+            <p>With your poet you say finally—</p>
 
             <q who="Walt Whitman" type="extract">
                 <floatingText>
@@ -562,7 +558,7 @@
                             <l>Thenceforth I no more ignore them than I ignore my own life,</l>
                             <l>Or the lives of the earth arrived as far as mine, or waiting to
                                 arrive.</l>
-                            <l>O I see now that life can not exhibit all to me&#8212;as the day can
+                            <l>O I see now that life can not exhibit all to me—as the day can
                                 not,</l>
                             <l>I see that I am to wait for what will be exhibited by death.</l>
 
@@ -579,9 +575,9 @@
                 health; and poets, springing up here and there in the crowds, utter words of faith
                 and vision ever and ever more startling and strong. It is high time that he that
                 would have the credit of being wise should revise his wisdom, and let the mingling
-                earth and heavens speak out to him of the new birth of things&#8212;new facts, new
+                earth and heavens speak out to him of the new birth of things—new facts, new
                 perceptions, new sights more wonderful than dreams, new sense of things, of justice,
-                love, truth, pacification, and law&#8212;God in his world living through all in one
+                love, truth, pacification, and law—God in his world living through all in one
                 perpetual and illimitable miracle.</p>
 
             <q who="Walt Whitman" type="extract">
@@ -612,7 +608,7 @@
             
             <div1 type="section"><milestone unit="undeclared" rend="horbar-short-left"/>
             
-            <ab>&#42; New York.</ab></div1>
+            <ab>* New York.</ab></div1>
 
         </body>
     </text>

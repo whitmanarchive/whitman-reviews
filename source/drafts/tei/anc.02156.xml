@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02156">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1860">[Review of <hi rend="italic">"November Boughs"</hi> (1889)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="kk"> Khadizatul Kubra</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02156</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">"November Boughs"</hi> (1889)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Daily Evening Bulletin</title>
+                  <imprint>
+                     <date when="1889-01-05">5 january 1889</date>
+                     <biblScope type="pages">1</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#kk" when="2021-09-29">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">"November Boughs".&#8212;By Walt Whitman. Published by Daily Evening Bulletin.</head>
+
+         <p> "November boughs"-By Walt Whitman. ( Philadelphia: David Mekay.)</p>
+         
+         <p> Walt Whitman suggests, by the title chosen for this, his latest book, that he has come to the season of the sere and yellow leaf. These are his serene days when he is much given to retrospect. All old men are more inclined to look backward than forward, because life has glided away into the background. Whitman represents himself as “gosslping in the early candle-light of old age.”He writes: “I live largely on memory. I look upon ‘Leaves of grass’ now finished to the end of its opportunities and powers, as my definite "<hi rend="italic">carte</hi>" and "<hi rend="italic">de visite</hi>"  to the coming generations of the New World.” He admits that in it he has not gained the acceptance of his own time, and that from a worldly and a business point of view, “Leaves of Grass” has been worse than a failure. Whitman published that book about thirty years ago. It achieved notoriety in the limited circles. It revealed the author as making excursions on the borders of conventional propriety, and as at times going quite over into the realm of impropriety, gauged by any of the prevailing standards. Whitman was an unconventional man. He put all rule and all authority under hid feet. He dealt with the physical anatomy of his own kind in public places. He undertook to express, as he says, “my own physical, moral, intellectual and esthetic personality…” n a more comprehensive sense,etc. It is certain that no poet of modern times ever sang in such a measure or such a strain. Whether the future judgement of critics to be more favourable touching this particular work of Whitman’s is still an open question. There is still the minority verdict that therein are grand poems-that a new and original poet appeared of whom the world was not worthy. Whitman aimed to produce a national poem. But he either appeared before his time or long afterward. Foe since the appearance of “Paradise Lost” there has not anywhere been a national stamp. Of the later poems published under the head of “Sands at Seventy,’ these are cited as among the more striking ones: The thought has the color of poetry, while the form of expression is that of prose:</p>
+         
+
+         <div1>         
+            <lg>
+            <head>"THE VOICE OF THE RAIN".</head>
+         
+        <l>And who art thou? said I to the soft-failing shower</l>
+          <l>Which, strange to tell, gave me an answer as here translated:</l>
+          <l>I am the Poem of Earth, said the voice of the rain,</l>
+          <l>Eternal rise impalpable out of the land and the bottomless sea,</l>
+         <l> Upward to heaven, whence, vaguely form’d, altogether changed, and yet the same,</l>
+           <l> I descend to leave the droughts, atomies, dustlayers of the globe,</l>
+            <l>And all that in them without me were seeds only, latent, unborn;</l>
+            <l>And forever, by day and night, I give back life to my own origin, and make pure and beautify it;</l>
+            <l>(For song, issuing its birthplace, after fulfillment, wandering,</l>
+            <l>Rec’d or unrek’d, dully with love returns.)</l>
+            <l>SOON SHALL THE WINTER’S FOIL, BE HERE.</l>
+            <l>Soon shall these icy ligatures unbind and melt&#8212;a little while,</l>
+            <l>And air, soil, wave , suffused shall be in softness,</l>
+            <l>bloom and growth&#8212;a thousand forms shall rise</l>
+            <l>Form these dead clods and chills as from low burial graves.</l>
+            <l>Thine eyes,eats&#8212;all thy best attributes&#8212;all that takes cognizance of natural beauty,</l>
+           <l> Shall wake and fill. Thou shall perceive the simple shows, the delicate miracle of earth,</l>
+            <l>Dandelions, clover, the emerald grass, the early scents and flowers,</l>
+            <l>The arbutus under foot, the willow’s yellow-green, the blossoming plum and cherry;</l>
+            <l>With these the robin, lark and thrush, singing their songs&#8212;the flitting bluebird;</l>
+            <l>For such the scenes the annual play brings on,</l>
+         </lg></div1>
+         
+
+         <div1>         
+            <head> "A Prairie Sunset"</head>
+         <lg>
+         
+           <l>Shot gold, maroon and violet, dazzling silver, emerald, fawn,</l>
+            <l>The earth’s where amplitude and amplitude and Nature’s multiform power consign’d for ounce to colors;</l>
+            <l>The light, the general air possess’d by them&#8212;colors till now unknown,</l>
+            <l>No limit, confine&#8212;not the Western sky alone&#8212;the high meradian&#8212;North, South, all,</l>
+            <l>Pure luminous color fighting the silent shadows to the last.</l>
+         </lg>
+         </div1>
+         <div1>
+            <p>The impression from reading over these later poems is strengthened that there was more in Whitman as a poet than ever found expression. He was the victim of his own theories. In his effort to become an extreme where his art will always be challenged. Where he is the most unconventional his utterances become little more than a prose rhapsody. After writing a line or two of genuine song he drops away into a more turgid recital having neither measure nor rhythm. His self-consciousness, the purpose to maintain a consistent character for eccentricity is always uppermost. Whitman sings to himself. His thought returns to him, instead of sending it out into the universe. There was the making of a notable essayist in Whitman, as many of his contributes in prose demonstrated. He chooses to be remembered as a poet. It is something in favour of this perpetually that the number who defend his claim has not lessened for a whole generation. There is at least a possibility that this minority will become a majority.</p>
+         <p>Only a small part of this thin octave volume is occupied with the poem of the author. The remainder is devoted to essays, criticisms and reminiscences; the later reaching back to the time of the Civil War. A portrait of the “Good Gray Poet” in his seventieth year, serves as the frontispiece.</p>
+         <p>David MeKay, publisher, Philadelphia.</p>
+            <p>Foe sale by john w. Roberts &#38; Co.</p>
+         </div1>
+         
+            
+         
+            
+            
+         
+         
+        
+      </body>
+   </text>       
+</TEI>
