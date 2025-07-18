@@ -52,8 +52,10 @@
             <biblStruct>
                <analytic>
                   <author key="unknown">
-                     <choice><orig>unsigned</orig>
-                        <reg>unknown</reg></choice>
+                     <choice>
+                        <orig>unsigned</orig>
+                        <reg>Welling, James Clarke</reg>
+                     </choice>
                   </author>
                </analytic>
                <monogr>
