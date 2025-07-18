@@ -8,7 +8,7 @@
           <author>
                 <choice>
                    <orig>unsigned</orig>
-                   <reg>unknown</reg>
+                   <reg>Welling, James Clarke</reg>
                 </choice>
              </author>
             <editor>Kenneth M. Price</editor>
@@ -22,6 +22,7 @@
                <persName xml:id="vs">Vanessa Steinroetter</persName>
                <persName xml:id="cg">Charles Green</persName>
                <persName xml:id="ts">Todd Stabley</persName>
+               <persName xml:id="km">Kevin McMullen</persName>
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -67,9 +68,10 @@
          </sourceDesc>
       </fileDesc>
 <encodingDesc>
-          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here.</p>
+          <p>The original electronic text for this file was prepared for Walt Whitman, <title level="m">The Contemporary Reviews</title>, ed. Kenneth M. Price (Cambridge: Cambridge University Press, 1996), and the transcription was completed by consulting a representation of the original (e.g., photocopy, microfilm copy). Following publication of that volume, Price received an updated transcription file from Cambridge University Press, and the <title level="m">Whitman Archive</title> has used the final file from the publisher as the basis for the electronic text presented here. The identity of the writer of this review was provided by <hi rend="italic">Archive</hi> user Scott Norsworthy.</p>
           </encodingDesc>
       <revisionDesc>
+         <change when="2025-07-18" who="#km">updated author, based on tip from user</change>
 <change when="2016-01-19" who="#el">updated author encoding in TEI header</change>
                    <change when="2015-10-19" who="#el">updated rights language and added encoding description in TEI header</change>
          <change who="#no" when="2015-02-26">converted to P5</change>
@@ -225,7 +227,7 @@ necessary</change>
             </floatingText>
          </q>
 
-         <p>It is quite possible that, owing to some radical and congenital defect of our mental organization, we have never been able to penetrate "within the veil" in the Pantheon of the transcendentalists and of the Emersonian school in general. Mr. Emerson, we understand, greatly admires the present work; indeed, we have read a published letter of his in which he tenders to Mr. Whitman his thanks for the <hi rend="italic">Leaves of Grass.</hi> When we read that eulogy we were satisfied that this volume would prove to us a sealed book, and that its hieroglyphs would be as unintelligible to our ken as was the inscription around the sacred ibex to the erudite Mr. <note type="project" rend="bracketed">George Robins</note> Gliddon.<ref target="n5" xml:id="r5" n="5"/> Still we determined to read it, in the humble but earnest hope of endeavoring occasionally to catch its esoteric meaning in a few at least of those passages, which we are assured from Mr. Emerson's enjoyment of them must contain a hidden significance which nothing less potent than the magic salve of the dervise of Balsora can open our eyes to behold; and in default of which we must be content with such a poor comprehension of these Sibylline leaves as falls to the lot of common readers.</p>
+         <p>It is quite possible that, owing to some radical and congenital defect of our mental organization, we have never been able to penetrate "within the veil" in the Pantheon of the transcendentalists and of the Emersonian school in general. Mr. Emerson, we understand, greatly admires the present work; indeed, we have read a published letter of his in which he tenders to Mr. Whitman his thanks for the <hi rend="italic">Leaves of Grass.</hi> When we read that eulogy we were satisfied that this volume would prove to us a sealed book, and that its hieroglyphs would be as unintelligible to our ken as was the inscription around the sacred ibex to the erudite Mr. George Robins Gliddon.<ref target="n5" xml:id="r5" n="5"/> Still we determined to read it, in the humble but earnest hope of endeavoring occasionally to catch its esoteric meaning in a few at least of those passages, which we are assured from Mr. Emerson's enjoyment of them must contain a hidden significance which nothing less potent than the magic salve of the dervise of Balsora can open our eyes to behold; and in default of which we must be content with such a poor comprehension of these Sibylline leaves as falls to the lot of common readers.</p>
 
          <p>No one, we may say, however, in all candor, can read this singular prose-poem without being struck by the writer's wonderful powers of description and of word-painting. His memory seems as retentive of its treasures as his imagination is opulent in its creations. He writes like one who has but to prick his mind and forthwith it gushes out in a perennial flow of "thoughts which have tarried in its inner chambers." It is only when we are balked in our attempt to trail his transcendental sinuosities of thought that we feel ourselves at fault, and then we are reminded of Longfellow's description of the Emersonian philosophy, which he likened to some of the roads in our great West, which at first open very fair and wide, and are shaded on both sides by the towering giants of the primeval forest, but which before long become narrower and narrower and at last dwindle to a squirrel path and run up a tree.</p>
 
