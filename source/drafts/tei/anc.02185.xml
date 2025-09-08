@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>-->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02185">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="sd">Sarah Danielson</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02185</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Dublin Weekly Nation</title>
+                  <imprint>
+                     <date when="1856-03-29">29 March 1856</date>
+                     <biblScope type="pages">491</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#sd" when="2025-09-08">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main-authorial">LEAVES OF GRASS. By Walt Whitman: Brooklyn, New York.</head> 
+         
+         <p>THE sooner we give up our old opinions concerning poets and poetry, the better. <hi rend="italic">Maud</hi> and <hi rend="italic">Hiawatha</hi> have, let the truth break gently on us, but a new American production, <hi rend="italic">Leaves of Grass</hi>, by Walt Whitman has brought us to eternal daylight and no mistake. Henceforward we will endeacour to banish from our memories the names of Milton, Shakespeare, Robert Burns, and Tom Moore. We will condemn to annihilation, picture, bust, and statue of our too long worshipped idols, and in their frames or on their pedestals we will place the image and likenes of Walt Whitman, as he appears in the frontispiece of his book:&#8212;
+         
+         <q>
+            <floatingText>
+               <body>
+                  <p>"A gentleman in his shirt-sleeves, with one hand in a pocket of his pantaloons, and his wide awake cocked with a dammee-sir air over his forehead."</p>
+               </body>
+            </floatingText>
+         </q>
+         </p>
+            
+         
+         <p>We append an extract or two from his incomprable poem:&#8212;
+         
+            <q>
+               <floatingText>
+                  <body>
+                     <lg type="linegroup">
+                        <l>"Do you guess I have some intricate purpose?</l>
+                        <l>Well I have * * * for the April rain has, and the<lb/> mica on the side of a rock has.</l>
+                        <l>Do you take it I would astonish?</l>
+                       <l>Does the daylight astonish? or the early redstart <choice><orig>twit-<lb/>tering</orig><reg>twittering</reg></choice> through the woods?</l>
+                        <l>Do I astonish more than they></l>
+                        <l>This hour I tell things in condifence,</l>
+                        <l>I might not tell everybody but I will tell you.</l>
+                        <l>Who goes there! hankering, gross, mystical, nude?</l>
+                        <l>What is a man anyhow? What am I? and what are<lb/> you?</l>
+                        <l>All I mark as my own you shall offest it with your own,</l>
+                        <l>Else it were time lost listening to me.</l>
+                        <l>I do not snivel that snivel the world over,</l>
+                        <l>That moths are vacuums and the ground but wallow<lb/> and filth,</l>
+                        <l>That life is a suck and a sell, and nothing remains at the<lb/>end but threadbare crape and tears."</l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </q>
+         </p>
+         
+         <p>On taking a survey of himself, Mr. Whitman grow so delighted that we begin to apprehend he stands in some danger of the fate of Narcissus:&#8212;
+         
+         <q>
+            <floatingText>
+               <body>
+                  <lg type="linegroup">
+                     <l>I dote on myself * * * there is that lot of me, and<lb/> all so luscious,</l>
+                     <l>Each moment and whatever thrills me with joy.</l>
+                     <l>I cannot tell how my ankles bend * * * nor whence<lb/> the cause of my faintest wish,</l>
+                     <l>Nor the cause of the friendship I emit * * * I pause<lb/> to consider if it really be.</l>
+                     <l>That I eat and drink is spectacle enough for the great<lb/> authors and schools,</l>
+                     <l>A morning-glory at my window satisfies me more than<lb/> the metaphysics of books.</l>
+                     <l>To behold the daybreak!</l>
+                     <l>The little light fades the immense and diaphanous<lb/> shadows,</l>
+                     <l>The air tastes good to my palate.</l>
+                     <l>Hefts of the moving world at innocent gambols, silently<lb/> rising, freshly exuding,</l>
+                     <l>Scooting obliquely high and low.</l>
+                     <l>Something I cannot see puts upward libidinous prongs,</l>
+                     <l>Seas of bright juice suffuse heaven.</l>
+                     <l>The earth by the sky staid with * * * the daily close<lb/> of their junction,</l>
+                     <l>The heaved challenge from the east that moment over<lb/> my head,</l>
+                     <l>The mocking taunt&#8212;See then whether you shall be<lb/>master!</l>
+                     <l>Dazzling and tremendous how quick the sunrise would<lb/> kill me,</l>
+                     <l>If I could not now and always send sunrise out of me.</l>
+                     <l>We also ascend dazzling and tremendous as the sun,</l>
+                     <cb/>
+                     <l>We found our own my soul in the calm and cool of the<lb/> daybreak.</l>
+                     <l>My voice goes after what my eyes cannot reach,</l>
+                     <l>With the twirl of my tongue I encompass worlds and<lb/> volumes of worlds.</l>
+                     <l>Speech is the twin of my vision * * * it is unequal<lb/> to measure itself.</l>
+                     <l>It provokes me forever,</l>
+                     <l>It says sarcastically, Walt, you understand enough * *<lb/> why don't you let it out then?</l>
+                     <l>Come now I will not be tantalized * * * you conceive<lb/> too much of articulation."</l>
+                    
+                  </lg>
+               </body>
+            </floatingText>
+         </q>
+         </p>
+        
+        <p>Yes, Walt, that last is not a bad hint, by any means&#8212;pray you do not let it pass from you.</p>
+           
+        <p>In another place we meet with these deep reflections:&#8212;
+        <q>
+           <floatingText>
+              <body>
+                 <lg type="linegroup">
+                    <l>"It is wonderful that I should be immortal! as every<lb/> one is immortal,</l>
+                    <l>I know it is wonderful * * * but my eyesight is<lb/> equally wonderful * * * and how I was conceived<lb/> in my mother's womb is equally wonderful,</l>
+                    <l>And how I was not palpable once but am now * * *<lb/> and was born on the last day of May 1819 * * *<lb/> and passed from a babe in the creeping trance of<lb/> three summers and three winters to articulate and<lb/> walk * * * are all equally wondering.</l>
+                    <l>And that I grew six feet high * * * and that I have<lb/> become a man thirty-six years old in 1855 * * *<lb/> and that I am here anyhow&#8212;are all equally <choice><orig>won-<lb/>derful</orig><reg>wonderful</reg></choice>;</l>
+                       <l>And that I can think such thoughts as these is just as<lb/> wonderful."</l>
+                 </lg>
+              </body>
+           </floatingText>
+        </q></p>
+         
+         <p>In the last line we entirely agree with the author. So great is our surprise that we are unable to follow him any further.</p>
+         
+            
+         
+         
+      </body>
+   </text>       
+</TEI>
