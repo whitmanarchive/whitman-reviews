@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>-->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02185">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="sd">Sarah Danielson</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02185</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Aberdeen Journal</title>
+                  <imprint>
+                     <date when="1856-05-28">May 28, 1856</date>
+                     <biblScope type="pages">9</biblScope>
+                     
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#sd" when="2025-09-12">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>[...]<ref target="n1" xml:id="r1" n="1"/></p>
+         
+         <p>"Biography gone Mad" is the title under which Maga published its review of the American biographies above mentioned: "Poetry gone Mad" is the only title which will fairly characterize a recent American volume of verse, which is exciting in the States a "furore" which throws that which "Uncle Tom's Cabin" gave rise to quite into the shade. Our English "spasmodic" poets are plain, prosy, commonplace people, and their "Life Dramas," so happily satirised by Mr. Percy Jones, are common sense itself, compares with Mr Walt Whitman and his "Leaves of Grass." The production which he so entitles supplies, to use the language of the "Opening Addresses" of new periodicals, a "long-felt desideratum"&#8212;that, namely, of a poem (supposing "Leaves of Grass" to <hi rend="italic">be</hi> a poem) by an American author, which shall <hi rend="italic">not</hi> be a mere echo of the songs of the old world. Certainly, "Leaves of Grass" is not such an echo, (a circumstance which <hi rend="italic">I</hi> think to be more to the "old world's" credit than to Mr Whitman's) but is altogether and American (and a <hi rend="italic">very</hi> American) production&#8212;American alike in object, in subject, in form, and in style of treatment. And how do you suppose, reader, that Mr Whitman, this founder of an indigenous school of American poetry, designates this work of his which constitutes the first production of the school? You will be remembering to have read of "Indian Eddas," "American Epics," and "New World Rhymes," but think not that Mr Whitman names <hi rend="italic">his</hi> work after any such fashion. He is too original and too American to do that, and, in fact, is <hi rend="italic">so</hi> original and <hi rend="italic">so</hi> American that he can proclaim himself the author of nothing less completely characterizes by originality and Americanism than, listen, O reader, a&#8212;"Barbaric Yawp!" And truly no man could have named his production more correctly, for a <hi rend="italic">most</hi> "barbaric yawp" it is indeed.</p>
+         <p>I am enabled to give a personal description of this new Homer. I learn from an article in the <hi rend="italic">Brooklyn Daily Times</hi>, that he "is of pure American breed, of reckless health, his body free from taint from top to toe, free forever from headache and dyspepsia, full blooded, six feet high, a good feeder, never once using medicine, drinking water only, a swimmer in the river or bay or by the sea-shore, of straight attitude and slow movement on foot, an indescribable style, evincing indifference and disdain, ample-limbed, weight a hundred and eighty-five pounds, age 36 years, never dressed in black, always dressed freely and clean, in strong clothes, neck open, shirt collar flat and broad, countenance of swarthy transparent red, beard short and well mottled with white, hair like hay after it has been mowed in the field, and lies tossed and streaked, face not refined and intellectual, but calm and wholesome, a face of an unaffected animal, a face which absorbs the sunshine and meets a savage or gentleman on equal terms." There's a man and there's a face, for you! The owner of the latter paints himself even less flatteringly. He describes himself as "Walt Whitman, an American, one of the roughs, a kosmos, Disorderly, fleshy, and sensual, eating, drinking, and breeding, No stander above men and women, or apart from them, no sentimentalist, no more modest than immodest." This description is an extract from his poem&#8212;I beg pardon, I mean from his "yawp," and so will give an idea of its no-metre. It is here, for space sake, given as prose, but on the origianl page it stands in three lines, the second beginning at the capital D, and the third at the capital N. Of the "yawp" from which it is extracted, with the reader's permission, I will quote another passage&#8212;marking, as before, the commencement of each line with a capital letter&#8212;and it shall be the most favourable passage I can find:&#8212;"I do not snivel," says the yawper, "that snivel the world over, That life is a seek and a sell, and nothing remains at the end but threadbare crape and tears. Whimpering and truckling with powders for invalids&#8212;conformity goes to the fourth removed, I cock my hat as I please in-doors or out. Shall I pray? shall I venerate and be ceremonious? I have pried through the strata and analysed to a hair, And counselled with doctors and calculated close and found no sweeter fat than sticks to my own bones." This, as I have said, is the best&#8212;or rather the least bad&#8212;passage I can find in the book, which I class among the most worthless and obscene I have ever read. Yet, the American newspaper press has exhausted in its favour the whole language of panegyric, and no less a personage than Mr Emerson declares of it that it constitutes "the most wonderful piece of wit and wisdom that America has contributed"&#8212;that it consists of "incomparable things said incomparably well"&#8212;that he is "very happy in reading it"&#8212;that it is "full of solidsense"&#8212;and that it plainly evidences that Mr Whitman is "at the beginning of a great career." Must not the poet have bitten the critic, before the latter could have written anything so like <hi rend="italic">criticism</hi> "gone mad?" I fancy so, and, for my part at least, am certain that the manner in which the sage of Concord and the principal American newspapers have spoken of "The Great American Poem, 'Leaves of Grass!'" will prevent me ever in future being astonished at anything American.</p>
+           
+         <p>[..]<ref target="n1" xml:id="r2" n="1"/></p>
+     </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">
+                  This article, "Gossip, Literary and Artistic," begins with discussion of William Makepeace Thackeray's in-progress novel and gossip about staff changes at the publication <hi rend="italic">Blackwood</hi>.
+               </note>
+               <note type="editorial" target="r2" xml:id="n1" n="1">
+                  The article concludes with a report of local publications and theater.
+               </note>
+            </p>
+         </div1>
+      </back>
+      
+   </text>       
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>-->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02185">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="sd">Sarah Danielson</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02185</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unknown</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Boston Intelligencer</title>
+                  <imprint>
+                     <date when="1856-05-03">May 3, 1856</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#sd" when="2025-09-12">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main-authorial">LEAVES OF GRASS. Brooklyn, New York. 1855.</head> 
+         <p>We were attracted by the very singular title of the work, to seek the work itself, and what we thought ridiculous in the title is eclipsed in the pages of this heterogeneous mass of bombast, egotism, vulgarity, and nonsense. The beastliness of the author is set forth in his own description of himself, and we can conceive no better reward than the lash for such a violation of decency as we have before us. Speaking of "this mass of stupid filth," the <hi rend="italic">Criterion</hi>says: "It is impossible to imagine how any man's fancy could have conceived it, unless he were possessed of the soul of a sentimental donkey that has died of disappointed love."</p>
+         <p>This book should find no place where humanity urges any claim to respect, and the author should be kicked from all decent society as below the level of the brute. There is neither wit nor method in his disjointed babbling. and it seems to us he must be some escaped lunatic, raving in pitiable delirium.</p>
+     </body>
+       </text>       
+</TEI>

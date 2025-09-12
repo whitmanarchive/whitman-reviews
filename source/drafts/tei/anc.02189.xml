@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>-->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02185">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="sd">Sarah Danielson</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02185</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>Erie</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Cleveland Leader</title>
+                  <imprint>
+                     <date when="1856-05-12">May 12, 1856</date>
+                     <biblScope type="pages">1</biblScope>
+                     
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#sd" when="2025-09-12">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>[...]<ref target="n1" xml:id="r1" n="1"/></p>
+         
+         <p>We have also our host of literary characters, varying from the elongated and most gentlemanly Shakespeare scholar to the hirsute, brawny, rough-and-tumble leaves of grass; and leaves of grass (Walt Whitman) <hi rend="italic">is</hi> a character. He believes in the animal-man, in the largest sense of the word, and stands up a noble illustration of that belief. He is about five feet nine, with a frame that would have made the fortune of a Roman gladiator; well developed, firm, knit together so compactly as to seem one solid bundle of muscle. He wears a hickory shirt with open collar, neck and bosom, and a rough sailor jacket; all his clothing being so loose as to appear in momentary danger of sloughing off and leaving him in a state of nature. To see him roll by with that devil-may-care sailor swing, you would as soon think of poetry in a sack of potatoes, as in such an intensified specimen of man, the animal; but his grizzly hair covers brains of no common mould, and his keen, though indolent, gray eye looks quite through the deeds of men, and nature too. One glance at him will justify his own portrait of himself, "Walt Whitman, one of the rough."</p>
+           
+         <p>[..]<ref target="n1" xml:id="r2" n="1"/></p>
+     </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">
+                  This article, "New York Correspondence," begins with discussion of "characters" brought out by Spring in New York.
+               </note>
+               <note type="editorial" target="r2" xml:id="n1" n="1">
+                  The article concludes with discussion of publishing house trends and the publication of the <hi rend="italics">Companion Atlas</hi>.
+               </note>
+            </p>
+         </div1>
+      </back>
+      
+   </text>       
+</TEI>

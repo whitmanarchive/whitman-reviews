@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>-->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02185">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="sd">Sarah Danielson</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02185</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unsigned</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">The Register News</title>
+                  <imprint>
+                     <date when="1856-08-14">August 14, 1856</date>
+                     <biblScope type="pages">155</biblScope>
+                     
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#sd" when="2025-09-12">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            [...]<ref target="n1" xml:id="r1" n="1"/> 
+            </p>
+         <p>
+            Walt Whitman, the new-fashioned American poet, is described by an American journal as a "tenderly affectionate, rowdyish, contemplative, sensual, moral, susceptible, and imperious person, who aspires to cast some of his own grit into literature." He calls himself "a Kosmos," and announces his intentions to "sound his barbaric yawp over the roofs of the world." Not knowing whether his education included the study of Greek we cannot say what particular idea he attaches to the word "Kosmos." Possibly he may intend the portrait of himself with which he graces his volume to represent the "Kosmos." A title is something necessary to explain a picture; in this case we call upon the picture to explain the title. The portrait represents (we speak on the authority of the English papers) "a gentelman in his shirt-sleeves, with one hand in the pocket of his pantaloons and his wide awake cocked with a dammee-air air over his forehead." Our "Kosmos" has published a book at New York, purporting to be poetry we suppose, and entitled "Leaves of Grass." The following verses extracted from that publication will give our readers some idea of the greenness of his "grass" and the "grittiness" of his muse:&#8212;
+         </p>
+         <p>
+            <q>
+            <floatingText>
+               <body>
+                  <lg type="linegroup">
+                     <l>"Earth! you seem to look for something at my hands,</l>
+                     <l>Say old topknot; what do you want?"</l>
+                     <l>"Who goes there! hankering, gross, mystical, nude?</l>
+                     <l>How is it I extract strength from the beef I eat?"</l>
+                     <l>"What is a man anyhow? What am I? and what<lb/> are you?</l>
+                     <l>All I mark as my own you shall offset it with your own,</l>
+                     <l>Else it were time lost listening to me."</l>
+                     <l>"I do not snivel that snivle the world over,</l>
+                     <l>That months are vacuums and the ground but wallow<lb/> and filth,</l>
+                     <l>That life is a suck and a swell, and nothing remains at<lb/> the end but threadbare crape and tears."</l>
+                     <l>But who am I?</l>
+                     <l>"Walt Whitman, and American, one of the roughs, a<lb/> kosmos,</l>
+                     <l>Disorderly, fleshy, and sensual, eating, drinking, and<lb/> breeding,</l>
+                     <l>No sentimentalist, no stander above men and women,<lb/> or apart from them&#8212;no more modest than <choice><orig>im-<lb/>modest</orig><reg>immodest</reg></choice>."</l>
+                     <l>Unscrew the locks from the doors!</l>
+                     <l>Unscrew the doors themselves from their jambs!"</l>
+                     <l>Whoever degrades another degrades me; and <choice><orig>what-<lb/>ever</orig><reg>whatever</reg></choice> is done or said returns at last to me.</l>
+                     <l>And whatever I do or say I also return."</l>
+                     <l>"Through me the affiliate surging and surging; through<lb/> me the current and index."</l>
+                     <l>"I dote on myself; there is that lot of me, and all so<lb/> luscious,</l>
+                     <l>Each moment and whatever happens thrills me with<lb/> joy."</l>
+                     <l>"It is wonderful that I should be immortal! and every<lb/> one is immortal,</l>
+                     <l>I know it is wonderful; but my eyesight is equally<lb/> wonderful, and how I was conceived is equally <choice><orig>won-<lb/>derful</orig><reg>wonderful</reg></choice>,</l>
+                     <l>And how I was not palpable once, but and now, and<lb/> was born on the last day of May, 1819, and passed<lb/> from a baby in the creeping trance of three <choice><orig>sum-<lb/>mers</orig><reg>summers</reg></choice> and three winters to articulate and walk, are<lb/>all equally wonderful."</l>
+                     <l>And that I grew six feet high, and that I have become<lb/> a man thirty-six years old in 1855, and that I am<lb/> here anyhow&#8212;are all equally wonderful."</l>
+                  </lg>
+               </body>
+            </floatingText>
+            </q>
+         </p>
+         <p>The Americans are said to be hailing this "six-feet-high rough" as a prodigy of genius. We hope better things of the countrymen of Emerson and Longfellow.</p>
+         <p>[..]<ref target="n1" xml:id="r2" n="1"/></p>
+              </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">
+                  The beginning of this article reports on "the wide-spread prevalence of the poetic tendency," highlighting a variety of poetic works.
+               </note>
+               <note type="editorial" target="r2" xml:id="n1" n="1">
+                  The article concludes with a postpoining of further literary notices, due to the large number of poetic works, and an extract from a report on surname statistics in England.
+               </note>
+            </p>
+         </div1>
+      </back>
+      
+   </text>       
+</TEI>
