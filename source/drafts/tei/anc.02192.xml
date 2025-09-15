@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>-->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02185">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="sd">Sarah Danielson</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02185</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>unknown</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">A New Stle of Literature</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Buchanan's Journal of Man</title>
+                  <imprint>
+                     <date when="1855">1855</date>
+                     <biblScope unit="volume">5</biblScope>
+                     <biblScope unit="pages">293-295</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#sd" when="2025-09-15">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main-authorial">A NEW STYLE OF LITERATURE</head>
+         <p>A book entitled "Leaves of Grass," and announced as a collection of Poems by Mr. Whitman, of Brooklyn, New York, published by Fowlers &amp; Wells, presents a novel style of composition, without the rhyme and rhyme of poetry.&#8212;occupying a position between the style of Ossian and the terrible-school of rough prose writers. The following extract will give some idea of this unique performance. The quotations is rather a striking illustration of the Phrenological faculty of Destructiveness.</p>
+        <q>
+         <floatingText>
+            <lg type="linegroup">
+              <l>Did you read in the sea-books of the oldfashioned frigate fight?</l> 
+              <l>Did you learn who won by the light of the moon and stars?</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Our foe was no skulk in his ship, I tell you,</l>
+               <l>He was the English pluck, and there is no tougher or truer, and never<lb/> was, and never wll be;</l>
+               <l>Along the lowered eve he came, horribly raking us.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>We closed with him&#8212;the yards entangled&#8212;the cannon touched,</l>
+               <l>My captain lashed fast with his own hands.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>We had received some eighteen pound shots under the water,</l>
+               <l>On our lower gun-deck two large pieces had burst at the first fire, killing<lb/> all around and blowing up overhead.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Ten o'clock at night, and the full moon shining and the leaks on the<lb/> gain, and five feet of water reported.</l>
+               <l>The master-at-arms loosing the prisoners confined in the after-hold to<lb/> give them a chane for themselves.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>The transit to and from the magazine was now stopped by the sentinels,</l>
+               <l>They saw so many strange faces they did not know whom to trust.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Out frigate was afire&#8212;the other asked if we demanded quarters? if our<lb/> colors were struck and the fighting done?</l>
+            </lg>
+            <lg type="linegroup">
+               <l>I laughed content when I heard the voice o my little captain:</l>
+               <l>We have not struck, he composedly cried; we have just begun our part<lb/> of the fighting.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Only three guns were in use.</l>
+               <l>One was directed, by the cpatain himself, against the enemy's mainmast.</l>
+               <l>Two, well-served with grape and canister, silenced his musketry and<lb/> cleared his decks.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>The tops along seconded the fire of this little battery, especially the<lb/> maintop.</l>
+               <l>They all held out bravely during the whole of the action.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Not a moment's cease;</l>
+               <l>The leaks gained fast on the pumps&#8212;the fire eat toward the <choice><orig>powder-<lb/>magazine</orig><reg>powder-magazine;</reg></choice></l>
+               <l>One of the pumps was shot away&#8212;it was generally thought we were<lb/> sinking.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Serene stood the little captain;</l>
+               <l>He was not hurried&#8212;his voice was neither high nor low;</l>
+               <l>His eyes gave more light to us than our battle lanterns.</l>
+               <pb/>
+               <l>Toward twenve at night, there, in the beans of the moon, they <choice><orig>surrend-<lb/>ered</orig><reg>surrendered</reg></choice> to us.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Stretched and still lay the midnight,</l>
+               <l>Two great hulls motionless on the breast of the darkness,</l>
+               <l>Our vessel riddled and slowly sinking&#8212;preparations to pass to the one<lb/> we had conquered,</l>
+               <l>The captain on the quarter-deck coldly giving his orders through a <choice><orig>coun-<lb/>tenance</orig><reg>countenance</reg></choice> white as a sheet.</l>
+               <l>Near by the corpse of the child that served in the cabin,</l>
+               <l>The dead face of an old salt, with long white hair and carefully curled<lb/> whiskers,</l>
+               <l>The flames, spite of all that cound be done, flickered aloft and below,</l>
+               <l>The husky voices of the two or three officers yet fit for duty,</l>
+               <l>Formless stacks of bodies and bodies by themselves&#8212;dabs of flesh upon<lb/> the masts and spars,</l>
+               <l>The cut of cordage and dangle of rigging&#8212;the slight shock of the sooth<lb/> of waves,</l>
+               <l>Black and impassive guns, the litter of powder parcels, and the strong<lb/> scent,</l>
+               <l>Delicate sniffs of the seabreeze&#8212;smells of sedgy grass and fields by the<lb/> shore&#8212;death-messages given in charge to survivors.</l>
+               <l>The hiss of the surgeon's knife and the gnawing teeth of his saw,</l>
+               <l>The wheese, the cluck, the swash of falling blood&#8212;the short wild scream,<lb/> the long dull tapering groan,</l>
+               <l>These so&#8212;these irretrievable.</l>
+            </lg>
+         </floatingText>
+        </q>
+            <p>Ralph Waldo Emerson, the Transcendental Philosopher, the lover of startling and mysterious phraseology, is quite enraptured with the "Leaves of Grass" and says:</p>
+         <q> 
+            <p rendition="#right">"Concord, Mass., July 21, 1851.</p>
+            <p>"Dear Sir: I am not blind to the worth of the wonderful gift of 'Leaves of Grass.' I find it the most extraordinary piece of wit and wisdom that America has yet conributed. I am very happy in reading it, as great power makes us happy. It makes the demand I am always making of what seemed the sterile and stingy nature, as if too much handiwork, or too much lymph in the tempermant, were making our western wits fat and mean.</p>
+            <p>"I give you joy of your free and brave thought. I have great joy in it. I find incomparable things said incomparably well, as they must be. I find the courage of treatment which so delights us, and which large perception only can inspire.</p>
+            <p>"I greet you at the beginning of a great career, which yet must have had a long foreground somewhere for such a start. I rubbed my eyes a little to see if this sunbeam were no illusion; but the solid sense of the book is a sober certainty. It has the best merits, namely, of fortifying and encouraging</p>
+            <p>"I did not know until I last night saw the book advertised in a newaper that I could trust the name as real and available for a Post-office. I wish to see my benefactor, and have felt much like striking my tasks and visiting New-York, to pay you my respects.</p>
+            <p>Walt. Whitman <hi rendition="#right">R. W. Emerson.</hi></p>
+         </q>
+         <p>There is a small class who admire the bizarre and mysterious in literature, to whom Emerson, and perhaps Whitman also, are very acceptable, but the greater number of readers will be inclined to regard them both as "children of the mist" and lay them aside as eccentrics.</p>
+         <p>Literary critics are very severe upon Mr. Whitman.</p>
+     </body>
+       </text>       
+</TEI>

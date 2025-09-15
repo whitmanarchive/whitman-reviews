@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>-->
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="anc.02185">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>unknown</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <editor>Matt Cohen</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="sd">Sarah Danielson</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>anc.02185</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="unknown">
+                     <choice><orig>Knick</orig>
+                        <reg>unknown</reg></choice>
+                  </author>
+                  <title level="m" type="main">[Review of <hi rend="italic">Leaves of Grass</hi> (1855)]</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Boston Daily Evening Transcript</title>
+                  <imprint>
+                     <date when="1855-07-27">27 July, 1855</date>
+                    
+                     
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         
+         <change who="#sd" when="2025-09-15">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main-authorial">LITERARY</head>
+         <p>[...]<ref target="n1" xml:id="r1" n="1"/></p>
+         <p>The greatest novelty in literature of recent birth here, is an extravagant demonstration of "Young America" in the shape of "Leaves of Grass," by Walter Whitman. It is advertised as poetry, but is little more than lines printed in sentences, instead of paragraphs; and with some remarkable flashes, may be pronounced destitute of both rhyme and reason. A page of it would make Emerson sick of his "transparent eyeball" forever after. It is Emerson run mad in the utmost looseness of the author, whose half-dressed portrait is prefixed; and he strips soul as well as body to the buff. [...]<p>[...]<ref target="n2" xml:id="r2" n="2"/></p>
+     </body>
+      <back>
+         <div1 type="notes">
+            <p>
+               <note type="editorial" target="r1" xml:id="n1" n="1">
+                  This article begins with recommendations for "our more intelligent readers" of publications from the <hi rend="italic">North American Review</hi> and the <hi rend="italic">Christian Examiner</hi>.
+               </note>
+               <note type="editorial" target="r2" xml:id="n2" n="2">
+                  The article concludes with brief mention of an anticipated reprinting of Leigh Hunt's <hi rend="italic">The Old Court Suburb</hi>
+               </note>
+            </p>
+         </div1>
+      </back>
+      
+   </text>       
+</TEI>
