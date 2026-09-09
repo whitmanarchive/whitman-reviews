@@ -6,7 +6,6 @@
          <titleStmt>
             <title level="m" type="main" corresp="lg1855">A Poet Showing the New York Muscle</title>
             <title level="m" type="sub">a machine readable transcription</title>
-            
           <author>
                 <choice>
                    <orig>unsigned</orig>
@@ -15,7 +14,6 @@
              </author>
             <editor>Kenneth M. Price</editor>
             <editor>Ed Folsom</editor>
-            <editor>Matt Cohen</editor>
             <respStmt>
                <resp>Transcription, encoding</resp>
                <persName xml:id="sd">Sarah Danielson</persName>
@@ -68,7 +66,6 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
-         
          <change who="#sd" when="2025-10-31">Transcribed and encoded</change>
       </revisionDesc>
    </teiHeader>
