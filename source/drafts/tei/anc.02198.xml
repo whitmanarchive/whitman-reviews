@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02197">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" corresp="lg1855">A Poet Showing the New York Muscle</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+          <author>
+                <choice>
+                   <orig>unsigned</orig>
+                   <reg>Walt Whitman</reg>
+                </choice>
+             </author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription, encoding</resp>
+               <persName xml:id="sd">Sarah Danielson</persName>
+               
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
+            </availability>
+            <idno>anc.02197</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <author key="Whitman, Walt">
+                     <choice><orig>unsigned</orig>
+                        <reg>Walt Whitman</reg></choice>
+                  </author>
+                  <title level="m" type="main">A Poet Showing the New York Muscle</title>
+               </analytic>
+               <monogr>
+                  <title level="j">New York Sunday Dispatch</title>
+                  <imprint>
+                     <date when="1855-12-15">26 August 1855</date>
+                     <biblScope unit="volume">10</biblScope>
+                     <biblScope unit="issue">40</biblScope>
+                     <biblScope unit="pages">4</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+          <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
+       </encodingDesc>
+      <revisionDesc>
+         <change who="#sd" when="2025-10-31">Transcribed and encoded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main">A Poet Showing the New York Muscle.&#8212;</head>
+         <p>The article on <hi rend="italic">"Walt Whitman and his Poems,"</hi> which we copy elsewhere from the Semptember number of the <hi rend="italic">United States Review</hi>, contains some suggestions to which the whole of the American press ought candidly and cordially to respond. As at present managed, the writing of poetry, not only by the popular poets, but by their numberless followers, is a shallow, dyspeptical, tinkling, sloppy, half-pretty, half-sickish sort of work; the same rhymes ten thousand times repeated&#8212;the same fancies and illustrations, most of them inconsistent with nature&#8212;the same old complaint of having the horrors bad, or being smitten with some charmer, of disgust with "hollow hearts," and with everything going wrong, the poet included. If Walt Whitman succeeds in his bold dash at all this effete stock of material, and substitutes the true model for a manly, friendly, wholesome, fortifying, muscular, American race of poets, worthy of the Thirty-One live United States, and the thirty-one millions of live men and women that inhabit them, he will do what shall make his name remembered in this land with a rememberance dear as nation ever gave to its most beloved writers. There is something in the very attempt of the poet, whether it succeeds or no, that deserves the warmest good will of the truly American literati.</p>      
+    </body>
+   </text>       
+</TEI>
