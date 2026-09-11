@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02197">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="anc.02198">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="m" type="main" corresp="lg1855">A Poet Showing the New York Muscle</title>
+            <title level="m" type="main" corresp="lg1881">Walt Whitman</title>
             <title level="m" type="sub">a machine readable transcription</title>
           <author>
                 <choice>
                    <orig>unsigned</orig>
-                   <reg>Walt Whitman</reg>
+                   <reg>unknown</reg>
                 </choice>
              </author>
             <editor>Kenneth M. Price</editor>
             <editor>Ed Folsom</editor>
             <respStmt>
                <resp>Transcription, encoding</resp>
-               <persName xml:id="sd">Sarah Danielson</persName>
+               <persName xml:id="jn">Jesse Nguyen</persName>
                
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
@@ -24,7 +24,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <date>2025</date>
+               <date>2026</date>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -39,24 +39,24 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding and annotations were created and/or prepared by the <title level="m">Walt Whitman Archive</title> and are licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <title level="m">Walt Whitman Archive</title>.</p>
             </availability>
-            <idno>anc.02197</idno>
+            <idno>anc.02198</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <author key="Whitman, Walt">
+                  <author key="unknown">
                      <choice><orig>unsigned</orig>
-                        <reg>Walt Whitman</reg></choice>
+                        <reg>unknown</reg></choice>
                   </author>
-                  <title level="m" type="main">A Poet Showing the New York Muscle</title>
+                  <title level="m" type="main">Walt Whitman</title>
                </analytic>
                <monogr>
-                  <title level="j">New York Sunday Dispatch</title>
+                  <title level="j">Rochester Herald</title>
                   <imprint>
-                     <date when="1855-12-15">26 August 1855</date>
-                     <biblScope unit="volume">10</biblScope>
-                     <biblScope unit="issue">40</biblScope>
-                     <biblScope unit="pages">4</biblScope>
+                     <date when="1882-09-09">9 September 1882</date>
+                     <biblScope unit="volume">7</biblScope>
+                     <biblScope unit="issue">971</biblScope>
+                     <biblScope unit="pages">6</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>
@@ -66,23 +66,24 @@
           <p>The electronic text for this file was prepared by <title level="m">Whitman Archive</title> staff, who transcribed the text from a representation of the original (e.g., digital scan or other electronic reproduction, microfilm copy).</p>
        </encodingDesc>
       <revisionDesc>
-         <change who="#sd" when="2025-10-31">Transcribed and encoded</change>
+         <change who="#jn" when="2026-09-11">Transcribed and encoded</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <head type="main">Walt Whitman.</head>
          <p>Leaves of Grass. Walt Whitman's poems complete. Philadelphia; Rees Welsh &amp; Co. 12 mo., cloth., 382 pp. Price, $2.</p>
-         <p>Anything like a review of Walt. Whitman's peoms, is impossible in a limited space. Notwithstanding the complimentary notices "the good gray poet" ahs received from one or two English magazines, and from a few American sources, he is not understood, or else his poems remain, as many have all along thought, a sort of bosh that is made to adhere by an assortment of gluey words. if the Massachusetts censor had kept his opinion to himself that he book was immoral, when it was in the press of James R. Osgood &amp; Co., it is probable that its sale would not have been sufficient to papy expenses. The opinion was not jusitifed, but in deference to it the Osgoods declined to issue the book, and by an arrangement the plates were transferred to the present publsihers. Public curiosity having been piqued by the controversy, there has been more demand fo rthe book, and it is not improbable that it will lyield a little money yet. For the many who know nothing of how Walt Whitman writes, extracts from this bulky volume, picked out not at random, and yet not with extraordinary labor to select the best, will be made. They represent Walt Whitman, and show the manner of the man's poetic thought. one of his poems commences:</p>
+         <p>Anything like a review of Walt. Whitman's poems, is impossible in a limited space. Notwithstanding the complimentary notices "the good gray poet" has received from one or two English magazines, and from a few American sources, he is not understood, or else his poems remain, as many have all along thought, a sort of bosh that is made to adhere by an assortment of gluey words. If the Massachusetts censor had kept his opinion to himself that the book was immoral, when it was in the press of James R. Osgood &amp; Co., it is probable that its sale would not have been sufficient to pay expenses. The opinion was not jusitifed, but in deference to it the Osgoods declined to issue the book, and by an arrangement the plates were transferred to the present publishers. Public curiosity having been piqued by the controversy, there has been more demand for the book, and it is not improbable that it will yield a little money yet. For the many who know nothing of how Walt Whitman writes, extracts from this bulky volume, picked out not at random, and yet not with extraordinary labor to select the best, will be made. They represent Walt Whitman, and show the manner of the man's poetic thought. One of his poems commences:</p>
          <p>
             <q>
                <floatingText>
                   <body>
-                     <lg>
+                     <lg type="linegroup">
                         <l>Give me the splendid silent sun with all his beams full dazzling,</l>
-                        <l>Give me the juicy autuminal fruit ripe and red from the orchard,</l>
+                        <l>Give me the juicy <choice><sic>autuminal</sic><corr>autumnal</corr></choice> fruit ripe and red from the orchard,</l>
+                        <l>Give me a field where the unmow'd grass grows</l>
                         <l>Give me an arbor, give me the trellis'd grape,</l>
-                        <l>Give me fresh corn and wheat, give me serene-moving animals teaching content,</l>
+                        <l>Give me fresh corn and wheat, give me serene moving animals teaching content,</l>
                         <l>Give me nights perfectly quiet as on high plateaus west of the Mississippi, and I looked up at the stars,</l>
                         <l>Give me odorous at sunrise a garden of beautiful flowers where I can walk undistrub'd,</l>
                         <l>Give me for marriage a sweet-breath'd woman of whom I should never tire,</l>
@@ -99,11 +100,11 @@
          <q>
             <floatingText>
                <body>
-                  <lg>
+                  <lg type="linegroup">
                      <l>Weave in, weave in, my hardy life,</l>
                      <l>Weave yet a soldier strong and tall for great campaigns to come,</l>
-                     <l>Weave in red blood, weave sinews in like ropes, the senses, sign weave in,</l>
-                     <l>Weave listing sure, weave day and night the weft, the warp, incessant weave, tire not</l>
+                     <l>Weave in red blood, weave sinews in like ropes, the senses, sight weave in,</l>
+                     <l>Weave lasting sure, weave day and night the weft, the warp, incessant weave, tire not</l>
                      <l>(We know not what the use O life, nor know the aim, the end, nor really aught we know,</l>
                      <l>But know the work, the need goes on and shall go on, the death-envelop'd march of peace as well as war goes on,)</l>
                      <l>For great campaigns of peace the same the wiry threads to weave,</l>
@@ -116,11 +117,20 @@
          <p>Here are two stanzas from a "Song at Sunset":
             <q>
          <floatingText>
-       <body>
-          <lg>
-             <l></l>
-          </lg>
-       </body>
+            <body>
+                <lg type="linegroup">
+                   <l>Splendor offended day floating and filling me,</l>
+                   <l>Hour prophetic, hour resuming the past,</l>
+                   <l>Inflating my <choice><sic>throot</sic><corr>throat</corr></choice>, you divine average,</l>
+                   <l>You earth and life till the last ray gleams I sing.</l>
+                </lg>
+               <lg type="linegroup">
+                   <l>Open mouth of my soul uttering gladness,</l>
+                   <l>Eyes of my soul seeing perfection,</l>
+                   <l>Natural life of me <choice><orig>faith fully</orig><reg>faithfully</reg></choice> praising things,</l>
+                   <l>Corroborating forever the triumph of things.</l>
+                </lg>
+            </body>
          </floatingText>
             </q>
          </p>
